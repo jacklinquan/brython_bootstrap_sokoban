@@ -150,7 +150,7 @@ class WebApp:
         self.game_moving_player = False
         self.home_key_enabled = True
         self.tile_size = 24
-        self.default_canvas_width = self.tile_size * 16
+        self.default_canvas_width = self.tile_size * 8
         self.default_canvas_height = self.tile_size * 8
 
         # Dropdown for collection selection
@@ -334,6 +334,13 @@ class WebApp:
         ctx.beginPath()
         ctx.arc(x, y, self.tile_size // 8 * 3, 0, 2 * math.pi)
         ctx.fill()
+
+        # Text
+        ctx.font = "16px Arial"
+        ctx.fillStyle = "Black"
+        ctx.textAlign = "start"
+        ctx.textBaseline = "top"
+        ctx.fillText(f"m:{self.game.nmove} p:{self.game.npush}", 2, 2)
 
     def init_game(self, level_text):
         if not level_text:

@@ -17,7 +17,7 @@ jobs:
         run: |
           if test -f "website/brequirements.txt"; then
             pip install "brip>=0.2.1,<1"
-            brip install -r website/brequirements.txt -t website/assets/js
+            brip install -r website/brequirements.txt -t website
           fi
 
       - name: Publish to GitHub Pages
