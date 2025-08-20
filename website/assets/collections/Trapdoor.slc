@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Trapdooooooooors</Title>
+  <Description>
+Note that there are as many o's in the title as there are trapdoors in
+the level. Like most levels with &quot;fixed topology&quot; this too is above
+all a matter of logical analysis. So if you are quick it will take you
+about 10 minutes to solve. 10 minutes of breathless run, not of
+thinking, though ;-)
+  </Description>
+  <Email>spurredhound-sokoban@yahoo.de</Email>
+  <LevelCollection Copyright="Wilfrid Geiser" MaxWidth="17" MaxHeight="14">
+    <Level Id="Trapdooooooooors" Width="17" Height="14">
+      <L>#################</L>
+      <L>#   #  #    #   #</L>
+      <L>#   $  # $$ $   #</L>
+      <L>##$##  #    ##$##</L>
+      <L>#  ##$## ##$## #</L>
+      <L>#  $   ..$   # #</L>
+      <L>#  ####..#  @# #</L>
+      <L>###  ##$###### #</L>
+      <L>  #  $   #.... #</L>
+      <L>  #  #   #...# ##</L>
+      <L>  ##$#####.$$$  #</L>
+      <L>  #   $    .....#</L>
+      <L>  #   ###########</L>
+      <L>  #####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Simplistic</Title>
+  <Description>
+Simplistic collection by yotyot
+  </Description>
+  <LevelCollection Copyright="yotyot" MaxWidth="10" MaxHeight="10">
+    <Level Id="Reflection" Width="9" Height="10">
+      <L>  #####</L>
+      <L>###   ###</L>
+      <L># $ #   #</L>
+      <L># ..$.. #</L>
+      <L># $ #   #</L>
+      <L>###$#####</L>
+      <L>  #   #</L>
+      <L>  # @ #</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Rotational" Width="10" Height="10">
+      <L> #######</L>
+      <L> #  #  ###</L>
+      <L>##$.#  $ #</L>
+      <L># $.   . #</L>
+      <L>#   ######</L>
+      <L>### ##  @#</L>
+      <L># ..  .$ #</L>
+      <L># $$ #.$##</L>
+      <L>###  #  #</L>
+      <L>  #######</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

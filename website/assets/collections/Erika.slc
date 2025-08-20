@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Erika</Title>
+  <Description>
+I know, to solve this is very easy. But the target was for me, to
+create this to make a little memory of my beloved girlfriend, who died
+in the saddest day of my life, 2013 may 14th. Dear ERIKA ! I WILL LOVE
+YOU ALWAYS !!!
+  </Description>
+  <Email>hcim@freemail.hu</Email>
+  <LevelCollection Copyright="Schindler Zoltán" MaxWidth="64" MaxHeight="40">
+    <Level Id="Erika" Width="64" Height="40">
+      <L>################################################################</L>
+      <L>#                                                              #</L>
+      <L># $ $        $$    $       $ $$$$$$   $     $    $$    $     $ #</L>
+      <L># $ $       $  $   $       $ $        $     $   $  $   $     $ #</L>
+      <L># $ $      $    $  $       $ $         $   $   $    $  $     $ #</L>
+      <L># $ $     $      $  $     $  $         $   $  $      $ $     $ #</L>
+      <L># $ $     $      $  $     $  $          $ $   $      $ $     $ #</L>
+      <L># $ $     $      $  $     $  $$$$       $$$   $      $ $     $ #</L>
+      <L># $ $     $      $   $   $   $           $    $      $ $     $ #</L>
+      <L># $ $     $      $   $   $   $           $    $      $ $     $ #</L>
+      <L># $ $      $    $     $ $    $           $     $    $   $   $  #</L>
+      <L># $ $       $  $      $ $    $           $      $  $    $   $  #</L>
+      <L># $ $$$$$$   $$        $     $$$$$$      $       $$      $$$   #</L>
+      <L>#                                                              #</L>
+      <L>#                                                              #</L>
+      <L>#                                                              #</L>
+      <L># ..    ......    .    ....    ..... ....  . .    .    .    .  #</L>
+      <L># . .   .        . .   .   .   .     .   . . .   .    . .   .  #</L>
+      <L># .  .  .       .   .  .   .   .     .   . . .  .    .   .  .  #</L>
+      <L># .   . .      .     . .   .   .     .   . . . .    .     . .  #</L>
+      <L># .   . ....   .     . ....    ...   ....  . ..     .     . .  #</L>
+      <L># .   . .      ....... . .     .     . .   . . .    ....... .  #</L>
+      <L># .  .  .      .     . .  .    .     .  .  . .  .   .     .    #</L>
+      <L># . .   .      .     . .  .    .     .  .  . .   .  .     .    #</L>
+      <L># ..    ...... .     . .   .   ..... .   . . .    . .     . .  #</L>
+      <L>#                                                              #</L>
+      <L>#                                                              #</L>
+      <L>#                                                              #</L>
+      <L>#           $     $       .     .       $     $                #</L>
+      <L>#          $ $   $ $     . .   . .     $ $   $ $               #</L>
+      <L>#         $   $ $   $   .   . .   .   $   $ $   $              #</L>
+      <L>#         $    $    $   .    .    .   $    $    $              #</L>
+      <L>#         $         $   .         .   $         $              #</L>
+      <L>#          $       $     .   @   .     $       $               #</L>
+      <L>#           $     $       .     .       $     $                #</L>
+      <L>#            $   $         .   .         $   $                 #</L>
+      <L>#             $ $           . .           $ $                  #</L>
+      <L>#              $             .             $                   #</L>
+      <L>#                                                              #</L>
+      <L>################################################################</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

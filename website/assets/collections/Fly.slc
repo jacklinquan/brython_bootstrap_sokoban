@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Fly</Title>
+  <Description>
+Simple Microban-style levels.
+  </Description>
+  <Email>bsimpson_910@hotmail.com</Email>
+  <LevelCollection Copyright="Tim LeFevre" MaxWidth="15" MaxHeight="11">
+    <Level Id="The Fly_1" Width="11" Height="11">
+      <L>   ####</L>
+      <L>   #  #</L>
+      <L>  ##  ####</L>
+      <L>###.$.$. #</L>
+      <L>#  $.$.$ ##</L>
+      <L>#  .$@$.  #</L>
+      <L>## $.$.$  #</L>
+      <L> # .$.$.###</L>
+      <L> ####  ##</L>
+      <L>    #  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="The Fly_2" Width="13" Height="11">
+      <L>    ####</L>
+      <L>    #  #</L>
+      <L>  ###  ####</L>
+      <L>### .$.$. #</L>
+      <L>#   $.$.$ ###</L>
+      <L>#   .$#$.   #</L>
+      <L>### $.$.$   #</L>
+      <L>  # .$.$. ###</L>
+      <L>  ####  ###</L>
+      <L>     # @#</L>
+      <L>     ####</L>
+    </Level>
+    <Level Id="The Fly_3" Width="15" Height="11">
+      <L>     ####</L>
+      <L>    ##  ##</L>
+      <L>    #    ###</L>
+      <L>#####$.$.$ ###</L>
+      <L>#   $.#.#.$  ##</L>
+      <L>#    $.@.$    #</L>
+      <L>##  $.#.#.$   #</L>
+      <L> ### $.$.$#####</L>
+      <L>   ###    #</L>
+      <L>     ##  ##</L>
+      <L>      ####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

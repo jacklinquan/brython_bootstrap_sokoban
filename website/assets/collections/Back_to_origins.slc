@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Back to origins</Title>
+  <Description>
+Classic-type levels.That means that goals are not randomly placed all
+over the screen, unlike most of the other creators do.Everyone who
+played classic 50 levels know what I mean by that.It contains only 3
+levels because I want to know what do you think about them and should
+I create more.Please tell me what do you think.Thanks
+  </Description>
+  <Email>vtockic@hotmail.com</Email>
+  <LevelCollection Copyright="Tolle" MaxWidth="39" MaxHeight="18">
+    <Level Id="1" Width="20" Height="13">
+      <L>############</L>
+      <L>#          ##   ####</L>
+      <L># ######## ######  #</L>
+      <L># ##     #         #</L>
+      <L># ## ###   ######$ #</L>
+      <L># ## # ## $   $   ##</L>
+      <L># ## # ##  ##### ##</L>
+      <L># ## ####   $ $  #</L>
+      <L># ## ### $ ## @ ##</L>
+      <L># # $ ##  #######</L>
+      <L># $   ...**.#</L>
+      <L>########....#</L>
+      <L>       ######</L>
+    </Level>
+    <Level Id="2" Width="32" Height="18">
+      <L> ####             ####</L>
+      <L> #  ###############  ###########</L>
+      <L> # $             # ..........  #</L>
+      <L> # ### #######   # .#########  #</L>
+      <L> # ### ############.####### $ ##</L>
+      <L> # ##    # #    ###.#  ###  # #</L>
+      <L>## ## ## ###    ###.# $ $ $ # #</L>
+      <L>#  ##         # ###.#   $ $ # ##</L>
+      <L>#        ###    ###.#    $     #</L>
+      <L>## ####  ### ######.## #####   #</L>
+      <L> # $ ######  $   ##.##$#  ######</L>
+      <L> # $  #   #  $   $   #@#</L>
+      <L> # $$ #   # ###$## $ ###</L>
+      <L> #    # ### ### ###  #</L>
+      <L> #    # #       # ####</L>
+      <L> #####  # ##### #</L>
+      <L>        #       #</L>
+      <L>        #########</L>
+    </Level>
+    <Level Id="3" Width="39" Height="18">
+      <L>    ####            ######</L>
+      <L>    #  #    #########    #####</L>
+      <L>    #  #    #       #    #...#####</L>
+      <L>    #  # #### ##### # $$##...##  ######</L>
+      <L>    # $# #  #$  $ # # $ ##   ##....   #</L>
+      <L>#####  ###   $  $   # $ ##   ##....#  #</L>
+      <L># $       $ ####### #    ## ## ....# ##</L>
+      <L>#   # $###  ###     $$ #$##$## ....# #</L>
+      <L>#####  # ######  $# $  # #   ##### # #</L>
+      <L>    #  #   ####    $$  $     $       #</L>
+      <L>    #  #   #  ##$## $ $ $#   ######  #</L>
+      <L>    #$ #   #  $    $$ $  ##$####...###</L>
+      <L>    #  #   #  #   #     ### ####...#</L>
+      <L>    #  #   ##$########$#### ####...#</L>
+      <L>    #  #    #            #  ####...#</L>
+      <L>    ####    ##### ########         #</L>
+      <L>                #@#      #######   #</L>
+      <L>                ###            #####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

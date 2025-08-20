@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Sokoking 01</Title>
+  <Description>
+Sokoking 01 by PK2497
+  </Description>
+  <LevelCollection Copyright="PK2497" MaxWidth="15" MaxHeight="15">
+    <Level Id="Sokoking 001" Width="13" Height="11">
+      <L>      ####</L>
+      <L>     ##..##</L>
+      <L>     #..*.#</L>
+      <L>     #....###</L>
+      <L>###### $  $ #</L>
+      <L>#   $   $ # #</L>
+      <L># $  $$ $   #</L>
+      <L># ####   ####</L>
+      <L># ## # #$#</L>
+      <L>#@#  #   #</L>
+      <L>###  #####</L>
+    </Level>
+    <Level Id="Sokoking 002" Width="8" Height="7">
+      <L>########</L>
+      <L>#      #</L>
+      <L># $#$#$#</L>
+      <L># $  ..#</L>
+      <L># $$*.+#</L>
+      <L>#   ..##</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Sokoking 003" Width="10" Height="10">
+      <L>##########</L>
+      <L>#      ..#</L>
+      <L>#  $ $#..#</L>
+      <L># $$$  ..#</L>
+      <L># $@$ $..#</L>
+      <L># $ $ $..#</L>
+      <L># $$$  ..#</L>
+      <L>#  $ $#..#</L>
+      <L>#      ..#</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Sokoking 005" Width="10" Height="10">
+      <L>##########</L>
+      <L>##       #</L>
+      <L>#  $$$$$ #</L>
+      <L># $#...$ #</L>
+      <L>#  #.$.$ #</L>
+      <L>####.$$$ #</L>
+      <L>#....@   #</L>
+      <L>####.#####</L>
+      <L>#  #.#   #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Sokoking 006" Width="10" Height="15">
+      <L>##########</L>
+      <L># *.....##</L>
+      <L># #....###</L>
+      <L># #.*..  #</L>
+      <L># #$$$$# #</L>
+      <L># #    # #</L>
+      <L># # $### #</L>
+      <L># #    $ #</L>
+      <L># # $#$# #</L>
+      <L># #  # $ #</L>
+      <L># # $$ # #</L>
+      <L># #    # #</L>
+      <L># # #$## #</L>
+      <L>#@#      #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Sokoking 007" Width="15" Height="12">
+      <L>###############</L>
+      <L>#  #     #  #.#</L>
+      <L># $#$#$# # $#.#</L>
+      <L>#  $ $      #.#</L>
+      <L># $# # # #.**.#</L>
+      <L>#  # $ $ $....#</L>
+      <L>#  # # # # ##.#</L>
+      <L>#  # $ # # ##.#</L>
+      <L>#    $     ##.#</L>
+      <L># #$#$#######.#</L>
+      <L>#       @####.#</L>
+      <L>###############</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

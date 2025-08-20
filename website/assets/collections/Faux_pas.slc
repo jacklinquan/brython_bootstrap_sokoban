@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Faux pas</Title>
+  <Description>
+Mon premier level. Not so easy.
+  </Description>
+  <Email>pat@perrodon.com</Email>
+  <LevelCollection Copyright="Pat Perrodon" MaxWidth="19" MaxHeight="18">
+    <Level Id="1" Width="19" Height="18">
+      <L>  ######</L>
+      <L>  #    #########</L>
+      <L>### $# #       #</L>
+      <L># $ $  # $$ $$ #</L>
+      <L># ##$ $#  $$   #</L>
+      <L># ##   ##  #####</L>
+      <L># ##$$ ### ###</L>
+      <L># ##   ### ####</L>
+      <L># ##$$ ###....#####</L>
+      <L># ##    ##.#......#</L>
+      <L># ##$$$   ....#####</L>
+      <L># ##   $# ....#</L>
+      <L>#   $     ..#.#</L>
+      <L>####   ########</L>
+      <L>   ## $#</L>
+      <L>    #$ #</L>
+      <L>    #@##</L>
+      <L>    ###</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

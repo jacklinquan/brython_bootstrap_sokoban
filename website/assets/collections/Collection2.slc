@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Vladimir Tockic Collection 2 Demo</Title>
+  <Description>
+Just a glimpse of what is coming soon. If you like this classic-type
+of levels, make sure to check my previous collection.
+  </Description>
+  <Email>vtockic@hotmail.com</Email>
+  <LevelCollection Copyright="Vladimir Tockic" MaxWidth="26" MaxHeight="18">
+    <Level Id="1" Width="26" Height="18">
+      <L>                ######</L>
+      <L>                #    #</L>
+      <L>             ####$## #</L>
+      <L>   ###########     # #####</L>
+      <L>  ##          $ $    #   #</L>
+      <L>  #  # ########$##$ $ $  #</L>
+      <L>  #    #...###  ##   ##$##</L>
+      <L>  # $# #..  ## $####### ##</L>
+      <L>  ##   #....    #   ###  #</L>
+      <L>   #$$#...  #  ##        #</L>
+      <L>   #  #....##  @# $####  #</L>
+      <L>   ## ########$### ## ####</L>
+      <L>##### ######## ###  #</L>
+      <L>#   $      $ #      #</L>
+      <L>#   # ######   ###  #</L>
+      <L>### # #    ##### ####</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

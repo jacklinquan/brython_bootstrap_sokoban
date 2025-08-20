@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>The Solver's unsolvable</Title>
+  <Description>
+All Levels are unsolvable with the most important Sokoban-Solvers
+  </Description>
+  <Email>muh_kuh17@web.de</Email>
+  <LevelCollection Copyright="Matthias 'muh' Pauligk" MaxWidth="19" MaxHeight="16">
+    <Level Id="1" Width="19" Height="16">
+      <L>###################</L>
+      <L>#@   #.  #.########</L>
+      <L># ## $ # #.       #</L>
+      <L># ## $ # # # $ #$ #</L>
+      <L>#    #.  #.#  $#  #</L>
+      <L># ######$# # $ #$ #</L>
+      <L>#        #.# $ #  #</L>
+      <L>## # ### # # $ #$ #</L>
+      <L>##$# #.$. .#  ##  #</L>
+      <L>#  $ # ### # $ $$ #</L>
+      <L>#  $ #.    #      #</L>
+      <L># #$##$### ####$###</L>
+      <L>#  $   #.. ..  ...#</L>
+      <L>#  $ # # #.#    ..#</L>
+      <L>#      #       ...#</L>
+      <L>###################</L>
+    </Level>
+    <Level Id="2" Width="19" Height="16">
+      <L>###################</L>
+      <L>#       #         #</L>
+      <L># # @ # #   #  $  #</L>
+      <L># ####  # #### $# #</L>
+      <L>#   # # ##   $  # #</L>
+      <L>#       #..*.$  # #</L>
+      <L># ## ###..*.##$ # #</L>
+      <L>#     #..*.##   # #</L>
+      <L># # # #.*..#  $   #</L>
+      <L># # #  #.*..## $$ #</L>
+      <L># #  $  #.*..##   #</L>
+      <L># ##  $  #...# $$ #</L>
+      <L>#      $  #  #  $ #</L>
+      <L># #####$$$ $$# $$ #</L>
+      <L>#            #    #</L>
+      <L>###################</L>
+    </Level>
+    <Level Id="3" Width="19" Height="16">
+      <L>###################</L>
+      <L>#                 #</L>
+      <L># # # # ######### #</L>
+      <L># # #    . . . . .#</L>
+      <L>#   # # # # # # # #</L>
+      <L># #      . .#. . .#</L>
+      <L># # # # # # # # # #</L>
+      <L>#        . . .#.@.#</L>
+      <L>###############$###</L>
+      <L>#     #     #  .  #</L>
+      <L># $$$ #  $   $  # #</L>
+      <L>#  #  # $ $$#  $  #</L>
+      <L>#  #  $$    #$ #  #</L>
+      <L># $#  # $## # $## #</L>
+      <L>#     ##    #     #</L>
+      <L>###################</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

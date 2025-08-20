@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>23x11</Title>
+  <Description>
+Three puzzles of 23x11
+  </Description>
+  <Email>cmontiers@gmail.com</Email>
+  <LevelCollection Copyright="Carlos Montiers" MaxWidth="23" MaxHeight="11">
+    <Level Id="Old Rescue Rover" Width="23" Height="11">
+      <L>#######################</L>
+      <L>#                     #</L>
+      <L># ##################$##</L>
+      <L># #...#            #  #</L>
+      <L># #...# $$$$$$$$ # #  #</L>
+      <L># #..$  $      $#. $  #</L>
+      <L># #   #   $$$$$$.# #  #</L>
+      <L># #...# # .....#   .###</L>
+      <L># #################$  #</L>
+      <L>#+                    #</L>
+      <L>#######################</L>
+    </Level>
+    <Level Id="MBaby" Width="23" Height="11">
+      <L>#######################</L>
+      <L>#     #  #    #    #  #</L>
+      <L># *$$   $$$#.$$$# $$$ #</L>
+      <L># *.* #    #... #.  . #</L>
+      <L># * $.# ...#. #.#. #. #</L>
+      <L>##* $.#.$$* .$$* .$$*##</L>
+      <L># *.+ # ...#... # ... #</L>
+      <L># $ $ # $$$# $$$#  #. #</L>
+      <L># $$$ #  # #  # # **$ #</L>
+      <L>#     #    #    #  #  #</L>
+      <L>#######################</L>
+    </Level>
+    <Level Id="MSalsa" Width="23" Height="11">
+      <L>#######################</L>
+      <L>#      #     #  #     #</L>
+      <L># ##$ $ $ $.@ $   ### #</L>
+      <L># #.. #..##.###..##.. #</L>
+      <L># #* $.$.$ * $ * $.$. #</L>
+      <L># $.$ * * $.$ $.$ * * #</L>
+      <L># #* $.$.$ * $ * $.$. #</L>
+      <L># #.$ * * $.$ $.$ * * #</L>
+      <L># .* $.*.*#*.$.*#$.*.*#</L>
+      <L>#                     #</L>
+      <L>#######################</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

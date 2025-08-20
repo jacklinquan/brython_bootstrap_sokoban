@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Petitesse</Title>
+  <Description>
+18 handmade miniature levels. Note: &quot;Little Red Rooster&quot; is a
+duplicate of an unpublished level by Dries de Clercq
+  </Description>
+  <Email>sokoniwa@yahoo.com</Email>
+  <LevelCollection Copyright="niwa" MaxWidth="7" MaxHeight="8">
+    <Level Id="Totem #1" Width="5" Height="6">
+      <L>#####</L>
+      <L>#   #</L>
+      <L>#.$.#</L>
+      <L># $ #</L>
+      <L>#+$ #</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Totem #2" Width="5" Height="6">
+      <L>#####</L>
+      <L>#.  #</L>
+      <L># $ #</L>
+      <L># * #</L>
+      <L># $+#</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="6x6 #1" Width="6" Height="6">
+      <L>######</L>
+      <L>#.   #</L>
+      <L>#@$$$#</L>
+      <L>#$. .#</L>
+      <L># .$.#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="6x6 #2" Width="6" Height="6">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#.# .#</L>
+      <L># $$ #</L>
+      <L>#.@$ #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="6x6 #3" Width="6" Height="6">
+      <L>######</L>
+      <L>#  . #</L>
+      <L>#+$* #</L>
+      <L>#$$  #</L>
+      <L>#  . #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="7x6 #1" Width="7" Height="6">
+      <L>######</L>
+      <L>#   .##</L>
+      <L>#+* $.#</L>
+      <L>#$$ # #</L>
+      <L>#     #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="7x6 #2" Width="7" Height="6">
+      <L> ######</L>
+      <L>##  $+#</L>
+      <L>#  *$$#</L>
+      <L># #  .#</L>
+      <L>#  .  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="7x6 #3" Width="7" Height="6">
+      <L>#######</L>
+      <L># .   #</L>
+      <L>#  #$@#</L>
+      <L># * $*#</L>
+      <L>#  .  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="7x6 #4" Width="7" Height="6">
+      <L>#######</L>
+      <L>#  *@ #</L>
+      <L>#.  # #</L>
+      <L>#$$*  #</L>
+      <L># .   #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="7x7 #1" Width="7" Height="7">
+      <L> #####</L>
+      <L> #   ##</L>
+      <L>## #$ #</L>
+      <L>#  .$.#</L>
+      <L>#   $@#</L>
+      <L>###. ##</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="7x7 #2" Width="7" Height="7">
+      <L>  #####</L>
+      <L>###.  #</L>
+      <L>#.$.  #</L>
+      <L># @# ##</L>
+      <L># $$ #</L>
+      <L>##   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="7x7 #3" Width="7" Height="7">
+      <L> ######</L>
+      <L>##   @#</L>
+      <L>#   $ #</L>
+      <L>#.##$##</L>
+      <L>#.  $ #</L>
+      <L>#.    #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="7x7 #4" Width="7" Height="7">
+      <L>#####</L>
+      <L>#   ###</L>
+      <L>#@* $ #</L>
+      <L>##$ #.#</L>
+      <L># $  .#</L>
+      <L>#    .#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="7x8 #1" Width="7" Height="8">
+      <L>#####</L>
+      <L>#   ###</L>
+      <L># #@$ #</L>
+      <L>#. *# #</L>
+      <L># $.  #</L>
+      <L>##  ###</L>
+      <L> #  #</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="7x8 #2" Width="7" Height="8">
+      <L>#######</L>
+      <L>#     #</L>
+      <L>#*$#$ #</L>
+      <L>#@$   #</L>
+      <L># # $##</L>
+      <L>#.* $ #</L>
+      <L>#... .#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Little Red Rooster" Width="6" Height="6" Copyright="Dries de Clercq">
+      <L>######</L>
+      <L>#. $@#</L>
+      <L>#$ * #</L>
+      <L>#.$  #</L>
+      <L>#  . #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Slightly Bigger Red Rooster" Width="6" Height="7">
+      <L>######</L>
+      <L># *  #</L>
+      <L>#  * #</L>
+      <L>#* $ #</L>
+      <L>#@$. #</L>
+      <L># . ##</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Big Red Rooster" Width="6" Height="8">
+      <L>######</L>
+      <L># *  #</L>
+      <L>#  * #</L>
+      <L>#$ * #</L>
+      <L>#@*  #</L>
+      <L># * ##</L>
+      <L>#.  #</L>
+      <L>#####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

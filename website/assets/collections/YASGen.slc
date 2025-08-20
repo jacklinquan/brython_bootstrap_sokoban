@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>YASGen</Title>
+  <Description>
+YASGen by Brian Damgaard
+  </Description>
+  <Email>BrianDamgaard@jubii.dk</Email>
+  <Url>http://sourceforge.net/projects/sokobanyasc/</Url>
+  <LevelCollection Copyright="Brian Damgaard" MaxWidth="10" MaxHeight="9">
+    <Level Id="YASGen 1" Width="9" Height="7">
+      <L>#########</L>
+      <L>#  # ...#</L>
+      <L>#  $$#..#</L>
+      <L>#  $  *.#</L>
+      <L>##   $$$#</L>
+      <L> #    #@#</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="YASGen 2" Width="9" Height="8">
+      <L> ########</L>
+      <L>##@$ .. #</L>
+      <L># $#$ *.#</L>
+      <L>#  $  *.#</L>
+      <L># $  #.$#</L>
+      <L>##  # . #</L>
+      <L> #      #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="YASGen 3" Width="9" Height="8">
+      <L>#########</L>
+      <L>#   . $ #</L>
+      <L># $ ***@#</L>
+      <L>##   .$ #</L>
+      <L>#####. ##</L>
+      <L>#    *  #</L>
+      <L>#  $ .  #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="YASGen 4" Width="9" Height="8">
+      <L> ########</L>
+      <L>##      #</L>
+      <L>#@$ $*  #</L>
+      <L>##$$ * ##</L>
+      <L># $...###</L>
+      <L># # *$  #</L>
+      <L>#  ...  #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="YASGen 5" Width="9" Height="8">
+      <L>  #######</L>
+      <L>  # . $@#</L>
+      <L> ## .$$##</L>
+      <L> # $.$ ##</L>
+      <L>##...#  #</L>
+      <L>#  $.$$ #</L>
+      <L>#  $..  #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="YASGen 6" Width="9" Height="8">
+      <L>#########</L>
+      <L>#  #....#</L>
+      <L>#   @#**#</L>
+      <L># $$# ..#</L>
+      <L>##  $$ *#</L>
+      <L> #$ $   #</L>
+      <L> #      #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="YASGen 7" Width="9" Height="8">
+      <L>   ######</L>
+      <L> ### ...#</L>
+      <L> # $ #+.#</L>
+      <L> #  $$**#</L>
+      <L>## $ $ .#</L>
+      <L># $ #   #</L>
+      <L>#     ###</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="YASGen 8" Width="9" Height="8">
+      <L>#######</L>
+      <L>#.... #</L>
+      <L>#*.## ###</L>
+      <L>#.* #   #</L>
+      <L># $ $$  #</L>
+      <L># $$  $ #</L>
+      <L>#@ #    #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="YASGen 9" Width="10" Height="7">
+      <L>  ########</L>
+      <L>  # *    #</L>
+      <L>### *.$  #</L>
+      <L>#   **$  #</L>
+      <L>#  $.*@###</L>
+      <L>###  .##</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="YASGen 10" Width="9" Height="9">
+      <L>#########</L>
+      <L>#  ##   #</L>
+      <L>#. $@$  #</L>
+      <L>#.*.$# ##</L>
+      <L>#*.* #$ #</L>
+      <L>#.#   $ #</L>
+      <L>#. # $$ #</L>
+      <L>#.      #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Chaos" Width="7" Height="7">
+      <L>  #####</L>
+      <L>###@ .#</L>
+      <L># $ #.#</L>
+      <L>#  $$ #</L>
+      <L>#.  # #</L>
+      <L>#   $.#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Gaea" Width="7" Height="7">
+      <L>#######</L>
+      <L>#@.   #</L>
+      <L>#$$.$.#</L>
+      <L>#. *$.#</L>
+      <L># $ *$#</L>
+      <L>#.    #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Uranus" Width="7" Height="7">
+      <L>#######</L>
+      <L>#+$ ..#</L>
+      <L>#$$$$*#</L>
+      <L>#.    #</L>
+      <L># * #.#</L>
+      <L># $  .#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Cronus" Width="7" Height="7">
+      <L>#######</L>
+      <L>#. $..#</L>
+      <L>#.$ $.#</L>
+      <L># $ $ #</L>
+      <L>#$$# $#</L>
+      <L>#. + .#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Rhea" Width="8" Height="8">
+      <L>#######</L>
+      <L># . + #</L>
+      <L># #$*$##</L>
+      <L># $. . #</L>
+      <L># *$ $ #</L>
+      <L>### * .#</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Oceanus" Width="8" Height="8">
+      <L>########</L>
+      <L># .  . #</L>
+      <L>#. $*$.#</L>
+      <L># #  $ #</L>
+      <L>#.  $# #</L>
+      <L>#.$# $*#</L>
+      <L>#    $+#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Tethys" Width="9" Height="7">
+      <L>#########</L>
+      <L>#@$  . .#</L>
+      <L>#**$$ * #</L>
+      <L># $...* #</L>
+      <L>#. *$$  #</L>
+      <L>## *    #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Mnemosyne" Width="8" Height="8">
+      <L>########</L>
+      <L># . # @#</L>
+      <L>#  $ $$#</L>
+      <L>#.*. $ #</L>
+      <L># .$ $.#</L>
+      <L>#$* ## #</L>
+      <L># .  . #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Coeus" Width="9" Height="9">
+      <L> ######</L>
+      <L> # .  #</L>
+      <L>##$#. ###</L>
+      <L>#@* .   #</L>
+      <L>##$#**  #</L>
+      <L># $  .###</L>
+      <L># $ $ #</L>
+      <L>#   .##</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Phoebe" Width="8" Height="8">
+      <L>########</L>
+      <L># . .$+#</L>
+      <L>#  $*$*#</L>
+      <L># . #  #</L>
+      <L>#.#$$ $#</L>
+      <L>#    $ #</L>
+      <L>#.  # .#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Hyperion" Width="8" Height="8">
+      <L>########</L>
+      <L>#. .*  #</L>
+      <L># $ *  #</L>
+      <L>## .$ *#</L>
+      <L>## $ ..#</L>
+      <L>#@$$**$#</L>
+      <L>#  .   #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Theia" Width="8" Height="8">
+      <L>########</L>
+      <L>#@$  . #</L>
+      <L>#$$** .#</L>
+      <L>#.   $ #</L>
+      <L>#.$**$.#</L>
+      <L>#  .$ $#</L>
+      <L>#. *.  #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Iapetus" Width="8" Height="8">
+      <L>########</L>
+      <L># $   +#</L>
+      <L>#  $ #*#</L>
+      <L>#  $ # #</L>
+      <L># *$$  #</L>
+      <L>#**.#  #</L>
+      <L># .. . #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Crius" Width="8" Height="8">
+      <L>########</L>
+      <L>#@*    #</L>
+      <L>#$ **$ #</L>
+      <L>#.$ .  #</L>
+      <L># $.$#$#</L>
+      <L># *.  .#</L>
+      <L>#  .*  #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Themis" Width="8" Height="8">
+      <L>########</L>
+      <L>#@$  . #</L>
+      <L>#** * $#</L>
+      <L># $*. .#</L>
+      <L># $ $  #</L>
+      <L># #. # #</L>
+      <L>#  .$. #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Hestia" Width="8" Height="8">
+      <L>########</L>
+      <L>#    . #</L>
+      <L>#$#$.$ #</L>
+      <L># $ #*.#</L>
+      <L># *  $ #</L>
+      <L>#.* .* #</L>
+      <L>#@$  . #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Zeus" Width="8" Height="8">
+      <L>########</L>
+      <L>#@.$ *.#</L>
+      <L>#$$. $ #</L>
+      <L>#.# $ *#</L>
+      <L># $. ..#</L>
+      <L>#. *$$ #</L>
+      <L>#  $.  #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Hera" Width="9" Height="8">
+      <L>#########</L>
+      <L>#.$.  *@#</L>
+      <L>#  .$*$$#</L>
+      <L>## $* * #</L>
+      <L>#   *   #</L>
+      <L># #$.$#.#</L>
+      <L>#.$ .  .#</L>
+      <L>#########</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

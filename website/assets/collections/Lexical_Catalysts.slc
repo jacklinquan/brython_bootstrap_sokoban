@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Lexical Catalysts</Title>
+  <Description>
+This series of puzzles consists of puzzles that are words, names (both
+first and last), and places, all designed with my own personal flair
+and also designed with the difficulty of the puzzle in mind.
+  </Description>
+  <Email>razorflame@yahoo.com</Email>
+  <LevelCollection Copyright="Razorflame" MaxWidth="46" MaxHeight="23">
+    <Level Id="Draganja" Width="46" Height="14">
+      <L>##############################################</L>
+      <L>#@    #     #     #     #   #       #    #   #</L>
+      <L># $$..$$$....$.#..$$$#..$.#.$.#.$.$$$$#..$.. #</L>
+      <L># $.$.$..$..$.$..$.....$.$..$$..$...$...$.$. #</L>
+      <L>##$.$.$$$..$$$$$.$.$$.$$$$$.$.$.$...$..$$$$$##</L>
+      <L># $.$.$.$#.$.$.$.$..$.$.$.$.$.#$$#$.$..$.$.$ #</L>
+      <L># $$..$..$.$...$..$$..$...$.$...$.$$$..$...$ #</L>
+      <L>#        #     #   #  #     #     #    #     #</L>
+      <L>####   #######################################</L>
+      <L># $  # $ $ #</L>
+      <L># $  #  $  #</L>
+      <L># $$ # $$$ #</L>
+      <L>#    #     #</L>
+      <L>############</L>
+    </Level>
+    <Level Id="Guez" Width="31" Height="23">
+      <L>###############################</L>
+      <L>#          #   #              #</L>
+      <L># #***** $ # $ *@***** $$$$*# #</L>
+      <L># .*     $ # $ # *         $. #</L>
+      <L># #* *** $ # $ * *****# $$$ # #</L>
+      <L># .*   * $ # $ # *     $    . #</L>
+      <L># #*****  $*$  * ***$* *$$$$# #</L>
+      <L># *        #   #            * #</L>
+      <L># # # ####################### #</L>
+      <L># #. ... . # . # .....$.....# #</L>
+      <L># #.$ $ $. # . * .#$       .# #</L>
+      <L># #.#...#.$#$.###.....$#... # #</L>
+      <L># #. $ .$. $ . * .#$   .    # #</L>
+      <L># #.....  ...  # .....$... .# #</L>
+      <L># ####################### # # #</L>
+      <L># *        #   #            * #</L>
+      <L># #*$$$$ * # * * $$$$$ *****# #</L>
+      <L># .$     * # * # $         *. #</L>
+      <L># #* $$$ * # * * *$$$$# *** # #</L>
+      <L># .$   $ * # * # $     *    . #</L>
+      <L># #*$$$*  ***  * $$$$$ *****# #</L>
+      <L>#          #   #              #</L>
+      <L>###############################</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

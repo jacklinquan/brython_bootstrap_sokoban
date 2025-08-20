@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Cocktail</Title>
+  <Description>
+
+  </Description>
+  <LevelCollection Copyright="Various Authors" MaxWidth="26" MaxHeight="18">
+    <Level Id="cocktail 01" Width="10" Height="12" Copyright="A1master, rikitin">
+      <L>#######</L>
+      <L>#  #  #</L>
+      <L>#    $####</L>
+      <L># $#  #  #</L>
+      <L>## #$    #</L>
+      <L>#  #  #  #</L>
+      <L>#  #  # ##</L>
+      <L>#..#### ##</L>
+      <L># .####$ #</L>
+      <L>#$   .   #</L>
+      <L>#.@####  #</L>
+      <L>####  ####</L>
+    </Level>
+    <Level Id="cocktail 02" Width="9" Height="9" Copyright="rikitin">
+      <L>#########</L>
+      <L>#   ##  #</L>
+      <L># *.... #</L>
+      <L>##$$ #  #</L>
+      <L># $@## ##</L>
+      <L>#      #</L>
+      <L>#### #$#</L>
+      <L>   #   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="cocktail 03" Width="13" Height="12" Copyright="A1master, rikitin">
+      <L>   ####</L>
+      <L>   #  ######</L>
+      <L>   #  $    #</L>
+      <L>   #  #### #</L>
+      <L>   ##$#### ##</L>
+      <L>#####  #... #</L>
+      <L>#     @ .*. #</L>
+      <L># # $  #.#. #</L>
+      <L># $ $$## $ ##</L>
+      <L>##### #### #</L>
+      <L>    #      #</L>
+      <L>    ########</L>
+    </Level>
+    <Level Id="cocktail 04" Width="9" Height="12" Copyright="rikitin">
+      <L>   ####</L>
+      <L>####  ###</L>
+      <L>#    $  #</L>
+      <L># ##$ * #</L>
+      <L># #@ $$ #</L>
+      <L># #$  $ #</L>
+      <L>#.. # ###</L>
+      <L>#. .  #</L>
+      <L>#. .#$#</L>
+      <L>##.## #</L>
+      <L> #    #</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="cocktail 05" Width="14" Height="12" Copyright="A1master, rikitin">
+      <L> ########</L>
+      <L>##  # . #</L>
+      <L>#  $@   ####</L>
+      <L>#  ##.  .  #</L>
+      <L>## ####### #</L>
+      <L>#    #  ## ###</L>
+      <L>#    # $     #</L>
+      <L>### ##  ##$# #</L>
+      <L> ## ### ##   #</L>
+      <L> #       #####</L>
+      <L> #   #   #</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="cocktail 06" Width="11" Height="9" Copyright="rikitin">
+      <L>    #####</L>
+      <L>    #   ##</L>
+      <L>#####@#  ##</L>
+      <L># .$ .# $ #</L>
+      <L>#  #.*    #</L>
+      <L>#  #..# $ #</L>
+      <L>#    $# $ #</L>
+      <L>#  #  #  ##</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="cocktail 07" Width="14" Height="14" Copyright="rikitin">
+      <L>   ##########</L>
+      <L>   #    #   #</L>
+      <L>   # #$$#$# #</L>
+      <L>   #       @#</L>
+      <L>   ###$ $#$ #</L>
+      <L>  ####    $ #</L>
+      <L>###  # ####$##</L>
+      <L>#    #   #.. #</L>
+      <L>#   .*.#$# ..#</L>
+      <L># $ #*. ...###</L>
+      <L>### #   ####</L>
+      <L>  # ###*#</L>
+      <L>  #     #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="cocktail 08" Width="11" Height="9" Copyright="Mic, Jordi Doménech, rikitin">
+      <L>  #########</L>
+      <L>  #...... #</L>
+      <L> ##.*#### #</L>
+      <L>##   $  # #</L>
+      <L># $    $# #</L>
+      <L># #$##$   #</L>
+      <L># $   $ ###</L>
+      <L>#  @#   #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="cocktail 09" Width="16" Height="14" Copyright="rikitin">
+      <L>   ####  #####</L>
+      <L>   #  ####   #</L>
+      <L>   #         #</L>
+      <L>   #  #####$###</L>
+      <L>   #  #  #    #</L>
+      <L>   #  #  #$## ##</L>
+      <L>#####.####  #  #</L>
+      <L>#...*. # $ $$  #</L>
+      <L>#..*.*.     #  #</L>
+      <L>## ###### # # ##</L>
+      <L>#  . $ $ @$ #$#</L>
+      <L>#   ##   $    #</L>
+      <L>##########  ###</L>
+      <L>         ####</L>
+    </Level>
+    <Level Id="cocktail 10" Width="11" Height="16" Copyright="Mic, Masato Hiramatsu, rikitin">
+      <L>     #####</L>
+      <L>  ####.  #</L>
+      <L>  #  ... ##</L>
+      <L>  #  ...  #</L>
+      <L>  ###...  #</L>
+      <L>  ####.####</L>
+      <L>  #     #</L>
+      <L>###$ #  ##</L>
+      <L># $   #  #</L>
+      <L>#   $ # $##</L>
+      <L>##$ *##   #</L>
+      <L> #  @   $ #</L>
+      <L> # $$#$$ ##</L>
+      <L> ##   $  #</L>
+      <L>  ###   ##</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="cocktail 11" Width="19" Height="15" Copyright="rikitin">
+      <L>    ####   ####</L>
+      <L>  ###  #   #  #####</L>
+      <L>  #   $##### $  . #</L>
+      <L>  # +*.  # $...$  #</L>
+      <L>  ##   # # # $ ####</L>
+      <L>   #$###   ### #</L>
+      <L>   #     #     #</L>
+      <L>   ######### ###</L>
+      <L>   #     #     #</L>
+      <L>   # ###   ### #</L>
+      <L>####$  # # #   ####</L>
+      <L># $... . # $...$  #</L>
+      <L>#   $ $#####$ $   #</L>
+      <L>#####  #   # .#####</L>
+      <L>    ####   ####</L>
+    </Level>
+    <Level Id="cocktail 12" Width="13" Height="14" Copyright="rikitin">
+      <L>   #########</L>
+      <L> ###    #  #</L>
+      <L>##   $ $# $#</L>
+      <L>#  $  # #  #</L>
+      <L># $$ ##  $ #</L>
+      <L>#  #  #*#  #</L>
+      <L>## #    ##.##</L>
+      <L> # # #$.##..#</L>
+      <L> # # # ..+..#</L>
+      <L> # # #####. #</L>
+      <L> # #  #  ####</L>
+      <L> # $$ #</L>
+      <L> ###  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="cocktail 13" Width="11" Height="14" Copyright="rikitin">
+      <L> #########</L>
+      <L> #  ##   #</L>
+      <L> # $$    #</L>
+      <L> #@ ### ###</L>
+      <L>###  ## $ #</L>
+      <L># $  #    #</L>
+      <L># $  $ #  #</L>
+      <L>#   $###.##</L>
+      <L>## $  #.. #</L>
+      <L> #   $#.. #</L>
+      <L> ##   #...#</L>
+      <L>  ##$.$..##</L>
+      <L>   #  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="cocktail 14" Width="26" Height="18" Copyright="rikitin">
+      <L>                 #########</L>
+      <L>               ###       #</L>
+      <L>             ###.# # # # #</L>
+      <L>        ######.# ..*.* # #</L>
+      <L> ###   ##   ##$ * * * $. #</L>
+      <L>##.#  ##  #  # $ $ $ $ ###</L>
+      <L># $# ##  * *   .$.$.$.$.#</L>
+      <L># .# #  * ###############</L>
+      <L># $# # * $#</L>
+      <L># .# #  * #  ##### #####</L>
+      <L># $####   #  #   # #  @#</L>
+      <L>#  #.$ #  ####.# ###.#.#</L>
+      <L># ###.$ #   $  . * . # #</L>
+      <L># ##.$ $  ## #*# # # # #</L>
+      <L># ###.$ $ $ $.$  . $ ..#</L>
+      <L>#  $ $ * $##.# ### ### #</L>
+      <L>##                     #</L>
+      <L> #######################</L>
+    </Level>
+    <Level Id="cocktail 15" Width="13" Height="16" Copyright="rikitin">
+      <L>     ########</L>
+      <L>     #      #</L>
+      <L>     #$#### #</L>
+      <L>   ###  $ # #</L>
+      <L>  ##  .$# # #</L>
+      <L>  # .*.   # #</L>
+      <L>  #$##  ### #</L>
+      <L>  # .  #### #</L>
+      <L>  # # $$ $  #</L>
+      <L>  # . .*.  ##</L>
+      <L>###.#*#$# ###</L>
+      <L># $@$ # *   #</L>
+      <L># . .   ..$ #</L>
+      <L>### ## # $###</L>
+      <L>  #    #  #</L>
+      <L>  #########</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>
