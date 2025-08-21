@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Grigr Sun</Title>
+  <Description>
+Small and beautiful levels
+  </Description>
+  <Email>grigr@yandex.ru</Email>
+  <Url>http://grigr.narod.ru/</Url>
+  <LevelCollection Copyright="Evgeny Grigoriev" MaxWidth="12" MaxHeight="10">
+    <Level Id="JigSaw" Width="11" Height="9">
+      <L>     ######</L>
+      <L>   ### * @#</L>
+      <L>  ##  * $ #</L>
+      <L>###  * #  #</L>
+      <L>#   . *  ##</L>
+      <L># #***##  #</L>
+      <L>#   *     #</L>
+      <L>########  #</L>
+      <L>       ####</L>
+    </Level>
+    <Level Id="The Drift" Width="10" Height="10">
+      <L>    #####</L>
+      <L>    #   ##</L>
+      <L>#####$   #</L>
+      <L># $ $ $  #</L>
+      <L># .$ $@# #</L>
+      <L>##..$ ## #</L>
+      <L>##.# $   #</L>
+      <L># ..#$ ###</L>
+      <L># ...$.#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Query Mark" Width="10" Height="10">
+      <L>######</L>
+      <L>#    #####</L>
+      <L># ##$$ $@#</L>
+      <L># #   $  #</L>
+      <L>#...#$ $ #</L>
+      <L>## .  #  #</L>
+      <L> #..  $ ##</L>
+      <L> #.##$###</L>
+      <L> #.   #</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Kenya House" Width="9" Height="10">
+      <L>   #####</L>
+      <L> ###   ##</L>
+      <L> # ...  #</L>
+      <L>## *.*# #</L>
+      <L>#  #*.$ #</L>
+      <L>#  $ $ ##</L>
+      <L># $ @#$#</L>
+      <L>## ### #</L>
+      <L> #     #</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Zikozavr" Width="12" Height="10">
+      <L>    ####</L>
+      <L>#####  ###</L>
+      <L># $   ...##</L>
+      <L>#@$ $$.#$ #</L>
+      <L>##$## ... #</L>
+      <L>## ##  #  #</L>
+      <L>#  ###### ##</L>
+      <L>#     $    #</L>
+      <L>#  #####   #</L>
+      <L>####   #####</L>
+    </Level>
+    <Level Id="Opened Heart" Width="11" Height="10">
+      <L>  ######</L>
+      <L>###    #</L>
+      <L>#   ## ####</L>
+      <L># # $@$   #</L>
+      <L># #$...$# #</L>
+      <L># # *** # #</L>
+      <L>#  $...$# #</L>
+      <L>##  ##    #</L>
+      <L> #####  ###</L>
+      <L>     ####</L>
+    </Level>
+    <Level Id="Everest" Width="9" Height="10">
+      <L>  #####</L>
+      <L>  # . #</L>
+      <L> ##$.$#</L>
+      <L> #  . #</L>
+      <L>##.$.@###</L>
+      <L># .$#$  #</L>
+      <L># .$.$  #</L>
+      <L>## $  ###</L>
+      <L> ###  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Unopened Room" Width="9" Height="10">
+      <L>#####</L>
+      <L>#   #####</L>
+      <L>#.#$    #</L>
+      <L>#.# $$$ #</L>
+      <L>#.# $ @##</L>
+      <L>#.# $#$#</L>
+      <L>#..    #</L>
+      <L>#.. $# #</L>
+      <L>####   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Open Air" Width="11" Height="9">
+      <L>    ####</L>
+      <L>#####  ####</L>
+      <L># $ $ $   #</L>
+      <L># ..  #   #</L>
+      <L>##.. $#####</L>
+      <L> #.. $   #</L>
+      <L> #.#$#$$@#</L>
+      <L> #.  #   #</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="The Tornado" Width="9" Height="10">
+      <L>     ####</L>
+      <L>    ##  #</L>
+      <L>#####   #</L>
+      <L># $ $ $ #</L>
+      <L># ..#  ##</L>
+      <L>##$.*.$#</L>
+      <L> # .*  #</L>
+      <L> #$ +###</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

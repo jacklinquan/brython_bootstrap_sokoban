@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Ghislain Martin Arranged</Title>
+  <Description>
+The levels in this set were collected, documented and published by
+Sokoplaza members. Collection supervisor: Werner Ettinger (merging of
+initial collections, renaming all level names, making new alphabetical
+level order, removing duplicates).
+  </Description>
+  <Email>sokoban@wanadoo.fr</Email>
+  <Url>http://perso.wanadoo.fr/sokoban</Url>
+  <LevelCollection Copyright="Ghislain Martin" MaxWidth="32" MaxHeight="18">
+    <Level Id="SokoStation / POUR COMMENCER R--1" Width="10" Height="12" Copyright="Ghislain Martin, Eric Sunshine">
+      <L>   ####</L>
+      <L>   #  #</L>
+      <L> ###  #</L>
+      <L> #.#  #</L>
+      <L> # # #####</L>
+      <L>##   #   #</L>
+      <L>#        #</L>
+      <L>#  # #####</L>
+      <L>#  # #</L>
+      <L>####$#</L>
+      <L>   #@#</L>
+      <L>   ###</L>
+    </Level>
+    <Level Id="SokoStation / GRAND CARRE R--1" Width="9" Height="9" Copyright="Ghislain Martin, Spiros Mantzoukis">
+      <L>#########</L>
+      <L>#       #</L>
+      <L># .#.#. #</L>
+      <L>#  $$$  #</L>
+      <L># .$@$. #</L>
+      <L>#  $$$  #</L>
+      <L># .#.#. #</L>
+      <L>#       #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="SokoStation / GRAND CARRE R--2" Width="9" Height="9" Copyright="Ghislain Martin, unknown">
+      <L>#########</L>
+      <L>#       #</L>
+      <L># $...$ #</L>
+      <L># .$$$. #</L>
+      <L># .$@$. #</L>
+      <L># .$$$. #</L>
+      <L># $...$ #</L>
+      <L>#       #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="SokoStation / GRAND CARRE R--3" Width="9" Height="9" Copyright="Ghislain Martin, Migl">
+      <L>  ######</L>
+      <L>###    #</L>
+      <L># $...$##</L>
+      <L># .$$$. #</L>
+      <L># .$@$. #</L>
+      <L># .$$$. #</L>
+      <L>##$...$ #</L>
+      <L> #    ###</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="SokoStation / DANS LES COINS R--1" Width="9" Height="9" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#########</L>
+      <L>#.. $ ..#</L>
+      <L>#.$@$  .#</L>
+      <L>#.$ $ $.#</L>
+      <L>#$$***$$#</L>
+      <L>#.$ $ $.#</L>
+      <L>#.  $ $.#</L>
+      <L>#.. $ ..#</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="SokoStation / BOULE DE NEIGE R--1" Width="11" Height="11" Copyright="Ghislain Martin, York Shen">
+      <L>   #####</L>
+      <L>  ##   ##</L>
+      <L> ##  .  ##</L>
+      <L>##  * *  ##</L>
+      <L>#  * * *  #</L>
+      <L>##* * * *##</L>
+      <L>#  * * *  #</L>
+      <L>##  * *  ##</L>
+      <L> ##  $  ##</L>
+      <L>  ## @ ##</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="SokoStation / CLASSIQUE R--1" Width="9" Height="17" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#########</L>
+      <L>#@      #</L>
+      <L># $ $ $ #</L>
+      <L># $$$$$ #</L>
+      <L>#   $   #</L>
+      <L># $$$$$ #</L>
+      <L>#   $   #</L>
+      <L>#### ####</L>
+      <L>   # #</L>
+      <L>   #.#</L>
+      <L> ###.###</L>
+      <L> # ... #</L>
+      <L> # ... #</L>
+      <L> # ... #</L>
+      <L> # ..  #</L>
+      <L> # ..  #</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="SokoStation / L'AIGLE D'OR R--1" Width="11" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>###########</L>
+      <L>#    @    #</L>
+      <L># $ $.$ $ #</L>
+      <L>#$$$$*$$$ #</L>
+      <L>#.* $.  *.#</L>
+      <L>#...#.#...#</L>
+      <L>#####.#####</L>
+      <L>#...#.#...#</L>
+      <L>#.* $.  *.#</L>
+      <L>#$$$$*$$$ #</L>
+      <L># $ * * $ #</L>
+      <L>#         #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="SokoStation / IL PLEUT R--1" Width="11" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>###########</L>
+      <L>#    @    #</L>
+      <L># $$$$$$$ #</L>
+      <L>#         #</L>
+      <L>#* * * * *#</L>
+      <L># * * * * #</L>
+      <L>#* * * * *#</L>
+      <L># * * * * #</L>
+      <L>#* * * * *#</L>
+      <L># * * * * #</L>
+      <L># ....... #</L>
+      <L>#         #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="SokoStation / IL PLEUT R--2" Width="11" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>###########</L>
+      <L>#    @    #</L>
+      <L># $$$$$$$ #</L>
+      <L>#         #</L>
+      <L>#### * ####</L>
+      <L>  # * *#</L>
+      <L>  #* * ##</L>
+      <L> ## * * ##</L>
+      <L>## * * * ##</L>
+      <L># * * * * #</L>
+      <L># ....... #</L>
+      <L>###       #</L>
+      <L>  #########</L>
+    </Level>
+    <Level Id="SokoStation / IL NEIGE R--1" Width="11" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>###########</L>
+      <L>#    @    #</L>
+      <L>#$$$$$$$$$#</L>
+      <L>#         #</L>
+      <L>#  * * *  #</L>
+      <L># * * * * #</L>
+      <L>#* * * * *#</L>
+      <L># * * * * #</L>
+      <L>#  * * *  #</L>
+      <L># * * * * #</L>
+      <L>#.........#</L>
+      <L>#         #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="SokoStation / EN DIAGONALE R--1" Width="13" Height="14" Copyright="Ghislain Martin, Marek Letrab">
+      <L>       ######</L>
+      <L>      ##....#</L>
+      <L>     ##....##</L>
+      <L>    ##....##</L>
+      <L>   ##  $.##</L>
+      <L>  ## $  ##</L>
+      <L> ##    ##</L>
+      <L> #  $ ##</L>
+      <L>#### #####</L>
+      <L># $   $ @#</L>
+      <L># $   $  #</L>
+      <L># $$$$$$ #</L>
+      <L>#        #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="SokoStation / EN DIAGONALE R--2" Width="13" Height="14" Copyright="Ghislain Martin, unknown">
+      <L>       ######</L>
+      <L>      ##....#</L>
+      <L>     ##....##</L>
+      <L>    ##....##</L>
+      <L>   ##  $ ##</L>
+      <L>  ## $  ##</L>
+      <L> ##    ##</L>
+      <L> #  $ ##</L>
+      <L>#### #####</L>
+      <L># $   $ @#</L>
+      <L># $   $  #</L>
+      <L># $$$$$  #</L>
+      <L>#        #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="SokoStation / SWAP R--1" Width="9" Height="9" Copyright="Ghislain Martin, Spiros Mantzoukis">
+      <L>#########</L>
+      <L>#   *   #</L>
+      <L># + * # #</L>
+      <L>#   *   #</L>
+      <L>#*******#</L>
+      <L>#   *   #</L>
+      <L># # * $ #</L>
+      <L>#   *   #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="SokoStation / SOLITAIRE R--1" Width="9" Height="9">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L>###$ $###</L>
+      <L># $...$ #</L>
+      <L>#  .@.  #</L>
+      <L># $...$ #</L>
+      <L>###$$ ###</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="SokoStation / BOUQUET DE FLEURS R--1" Width="11" Height="11" Copyright="Ghislain Martin, Marek Letrab">
+      <L> #########</L>
+      <L>##   .   ##</L>
+      <L>#  $ . $  #</L>
+      <L># *#$.$#* #</L>
+      <L>#  $ . $  #</L>
+      <L>#..**+**..#</L>
+      <L>#  $ . $  #</L>
+      <L># *#$*$#* #</L>
+      <L>#  $ . $  #</L>
+      <L>##   .   ##</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="SokoStation / BOUQUET DE FLEURS R--2" Width="11" Height="11" Copyright="Ghislain Martin, Marek Letrab">
+      <L> #########</L>
+      <L>##       ##</L>
+      <L>#  * . *  #</L>
+      <L># *#$.$#* #</L>
+      <L>#  $ . $  #</L>
+      <L>#.***+***.#</L>
+      <L>#  $ . $  #</L>
+      <L># *#$*$#* #</L>
+      <L>#  * * *  #</L>
+      <L>##   .   ##</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="SokoStation / BULLE DE SAVON R--1" Width="13" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>    #####</L>
+      <L>  ###...###</L>
+      <L> ##..*.*..##</L>
+      <L> # .*.*.*. #</L>
+      <L>##.*.*.*.*.##</L>
+      <L># * * * * * #</L>
+      <L>#  $ $ $ $  #</L>
+      <L># $ $ $ $ $ #</L>
+      <L>## $ $ $ $ ##</L>
+      <L> #  $ $ $  #</L>
+      <L> ##   $   ##</L>
+      <L>  ### @ ###</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="SokoStation / TAIS TOI ET POUSSE R--1" Width="11" Height="10" Copyright="Ghislain Martin, Marek Letrab">
+      <L>      #####</L>
+      <L>      #   #</L>
+      <L>  #####$  #</L>
+      <L>  #...* $ #</L>
+      <L>  #.#.#$  #</L>
+      <L>  #...* $ #</L>
+      <L>###*#*#$@ #</L>
+      <L># $ $ $.$ #</L>
+      <L>#         #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="SokoStation / LA FORTERESSE R--1" Width="15" Height="8" Copyright="Ghislain Martin, Marek Letrab">
+      <L>       #####</L>
+      <L>    ####   ####</L>
+      <L>    #  #$$ #  #</L>
+      <L>##### $  $  $ #</L>
+      <L>#      #   #  #</L>
+      <L># #$#$$#####$ #</L>
+      <L># *......+..  #</L>
+      <L>###############</L>
+    </Level>
+    <Level Id="SokoStation / MANIAK R--1" Width="15" Height="15" Copyright="Ghislain Martin, Marek Letrab">
+      <L>   #########</L>
+      <L>   #       #</L>
+      <L>   # $     #</L>
+      <L>####$$$ $$$####</L>
+      <L>#             #</L>
+      <L>#$$$$$$*$$$$$$#</L>
+      <L>#.............#</L>
+      <L>#......@......#</L>
+      <L>#.............#</L>
+      <L>#$$$$$$*$$$$$$#</L>
+      <L>#             #</L>
+      <L>####$$$ $$$####</L>
+      <L>   #     $ #</L>
+      <L>   #       #</L>
+      <L>   #########</L>
+    </Level>
+    <Level Id="SokoStation / TRUC A MOITIE CON R--1" Width="20" Height="14" Copyright="Ghislain Martin, Marek Letrab">
+      <L>        ######</L>
+      <L>        #    #</L>
+      <L>        # $  #</L>
+      <L>        #  $ #</L>
+      <L>##########$$ #</L>
+      <L>#      # # $ #</L>
+      <L># #### ###  $#</L>
+      <L># #  #     $ #</L>
+      <L># # *#######.#######</L>
+      <L>#   *    @  .......#</L>
+      <L>####*$ #############</L>
+      <L>   # * #</L>
+      <L>   #   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="SokoStation / LE SABLIER R--1" Width="11" Height="11" Copyright="Ghislain Martin, Spiros Mantzoukis">
+      <L>###########</L>
+      <L>#    @    #</L>
+      <L># $ $ $ $ #</L>
+      <L>#  $ $ $  #</L>
+      <L># $ $ $ $ #</L>
+      <L>#####$#####</L>
+      <L>##... ...##</L>
+      <L># ... ... #</L>
+      <L>#         #</L>
+      <L>#   ###   #</L>
+      <L>##### #####</L>
+    </Level>
+    <Level Id="SokoStation / INTERLUDE R--1" Width="11" Height="9" Copyright="Ghislain Martin, Spiros Mantzoukis">
+      <L> #########</L>
+      <L>##       ##</L>
+      <L>#  #.#*#  #</L>
+      <L># $.$.$.$ #</L>
+      <L>#  # # #  #</L>
+      <L># $.$.$.$ #</L>
+      <L>#  #*#.#  #</L>
+      <L>##   @   ##</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="SokoStation / NEURODESTRUCTION R--1" Width="12" Height="12" Copyright="Ghislain Martin, Marek Letrab">
+      <L>####</L>
+      <L>#..##</L>
+      <L>#...#######</L>
+      <L>#...  # @ #</L>
+      <L>##..$   $ ##</L>
+      <L> ## # ###  #</L>
+      <L>  # #  #   #</L>
+      <L>  #  $$#$$ #</L>
+      <L>  # $# #   #</L>
+      <L>  #  $ $ $##</L>
+      <L>  ##      #</L>
+      <L>   ########</L>
+    </Level>
+    <Level Id="SokoStation / LA PILULE R--1" Width="7" Height="17" Copyright="Ghislain Martin, Marek Letrab">
+      <L>  ###</L>
+      <L> ##.##</L>
+      <L>##...##</L>
+      <L>#..$..#</L>
+      <L>#..$..#</L>
+      <L>#.$#$.#</L>
+      <L>#  *  #</L>
+      <L>## $$##</L>
+      <L>#  $  #</L>
+      <L># #$# #</L>
+      <L>#  $  #</L>
+      <L>## $ ##</L>
+      <L>#  $  #</L>
+      <L># $#$ #</L>
+      <L>#  $  #</L>
+      <L>## @ ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="SokoStation / BOMBE ATOMIQUE R--1" Width="23" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>               #######</L>
+      <L>               #     ##</L>
+      <L>########       #$ $   #</L>
+      <L>#  ... ######  # $ $  #</L>
+      <L># $### .... ## #$ $ $ #</L>
+      <L>#  ...  ###  ### $ $  #</L>
+      <L>#@$###*....     $ $ $ #</L>
+      <L>#  ...  ###  ### $ $  #</L>
+      <L># $### .... ## #$ $ $ #</L>
+      <L>#  ... ######  # $ $  #</L>
+      <L>########       #$ $  ##</L>
+      <L>               #    ##</L>
+      <L>               ######</L>
+    </Level>
+    <Level Id="SokoStation / EN QUINCONCE 2 R--1" Width="9" Height="9" Copyright="Ghislain Martin, Spiros Mantzoukis">
+      <L>#########</L>
+      <L>#       #</L>
+      <L># $.$.$ #</L>
+      <L># .$.$. #</L>
+      <L># $.@.$ #</L>
+      <L># .$.$. #</L>
+      <L># $.$.$ #</L>
+      <L>##      #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="SokoStation / EN QUINCONCE 2 R--2" Width="9" Height="9" Copyright="Ghislain Martin, Spiros Mantzoukis">
+      <L>########</L>
+      <L>#      ##</L>
+      <L># $.$.$ #</L>
+      <L># .$.$. #</L>
+      <L># $.@.$ #</L>
+      <L># .$.$. #</L>
+      <L># $.$.$ #</L>
+      <L>##      #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="SokoStation / EN DECALAGE R--1" Width="11" Height="11" Copyright="Ghislain Martin, Spiros Mantzoukis">
+      <L>###########</L>
+      <L>#         #</L>
+      <L># #$#$#$# #</L>
+      <L># $ . . . #</L>
+      <L># # #.#.# #</L>
+      <L>#@$$.$*$. #</L>
+      <L># # #.#.# #</L>
+      <L># $ . . . #</L>
+      <L># #$#$#$# #</L>
+      <L>#         #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="SokoStation / CRUELLA R--1" Width="10" Height="13" Copyright="Ghislain Martin, Spiros Mantzoukis">
+      <L>####</L>
+      <L>#  #######</L>
+      <L>#        #</L>
+      <L>#  ##### #</L>
+      <L>#*###### #</L>
+      <L>#  #   # #</L>
+      <L>## # $ # #</L>
+      <L> # ### # #</L>
+      <L> # # . # #</L>
+      <L> # #   * #</L>
+      <L> # # @ # #</L>
+      <L> #   ### #</L>
+      <L> ##### ###</L>
+    </Level>
+    <Level Id="SokoStation / ORGANISATION CHAOTIQUE R--1" Width="10" Height="9" Copyright="Ghislain Martin, Marek Letrab">
+      <L>      ####</L>
+      <L> ###### .#</L>
+      <L> #  .$ $ #</L>
+      <L> #.$ .$ .#</L>
+      <L>##$*$.$.$#</L>
+      <L># $ @*$. #</L>
+      <L>#. $.$ $.#</L>
+      <L>###.  .###</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="SokoStation / ATTENTION VIRUS R--1" Width="21" Height="11" Copyright="Ghislain Martin, Marek Letrab">
+      <L>   ###########</L>
+      <L>   #  * * *  #</L>
+      <L>####   * *   ########</L>
+      <L>#    ** * ** #  # # #</L>
+      <L>#      * *      $   #</L>
+      <L>## # ** * ** # # # ##</L>
+      <L> # #   * *   #      #</L>
+      <L>## #  * * *  ## # # #</L>
+      <L>#  ###########      #</L>
+      <L>#       +        # ##</L>
+      <L>####################</L>
+    </Level>
+    <Level Id="SokoStation / TIC TAC TOE R--1" Width="13" Height="9">
+      <L>#############</L>
+      <L>#   *   *   #</L>
+      <L># $ * $ * $ #</L>
+      <L>#   *   *   #</L>
+      <L>#***********#</L>
+      <L>#   *   *   #</L>
+      <L># . * + * . #</L>
+      <L>#   *   *   #</L>
+      <L>#############</L>
+    </Level>
+    <Level Id="SokoStation / TIC TAC TOE R--2" Width="13" Height="9" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#####   #####</L>
+      <L>#   #   #   #</L>
+      <L># $ #   # $ #</L>
+      <L>#   #   #   #</L>
+      <L>#***#####***#</L>
+      <L>#   * @ *   #</L>
+      <L># . * # * . #</L>
+      <L>#   *   *   #</L>
+      <L>#############</L>
+    </Level>
+    <Level Id="SokoStation / ROBOTICO R--1" Width="13" Height="7" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#############</L>
+      <L># . $ . $ . #</L>
+      <L># $ . $ . $ #</L>
+      <L>#@###*#*### #</L>
+      <L># $ . $ . $ #</L>
+      <L># . $ . $ . #</L>
+      <L>#############</L>
+    </Level>
+    <Level Id="SokoStation / Y'A PAS PHOTO R--1" Width="11" Height="15" Copyright="Ghislain Martin, York Shen">
+      <L>    #######</L>
+      <L>    #   $.#</L>
+      <L>#####.#####</L>
+      <L>#    $    #</L>
+      <L># * * * * #</L>
+      <L>#  * * *  #</L>
+      <L># * * * * #</L>
+      <L>#* * * * *#</L>
+      <L># * * * * #</L>
+      <L>#  * * *  #</L>
+      <L># * * * * #</L>
+      <L>#    $    #</L>
+      <L>#####.#####</L>
+      <L>#@    #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="SokoStation / DIAGOBAN R--1" Width="10" Height="10" Copyright="Ghislain Martin, York Shen">
+      <L>######</L>
+      <L>#    ##</L>
+      <L># $ * ##</L>
+      <L>#  * . ##</L>
+      <L># * . $ ##</L>
+      <L>## . $ * #</L>
+      <L> ## $ +  #</L>
+      <L>  ## *  ##</L>
+      <L>   ##  ##</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="SokoStation / DIAGOBAN R--2" Width="10" Height="10" Copyright="Ghislain Martin, York Shen">
+      <L>######</L>
+      <L>#    ##</L>
+      <L># $ * ##</L>
+      <L>#  * . ##</L>
+      <L># * . $ ##</L>
+      <L>## . * * #</L>
+      <L> ## $ @  #</L>
+      <L>  ## *  ##</L>
+      <L>   ##  ##</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="SokoStation / LA SPIRALE R--1" Width="12" Height="12" Copyright="Ghislain Martin, York Shen">
+      <L>############</L>
+      <L>#          #</L>
+      <L># .*.*.*.$ #</L>
+      <L># *$$$$$.$ #</L>
+      <L># .$...$.* #</L>
+      <L># *$.$.$.$ #</L>
+      <L># .$.$+$.* #</L>
+      <L># *$.$$$.$ #</L>
+      <L># .$.....* #</L>
+      <L># .$*$*$*$ #</L>
+      <L>#          #</L>
+      <L>############</L>
+    </Level>
+    <Level Id="SokoStation / LA SPIRALE R--2" Width="12" Height="12" Copyright="Ghislain Martin, York Shen">
+      <L>############</L>
+      <L>#          #</L>
+      <L># .*.*.*.$ #</L>
+      <L># *$$$$$.$ #</L>
+      <L># .$...$.* #</L>
+      <L># *$.$.$.$ #</L>
+      <L># .$.*+$.* #</L>
+      <L># *$.$$$.$ #</L>
+      <L># .$.....* #</L>
+      <L># *$*$*$*$ #</L>
+      <L>#          #</L>
+      <L>############</L>
+    </Level>
+    <Level Id="SokoStation / LA SPIRALE R--3" Width="12" Height="12" Copyright="Ghislain Martin, York Shen">
+      <L>############</L>
+      <L>#          #</L>
+      <L># .*.*.*.$ #</L>
+      <L># *$$$$$.$ #</L>
+      <L># .$...$.* #</L>
+      <L># *$.$.$.$ #</L>
+      <L># .$.$+$.* #</L>
+      <L># *$.$*$.$ #</L>
+      <L># .$.....* #</L>
+      <L># *$*$*$*$ #</L>
+      <L>#          #</L>
+      <L>############</L>
+    </Level>
+    <Level Id="SokoStation / VORTEX R--1" Width="13" Height="9" Copyright="Ghislain Martin, York Shen">
+      <L>  #########</L>
+      <L> ##   @   ##</L>
+      <L>## .$.$.$. ##</L>
+      <L># .$$$.$$$. #</L>
+      <L># ...$*$... #</L>
+      <L># .$$$.$$$. #</L>
+      <L>## .$.$.$. ##</L>
+      <L> ##       ##</L>
+      <L>  #########</L>
+    </Level>
+    <Level Id="SokoStation / VORTEX R--2" Width="13" Height="9" Copyright="Ghislain Martin, York Shen">
+      <L>  #########</L>
+      <L> ##   @   ##</L>
+      <L>## .$.*.$. ##</L>
+      <L># .$$$.$$$. #</L>
+      <L># *..$ $..* #</L>
+      <L># .$$$.$$$. #</L>
+      <L>## .$.*.$. ##</L>
+      <L> ##       ##</L>
+      <L>  #########</L>
+    </Level>
+    <Level Id="SokoStation / DRAPEAU ANGLAIS R--1" Width="11" Height="11" Copyright="Ghislain Martin, York Shen">
+      <L>###########</L>
+      <L>#.  $.$  .#</L>
+      <L># *.$.$.* #</L>
+      <L># . $.$ . #</L>
+      <L>#$$$$.$$$$#</L>
+      <L>#....@....#</L>
+      <L>#$$$$.$$$$#</L>
+      <L># . $.$ . #</L>
+      <L># *.$.$.* #</L>
+      <L>#.  $.$  .#</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="SokoStation / UN PEU PLUS R--1" Width="9" Height="17" Copyright="Ghislain Martin, Marek Letrab">
+      <L>  #####</L>
+      <L>  # @ #</L>
+      <L>### # ###</L>
+      <L># .$ $. #</L>
+      <L># # # # #</L>
+      <L># .$ $. #</L>
+      <L>### # ###</L>
+      <L># .$ $. #</L>
+      <L># # # # #</L>
+      <L># .$ $. #</L>
+      <L>### # ###</L>
+      <L># .$ $. #</L>
+      <L># # # # #</L>
+      <L># .$ $. #</L>
+      <L>### # ###</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="SokoStation / J'AI FAIT UN TETRIS R--1" Width="15" Height="15" Copyright="Ghislain Martin, Marek Letrab">
+      <L>     ######</L>
+      <L>    ##    #</L>
+      <L>   ## $ $@###</L>
+      <L>   # $ $    #</L>
+      <L>  ##$ $ $ $ #</L>
+      <L> ##. $   $  ##</L>
+      <L>##. . $ $ $  ##</L>
+      <L>#. . . $   $  #</L>
+      <L>##. . . $ $ $ #</L>
+      <L> ##. . . $ $ ##</L>
+      <L>  ##. . . $ ##</L>
+      <L>   ##. . . ##</L>
+      <L>    ##. .###</L>
+      <L>     ##.##</L>
+      <L>      ###</L>
+    </Level>
+    <Level Id="SokoStation / J'AI FAIT UN TETRIS R--2" Width="13" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>     #######</L>
+      <L>    ##     #</L>
+      <L>   ## $ $$@#</L>
+      <L>   # $ $  ###</L>
+      <L>  ##$   $   #</L>
+      <L> ##. $ $ $  #</L>
+      <L>##. . $   $##</L>
+      <L>#. . . $ $ #</L>
+      <L>##. . . $ ##</L>
+      <L> ##. . . ##</L>
+      <L>  ##. .###</L>
+      <L>   ##.##</L>
+      <L>    ###</L>
+    </Level>
+    <Level Id="SokoStation / J'AI FAIT UN TETRIS R--3" Width="16" Height="16" Copyright="Ghislain Martin, York Shen">
+      <L>        ###</L>
+      <L>       ## ##</L>
+      <L>      ##   ##</L>
+      <L>     ## $   ##</L>
+      <L>    ## $ $$@ ##</L>
+      <L>   ## * *  $  ##</L>
+      <L>  ## * . * $   #</L>
+      <L> ## . * * * $ ##</L>
+      <L>## . * * . $ ##</L>
+      <L># . * * * * ##</L>
+      <L>## * * * * ##</L>
+      <L> ## * * . ##</L>
+      <L>  ## * . ##</L>
+      <L>   ## . ##</L>
+      <L>    ## ##</L>
+      <L>     ###</L>
+    </Level>
+    <Level Id="SokoStation / TRIANGLE DES BERMUDES R--1" Width="13" Height="8" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#############</L>
+      <L>#....*@*....#</L>
+      <L>## $  $  $ ##</L>
+      <L> ## $$$$$ ##</L>
+      <L>  ##     ##</L>
+      <L>   ##   ##</L>
+      <L>    ## ##</L>
+      <L>     ###</L>
+    </Level>
+    <Level Id="SokoStation / LA PORTE DES ETOILES R--1" Width="11" Height="16" Copyright="Ghislain Martin, Marek Letrab">
+      <L>###########</L>
+      <L>#         #</L>
+      <L># .  .  . #</L>
+      <L># ....... #</L>
+      <L># ....... #</L>
+      <L>#####*#####</L>
+      <L>#   $ $   #</L>
+      <L>#  $ $ $  #</L>
+      <L># $ $ $ $ #</L>
+      <L>#  $ $ $  #</L>
+      <L>#   $ $   #</L>
+      <L>##### #####</L>
+      <L>#  $ $ $  #</L>
+      <L>#         #</L>
+      <L>#    @    #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="SokoStation / LA PORTE DES ETOILES R--2" Width="11" Height="16" Copyright="Ghislain Martin, Marek Letrab">
+      <L>###########</L>
+      <L>#         #</L>
+      <L># .  .  . #</L>
+      <L># ....... #</L>
+      <L># ....... #</L>
+      <L>#####.#####</L>
+      <L>#   $ $   #</L>
+      <L># $$ $ $$ #</L>
+      <L>#   $ $   #</L>
+      <L># $$ $ $$ #</L>
+      <L>#   $ $   #</L>
+      <L>##### #####</L>
+      <L>#   $ $   #</L>
+      <L>#         #</L>
+      <L>#    @    #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="SokoStation / LA PORTE DES ETOILES R--3" Width="11" Height="17" Copyright="Ghislain Martin, Spiros Mantzoukis">
+      <L>##### #####</L>
+      <L>#   ###   #</L>
+      <L>#    .    #</L>
+      <L># ....... #</L>
+      <L>##.......##</L>
+      <L> ####*####</L>
+      <L>##  $.$  ##</L>
+      <L>#  $ $ $  #</L>
+      <L>#   $ $   #</L>
+      <L>#  $ $ $  #</L>
+      <L>##  $ $  ##</L>
+      <L>##### #####</L>
+      <L>#    $    #</L>
+      <L>#    $    #</L>
+      <L>##  $@$  ##</L>
+      <L> ##  #  ##</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="SokoStation / LA TETE A TOTO R--1" Width="11" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>###########</L>
+      <L>#         #</L>
+      <L># $.$*$*$ #</L>
+      <L># .$.*.$. #</L>
+      <L># $.$.$.$ #</L>
+      <L>##$ $.$ $##</L>
+      <L> # $.+.$ #</L>
+      <L> ## $.$ ##</L>
+      <L> ## $.$ ##</L>
+      <L> #...*...#</L>
+      <L> #$$$*$$$#</L>
+      <L> #...*...#</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="SokoStation / TOURNICOTONS R--1" Width="8" Height="11" Copyright="Ghislain Martin, Marek Letrab">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###$.###</L>
+      <L># .  $ #</L>
+      <L># $. . #</L>
+      <L>##* @*##</L>
+      <L># . $$ #</L>
+      <L># $  . #</L>
+      <L>###.$###</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="SokoStation / TOURNICOTONS R--2" Width="8" Height="11" Copyright="Ghislain Martin, Marek Letrab">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###$.###</L>
+      <L># .  $ #</L>
+      <L># $  . #</L>
+      <L>##*$+*##</L>
+      <L># .  $ #</L>
+      <L># $  . #</L>
+      <L>###.$###</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="SokoStation / SUPER ZEBULON R--1" Width="9" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L>###$.$###</L>
+      <L># $...$ #</L>
+      <L>#   *   #</L>
+      <L># $.*.$ #</L>
+      <L>### + ###</L>
+      <L># $.*.$ #</L>
+      <L>#   *   #</L>
+      <L># $...$ #</L>
+      <L>###$ $###</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="SokoStation / UN PETIT NIVEAU R--1" Width="9" Height="9" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#########</L>
+      <L>#.      #</L>
+      <L># $$*$#$#</L>
+      <L># $.$ . #</L>
+      <L># * ##* #</L>
+      <L># $ ##. #</L>
+      <L># *.*.* #</L>
+      <L>#      +#</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="SokoStation / ASTMOSPHERE R--1" Width="13" Height="11" Copyright="Ghislain Martin, Marek Letrab">
+      <L>      #####</L>
+      <L>      # $.#</L>
+      <L>  ##### $####</L>
+      <L>###  #  $.  #</L>
+      <L>#.. * * $.$ #</L>
+      <L>#+** #  $.$ #</L>
+      <L>#.. * * $.$ #</L>
+      <L>###  #  $.  #</L>
+      <L>  ##### $####</L>
+      <L>      # $.#</L>
+      <L>      #####</L>
+    </Level>
+    <Level Id="SokoStation / LE GRAND HUIT R--1" Width="25" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>########################</L>
+      <L>#@$.$.#     #.$   # $. ##</L>
+      <L># $.$.#$$$.$# .$. # $.$ #</L>
+      <L># $.$. .....  $.$   ....#</L>
+      <L># $.$.## $$ #  $.$# $.$$#</L>
+      <L>#   $.#.  $ #    .#     #</L>
+      <L>### ##### ##### ##### ###</L>
+      <L># $.$.# $.  #.   .#  $#.#</L>
+      <L># $.$.#.$.$ # $$. # $$. #</L>
+      <L># $.$.  $.$.  $.$$  $.$$#</L>
+      <L># $.$.#.$.$ ##.$  # .$. #</L>
+      <L>#     # $.  #. $ .#.    #</L>
+      <L>#########################</L>
+    </Level>
+    <Level Id="SokoStation / THE Y-FILES R--1" Width="18" Height="15" Copyright="Ghislain Martin, Marek Letrab">
+      <L>  ###        ###</L>
+      <L> ## ##      ## ##</L>
+      <L>## $.##    ##.$ ##</L>
+      <L># .$$.##  ##.$$. #</L>
+      <L>## .$$.####.$$. ##</L>
+      <L> ## .$$.##.$$. ##</L>
+      <L>  ## .$$  $$. ##</L>
+      <L>   ## .$  $. ##</L>
+      <L>    ## ***+ ##</L>
+      <L>     #     ##</L>
+      <L>     ##$$$$#</L>
+      <L>      #    #</L>
+      <L>      #.***#</L>
+      <L>      #....#</L>
+      <L>      ######</L>
+    </Level>
+    <Level Id="SokoStation / POUR SOUFFLER R--1" Width="9" Height="16" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#########</L>
+      <L>#   @   #</L>
+      <L># $$$$$ #</L>
+      <L># $   $ #</L>
+      <L># $   $ #</L>
+      <L>#### ####</L>
+      <L># $ $ $ #</L>
+      <L>#.......#</L>
+      <L># ..... #</L>
+      <L>###   ###</L>
+      <L>  # # #</L>
+      <L>###***###</L>
+      <L>#       #</L>
+      <L>#       #</L>
+      <L>#####  ##</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="SokoStation / HUIT PIECES R--1" Width="24" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>           ##### ######</L>
+      <L>##### ######   # #    #</L>
+      <L>#...###   ## # ###    #</L>
+      <L>#...  *   *   *   ***##</L>
+      <L>#..  #############    #</L>
+      <L>#    #           #    #</L>
+      <L>## ### ##### ####### ###</L>
+      <L> #*  # #   # #   #  $  #</L>
+      <L> #   ### # ### # # $ $ #</L>
+      <L> #  *    *   **   $  $ #</L>
+      <L> ##* # # ### # ### $$$##</L>
+      <L>  #  #   # #   # #    @#</L>
+      <L>  ######## ##### #######</L>
+    </Level>
+    <Level Id="SokoStation / PETIT COEUR R--1" Width="11" Height="10" Copyright="Ghislain Martin, Marek Letrab">
+      <L>##### #####</L>
+      <L>#...###...#</L>
+      <L>#... # ...#</L>
+      <L>#$$$$$$$$$#</L>
+      <L>#         #</L>
+      <L>## $$$$$ ##</L>
+      <L> ##     ##</L>
+      <L>  ##. .##</L>
+      <L>   ##@##</L>
+      <L>    ###</L>
+    </Level>
+    <Level Id="SokoStation / GRAND COEUR R--1" Width="15" Height="12" Copyright="Ghislain Martin, Marek Letrab">
+      <L>###############</L>
+      <L>#.............#</L>
+      <L>#.............#</L>
+      <L>#$$$$$$$$$$$$$#</L>
+      <L>#             #</L>
+      <L>## $$$$$$$$$ ##</L>
+      <L> ##         ##</L>
+      <L>  ## $$$$$ ##</L>
+      <L>   ##     ##</L>
+      <L>    ##   ##</L>
+      <L>     ##+##</L>
+      <L>      ###</L>
+    </Level>
+    <Level Id="SokoStation / PLUS OU MOINS PAREIL R--1" Width="14" Height="14" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#######</L>
+      <L>#@    #######</L>
+      <L># $$$$$.....#</L>
+      <L># $ . $. $ .#</L>
+      <L># $.#.#.$$$.#</L>
+      <L># $ . $. $ .##</L>
+      <L># $$$$##.... #</L>
+      <L># ....##$$$$ #</L>
+      <L>##. $ .$ . $ #</L>
+      <L> #.$$$.#.#.$ #</L>
+      <L> #. $ .$ . $ #</L>
+      <L> #.....$$$$$ #</L>
+      <L> #######     #</L>
+      <L>       #######</L>
+    </Level>
+    <Level Id="SokoStation / PLUS OU MOINS PAREIL R--2" Width="14" Height="14" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#######</L>
+      <L>#@    #######</L>
+      <L># $$$$$.....#</L>
+      <L># $ . $. $ .#</L>
+      <L># $.#.$.$$$.#</L>
+      <L># $ . $. $ .##</L>
+      <L># $$$$*..... #</L>
+      <L># .....*$$$$ #</L>
+      <L>##. $ .$ . $ #</L>
+      <L> #.$$$.$.#.$ #</L>
+      <L> #. $ .$ . $ #</L>
+      <L> #.....$$$$$ #</L>
+      <L> #######     #</L>
+      <L>       #######</L>
+    </Level>
+    <Level Id="SokoStation / UNE FOIS DE PLUS R--1" Width="14" Height="14" Copyright="Ghislain Martin, Marek Letrab">
+      <L>     #########</L>
+      <L> #####      @#</L>
+      <L> #.....$$$$$ #</L>
+      <L> #.$ $.$. .$ #</L>
+      <L> #. $ .$ . $ #</L>
+      <L> #.$ $.$. .$ #</L>
+      <L> #....##$$$$##</L>
+      <L>##$$$$##....#</L>
+      <L># $. .$.$ $.#</L>
+      <L># $ . $. $ .#</L>
+      <L># $. .$.$ $.#</L>
+      <L># $$$$$.....#</L>
+      <L>#       #####</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="SokoStation / UNE FOIS DE PLUS R--2" Width="14" Height="14" Copyright="Ghislain Martin, Marek Letrab">
+      <L>     #########</L>
+      <L> #####      @#</L>
+      <L> #.....$$$$$ #</L>
+      <L> #.$ $.$. .$ #</L>
+      <L> #. $#.# # $ #</L>
+      <L> #.$ $.$. .$ #</L>
+      <L> #....##$$$$##</L>
+      <L>##$$$$##....#</L>
+      <L># $. .$.$ $.#</L>
+      <L># $ # #.#$ .#</L>
+      <L># $. .$.$ $.#</L>
+      <L># $$$$$.....#</L>
+      <L>#       #####</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="SokoStation / PANTHERA R--1" Width="11" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>###########</L>
+      <L>#         #</L>
+      <L>#         #</L>
+      <L># $$$$$$$ #</L>
+      <L>##       ##</L>
+      <L> ## $$$ ##</L>
+      <L>  ##   ##</L>
+      <L>  ###@###</L>
+      <L>  #.....#</L>
+      <L>  #.....#</L>
+      <L>  ##   ##</L>
+      <L>   #   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="SokoStation / TOUJOURS TOUT DROIT R--1" Width="32" Height="5" Copyright="Ghislain Martin, Marek Letrab">
+      <L>################################</L>
+      <L>#  . $. $. *. $.#   $...$  $   #</L>
+      <L>#@$  $  $ .$  $    $ ... $  $  #</L>
+      <L># $. *. $. $. *.# $  ...  $  $ #</L>
+      <L>################################</L>
+    </Level>
+    <Level Id="SokoStation / BONNE ANNEE 2004 R--1" Width="13" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#############</L>
+      <L>#           #</L>
+      <L># #$####..# #</L>
+      <L># #.$  $.+. #</L>
+      <L># #. $  *.. #</L>
+      <L># #$  $. $# #</L>
+      <L># #.$  $  # #</L>
+      <L># #. $  $ # #</L>
+      <L># #$  $  $# #</L>
+      <L># . $..$..$ #</L>
+      <L># $.####### #</L>
+      <L>#           #</L>
+      <L>#############</L>
+    </Level>
+    <Level Id="SokoStation / BONNE ANNEE 2004 R--2" Width="13" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#############</L>
+      <L>#           #</L>
+      <L># #$####.## #</L>
+      <L># #.$  $.+# #</L>
+      <L># #. $  *.*$#</L>
+      <L># #$  $. $#.#</L>
+      <L># #.$  $  #.#</L>
+      <L># #. $  $ #.#</L>
+      <L># #$  $  $#.#</L>
+      <L># . $..$..$ #</L>
+      <L># $.####### #</L>
+      <L>#           #</L>
+      <L>#############</L>
+    </Level>
+    <Level Id="SokoStation / BONNE ANNEE 2004 R--3" Width="13" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#############</L>
+      <L>#           #</L>
+      <L># #$####.*# #</L>
+      <L># #.$  $.+* #</L>
+      <L># #. $  *.*$#</L>
+      <L># #$  $. $#.#</L>
+      <L># #.$  $  #.#</L>
+      <L># #. $  $ #.#</L>
+      <L># #$  $  $#.#</L>
+      <L># . $..$..$ #</L>
+      <L># $.####### #</L>
+      <L>#           #</L>
+      <L>#############</L>
+    </Level>
+    <Level Id="SokoStation / PETITE PUNITION R--1" Width="14" Height="12" Copyright="Ghislain Martin, Marek Letrab">
+      <L>    ##########</L>
+      <L>  ###..$ $   #</L>
+      <L>###.....$ $  #</L>
+      <L>#+.....# $ $ #</L>
+      <L>#......#$ $  #</L>
+      <L>#....### $ $##</L>
+      <L>#..###  $ $ #</L>
+      <L>#### $ $ $ $#</L>
+      <L># $ $ $ $ $ #</L>
+      <L>#  $ $ $ $  #</L>
+      <L>##          #</L>
+      <L> ############</L>
+    </Level>
+    <Level Id="SokoStation / FLOWER POWER R--1" Width="9" Height="15" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#########</L>
+      <L>#       #</L>
+      <L># $$$$$ #</L>
+      <L>#  # #  #</L>
+      <L># $ $ $ #</L>
+      <L>#  # #  #</L>
+      <L># $$$$$ #</L>
+      <L>#       #</L>
+      <L>####@####</L>
+      <L>#.......#</L>
+      <L>#  ...  #</L>
+      <L>#   .   #</L>
+      <L>####.####</L>
+      <L>   #.#</L>
+      <L>   ###</L>
+    </Level>
+    <Level Id="SokoStation / QUADRALOGIQUE R--1" Width="17" Height="17" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#######   #######</L>
+      <L>#.    #   #    .#</L>
+      <L># $ $ #   #   $ #</L>
+      <L>#  $$$#   #$$$$ #</L>
+      <L># $ $ #####   $ #</L>
+      <L>#. $ ...+...$ $.#</L>
+      <L>#####.#####.#####</L>
+      <L>    #.#   #.#</L>
+      <L>    #.#   #.#</L>
+      <L>    #.#   #.#</L>
+      <L>#####.#####.#####</L>
+      <L>#.$  ...*... $ .#</L>
+      <L># $ $$#####  $  #</L>
+      <L>#  $  #   #$$$$ #</L>
+      <L># $ $$#   #  $  #</L>
+      <L>#.    #   #    .#</L>
+      <L>#######   #######</L>
+    </Level>
+    <Level Id="SokoStation / OH QUE C'EST BEAU R--1" Width="20" Height="15" Copyright="Ghislain Martin, Marek Letrab">
+      <L>###################</L>
+      <L>#  * . #  .$  *.  ##</L>
+      <L>#$   # *     #   $ #</L>
+      <L># . $   $*#. $. #  #</L>
+      <L>#  .# # # .  # $  .#</L>
+      <L># $ # .* *  ###$####</L>
+      <L>#* * $  #  * .  .#</L>
+      <L># # # $ .#@ $ #$####</L>
+      <L>#.  .  $  #   . * .#</L>
+      <L># $ * $ # . $#  $ ##</L>
+      <L>##   #.$ .*  # $* ##</L>
+      <L>#  #    #  $.   . .#</L>
+      <L># $ $ .# $#   $ ####</L>
+      <L>####  ##    .  ##</L>
+      <L>   #############</L>
+    </Level>
+    <Level Id="SokoStation / OH QUE C'EST BEAU R--2" Width="20" Height="15">
+      <L> ##################</L>
+      <L>##.$. .#. .$. $ . ##</L>
+      <L>#.$ $# * * . *$  * #</L>
+      <L>#   $  $$$# *$  #$.#</L>
+      <L>#. .#.$ #.$. # *   #</L>
+      <L># * * .$ $. # #$.#.#</L>
+      <L>#*$$$* .#$ $$. . $$#</L>
+      <L># * # $ .$+ * #$$#.#</L>
+      <L>#. . . * $#.$.$. . #</L>
+      <L># . * $ # .$  . $ .#</L>
+      <L>##$.$#$$$. .$# *$$##</L>
+      <L>#  #.   # $$$     .#</L>
+      <L>#.$ $. * *#.$.$$#* #</L>
+      <L>##.$. .#. . .$. . ##</L>
+      <L> ##################</L>
+    </Level>
+    <Level Id="SokoStation / OH QUE C'EST BEAU R--3" Width="20" Height="15">
+      <L> ##################</L>
+      <L>##.$. .#. .$. $ . ##</L>
+      <L>#.$ $# * * . *$  * #</L>
+      <L>#   $  $$$# *$  #$.#</L>
+      <L>#. .#.$ #.$. # *   #</L>
+      <L># * * .$ $. # #$.#.#</L>
+      <L>#*$$$* .#$ $$. . $$#</L>
+      <L># * # $ .$+ * #$$#.#</L>
+      <L>#. . . * *#.$.$. . #</L>
+      <L># . * $ # .$  . $ .#</L>
+      <L>##$.$#$$$. .$# *$$##</L>
+      <L>#  #.$  # $$$     .#</L>
+      <L>#.$ $. * *#.$.$$#* #</L>
+      <L>##.$. .#. . .$. . ##</L>
+      <L> ##################</L>
+    </Level>
+    <Level Id="SokoStation / OH QUE C'EST BEAU R--4" Width="20" Height="15">
+      <L> ##################</L>
+      <L>##.$. .#  .$. $ . ##</L>
+      <L>#.$ $# * * . *$. * #</L>
+      <L># . $  $$$# *$  #$.#</L>
+      <L>#.$.#.$ #.$. # *   #</L>
+      <L># * * .$ $. # #$.#.#</L>
+      <L>#*$$$* .#$ $$. . $$#</L>
+      <L># * # $ .$+ * #$$#.#</L>
+      <L>#. . . * *#.$.$. . #</L>
+      <L># . * $ # .$  . $ .#</L>
+      <L>##$*$#*$$. .$# *$###</L>
+      <L>#  #.$  # $$$     .#</L>
+      <L>#.$ $. * *#.$.$$#* #</L>
+      <L>##.$  .#. . .$. . ##</L>
+      <L> ##################</L>
+    </Level>
+    <Level Id="SokoStation / UN PEU D'EXERCICE R--1" Width="14" Height="11">
+      <L>      #######</L>
+      <L>      #     #</L>
+      <L>####### # # #</L>
+      <L>#. . .$$ $ $##</L>
+      <L># # #$# #.#  #</L>
+      <L>#**.*..$.**$@#</L>
+      <L># #$# # #.#  #</L>
+      <L>#. . .$$ $ $##</L>
+      <L>####### # # #</L>
+      <L>      #     #</L>
+      <L>      #######</L>
+    </Level>
+    <Level Id="SokoStation / SIX SIX SEIS R--1" Width="11" Height="18" Copyright="Ghislain Martin, Marek Letrab">
+      <L> #########</L>
+      <L>##       ##</L>
+      <L>#  $ $ $  #</L>
+      <L># $@$ $ $ #</L>
+      <L>#  $ ######</L>
+      <L># $ $#</L>
+      <L>#  $ #</L>
+      <L># $ $######</L>
+      <L>#  $     .#</L>
+      <L># #$##### #</L>
+      <L># #.....$ #</L>
+      <L># #.###.# #</L>
+      <L># #.# #.# #</L>
+      <L># #.###.# #</L>
+      <L># $.....# #</L>
+      <L># #####$# #</L>
+      <L>#.        #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="SokoStation / CHASSE CROISE R--1" Width="15" Height="13" Copyright="Ghislain Martin, Marek Letrab">
+      <L>###############</L>
+      <L>#      @      #</L>
+      <L># $ $ $ $ $ $ #</L>
+      <L>## $.$.$.$.$ ##</L>
+      <L> #  $.$.$.$  #</L>
+      <L> #   $.$.$   #</L>
+      <L> #####$.$#####</L>
+      <L>    ##.$.##</L>
+      <L>   ##.$.$.##</L>
+      <L>  ##.$.$.$.##</L>
+      <L> ##.$.$.$.$.##</L>
+      <L> #. . . . . .#</L>
+      <L> #############</L>
+    </Level>
+    <Level Id="SokoStation / SERPENTISSIMO R--1" Width="14" Height="11" Copyright="Ghislain Martin, Marek Letrab">
+      <L> ############</L>
+      <L>##          ##</L>
+      <L># +$*.$*.$*. #</L>
+      <L># *    *   $ #</L>
+      <L>##$ ###### *##</L>
+      <L> #. #    # .#</L>
+      <L>##* ###### $##</L>
+      <L># $   *    * #</L>
+      <L># .*$.*$.*$. #</L>
+      <L>##          ##</L>
+      <L> ############</L>
+    </Level>
+    <Level Id="SokoStation / CONTRE PYRAMIDE R--1" Width="13" Height="9" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#############</L>
+      <L>#           #</L>
+      <L>#$ $ $.$ $ $#</L>
+      <L># $.$.$.$.$ #</L>
+      <L># #$.$.$.$# #</L>
+      <L># #.$.$.$.# #</L>
+      <L># # .$+$. # #</L>
+      <L>#. . .$. . .#</L>
+      <L>#############</L>
+    </Level>
+    <Level Id="SokoStation / DECONTRACTION R--1" Width="9" Height="9" Copyright="Ghislain Martin, Marek Letrab">
+      <L>####</L>
+      <L>#  ######</L>
+      <L>#  $ $  #</L>
+      <L># .*.#. #</L>
+      <L>#  $@$  #</L>
+      <L># .#.*. #</L>
+      <L>#  $ $  #</L>
+      <L>######  #</L>
+      <L>     ####</L>
+    </Level>
+    <Level Id="SokoStation / VIEILLE RUINE R--1" Width="13" Height="16">
+      <L>    #####</L>
+      <L>    #   #</L>
+      <L>    # $ #</L>
+      <L>#####   #####</L>
+      <L>#   ## ##   #</L>
+      <L>#  $     $  #</L>
+      <L># $### ###$ #</L>
+      <L>## ###.### ##</L>
+      <L>##  # . ## #</L>
+      <L>#   ..+..  #</L>
+      <L>#   # . ## #</L>
+      <L>## ###.### ##</L>
+      <L># $##   ##$ #</L>
+      <L>#  $  #  $  #</L>
+      <L>#   #####   #</L>
+      <L>#####   #####</L>
+    </Level>
+    <Level Id="SokoStation / DANS LE TOURBILLON R--1" Width="9" Height="9" Copyright="Ghislain Martin, Marek Letrab">
+      <L>#########</L>
+      <L>#    .$ #</L>
+      <L>#$$$$.$ #</L>
+      <L>#...+.$ #</L>
+      <L># $.#.$ #</L>
+      <L># $.....#</L>
+      <L># $.$$$$#</L>
+      <L># $.    #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="SokoStation / HI HI HI HI R--2" Width="12" Height="11" Copyright="Ghislain Martin, Jordi Doménech">
+      <L>###########</L>
+      <L>#         #</L>
+      <L># *.* *.* #</L>
+      <L># $*$ $*$ #</L>
+      <L># *.* *.* #</L>
+      <L>#    #    #</L>
+      <L># *.* *.* #</L>
+      <L># $*$ $*$ ##</L>
+      <L># *.* *.*  #</L>
+      <L>#        @ #</L>
+      <L>############</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

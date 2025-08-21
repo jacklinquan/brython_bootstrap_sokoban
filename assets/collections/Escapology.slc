@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Escapology</Title>
+  <Description>
+15 &quot;start with end position&quot; levels. Note: &quot;Houdini V&quot; is based on
+&quot;PicoKosmos 17&quot; by Aymeric du Peloux
+  </Description>
+  <Email>sokoniwa@yahoo.com</Email>
+  <LevelCollection Copyright="niwa" MaxWidth="11" MaxHeight="17">
+    <Level Id="Simple Escape" Width="8" Height="9">
+      <L> #######</L>
+      <L> #     #</L>
+      <L> #*    #</L>
+      <L> #@## ##</L>
+      <L>##* # #</L>
+      <L>#     #</L>
+      <L># ##  #</L>
+      <L>#    ##</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Simple Escape II" Width="10" Height="10">
+      <L>      ####</L>
+      <L> #### #  #</L>
+      <L>##  ###  #</L>
+      <L>#        #</L>
+      <L>#  ###* ##</L>
+      <L>## # #@##</L>
+      <L>#  ###* #</L>
+      <L>#       #</L>
+      <L>##  #  ##</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Simple Escape III" Width="6" Height="8">
+      <L> ####</L>
+      <L> #  #</L>
+      <L>##  #</L>
+      <L>#@* #</L>
+      <L>##* ##</L>
+      <L>#    #</L>
+      <L>#    #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Simple Escape IV" Width="9" Height="9">
+      <L> ######</L>
+      <L>##    #</L>
+      <L>#  ## ##</L>
+      <L># #@*  ##</L>
+      <L>#  #  * #</L>
+      <L>##  #   #</L>
+      <L> ##  # ##</L>
+      <L>  ##   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Simple Escape V" Width="9" Height="9">
+      <L> #######</L>
+      <L>##     #</L>
+      <L>#   ## #</L>
+      <L># #*@* ##</L>
+      <L># # #   #</L>
+      <L># #   # #</L>
+      <L># ##### #</L>
+      <L>#       #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Houdini" Width="9" Height="9">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L>###   ###</L>
+      <L>#  ***  #</L>
+      <L>#  *@*  #</L>
+      <L>#  ***  #</L>
+      <L>###   ###</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Houdini II" Width="9" Height="9">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L>###   ###</L>
+      <L>#  #**  #</L>
+      <L>#  *@*  #</L>
+      <L>#  ***  #</L>
+      <L>###   ###</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Houdini III" Width="9" Height="9">
+      <L>   ######</L>
+      <L> ### *  #</L>
+      <L> #      #</L>
+      <L>## *** *#</L>
+      <L>#  *@*  #</L>
+      <L>#* *** ##</L>
+      <L>#      #</L>
+      <L>#  * ###</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Houdini IV" Width="9" Height="9">
+      <L>#########</L>
+      <L>#   #   #</L>
+      <L># #   # #</L>
+      <L>#  ***  #</L>
+      <L>## *@* ##</L>
+      <L>#  ***  #</L>
+      <L># # # # #</L>
+      <L>#   #   #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Getaway" Width="9" Height="8">
+      <L>    #####</L>
+      <L>  ###   #</L>
+      <L>###   # #</L>
+      <L>#   * # #</L>
+      <L># #*@*# #</L>
+      <L># # *   #</L>
+      <L>#   #####</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Getaway II" Width="8" Height="8">
+      <L>######</L>
+      <L>#    ##</L>
+      <L># ##  ##</L>
+      <L># # *  #</L>
+      <L>#  *@* #</L>
+      <L>## #*  #</L>
+      <L> #   ###</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Getaway III" Width="11" Height="12">
+      <L>####</L>
+      <L>#  ####</L>
+      <L>#  #  #</L>
+      <L>#  #* ####</L>
+      <L>## *@*   ##</L>
+      <L>## #*###  #</L>
+      <L>#  #      #</L>
+      <L>#     * *##</L>
+      <L>##  ####  #</L>
+      <L> ####  #  #</L>
+      <L>       #  #</L>
+      <L>       ####</L>
+    </Level>
+    <Level Id="Chain Escape" Width="11" Height="11">
+      <L>  #####</L>
+      <L> ##   ##</L>
+      <L> #  #  ##</L>
+      <L>## #@*  ##</L>
+      <L>#   #  * ##</L>
+      <L>#  * #    #</L>
+      <L>##    # * #</L>
+      <L> ## *  #  #</L>
+      <L>  ##  * * #</L>
+      <L>   ##  #  #</L>
+      <L>    #######</L>
+    </Level>
+    <Level Id="Out of Africa" Width="10" Height="11">
+      <L>     ####</L>
+      <L> #####  #</L>
+      <L>##      #</L>
+      <L>#  **** #</L>
+      <L># *@# * #</L>
+      <L># **  * ##</L>
+      <L>#  * **  #</L>
+      <L>## * * * #</L>
+      <L> ## **   #</L>
+      <L>  #    ###</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Houdini V" Width="9" Height="17" Copyright="niwa, Aymeric du Peloux">
+      <L>  ####</L>
+      <L> ##  ###</L>
+      <L> #  *  #</L>
+      <L> #  *  #</L>
+      <L> ## *  #</L>
+      <L>  # * ##</L>
+      <L>  # * #</L>
+      <L>  # * #</L>
+      <L>  # * #</L>
+      <L>### * #</L>
+      <L>#   * ##</L>
+      <L>#  *** ##</L>
+      <L>## *@*  #</L>
+      <L> # ***  #</L>
+      <L> #     ##</L>
+      <L> ###  ##</L>
+      <L>   ####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Microban 02 Arranged</Title>
+  <Description>
+Arrangements of David W. Skinner's levels
+They are published with David W. Skinner's permission
+original level page: http://users.bentonrea.com/~sasquatch/sokoban/
+  </Description>
+  <Email>linashen@ms28.hinet.net</Email>
+  <LevelCollection Copyright="York Shen" MaxWidth="25" MaxHeight="25">
+    <Level Id="Mas Microban 67a" Width="10" Height="10" Copyright="David W Skinner, York Shen">
+      <L>   ####</L>
+      <L>  ##  ##</L>
+      <L> ## *  ##</L>
+      <L>## $ .$ ##</L>
+      <L>#  .$+ * #</L>
+      <L># *   .  #</L>
+      <L>## $. $ ##</L>
+      <L> ##  * ##</L>
+      <L>  ##  ##</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Mas Microban 68a" Width="15" Height="15" Copyright="David W Skinner, York Shen">
+      <L>      ###</L>
+      <L>     ##.##</L>
+      <L>  #### $ ####</L>
+      <L>  #         #</L>
+      <L>  # **#*#** #</L>
+      <L> ## *     * ##</L>
+      <L>##  # *** #  ##</L>
+      <L>#.$ * *@* * $.#</L>
+      <L>##  # *** #  ##</L>
+      <L> ## *     * ##</L>
+      <L>  # ******* #</L>
+      <L>  #         #</L>
+      <L>  #### $ ####</L>
+      <L>     ##.##</L>
+      <L>      ###</L>
+    </Level>
+    <Level Id="Mas Microban 68b" Width="15" Height="15" Copyright="David W Skinner, York Shen, Marek Letrab">
+      <L>      ###</L>
+      <L>     ##.##</L>
+      <L>  #### $ ####</L>
+      <L>  #         #</L>
+      <L>  # *##*### #</L>
+      <L> ## *     * ##</L>
+      <L>##  * *** *  ##</L>
+      <L>#.$ * *@* * $.#</L>
+      <L>##  * *** *  ##</L>
+      <L> ## *     * ##</L>
+      <L>  # ###*##* #</L>
+      <L>  #         #</L>
+      <L>  #### $ ####</L>
+      <L>     ##.##</L>
+      <L>      ###</L>
+    </Level>
+    <Level Id="Mas Microban 68c" Width="15" Height="15" Copyright="David W Skinner, York Shen, Marek Letrab">
+      <L>      ###</L>
+      <L>     ##.##</L>
+      <L>  #### $ ####</L>
+      <L>  #         #</L>
+      <L>  # ##***## #</L>
+      <L> ## #     # ##</L>
+      <L>##  # *** #  ##</L>
+      <L>#.$ * *@* * $.#</L>
+      <L>##  # *** #  ##</L>
+      <L> ## #     # ##</L>
+      <L>  # ###*### #</L>
+      <L>  #         #</L>
+      <L>  #### $ ####</L>
+      <L>     ##.##</L>
+      <L>      ###</L>
+    </Level>
+    <Level Id="Mas Microban 93a" Width="8" Height="13" Copyright="David W Skinner, York Shen">
+      <L>    ####</L>
+      <L>  ###  #</L>
+      <L> ## .  #</L>
+      <L>##  $  #</L>
+      <L># .*. ##</L>
+      <L># $ ###</L>
+      <L># .$####</L>
+      <L>###    #</L>
+      <L> ##$#  #</L>
+      <L> #  #  #</L>
+      <L> #  @ ##</L>
+      <L> ###  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Mas Microban 109a" Width="10" Height="10" Copyright="David W Skinner, York Shen">
+      <L> #####</L>
+      <L> # . #####</L>
+      <L> #$ $$ $ #</L>
+      <L> # .. . .#</L>
+      <L>##$ * .$ #</L>
+      <L># $. * $##</L>
+      <L>#. . .. #</L>
+      <L>#@$ $$ $#</L>
+      <L>##### . #</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="Mas Microban 109b" Width="10" Height="10" Copyright="David W Skinner, York Shen">
+      <L> #####</L>
+      <L> # . #####</L>
+      <L> #$ $$ $ #</L>
+      <L> # .. . .#</L>
+      <L>##$ * .$ #</L>
+      <L># $.** $##</L>
+      <L>#. . .. #</L>
+      <L>#@$ $$ $#</L>
+      <L>##### . #</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="Mas Microban 113a" Width="11" Height="7" Copyright="David W Skinner, York Shen">
+      <L>###########</L>
+      <L>#         #</L>
+      <L>#  * . *  #</L>
+      <L>##*$***$*##</L>
+      <L>#  * + *  #</L>
+      <L>#    #    #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Mas Microban 115a" Width="13" Height="13" Copyright="David W Skinner, York Shen">
+      <L>     ###</L>
+      <L>    ## ##</L>
+      <L>   ##   ##</L>
+      <L>  ## .*. ##</L>
+      <L> ## .$.$. ##</L>
+      <L>## .$ $ $. ##</L>
+      <L>#  $*$@$*$  #</L>
+      <L>## .$ $ $. ##</L>
+      <L> ## .$.$. ##</L>
+      <L>  ## .*. ##</L>
+      <L>   ##   ##</L>
+      <L>    ## ##</L>
+      <L>     ###</L>
+    </Level>
+    <Level Id="Mas Microban 126a" Width="14" Height="15" Copyright="David W Skinner, York Shen">
+      <L> #######</L>
+      <L> #     #</L>
+      <L> # $$  #</L>
+      <L> #  $###</L>
+      <L> # #  #</L>
+      <L> # #$ #</L>
+      <L> # #  #</L>
+      <L>## ##.##</L>
+      <L>#    ..#######</L>
+      <L>#@###...     #</L>
+      <L>#   #.#### $ #</L>
+      <L>### #*# $ $$ #</L>
+      <L>  #  .    #  #</L>
+      <L>  #########  #</L>
+      <L>          ####</L>
+    </Level>
+    <Level Id="Mas Microban 134a" Width="25" Height="25" Copyright="David W Skinner, York Shen">
+      <L>          #####</L>
+      <L>         ##.. ##</L>
+      <L>        ##  .$ ##</L>
+      <L>       ## $#. $ ##</L>
+      <L>      ## $ #.# $ ##</L>
+      <L>     ## $  #.#  $ ##</L>
+      <L>    ## $   #.# # $ ##</L>
+      <L>   ## $ ## #.$ $  $ ##</L>
+      <L>  ## $      .# # # $ ##</L>
+      <L> ## $ #$####.$ # #  $ ##</L>
+      <L>## $        .# #     $ ##</L>
+      <L># $ ###$#$##.# # ##### .#</L>
+      <L>#...........@...........#</L>
+      <L>#. ##### # #.##$#$### $ #</L>
+      <L>## $     # #.        $ ##</L>
+      <L> ## $  # # $.####$# $ ##</L>
+      <L>  ## $ # # #.      $ ##</L>
+      <L>   ## $  $ $.# ## $ ##</L>
+      <L>    ## $ # #.#   $ ##</L>
+      <L>     ## $  #.#  $ ##</L>
+      <L>      ## $ #.# $ ##</L>
+      <L>       ## $ .#$ ##</L>
+      <L>        ## $.  ##</L>
+      <L>         ## ..##</L>
+      <L>          #####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

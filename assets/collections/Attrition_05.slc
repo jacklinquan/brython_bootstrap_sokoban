@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Attrition 05</Title>
+  <Description>
+My fifth set of handmade levels. All levels are made with the
+attention to level design and difficulty in mind.
+  </Description>
+  <Email>razorflame@yahoo.com</Email>
+  <LevelCollection Copyright="Razorflame" MaxWidth="21" MaxHeight="25">
+    <Level Id="Enigmatic Flow" Width="21" Height="25">
+      <L>#####################</L>
+      <L>#   #   #   #   #   #</L>
+      <L># $   $   $   $   $ #</L>
+      <L>##$# # # # # # # #$##</L>
+      <L>#    $ $ $ $ $ $    #</L>
+      <L>#.$$#$#$#$#$#$#$#$$.#</L>
+      <L>#.#..$ $ $ $ $ $..#.#</L>
+      <L>#....# # # # # #....#</L>
+      <L>#..#$           $#..#</L>
+      <L>#...  #$#$#$#$#  ...#</L>
+      <L>#...#$         $#...#</L>
+      <L>#....  #$#$#$#  ....#</L>
+      <L>#.  @#$       $#   .#</L>
+      <L>#....  #$#$#$#  ....#</L>
+      <L>#...#$         $#...#</L>
+      <L>#...  #$#$#$#$#  ...#</L>
+      <L>#..#$           $#..#</L>
+      <L>#....# # # # # #....#</L>
+      <L>#.#..$ $ $ $ $ $..#.#</L>
+      <L>#.$$#$#$#$#$#$#$#$$.#</L>
+      <L>#    $ $ $ $ $ $    #</L>
+      <L>##$# # # # # # # #$##</L>
+      <L># $   $   $   $   $ #</L>
+      <L>#   #   #   #   #   #</L>
+      <L>#####################</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

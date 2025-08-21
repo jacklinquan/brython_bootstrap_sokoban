@@ -1,0 +1,2865 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Kevin B. Reilly Arranged</Title>
+  <Description>
+The levels in this set were collected, documented and published by
+Sokoplaza members. Collection supervisor: Werner Ettinger (merging of
+initial collections, renaming all level names, making new alphabetical
+level order, removing duplicates).
+  </Description>
+  <Email>kreilly1@bellsouth.net</Email>
+  <LevelCollection Copyright="Kevin B Reilly" MaxWidth="29" MaxHeight="31">
+    <Level Id="Kevin / Level 4 R--2" Width="13" Height="17">
+      <L>    #####</L>
+      <L> ####   #</L>
+      <L> #  #   ####</L>
+      <L> #   $ $   #</L>
+      <L> # ### ### #</L>
+      <L> # # # # # #</L>
+      <L> # ###.### #</L>
+      <L> # ##.*.## #</L>
+      <L> #   *.*   #</L>
+      <L> # ##..@## #</L>
+      <L> # ###$### #</L>
+      <L> # # # # # #</L>
+      <L>## ### ### ##</L>
+      <L>#  ##       #</L>
+      <L># $    $##$ #</L>
+      <L>#####   ##  #</L>
+      <L>    #########</L>
+    </Level>
+    <Level Id="Kevin / Level 14 R--1" Width="16" Height="14" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>     ####</L>
+      <L>     #  #######</L>
+      <L>  ####        #</L>
+      <L>###  #$ #$ $  #</L>
+      <L>#.*..$ $# #$$##</L>
+      <L>#....#  # #@ #</L>
+      <L>#.#**# ## #####</L>
+      <L>#....#    $   #</L>
+      <L>#### ## # #   #</L>
+      <L>  ## ##   ## $##</L>
+      <L>  #  #######$  #</L>
+      <L>  # $        $ #</L>
+      <L>  #  ########  #</L>
+      <L>  ####      ####</L>
+    </Level>
+    <Level Id="Kevin / Level 16 R--1" Width="14" Height="13" Copyright="Kevin B Reilly, Masato Hiramatsu">
+      <L>          ####</L>
+      <L>###########. #</L>
+      <L>#  ..........#</L>
+      <L># #.#######..#</L>
+      <L># # $ $  ## ##</L>
+      <L># #$ $@$ ## #</L>
+      <L>#   $ $$$ # #</L>
+      <L>### $$$   # #</L>
+      <L>  #  $  ###$#</L>
+      <L>  ##     #  #</L>
+      <L>   #####    #</L>
+      <L>       ###  #</L>
+      <L>         ####</L>
+    </Level>
+    <Level Id="Kevin / Level 16 R--2" Width="14" Height="13" Copyright="Kevin B Reilly, Masato Hiramatsu">
+      <L>          ####</L>
+      <L>###########. #</L>
+      <L>#  ..........#</L>
+      <L># #.#######..#</L>
+      <L># # $ $  ## ##</L>
+      <L># #$ $@$ ## #</L>
+      <L>#   $ $ $ # #</L>
+      <L>###$ $ $  # #</L>
+      <L>  # $ $ ###$#</L>
+      <L>  ##     #  #</L>
+      <L>   #####    #</L>
+      <L>       ###  #</L>
+      <L>         ####</L>
+    </Level>
+    <Level Id="Kevin / Level 44 R--1" Width="14" Height="10" Copyright="Kevin B Reilly, unknown">
+      <L>      #######</L>
+      <L>  #####     #</L>
+      <L> ##   # @#$$#</L>
+      <L> #... $$##  ##</L>
+      <L>##.#.#   $$  #</L>
+      <L># ...#$$   # #</L>
+      <L># $ ## ##  $ #</L>
+      <L># #$ $ .##   #</L>
+      <L># $ ....######</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Kevin / Level 44 R--3" Width="14" Height="10" Copyright="Kevin B Reilly, Zhenying">
+      <L>      #######</L>
+      <L>  #####     #</L>
+      <L> ##   # @#$$#</L>
+      <L> #. . $$##  ##</L>
+      <L>##.#.#   $$  #</L>
+      <L># ...#$$   # #</L>
+      <L>#   ## ##  $ #</L>
+      <L># #$$  .##   #</L>
+      <L>#  $....######</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Kevin / Level 44 R--4" Width="14" Height="10" Copyright="Kevin B Reilly, Zhenying">
+      <L>       ######</L>
+      <L> #######    #</L>
+      <L> #    # @$$$#</L>
+      <L> # #  $$##  ##</L>
+      <L>##   #$  $$  #</L>
+      <L>#  ..#  $  # #</L>
+      <L>#  .## ##  $ #</L>
+      <L># #.   .##   #</L>
+      <L>#  .....######</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Kevin / Level 46 R--1" Width="13" Height="12" Copyright="Kevin B Reilly, stopheart">
+      <L>      ####</L>
+      <L>      #  ####</L>
+      <L>####### $#  #</L>
+      <L>#.#..    #$ #</L>
+      <L>#.*.*$$$$   #</L>
+      <L>#.#.#@ $ #$ #</L>
+      <L>#... ##$    #</L>
+      <L>#.*. ##  #$ #</L>
+      <L>#  .###$ $  #</L>
+      <L>##### #  $ ##</L>
+      <L>      ##   #</L>
+      <L>       #####</L>
+    </Level>
+    <Level Id="Kevin / Level 63 R--2" Width="17" Height="13" Copyright="Kevin B Reilly, Jordi Doménech">
+      <L>     #########</L>
+      <L> #####    #  #</L>
+      <L> #  ##$ #    #</L>
+      <L> #    $ # #  ####</L>
+      <L> # ###$##  $#   #</L>
+      <L> # #  $ ##$  $$ #</L>
+      <L> # # #  $@$ $   #</L>
+      <L>## #    ##$$ $$##</L>
+      <L>#  #######    $ #</L>
+      <L># .....*.#### # #</L>
+      <L>####..*..*      #</L>
+      <L>   ##......######</L>
+      <L>    ########</L>
+    </Level>
+    <Level Id="Kevin / Level 87 R--1" Width="14" Height="11" Copyright="Kevin B Reilly, Masato Hiramatsu">
+      <L> #########</L>
+      <L> #   #   ####</L>
+      <L>## # #*.$ ..#</L>
+      <L>#  $    $#  #</L>
+      <L># $$##*. #..##</L>
+      <L>##  @#  ##   #</L>
+      <L> #####..$ .. #</L>
+      <L>   # $ #$ # ##</L>
+      <L>   #   $  $ #</L>
+      <L>   #####  ###</L>
+      <L>       ####</L>
+    </Level>
+    <Level Id="Kevin / Level 87 R--2" Width="14" Height="11" Copyright="Kevin B Reilly, Masato Hiramatsu">
+      <L> #########</L>
+      <L> #   #   ####</L>
+      <L>## # #*.$ ..#</L>
+      <L>#  $    $# .#</L>
+      <L># $$##*. #..##</L>
+      <L>##  @#  ##$  #</L>
+      <L> #####..$ .. #</L>
+      <L>   # $ #$ # ##</L>
+      <L>   #   $  $ #</L>
+      <L>   #####  ###</L>
+      <L>       ####</L>
+    </Level>
+    <Level Id="Kevin / Level 199 R--1" Width="15" Height="17" Copyright="Kevin B Reilly, unknown">
+      <L>    ##########</L>
+      <L>    #  #  #  #</L>
+      <L>    ##      ##</L>
+      <L>    ###$# $ ###</L>
+      <L>    #  ...    #</L>
+      <L>    #  ...$####</L>
+      <L>   ### ... $  #</L>
+      <L>  ##  $#### # #</L>
+      <L> ##    #@ #   #</L>
+      <L>##     #  #   #</L>
+      <L>#     $#  #   #</L>
+      <L>#    # #  #   #</L>
+      <L>#   #  # ##$###</L>
+      <L>#   #  $ $   #</L>
+      <L>#   #  # #   #</L>
+      <L>#      # #   #</L>
+      <L>##############</L>
+    </Level>
+    <Level Id="Kevin / Level 203 R--2" Width="17" Height="18" Copyright="Kevin B Reilly, Jordi Doménech">
+      <L>       ##########</L>
+      <L> #######        #</L>
+      <L> #       #####$ #</L>
+      <L> #$#####.       #</L>
+      <L> #      .#####$##</L>
+      <L> #$#####.      #</L>
+      <L> #      .#####$#</L>
+      <L> #$#####.      #</L>
+      <L> #      .#####$#</L>
+      <L> #$#####.      #</L>
+      <L> #      .#####$#</L>
+      <L> #$#####.      #</L>
+      <L> #      .#####$#</L>
+      <L>##$#####.      #</L>
+      <L>#       .#####$#</L>
+      <L># $#####.      #</L>
+      <L>#    @  . ######</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Kevin / Level 275 R--1" Width="18" Height="15" Copyright="Kevin B Reilly, unknown">
+      <L>      ###########</L>
+      <L>      #   #     #</L>
+      <L>  ##### # #   $ #</L>
+      <L>  #   $ $  $$$ $##</L>
+      <L>  # # # # $      #</L>
+      <L>  # $$ $ $ $ $   #</L>
+      <L>  #     ####### ##</L>
+      <L>######$##     # #</L>
+      <L>#...#    $@$  # #</L>
+      <L>#...#   #$$$  # #</L>
+      <L>##..#####    ##$##</L>
+      <L> #..#  ########  #</L>
+      <L> #......      $  #</L>
+      <L> #......   ####  #</L>
+      <L> ###########  ####</L>
+    </Level>
+    <Level Id="Kevin / Level 285 R--1" Width="19" Height="17" Copyright="Kevin B Reilly, unknown">
+      <L>########</L>
+      <L>#......###########</L>
+      <L>#......#  #  #   #</L>
+      <L>#......#  $  $   #</L>
+      <L>#...####  #  $ $ ##</L>
+      <L>#...#  ##$##### $ #</L>
+      <L>#...# $       # $ #</L>
+      <L>#...$  $$$$   #   #</L>
+      <L>#. .##  #@##### $##</L>
+      <L>### ## ######  $ ##</L>
+      <L>  # # $  $  $ #   #</L>
+      <L>  #$#   $  $  $ $ #</L>
+      <L>  # $$   $$#  #   #</L>
+      <L>  #   $$#  #$ #####</L>
+      <L>  # $ $ #  #  #</L>
+      <L>  #     ####  #</L>
+      <L>  #######  ####</L>
+    </Level>
+    <Level Id="Kevin / Level 289 R--2" Width="15" Height="17" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L> #######</L>
+      <L>##     #</L>
+      <L># $ $$ #</L>
+      <L># $   $########</L>
+      <L>#             #</L>
+      <L>###$########$ #</L>
+      <L> #..  ## ...$ #</L>
+      <L> #.. $  .*.# ##</L>
+      <L> ##### ###.# #</L>
+      <L>    # @$ $$# #</L>
+      <L>    # ## # # #</L>
+      <L>    # *. # # #</L>
+      <L>    # *.   # ##</L>
+      <L>    ## #####  #</L>
+      <L>     #        #</L>
+      <L>     #  #######</L>
+      <L>     ####</L>
+    </Level>
+    <Level Id="Kevin / Level 289 R--3" Width="15" Height="17" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>#########</L>
+      <L>#   #   #</L>
+      <L># $ $   #  ####</L>
+      <L># $ $$$$####  #</L>
+      <L>#             #</L>
+      <L>###$########$ #</L>
+      <L> #..  ##....$ #</L>
+      <L> #..   $.*.# ##</L>
+      <L> ####### # # #</L>
+      <L>    # @$ #$# #</L>
+      <L>    # ## # # #</L>
+      <L>    # *. # # #</L>
+      <L>    ##..   # ##</L>
+      <L>     # #####  #</L>
+      <L>     #        #</L>
+      <L>     #  #######</L>
+      <L>     ####</L>
+    </Level>
+    <Level Id="Kevin / Level 289 R--4" Width="15" Height="17" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>#########</L>
+      <L>#       #</L>
+      <L># $ $   #</L>
+      <L># $ $$$$#######</L>
+      <L>#             #</L>
+      <L>###$########$ #</L>
+      <L> #..  ##....$ #</L>
+      <L> #.. $ ..*.# ##</L>
+      <L> ##### ###.# #</L>
+      <L>    # @$ $$# #</L>
+      <L>    # ## # # #</L>
+      <L>    # *. # # #</L>
+      <L>    # *.   # ##</L>
+      <L>    ## #####  #</L>
+      <L>     #        #</L>
+      <L>     #  #######</L>
+      <L>     ####</L>
+    </Level>
+    <Level Id="Kevin / Level 289 R--5" Width="15" Height="17" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>#########</L>
+      <L>#       #</L>
+      <L># $ $   #</L>
+      <L># $ $$$$#######</L>
+      <L>#             #</L>
+      <L>###$########$ #</L>
+      <L> #..  ## ...$ #</L>
+      <L> #.. $...*.# ##</L>
+      <L> ##### ###.# #</L>
+      <L>    # @$ $$# #</L>
+      <L>    # ## # # #</L>
+      <L>    # *. # # #</L>
+      <L>    # *.   # ##</L>
+      <L>    ## #####  #</L>
+      <L>     #        #</L>
+      <L>     #  #######</L>
+      <L>     ####</L>
+    </Level>
+    <Level Id="Kevin / Level 289 R--6" Width="15" Height="17" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>#########</L>
+      <L>#       #</L>
+      <L># $ $ $ #</L>
+      <L># $ $$#$######</L>
+      <L>#            ##</L>
+      <L>###$########$ #</L>
+      <L> #.  #+*....  #</L>
+      <L> #.*  **.*.#  #</L>
+      <L> ##### ###.# ##</L>
+      <L>    #      # #</L>
+      <L>   ##  # # # #</L>
+      <L>   # $## # # #</L>
+      <L>   #...$ $ # ##</L>
+      <L>   ## ######  #</L>
+      <L>   #        $ #</L>
+      <L>   #   #####  #</L>
+      <L>   #####   ####</L>
+    </Level>
+    <Level Id="Kevin / Level 323 R--1" Width="6" Height="17" Copyright="Kevin B Reilly, Jordi Doménech">
+      <L> #####</L>
+      <L>## @ #</L>
+      <L>#  # #</L>
+      <L>#.$$.#</L>
+      <L>#  # #</L>
+      <L>#.$$.#</L>
+      <L>#  # #</L>
+      <L>#.$$.#</L>
+      <L>#  # #</L>
+      <L>#.$$.#</L>
+      <L>#  # #</L>
+      <L>#.$$.#</L>
+      <L>#  # #</L>
+      <L>#.$$.#</L>
+      <L>#  # #</L>
+      <L>##   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Kevin / Level 328 R--1" Width="10" Height="8" Copyright="Kevin B Reilly, unknown">
+      <L>##########</L>
+      <L>#  @ #.  #</L>
+      <L># $$$ .  #</L>
+      <L>### ## # #</L>
+      <L>  #   .. #</L>
+      <L>  #$# ####</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Kevin / Level 410 R--1" Width="19" Height="12" Copyright="Kevin B Reilly, unknown">
+      <L>             ######</L>
+      <L>  ####       #    #</L>
+      <L> ##  #########$ $ #</L>
+      <L> #           $ $$ #</L>
+      <L>## # ### #### $   #</L>
+      <L># $..#  @   ##$$  #</L>
+      <L># #....# #  ##   ##</L>
+      <L>#  $#....## ## $ #</L>
+      <L>### # #..   ##  ##</L>
+      <L>  #   # ### ##$ #</L>
+      <L>  ###       ##  #</L>
+      <L>    #############</L>
+    </Level>
+    <Level Id="Kevin / Level 421 R--2" Width="18" Height="16" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L> ####   ######</L>
+      <L> # @#   # .  #</L>
+      <L> #$ #####    ###</L>
+      <L> # $   # .#    #</L>
+      <L>##.#.#.$ $. ## ##</L>
+      <L># .$ $.#### ## .#</L>
+      <L>#       * .$###.#</L>
+      <L>#########   # $ ##</L>
+      <L>   #    * ### #  #</L>
+      <L> ###$$#.. $ #  $ #</L>
+      <L>## $  ## $#.  #  #</L>
+      <L>#  $ $ #  $ ######</L>
+      <L># $ #  ###  #</L>
+      <L># .#.$ # ####</L>
+      <L># ... ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Kevin / Level 421 R--3" Width="18" Height="16" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L> ####   ######</L>
+      <L> # @#   # .  #</L>
+      <L> #$ #####    ##</L>
+      <L> # $   # .#   #</L>
+      <L>##.#.#.$ $. # ###</L>
+      <L># .$ $.#### #  .#</L>
+      <L>#       * .$###.#</L>
+      <L>#########   # $ ##</L>
+      <L>   #    * ### #  #</L>
+      <L> ###$$#.. $ #  $ #</L>
+      <L>## $  ## $#.  #  #</L>
+      <L>#  $ $ #  $ ######</L>
+      <L># $ #  ###  #</L>
+      <L># .#.$ # ####</L>
+      <L># ... ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Kevin / Level 434 R--2" Width="15" Height="13" Copyright="Kevin B Reilly, stopheart, Jordi Doménech">
+      <L>     ######</L>
+      <L>     #    #####</L>
+      <L>######$## #   #</L>
+      <L>#           $ #</L>
+      <L># # ##.##.##$##</L>
+      <L># $ $.. $..  #</L>
+      <L>### #$#.*###$#</L>
+      <L>  #$$.. $..  #</L>
+      <L> ##.##.  .## #</L>
+      <L> # $  $## ## ##</L>
+      <L> #   #@$      #</L>
+      <L> ##########   #</L>
+      <L>          #####</L>
+    </Level>
+    <Level Id="Kevin / Level 434 R--3" Width="15" Height="13" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>     ######</L>
+      <L>     #    #####</L>
+      <L>######$## #   #</L>
+      <L>#           $ #</L>
+      <L># # ##.#####$##</L>
+      <L># $ $..  ..  #</L>
+      <L>### #$#.*###$#</L>
+      <L>  #$ .. $..  #</L>
+      <L> ##.##.  ### #</L>
+      <L> # $  $##### ##</L>
+      <L> #   #@$      #</L>
+      <L> ##########   #</L>
+      <L>          #####</L>
+    </Level>
+    <Level Id="Kevin / Level 434 R--4" Width="14" Height="13" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>     #####</L>
+      <L>     #   #####</L>
+      <L>######$# #   #</L>
+      <L>#          $ #</L>
+      <L># # ##.####$##</L>
+      <L># $ $..  .. #</L>
+      <L>### #$#.*##$#</L>
+      <L>  #$ .. $.. #</L>
+      <L> ##.##.  ## #</L>
+      <L> # $  $#### ##</L>
+      <L> #   #@$     #</L>
+      <L> #########   #</L>
+      <L>         #####</L>
+    </Level>
+    <Level Id="Kevin / Level 434 R--5" Width="13" Height="13" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>    #####</L>
+      <L>    #   #####</L>
+      <L> ####$# #   #</L>
+      <L>##        $ #</L>
+      <L>#  ##.####$##</L>
+      <L># $$..  .. #</L>
+      <L>#  #$#.###$#</L>
+      <L>##$ .. $.. #</L>
+      <L>##.##.  ## #</L>
+      <L># $  $#### ##</L>
+      <L>#   #@$     #</L>
+      <L>#########   #</L>
+      <L>        #####</L>
+    </Level>
+    <Level Id="Kevin / Level 434 R--6" Width="15" Height="13" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>     ######</L>
+      <L>     #    #####</L>
+      <L>######$## #   #</L>
+      <L>#           $ #</L>
+      <L># # ##.##.##$##</L>
+      <L># $ $.. $..  #</L>
+      <L>### # #.*###$#</L>
+      <L>  #$$.. $..  #</L>
+      <L> ##.##.  ### #</L>
+      <L> # $  $##### ##</L>
+      <L> #   #@$      #</L>
+      <L> ##########   #</L>
+      <L>          #####</L>
+    </Level>
+    <Level Id="Kevin / Level 434 R--7" Width="14" Height="13" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>    ######</L>
+      <L>    #    #####</L>
+      <L> ####$## #   #</L>
+      <L>##         $ #</L>
+      <L>#  ##.#####$##</L>
+      <L># $$..  ..  #</L>
+      <L>#  #$#.####$#</L>
+      <L>##$ .. $..  #</L>
+      <L>##.##.  ### #</L>
+      <L># $  $##### ##</L>
+      <L>#   #@$      #</L>
+      <L>##########   #</L>
+      <L>         #####</L>
+    </Level>
+    <Level Id="Kevin / Level 438 R--2" Width="19" Height="14" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>      ######</L>
+      <L>  #####    #####</L>
+      <L>  #  $  ##$    #</L>
+      <L>  # $$$ @  $$$ #</L>
+      <L>  #    ## #    #</L>
+      <L>  ###  ...######</L>
+      <L> #######..#   #####</L>
+      <L>##   .....#####   #</L>
+      <L># $$####**...   # #</L>
+      <L># $  $ #..#### $$ #</L>
+      <L># $# $ #..## $ $  #</L>
+      <L>#      #..    #$  #</L>
+      <L>######   ######   #</L>
+      <L>     #####    #####</L>
+    </Level>
+    <Level Id="Kevin / Level 453 R--2" Width="14" Height="12" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>       #####</L>
+      <L> ##### #   #</L>
+      <L>##   ###$# ###</L>
+      <L>#  $  #..$   #</L>
+      <L># ##$$ ..# $ #</L>
+      <L># #   #*.$  ##</L>
+      <L>#  $ ##..#  #</L>
+      <L>### @ $ .##$#</L>
+      <L>  # $$$#..  #</L>
+      <L>  ###   *. ##</L>
+      <L>    #  #..##</L>
+      <L>    #######</L>
+    </Level>
+    <Level Id="Kevin / Level 453 R--3" Width="14" Height="12" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>       #####</L>
+      <L> ##### #   #</L>
+      <L>##   ###$# ###</L>
+      <L>#  $  #..$   #</L>
+      <L># ## $ ..# $ #</L>
+      <L># #  ##*.$  ##</L>
+      <L>#  $ ##..#  #</L>
+      <L>###   $ .##$#</L>
+      <L>  # $$$#..$@#</L>
+      <L>  ###   *. ##</L>
+      <L>    #  #..##</L>
+      <L>    #######</L>
+    </Level>
+    <Level Id="Kevin / Level 475 R--1" Width="19" Height="17" Copyright="Kevin B Reilly, unknown">
+      <L>#####      ######</L>
+      <L>#   ########    ##</L>
+      <L># $  #..#  #$##  #</L>
+      <L>#  $ #..  $#..$  #</L>
+      <L># $  $  # $ ..#  #</L>
+      <L>#  $ ## # # # ## #</L>
+      <L>##  ### #   # ##$#</L>
+      <L>##$#### ### #$#..##</L>
+      <L>#  #..  #.. $ $.. #</L>
+      <L>#  #..$  ..$#     #</L>
+      <L>#  ##  # ## ##    #</L>
+      <L>## #####$## ##    #</L>
+      <L> #       ## ..$   #</L>
+      <L> #$$##$#    ..#$ ##</L>
+      <L> #@$   # #$####  #</L>
+      <L> ####    #      ##</L>
+      <L>    #############</L>
+    </Level>
+    <Level Id="Kevin / Level 491 R--1" Width="19" Height="17" Copyright="Kevin B Reilly, Jordi Doménech">
+      <L>            #######</L>
+      <L>#####       #     #</L>
+      <L>#   ####### # ### #</L>
+      <L># #.$    .###$#.# #</L>
+      <L>#  .  #$#.   $ .  #</L>
+      <L>###$###   ###$#  ##</L>
+      <L>  #  ###### # ## #</L>
+      <L>  ## ###### #    #</L>
+      <L>  #  ##  @# ###  #</L>
+      <L>### ### #$##### ###</L>
+      <L># $.##   $    #.  #</L>
+      <L># #.## ##$### #*# #</L>
+      <L># $.## # .     *  #</L>
+      <L># #.     .# ### # #</L>
+      <L># $$ ####.#$# #   #</L>
+      <L>#    #  #   # #####</L>
+      <L>######  #####</L>
+    </Level>
+    <Level Id="Kevin / Level 491 R--2" Width="18" Height="16" Copyright="Kevin B Reilly, Jordi Doménech">
+      <L>           #######</L>
+      <L>#####      #     #</L>
+      <L>#   ######## ### #</L>
+      <L># #.$    .##$#.# #</L>
+      <L>#  .  #$#.  $ .  #</L>
+      <L>###$###   ##$#  ##</L>
+      <L>  #  ####### ## #</L>
+      <L>  ## #  @# #    #</L>
+      <L>###  # #$##### ###</L>
+      <L># $.##  $    #.  #</L>
+      <L># #.#  #$### #*# #</L>
+      <L># $.# ##.     *  #</L>
+      <L># #.    .# ### # #</L>
+      <L># $$ ###.#$# #   #</L>
+      <L>#    # #   # #####</L>
+      <L>###### #####</L>
+    </Level>
+    <Level Id="Kevin / Level 491 R--3" Width="18" Height="16" Copyright="Kevin B Reilly, Jordi Doménech">
+      <L>           #######</L>
+      <L>#####      #     #</L>
+      <L>#   ######## ### #</L>
+      <L># #.$    .##$#.# #</L>
+      <L>#  .  #$#.  $ .  #</L>
+      <L>###$###   ##$#  ##</L>
+      <L>  #  ####### ## #</L>
+      <L>  ## #  @# #    #</L>
+      <L>###  # #$##### ###</L>
+      <L># $.##  $    #.  #</L>
+      <L># #.## #$### #*# #</L>
+      <L># $ # .#.     *  #</L>
+      <L># #   . .# ### # #</L>
+      <L># $$ ###.#$# #   #</L>
+      <L>#    # #   # #####</L>
+      <L>###### #####</L>
+    </Level>
+    <Level Id="Kevin / Level 491 R--5" Width="18" Height="16" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>           #######</L>
+      <L>#####      #     #</L>
+      <L>#   ######## ### #</L>
+      <L># #.$    .##$#.# #</L>
+      <L>#  .  #$#.  $ .  #</L>
+      <L>###$###   ##$#  ##</L>
+      <L>  #  ####### ## #</L>
+      <L>  ## #  @# #    #</L>
+      <L>###  # #$##### ###</L>
+      <L># $.##  $    #.  #</L>
+      <L># # ##.#$### #*# #</L>
+      <L># $ ##.#..    *  #</L>
+      <L># #     .  ### # #</L>
+      <L># $$ ###.#$# #   #</L>
+      <L>#    # #   # #####</L>
+      <L>###### #####</L>
+    </Level>
+    <Level Id="Kevin / Level 491 R--6" Width="18" Height="16" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>           #######</L>
+      <L>#####      #     #</L>
+      <L>#   ######## ### #</L>
+      <L># #.$     ##$#.# #</L>
+      <L>#  .. #$#.  $ .  #</L>
+      <L>###$###   ##$#  ##</L>
+      <L>  #  ####### ## #</L>
+      <L>  ## #  @# #    #</L>
+      <L>###  # #$##### ###</L>
+      <L># $ ##  $    #.  #</L>
+      <L># # ##.#$### #*# #</L>
+      <L># $ ##.#.     *  #</L>
+      <L># #   ...# ### # #</L>
+      <L># $$ ###.#$# #   #</L>
+      <L>#    # #   # #####</L>
+      <L>###### #####</L>
+    </Level>
+    <Level Id="Kevin / Level 495 R--1" Width="15" Height="13" Copyright="Kevin B Reilly, unknown">
+      <L>        #######</L>
+      <L>#####   #     #</L>
+      <L>#   ### # $ $ #</L>
+      <L>#  $  # #$ $  #</L>
+      <L>#  $# # # $ $ #</L>
+      <L>#  $  ###$ $  #</L>
+      <L>#### .#.  $   #</L>
+      <L>   #.. ..  ####</L>
+      <L>  ###   ####</L>
+      <L>  #@.. ..#</L>
+      <L>  #  .#. #</L>
+      <L>  #####  #</L>
+      <L>      ####</L>
+    </Level>
+    <Level Id="Kevin / Level 498 R--1" Width="15" Height="10" Copyright="Kevin B Reilly, unknown">
+      <L>    #####</L>
+      <L> ####   ##</L>
+      <L>##  #    ##</L>
+      <L>#   #$ $  #</L>
+      <L># $ # $ $ #</L>
+      <L>## $   #$$###</L>
+      <L> # @#  #    ###</L>
+      <L> #$###### #   #</L>
+      <L> #.........   #</L>
+      <L> ##############</L>
+    </Level>
+    <Level Id="Kevin / Level 515 R--1" Width="13" Height="10">
+      <L>    #########</L>
+      <L>    #   #   #</L>
+      <L>##### #$# # #</L>
+      <L>#   #  @$ . #</L>
+      <L># # ###.#   #</L>
+      <L># # $ #$#####</L>
+      <L># .$ $.   #</L>
+      <L>###.#.# # #</L>
+      <L>  #   #   #</L>
+      <L>  #########</L>
+    </Level>
+    <Level Id="Kevin / Level 533 R--1" Width="15" Height="10" Copyright="Kevin B Reilly, unknown">
+      <L>   ############</L>
+      <L>  ##  #       #</L>
+      <L>###  $#$$ # # #</L>
+      <L>#   #@$  ##   #</L>
+      <L>#   $$# $  $###</L>
+      <L>### #   ### ##</L>
+      <L># $ $  #..#  #</L>
+      <L>#   ####..   #</L>
+      <L>#   ......####</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Kevin / Level 535 R--1" Width="14" Height="13" Copyright="Kevin B Reilly, unknown">
+      <L>###########</L>
+      <L>#   ##    ##</L>
+      <L># $ ##.   .#</L>
+      <L># $ ## ... ###</L>
+      <L># $ ## ...   #</L>
+      <L># $ ## ...   #</L>
+      <L># $  #.###. ##</L>
+      <L>##$  #####   #</L>
+      <L># $      #   #</L>
+      <L># $#$$$$$## ##</L>
+      <L>#  @        #</L>
+      <L>##########  #</L>
+      <L>         ####</L>
+    </Level>
+    <Level Id="Kevin / Level 562 R--1" Width="15" Height="14" Copyright="Kevin B Reilly, Jordi Doménech">
+      <L>##########</L>
+      <L>#.*.  $  ####</L>
+      <L># #.##$# $  #</L>
+      <L>#  ....$ ## ###</L>
+      <L>## .##.# ## $ #</L>
+      <L> ## ##....# $ #</L>
+      <L>  #  $.# .$ $ #</L>
+      <L>  # ##@$ .# $ #</L>
+      <L>  #  ## #.    #</L>
+      <L>  ##  $ ####$##</L>
+      <L>   # $#      #</L>
+      <L>   #  $$$#####</L>
+      <L>   ##    #</L>
+      <L>    ######</L>
+    </Level>
+    <Level Id="Kevin / Level 581 R--1" Width="17" Height="12" Copyright="Kevin B Reilly, Marek Letrab">
+      <L>   ####   ####</L>
+      <L>   #  #   #  #</L>
+      <L>   #  #####  #</L>
+      <L>#### $$   $$ ###</L>
+      <L>#  #        $$ #</L>
+      <L># $#####$###   #</L>
+      <L>#  # ...*..   ###</L>
+      <L>#  # ###@# # $$ #</L>
+      <L>#    ...*..#    #</L>
+      <L>## ##### ########</L>
+      <L> #       #</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="Kevin / Level 583 R--1" Width="18" Height="13" Copyright="Kevin B Reilly, unknown">
+      <L>########     #####</L>
+      <L>#  #   #######   #</L>
+      <L>#  $   $     $   #</L>
+      <L>#  ##$## ##$# #$##</L>
+      <L>##$##  # #  #$#  #</L>
+      <L>#   $  #@#       #</L>
+      <L>#   #  # #### ####</L>
+      <L>#####$## #### ####</L>
+      <L>   #   $$ ## . ..#</L>
+      <L>   #   #  ## . #.#</L>
+      <L>   ######  ......#</L>
+      <L>        #####.#  #</L>
+      <L>            ######</L>
+    </Level>
+    <Level Id="Kevin / Level 597 R--1" Width="16" Height="13" Copyright="Kevin B Reilly, Marek Letrab">
+      <L> #####</L>
+      <L> #   #</L>
+      <L>##   ###</L>
+      <L>#      #####</L>
+      <L># $ ...#   #</L>
+      <L>#   ...  $ #</L>
+      <L>### .#### #####</L>
+      <L>  #..##    #  #</L>
+      <L>  #..  $$$$ $ ##</L>
+      <L>  #### $ @$ $  #</L>
+      <L>     ## $  #   #</L>
+      <L>      ##  ######</L>
+      <L>       ####</L>
+    </Level>
+    <Level Id="Kevin / Level 644 R--1" Width="15" Height="15" Copyright="Kevin B Reilly, Jordi Doménech">
+      <L>     ########</L>
+      <L>    ##      ###</L>
+      <L>  ###  ####   #</L>
+      <L>  # $ ##..### #</L>
+      <L>  #    ...* # #</L>
+      <L>#######*..# # #</L>
+      <L>#     ...## $ #</L>
+      <L># #$# #..$  # #</L>
+      <L>#   # ### # # #</L>
+      <L>##$$  $    $  #</L>
+      <L> # # #$# ##$# #</L>
+      <L> #   #     $  #</L>
+      <L> ####### $#####</L>
+      <L>       #@ #</L>
+      <L>       ####</L>
+    </Level>
+    <Level Id="Kevin / Level 671 R--1" Width="17" Height="16" Copyright="Kevin B Reilly, Jordi Doménech">
+      <L>  ####</L>
+      <L>  #  ############</L>
+      <L>  #             #</L>
+      <L>###$##########  #</L>
+      <L>#            $ ##</L>
+      <L># # $$###### # #</L>
+      <L># # #..*.....  #</L>
+      <L># # #   ## $ # #</L>
+      <L># # #$#$@# ### #</L>
+      <L># $ $....*..   #</L>
+      <L>## ###$###$### #</L>
+      <L> # #         # #</L>
+      <L> # $$####### # #</L>
+      <L> #             #</L>
+      <L> ############  #</L>
+      <L>            ####</L>
+    </Level>
+    <Level Id="Kevin / Level 679 R--1" Width="14" Height="12" Copyright="Kevin B Reilly, unknown">
+      <L>     #####</L>
+      <L>  ####   #</L>
+      <L>  # $  $ ####</L>
+      <L>### #$ # #  #</L>
+      <L>#. ...$  #  #</L>
+      <L>#.#### $ $  ##</L>
+      <L>#.##   ###.$ #</L>
+      <L># $  @...#.$ #</L>
+      <L># ##$#$# #.  #</L>
+      <L># ##     #$ ##</L>
+      <L>#    #####  #</L>
+      <L>######   ####</L>
+    </Level>
+    <Level Id="Kevin / Level 753 R--1" Width="14" Height="16" Copyright="Kevin B Reilly, unknown">
+      <L>   #######</L>
+      <L>  ##     ##</L>
+      <L> ##  $ $  ##</L>
+      <L> #  $ $ $  ##</L>
+      <L> # $ $ $ $  #</L>
+      <L> # ##########</L>
+      <L> # #.####.#</L>
+      <L>## #..  ..###</L>
+      <L>#  #$# $# # ##</L>
+      <L># @  $..#    #</L>
+      <L># $###  ###$ #</L>
+      <L>#  #.#$$#.   #</L>
+      <L>####......####</L>
+      <L>   #      #</L>
+      <L>   #      #</L>
+      <L>   ########</L>
+    </Level>
+    <Level Id="Kevin / Level 800 R--1" Width="14" Height="13" Copyright="Kevin B Reilly, Zbigniew Kornas">
+      <L>#########</L>
+      <L>#..     #</L>
+      <L>##.. ## #</L>
+      <L>#  ..## #</L>
+      <L>#   ..# ####</L>
+      <L>###  ...#  ###</L>
+      <L>  #  # ##    #</L>
+      <L>  #  # #  $  #</L>
+      <L>  # ## #$$$  #</L>
+      <L>  #@$ $$   $ #</L>
+      <L>  ###$ $ #$  #</L>
+      <L>    #    #   #</L>
+      <L>    ##########</L>
+    </Level>
+    <Level Id="Kevin / Level 837 R--1" Width="10" Height="10" Copyright="Kevin B Reilly, unknown">
+      <L>   ####</L>
+      <L>   #  #</L>
+      <L>   #  #</L>
+      <L>   # $####</L>
+      <L>####+.*  #</L>
+      <L>#  $*$.  #</L>
+      <L>#  $..*# #</L>
+      <L>## ##$ # #</L>
+      <L> #       #</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="Kevin / Level 838 R--1" Width="13" Height="14" Copyright="Kevin B Reilly, unknown">
+      <L>     #####</L>
+      <L>    ##   #</L>
+      <L>#####  $ #</L>
+      <L>#   # #$$##</L>
+      <L>#   $ #...#</L>
+      <L># $   $.#.#</L>
+      <L>#######. .###</L>
+      <L>  #####.#.$ #</L>
+      <L>  #   $+..# #</L>
+      <L> ##   #$#$# #</L>
+      <L> #  $ $ #   #</L>
+      <L> # # ## # ###</L>
+      <L> #        #</L>
+      <L> ##########</L>
+    </Level>
+    <Level Id="Kevin / Level 842 R--1" Width="12" Height="9">
+      <L>  #########</L>
+      <L>###   ##  #</L>
+      <L>#  $ $##  ##</L>
+      <L># # # ##$ .#</L>
+      <L>#  $ $@$ $##</L>
+      <L>###   #.* .#</L>
+      <L>  #   #..###</L>
+      <L>  #####..#</L>
+      <L>      ####</L>
+    </Level>
+    <Level Id="Kevin / Level 888 R--1" Width="18" Height="17">
+      <L> ###############</L>
+      <L> #             #</L>
+      <L> # ########### ###</L>
+      <L> # . .  .##.##.$ #</L>
+      <L> ## ## #     $$# #</L>
+      <L>### ##$$  #  # # #</L>
+      <L>#  . # ## # ##.# #</L>
+      <L># $#   # $# #### #</L>
+      <L>#  #$# #  $ #### #</L>
+      <L>## .   #$@#  $.# #</L>
+      <L> ####### ##$#  # #</L>
+      <L>  ######       # #</L>
+      <L>  #.#. $.##.##.  #</L>
+      <L>  # ####$##### ###</L>
+      <L>  #            #</L>
+      <L>  #  ###########</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Kevin / Level 926 R--1" Width="16" Height="11" Copyright="Kevin B Reilly, Jordi Doménech">
+      <L>       ####</L>
+      <L> #######  ######</L>
+      <L> # $           #</L>
+      <L> #   # $  #  $ #</L>
+      <L>##$####@#####$##</L>
+      <L>#     #*.#   $ #</L>
+      <L>#   $*..**.#   #</L>
+      <L>#### ..#...#####</L>
+      <L>   ##   $$ #</L>
+      <L>    ###   ##</L>
+      <L>      #####</L>
+    </Level>
+    <Level Id="Kevin / Level 1007 R--1" Width="12" Height="13" Copyright="Kevin B Reilly, unknown">
+      <L>############</L>
+      <L>#          #</L>
+      <L># ######## #</L>
+      <L># #   #  # #</L>
+      <L># $   $  $ #</L>
+      <L># ##$##  # #</L>
+      <L>#  ..##$## #</L>
+      <L>###***.  # #</L>
+      <L>  #..#     #</L>
+      <L>  ##.##$####</L>
+      <L>  # @   #</L>
+      <L>  #   ###</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Kevin / Level 1013 R--1" Width="9" Height="9" Copyright="Kevin B Reilly, stopheart">
+      <L> #######</L>
+      <L> #     ##</L>
+      <L>## # #  #</L>
+      <L>#  $$ # #</L>
+      <L># #$@$$ #</L>
+      <L>#...**.##</L>
+      <L>## #.###</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Kevin / Level 1031 R--1" Width="7" Height="11" Copyright="Kevin B Reilly, stopheart">
+      <L>####</L>
+      <L>#  ##</L>
+      <L>#   ##</L>
+      <L># $  #</L>
+      <L>##$# ##</L>
+      <L>#.*...#</L>
+      <L>#@$$#.#</L>
+      <L># $   #</L>
+      <L>### # #</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Kevin / Level 1034 R--1" Width="10" Height="15" Copyright="Kevin B Reilly, stopheart">
+      <L> ######</L>
+      <L> #    #</L>
+      <L> # ##.##</L>
+      <L> # #...###</L>
+      <L> #   ..  #</L>
+      <L> ###...  #</L>
+      <L> ####$####</L>
+      <L> #      #</L>
+      <L> # $$ # #</L>
+      <L>##$ $ $ #</L>
+      <L>#  $ # ##</L>
+      <L># @$   #</L>
+      <L>##$### #</L>
+      <L> #     #</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Kevin / Level 1037 R--1" Width="11" Height="9" Copyright="Kevin B Reilly, Jordi Doménech">
+      <L>       ####</L>
+      <L>  ######  #</L>
+      <L> ##  $    #</L>
+      <L> # .$.#.$ #</L>
+      <L>##.$# #$ ##</L>
+      <L># $. .$.  #</L>
+      <L>#   ### # #</L>
+      <L>##### # @ #</L>
+      <L>      #####</L>
+    </Level>
+    <Level Id="Kevin / Level 1057 R--1" Width="8" Height="9" Copyright="Kevin B Reilly, stopheart">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L>### # #</L>
+      <L># $ * ##</L>
+      <L># #. $ #</L>
+      <L># @$.. #</L>
+      <L>## #$# #</L>
+      <L> # *.  #</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Kevin / Level 1058 R--1" Width="10" Height="11" Copyright="Kevin B Reilly, stopheart">
+      <L>  #####</L>
+      <L>  #   ###</L>
+      <L>  # $   #</L>
+      <L>  #$$ $$#</L>
+      <L> ## # # ##</L>
+      <L> #...$...#</L>
+      <L>#### $ # #</L>
+      <L># $@.*.. #</L>
+      <L>#   #$####</L>
+      <L>###   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Kevin / Level 1061 R--2" Width="15" Height="11" Copyright="Kevin B Reilly, stopheart">
+      <L>  #######</L>
+      <L>###     #</L>
+      <L>#@$$### ####</L>
+      <L># # #....  #</L>
+      <L># $ ...*** #</L>
+      <L>### ##...* ####</L>
+      <L>  # ######$$  #</L>
+      <L>  # $      $  #</L>
+      <L>  #$# $$# # # #</L>
+      <L>  #     #     #</L>
+      <L>  #############</L>
+    </Level>
+    <Level Id="Kevin / Level 1061 R--3" Width="15" Height="11" Copyright="Kevin B Reilly, stopheart, York Shen">
+      <L>  #######</L>
+      <L>###     #</L>
+      <L>#@$$### ####</L>
+      <L># # #  ..  #</L>
+      <L># $ ...***.#</L>
+      <L>### ##...*.####</L>
+      <L>  # ######$$  #</L>
+      <L>  # $      $  #</L>
+      <L>  #$# $$# # # #</L>
+      <L>  #     #     #</L>
+      <L>  #############</L>
+    </Level>
+    <Level Id="Kevin / Level 1067 R--2" Width="22" Height="21" Copyright="Kevin B Reilly, Jordi Doménech, stopheart">
+      <L>         #####</L>
+      <L>        ## *.##</L>
+      <L>       ## $ *.##</L>
+      <L>      ## $ * *.##</L>
+      <L>     ## $ * * *.##</L>
+      <L>    ## $ * * * *.##</L>
+      <L>   ## $ * * * * *.##</L>
+      <L>  ## $ * * * * * *.##</L>
+      <L> ## $ * * * * * * *.##</L>
+      <L>## $ * $ * * * * * *.#</L>
+      <L>#@$ $ $ $ $ * $ * $ *#</L>
+      <L>## $ * $ * * * * * *.#</L>
+      <L> ## * * * * * * * *.##</L>
+      <L>  ## * * * * * * *.##</L>
+      <L>   ## * * * * * *.##</L>
+      <L>    ## * * * * *.##</L>
+      <L>     ## * * * *.##</L>
+      <L>      ## * * *.##</L>
+      <L>       ## * *.##</L>
+      <L>        ## *.##</L>
+      <L>         #####</L>
+    </Level>
+    <Level Id="Kevin / Level 1325 R--1" Width="7" Height="12" Copyright="Kevin B Reilly, Marek Letrab">
+      <L> #####</L>
+      <L> #@  #</L>
+      <L>##$# #</L>
+      <L>#  $ #</L>
+      <L>#$ $##</L>
+      <L>#.*.###</L>
+      <L>#.*   #</L>
+      <L>#   # #</L>
+      <L># . # #</L>
+      <L>## ## #</L>
+      <L> #    #</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Kevin / Level 1325 R--2" Width="7" Height="12" Copyright="Kevin B Reilly, YASGen">
+      <L> #####</L>
+      <L> #+  #</L>
+      <L>## # #</L>
+      <L>#    #</L>
+      <L># $$##</L>
+      <L>#.* ###</L>
+      <L>#.*   #</L>
+      <L>#$  # #</L>
+      <L># . # #</L>
+      <L>##$## #</L>
+      <L> #    #</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Kevin / Level 1706 R--1" Width="9" Height="11" Copyright="Kevin B Reilly, unknown">
+      <L> #####</L>
+      <L> #   ###</L>
+      <L> # $   #</L>
+      <L> #$$ $$#</L>
+      <L>## # # ##</L>
+      <L>#...$...#</L>
+      <L>### $ # #</L>
+      <L># @.*.  #</L>
+      <L>#  #$####</L>
+      <L>##   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Kevin / Level 1915 R--1" Width="11" Height="9" Copyright="Kevin B Reilly, York Shen">
+      <L>  #######</L>
+      <L>  #     #</L>
+      <L>###$ #$ ###</L>
+      <L># $ #   $ #</L>
+      <L># #.*.  #@#</L>
+      <L>#  ...# $ #</L>
+      <L>### .##$###</L>
+      <L>  #     #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Kevin / Level 1933 R--1" Width="11" Height="11" Copyright="Kevin B Reilly, stopheart">
+      <L>   #####</L>
+      <L>  ##   #</L>
+      <L>###  #$##</L>
+      <L>#   ..$@#</L>
+      <L>#  $..#$###</L>
+      <L># $ #.#   #</L>
+      <L>###$#**   #</L>
+      <L>  #  ..  ##</L>
+      <L>  ##$# ###</L>
+      <L>   #   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Kevin / Level 1942 R--1" Width="12" Height="10" Copyright="Kevin B Reilly, stopheart">
+      <L>#########</L>
+      <L>#       ####</L>
+      <L># # #$#... #</L>
+      <L># $ $ ..   #</L>
+      <L># $ ##.*# ##</L>
+      <L># $$ #..$ #</L>
+      <L>##@$ *.#$##</L>
+      <L> ### #   #</L>
+      <L>   #   ###</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Kevin / Level 1963 R--1" Width="12" Height="10" Copyright="Kevin B Reilly, unknown">
+      <L>      ####</L>
+      <L>#######  #</L>
+      <L>#        #</L>
+      <L># # ###  ###</L>
+      <L>#... ###.  #</L>
+      <L>#*.*$###.# #</L>
+      <L>#      $ $ #</L>
+      <L>##$#$#$#####</L>
+      <L> #  @  #</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Kevin / Level 1981 R--1" Width="11" Height="11" Copyright="Kevin B Reilly, stopheart">
+      <L>  ####</L>
+      <L>###@ ######</L>
+      <L># $$$ $ $ #</L>
+      <L># # # # # #</L>
+      <L>#   $..   #</L>
+      <L>### #..* ##</L>
+      <L>  #  ..# #</L>
+      <L>  # #..  #</L>
+      <L>  # $$# ##</L>
+      <L>  ###   #</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="Kevin / Level 1988 R--1" Width="10" Height="10" Copyright="Kevin B Reilly, unknown">
+      <L>   ####</L>
+      <L>   #  ###</L>
+      <L>   # $  #</L>
+      <L>####..# ##</L>
+      <L>#  $.  $ #</L>
+      <L>#  $ * . #</L>
+      <L>## #.*#*##</L>
+      <L> #    $@#</L>
+      <L> ###  ###</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--1" Width="27" Height="23" Copyright="Kevin B Reilly, York Shen">
+      <L>          ######     ####</L>
+      <L>         ##    #     #  #</L>
+      <L>         #  $  #######$ ###</L>
+      <L>         # $ $ $    $   $ #</L>
+      <L>    ######  $$   $ $$ $   #</L>
+      <L>   ##  #   $   $ $   $$$$ #</L>
+      <L>  ## $ #$#######$#####    #</L>
+      <L> ## $ $  #.......$..## ####</L>
+      <L> # $     #.#####.#..## ##</L>
+      <L> #$ $ $ $#.#####.#***.$ #</L>
+      <L> # $  $$ #.##........   #</L>
+      <L>##$  $$  #.##.@#.##.#####</L>
+      <L>#   $  $ #.##.##.##.#</L>
+      <L>#    $ $ #.##.##.##.#</L>
+      <L>########$#.......$ .#</L>
+      <L>   ##    # ##.#####.#</L>
+      <L>   #  $  #..$. ####.#####</L>
+      <L>   # #$  $..#.......  $ ###</L>
+      <L>   #   $$## ####### #$$ $ #</L>
+      <L>   ###$  $  #    #  $  $  #</L>
+      <L>     #   ####    # $  $   #</L>
+      <L>     #####       #  #######</L>
+      <L>                 ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--2" Width="29" Height="25" Copyright="Kevin B Reilly, stopheart, York Shen">
+      <L>      #####</L>
+      <L>####  #   #</L>
+      <L>#  #### #$####     ####</L>
+      <L># .*@   #    #     #  #</L>
+      <L>#  $$$ #  $  #######$ #</L>
+      <L>##.# ###$  $ $    $   ##</L>
+      <L> #.$ ###  $$   $ $$ $  #</L>
+      <L> # # #   $   $ $   $ # #</L>
+      <L> #   #$#############   #</L>
+      <L> ###.# # #  #      # ###</L>
+      <L>  #    ###$ ##  #### ##</L>
+      <L>  # ## #   $ #  #.*.$ ####</L>
+      <L>###*. .#.#   #  #.... #  #</L>
+      <L>#   .#.# $$* #  # #.###  ####</L>
+      <L># $*$ * .. . #  # #.  $$.   #</L>
+      <L>###  $ #####$#### #*### .*. #</L>
+      <L> #  ####....     ....##*  ###</L>
+      <L>## ##### ##.#####.##  * .##</L>
+      <L>#      #..$. ####.### #  #</L>
+      <L># $$#  $..#..*....  $ ####</L>
+      <L>#    $$## ####### #$# #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--3" Width="29" Height="25" Copyright="Kevin B Reilly, York Shen, stopheart">
+      <L>      #####</L>
+      <L>####  #   #</L>
+      <L>#  #### #$####     ####</L>
+      <L># .*@   #    #     #  #</L>
+      <L>#  $$$ #  $  #######$ ###</L>
+      <L>##.# ###$  $ $    $   $ #</L>
+      <L> #.$ ###  $$   $ $$ $   #</L>
+      <L> # # #   $   $ $   $ $$ #</L>
+      <L> #   #$#############    #</L>
+      <L> ###.# # #  #  ##### ####</L>
+      <L>  #    ###$ ## #..## ##</L>
+      <L>  # ##.#   $ # #*** $ ####</L>
+      <L>###*...#.#   # #...   #  #</L>
+      <L>#    #.# $$. # ##.#.### .####</L>
+      <L># $$$  #..$. #  #.#.  $$.   #</L>
+      <L>###  $###### ####.#*###  *. #</L>
+      <L> #    ##   ..... ... ##*. ###</L>
+      <L>## ##### ##.#####.##  *. ##</L>
+      <L>#      #..$. ####.### #  #</L>
+      <L>#  $#  $..#..*....  $ ####</L>
+      <L>##   $$## #######.#$$ $ #</L>
+      <L> ###$  $  #    #  $  $  #</L>
+      <L>   #   ####    # $  $   #</L>
+      <L>   #####       #  #######</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--4" Width="29" Height="25" Copyright="Kevin B Reilly, stopheart">
+      <L>      #####</L>
+      <L>####  #   #</L>
+      <L>#  #### #$####     ####</L>
+      <L># .*@   #    #     #  #</L>
+      <L>#  $$$ #  $  #######$ ##</L>
+      <L>##.# ###$  $ $    $    #</L>
+      <L> #.$ ###  $$   $ $$$$  #</L>
+      <L> # # #   $   $ $   $ # #</L>
+      <L> #   #$#############   #</L>
+      <L> ### # # #  #      # ###</L>
+      <L>  #    ###$ ##  #### ##</L>
+      <L>  #$# .#   $ #  #.* $ ####</L>
+      <L>###. . #.#   #  #..   #  #</L>
+      <L>#    #.# $$. #  #.#.###  ####</L>
+      <L># $$.$ #..$. #  #.#.  $$.   #</L>
+      <L>###.* ###### ####.#*###  *. #</L>
+      <L> #   ###............ ##*. ###</L>
+      <L>## ##### ##.#####.##  *  ##</L>
+      <L>#      #..$. ####.### #  #</L>
+      <L>#  $#  $  #..*....  $ ####</L>
+      <L>##   $$## #######.#$$ $ #</L>
+      <L> ###$  $  #    #  $  $  #</L>
+      <L>   #   ####    # $  $   #</L>
+      <L>   #####       #  #######</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--5" Width="29" Height="25" Copyright="Kevin B Reilly, stopheart">
+      <L>      #####</L>
+      <L>####  #   #</L>
+      <L>#  #### #$####     ####</L>
+      <L># .*@   #    #     #  #</L>
+      <L>#  $$$ #  $  #######$ ##</L>
+      <L>##.# ###$  $ $    $    #</L>
+      <L> #.$ ###  $$   $ $$$$  #</L>
+      <L> # # ##  $   $ $   $ # #</L>
+      <L> #   #  ############   #</L>
+      <L> ### #$###  #      # ###</L>
+      <L>  #    ###$ ##  #### ##</L>
+      <L>  # # .#   $ #  #.* $ ####</L>
+      <L>###. . #.#   #  #...  #  #</L>
+      <L>#  $ #.# $$. #  #.#.###  ####</L>
+      <L># $ .$ #..$. #  #.#.  $$.   #</L>
+      <L>###** ###### ####.#*###  *. #</L>
+      <L> #   ###............ ##*. ###</L>
+      <L>## ##### ##.#####.##  *  ##</L>
+      <L>#      #. $. ####.### #  #</L>
+      <L>#  $#  $  #..*....  $ ####</L>
+      <L>##   $$## #######.#$$ $ #</L>
+      <L> ###$  $  #    #  $  $  #</L>
+      <L>   #   ####    # $  $   #</L>
+      <L>   #####       #  #######</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--7" Width="29" Height="29" Copyright="Kevin B Reilly, York Shen, stopheart">
+      <L>     #######</L>
+      <L>     #  #  #</L>
+      <L>     #     #</L>
+      <L>     #  #  #</L>
+      <L>     ## #.##</L>
+      <L>####  # #  #</L>
+      <L>#  ####$##$###     ####</L>
+      <L># .*@   #    #     #  #</L>
+      <L>#  $$$ # $ $ #######$ #</L>
+      <L>##.# ###   $ $    $   ##</L>
+      <L> #.$ # #  $$   $ $$ $  #</L>
+      <L> # # ### $   $ $   $ # #</L>
+      <L> #   #  ############   #</L>
+      <L> ### #$ ##  #      # ###</L>
+      <L>  #   . ##$ ##  #### ##</L>
+      <L>  # ##.#   $ #  #.*.* ####</L>
+      <L>###*  .#.#   #  #.... #  #</L>
+      <L>#   .#.# $$* #  # #.###  ####</L>
+      <L># $*$ * .. . #  # #.  $$.   #</L>
+      <L>###  $ #####$#### #*### .*. #</L>
+      <L> #  ####....     .*..##*  ###</L>
+      <L>## ##### ##.#####.##  * .##</L>
+      <L>#      #..$. ####.### #  #</L>
+      <L># $$#  $..#..*....  $ ####</L>
+      <L>#    $$## ####### #$# #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--8" Width="29" Height="29" Copyright="Kevin B Reilly, York Shen, stopheart">
+      <L>     #######</L>
+      <L>     #  #  #</L>
+      <L>     #     #</L>
+      <L>     #  #  #</L>
+      <L>     ## #.##</L>
+      <L>####  # #  #</L>
+      <L>#  ####$##$###     ####</L>
+      <L># .*@   #    #     #  #</L>
+      <L>#  $$$ # $ $ #######$ #</L>
+      <L>##.# ###   $ $    $   ##</L>
+      <L> #.$ # #  $$   $ $$ $  #</L>
+      <L> # # ### $   $ $   $ # #</L>
+      <L> #   #  ############   #</L>
+      <L> ### #$ ##  #      # ###</L>
+      <L>  #     ##$ ##  #### ##</L>
+      <L>  # ##.#   $ #  #.*.* ####</L>
+      <L>###* . #.#   #  #.... #  #</L>
+      <L>#    #.# $$* #  # #.###  ####</L>
+      <L># $*$ * .. . #  # #.  $$.   #</L>
+      <L>### .$.#####$#### #*### .*. #</L>
+      <L> #  ####....     .*..##*  ###</L>
+      <L>## ##### ##.#####.##  * .##</L>
+      <L>#      #..$. ####.### #  #</L>
+      <L># $$#  $..#..*....  $ ####</L>
+      <L>#    $$## ####### #$# #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--9" Width="29" Height="29" Copyright="Kevin B Reilly, York Shen, stopheart">
+      <L>     #######</L>
+      <L>     #  #  #</L>
+      <L>     #     #</L>
+      <L>     #  #  #</L>
+      <L>     ## #.##</L>
+      <L>####  # #  #</L>
+      <L>#  ####$##$###     ####</L>
+      <L># .*@   #    #     #  #</L>
+      <L>#  $$$ # $ $ #######$ #</L>
+      <L>##.# ###   $ $    $   ##</L>
+      <L> #.$ # #  $$   $ $$ $  #</L>
+      <L> # # ### $   $ $   $ # #</L>
+      <L> #   #  ############   #</L>
+      <L> ### #$ ##  #      # ###</L>
+      <L>  #     ##$ ##  ####.##</L>
+      <L>  #.##.#   $ #  #.*.* ####</L>
+      <L>###*   #.#   #  #.... #  #</L>
+      <L>#  . #.# $$* #  # #.###  ####</L>
+      <L># $*$ $ .. . #  # #.  $$.   #</L>
+      <L>###..$ #####$#### #*### .*. #</L>
+      <L> #  ####....     .*..##*  ###</L>
+      <L>## ##### ##.#####.##  * .##</L>
+      <L>#      #. $. ####.### #  #</L>
+      <L># $$#  $..#..*....  $ ####</L>
+      <L>#    $$## ####### #$# #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--10" Width="29" Height="29" Copyright="Kevin B Reilly, York Shen, stopheart">
+      <L>     #######</L>
+      <L>     #  #  #</L>
+      <L>     #     #</L>
+      <L>     #  #  #</L>
+      <L>     ## #.##</L>
+      <L>####  # #  #</L>
+      <L>#  ####$##$###     ####</L>
+      <L># .*@   #    #     #  #</L>
+      <L>#  $$$ # $ $ #######$ #</L>
+      <L>##.# ###   $ $    $   ##</L>
+      <L> #.$ # #  $$   $ $$ $  #</L>
+      <L> # # ### $   $ $   $ # #</L>
+      <L> #   #  ############   #</L>
+      <L> ### #$ ##  #      # ###</L>
+      <L>  #     ##$ ##  ####.##</L>
+      <L>  #.##.#   $ #  #.*.* ####</L>
+      <L>###* . #.#   #  #.... #  #</L>
+      <L>#  . #.# $$* #  # #.###  ####</L>
+      <L># $*$ $ .. . #  # #.  $$.   #</L>
+      <L>###. $ #####$#### #*### .*. #</L>
+      <L> #  ####....     .*..##*  ###</L>
+      <L>## ##### ##.#####.##  * .##</L>
+      <L>#      #. $. ####.### #  #</L>
+      <L># $$#  $..#..*....  $ ####</L>
+      <L>#    $$## ####### #$# #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--11" Width="29" Height="29" Copyright="Kevin B Reilly, York Shen, stopheart">
+      <L>     #######</L>
+      <L>     #  #  #</L>
+      <L>     #     #</L>
+      <L>     #  #  #</L>
+      <L>     ## #.##</L>
+      <L>####  # #  #</L>
+      <L>#  ####$##$###     ####</L>
+      <L># .*@   #    #     #  #</L>
+      <L>#  $$$ # $ $ #######$ #</L>
+      <L>##.# ###   $ $    $   ##</L>
+      <L> #.$ # #  $$   $ $$ $  #</L>
+      <L> # # ### $   $ $   $ # #</L>
+      <L> #   #  ############   #</L>
+      <L> ### #$ ##  #      # ###</L>
+      <L>  # .   ##$ ##  ####.##</L>
+      <L>  #.##.#   $ #  #.*.* ####</L>
+      <L>###*   #.#   #  #.... #  #</L>
+      <L>#    #.# $$* #  #.# ###  ####</L>
+      <L># **$ $ .. . #  #.#   $$.   #</L>
+      <L>###. $ #####$####.#$### .*. #</L>
+      <L> #  ####.....     *..##*  ###</L>
+      <L>## ##### ##.##### ## .* .##</L>
+      <L>#      #. $. #### ###.#  #</L>
+      <L># $$#  $..#..*...   $.####</L>
+      <L>#    $$## ####### #$# #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--12" Width="29" Height="29" Copyright="Kevin B Reilly, York Shen, stopheart">
+      <L>     #######</L>
+      <L>     #  #  #</L>
+      <L>     #     #</L>
+      <L>     #  #  #</L>
+      <L>     ## #.##</L>
+      <L>####  # #  #</L>
+      <L>#  ####$##$###     ####</L>
+      <L># .*@   #    #     #  #</L>
+      <L>#  $$$ # $ $ #######$ #</L>
+      <L>##.# ###   $ $    $   ##</L>
+      <L> #.$ # #  $$   $ $$ $  #</L>
+      <L> # # ### $   $ $   $ # #</L>
+      <L> #   #  ############   #</L>
+      <L> ### #$ ##  #      # ###</L>
+      <L>  #  .  ##$ ##  ####.##</L>
+      <L>  #.## #   $ #  #.*.* ####</L>
+      <L>###*  .#.#   #  #.... #  #</L>
+      <L># .  #.# $$* #  #.# ###  ####</L>
+      <L># *$$ $ .. . #  #.#   $$.   #</L>
+      <L>###. $ #####$####.#$### .*. #</L>
+      <L> #  ####.....     *..##*  ###</L>
+      <L>## ##### ##.##### ## .* .##</L>
+      <L>#      #. $. #### ###.#  #</L>
+      <L># $$#  $..#..*...   $.####</L>
+      <L>#    $$## ####### #$# #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--13" Width="29" Height="29" Copyright="Kevin B Reilly, York Shen, stopheart, Xi Bei Tian Lang">
+      <L>     #######</L>
+      <L>     #  #  #</L>
+      <L>     #     #</L>
+      <L>     #  #  #</L>
+      <L>     ## #.##</L>
+      <L>####  # #  #</L>
+      <L>#  ####$##$###     ####</L>
+      <L># .*@   #    #     #  #</L>
+      <L>#  $$$ # $ $ #######$ #</L>
+      <L>##.# ###   $ $    $   ##</L>
+      <L> #.$ # #  $$   $ $$ $  #</L>
+      <L> # # ### $   $ $   $ # #</L>
+      <L> #   #  ############   #</L>
+      <L> ### #$ ##  #      # ###</L>
+      <L>  #     ##$ ##  #### ##</L>
+      <L>  # ##.#   $ #  #.*.* ####</L>
+      <L>###$  .#.#   #  #.... #  #</L>
+      <L>#  . #.# $$* #  #.#.###  ####</L>
+      <L># **$ * .. . #  #.#.  $$.   #</L>
+      <L>###. $ #####$####.#*### .*. #</L>
+      <L> #  ####.....     *..##*  ###</L>
+      <L>## ##### ##.##### ##  * .##</L>
+      <L>#      #. $. #### ### #  #</L>
+      <L># $$#  $..#..*...   $ ####</L>
+      <L>#    $$## ####### ### #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--14" Width="29" Height="29" Copyright="Kevin B Reilly, York Shen, stopheart, Xi Bei Tian Lang">
+      <L>     #######</L>
+      <L>     #  #  #</L>
+      <L>     #     #</L>
+      <L>     #  #  #</L>
+      <L>     ## #.##</L>
+      <L>####  # #  #</L>
+      <L>#  ####$##$###     ####</L>
+      <L># .*@   #    #     #  #</L>
+      <L>#  $$$ # $ $ #######$ #</L>
+      <L>##.# ###   $ $    $   ##</L>
+      <L> #.$ # #  $$   $ $$ $  #</L>
+      <L> # # #####   $ $   $ # #</L>
+      <L> #   #  ############   #</L>
+      <L> ### #$ ##  #      # ###</L>
+      <L>  #     ##$ ##  #### ##</L>
+      <L>  # ##.#   $ #  #.*.* ####</L>
+      <L>###$  .#.#   #  #.... #  #</L>
+      <L>#  * #.# $$* #  #.#.###  ####</L>
+      <L># .*$ * .. . #  #.#.  $$. $ #</L>
+      <L>###. $ #####$####.#*### ... #</L>
+      <L> #  ####.....     *..##*  ###</L>
+      <L>## ##### ##.##### ##  * .##</L>
+      <L>#      #..$. #### ### #  #</L>
+      <L># $$#  $  #..*...   $ ####</L>
+      <L>#    $$## ####### ### #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--16" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart, York Shen, Zhenying, anian">
+      <L>     #######</L>
+      <L>     #  #  #</L>
+      <L>     #     #</L>
+      <L>     #  #  #</L>
+      <L>     ##.# ##</L>
+      <L>####  # #  #</L>
+      <L>#  ####$##*###     ####</L>
+      <L>#  $@   #    #     #  #</L>
+      <L>#  $$$ # $ $ #######$ #</L>
+      <L>## # ###   $ $    $   ##</L>
+      <L> # $ # #  $$   $ $$ $  #</L>
+      <L> # # ### $   $ $   $ # #</L>
+      <L> #   #  ############.  #</L>
+      <L> ###.#* ##  #      #.###</L>
+      <L>  # . . ##$ ##  ####.##</L>
+      <L>  # ##.#   $ #  # *.* ####</L>
+      <L>###$. .#.#   #  #.... #  #</L>
+      <L>#   .#.# $$* #  # #.###  ####</L>
+      <L># $$* * .  . #  # #.  $$.   #</L>
+      <L>###  $ #####$#### #*### .*. #</L>
+      <L> #  ####....      *..##*  ###</L>
+      <L>## ##### ##.#####.##  * .##</L>
+      <L>#      #. $. ####.### #  #</L>
+      <L># $$#  $ .#..*......$ ####</L>
+      <L>#    $$## ####### #$# #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--17" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart">
+      <L>     #######</L>
+      <L>     #  #  ##########</L>
+      <L>     #     ##       #</L>
+      <L>     #  #  ##$##### #</L>
+      <L>     ##.# ##  #   # ##</L>
+      <L>####  # #  #   $# #  #</L>
+      <L>#  ####$##*# ##    # #</L>
+      <L># .*    # .$$ # $$ # #</L>
+      <L>#  $ $ ## .$  # $  # #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##**##</L>
+      <L> #  ..$@###### #### .  $   #</L>
+      <L> #####$ *..   .... # * #$  #</L>
+      <L>  #  .  ##$.###### ## .  ###</L>
+      <L>  # ##*#   $ #####.$ $ ###</L>
+      <L>###*...#.#  $   ##.  .#  #</L>
+      <L>#   .#.# $$* ##  ## ### .####</L>
+      <L># $$$ $ .. . ###  #   $$ .  #</L>
+      <L>###. $ #####$#### #*###..*. #</L>
+      <L> #  ####   .     .*  ##*  ###</L>
+      <L>## ##### ##.##### ##  * .##</L>
+      <L>#      #..$. #### ### #  #</L>
+      <L># $$#  $ .#..$      $ ####</L>
+      <L>#    $$## ####### #$# #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--20" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart, Xi Bei Tian Lang">
+      <L>     #######      #####</L>
+      <L>     #  #  ########   #</L>
+      <L>     #     ##         #</L>
+      <L>     #  #  ##$######.####</L>
+      <L>     ##.# ##  #   #   $ #</L>
+      <L>####  # #  #   $# #   # #</L>
+      <L>#  ####$##*# ##    #### #</L>
+      <L># .*@   # .$$ # $$ #### #</L>
+      <L>#  $$$ ## .$  # $  #    #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##*$##</L>
+      <L> # ..  .###### ####    $.  #</L>
+      <L> #####$ *..    .   # $.#$  #</L>
+      <L>  #  . .##*.###### ##.   ###</L>
+      <L>  #$##.#.  $ #####.$.$ ###</L>
+      <L>###  ..# #  $   ##. ..#  #</L>
+      <L>#  ..#*# $$* ##  ## ### .####</L>
+      <L># $$$ $  . . ###  #   $* .  #</L>
+      <L>###..$.#####$#### #$### .*. #</L>
+      <L> #  ####   ...  ..#  ##*  ###</L>
+      <L>## ##### ## ##### ##  * .##</L>
+      <L>#      #..$.##### ### #  #</L>
+      <L># $$#  $  #. $        ####</L>
+      <L>#    $$## ####### #$#$#</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--21" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart">
+      <L>     #######      #####</L>
+      <L>     #  #  ########   #</L>
+      <L>     #     ##         #</L>
+      <L>     #  #  ##$###### ####</L>
+      <L>     ##.# ##  #   #   * #</L>
+      <L>####  # #  #   $# #   # #</L>
+      <L>#  ####$##*# ##    #### #</L>
+      <L># .*@   # .$$ # $$ #### #</L>
+      <L>#  $$$ ## .$  # $  #    #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##*$##</L>
+      <L> #  .   ###### ####    $.  #</L>
+      <L> #####$ *..        # $.#$  #</L>
+      <L>  #  .  ##*.###### ##.   ###</L>
+      <L>  # ##.#   $ #####.$.$ ###</L>
+      <L>### ...#.#  $   ##. ..#  #</L>
+      <L>#   .#.# $$* ##  ## ### .####</L>
+      <L># $$$ $ ..   ###  #   $$..  #</L>
+      <L>###..* #####*####.#$### .*. #</L>
+      <L> #  ####   ..     *  ##*  ###</L>
+      <L>## ##### ##.##### ##  * .##</L>
+      <L>#      #..$. #### ### #  #</L>
+      <L># $$#  $ .#..$      $ ####</L>
+      <L>#    $$## ####### #$# #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--22" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart">
+      <L>     #######      #####</L>
+      <L>     #  #  ########   #</L>
+      <L>     #     ##     .   #</L>
+      <L>     #  #  ##$###### ####</L>
+      <L>     ##.# ##  #   #   $ #</L>
+      <L>####  # #  #   $# #   # #</L>
+      <L>#  ####$##*# ##    #### #</L>
+      <L># .*@   # .$$ # $$ #### #</L>
+      <L>#  $$$ ## .$  # $  #    #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##*$##</L>
+      <L> #  .   ###### ####    $.  #</L>
+      <L> #####$ *..   .    # $.#$  #</L>
+      <L>  #  .  ##*.###### ##.   ###</L>
+      <L>  #$##.#   $ #####.$.$ ###</L>
+      <L>###  ..#.#  $   ##. ..#  #</L>
+      <L>#  ..#*# $$*.##  ## ### .####</L>
+      <L># $$$ $  ... ###  #   $* .  #</L>
+      <L>###..$.#####$####.#$### .*. #</L>
+      <L> #  ####   ..     *  ##*  ###</L>
+      <L>## ##### ##.##### ##  * .##</L>
+      <L>#      #..$. #### ### #  #</L>
+      <L># $$#  $ .#..$        ####</L>
+      <L>#    $$## ####### #$#$#</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--23" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart">
+      <L>     #######      #####</L>
+      <L>     #  #  ########   #</L>
+      <L>     #     ##     .   #</L>
+      <L>     #  #  ##$###### ####</L>
+      <L>     ##.# ##  #   #   $ #</L>
+      <L>####  # #  #   $# #   # #</L>
+      <L>#  ####$##*# ##    #### #</L>
+      <L># .*@   # .$$ # $$ #### #</L>
+      <L>#  $$$ ## .$  # $  #    #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##*$##</L>
+      <L> # ..   ###### ####    $.  #</L>
+      <L> #####$ *..    .   # $.#$  #</L>
+      <L>  #     ##*.###### ##.   ###</L>
+      <L>  #$##.#   $ #####.$.$ ###</L>
+      <L>###  ..#.#  $   ##. ..#  #</L>
+      <L>#  ..#*# **$ ##  ## ### .####</L>
+      <L># $$$ $  ... ###  #   $* .  #</L>
+      <L>###..$.#####$####.#$### .*. #</L>
+      <L> #  ####   ..     *  ##*  ###</L>
+      <L>## ##### ##.##### ##  * .##</L>
+      <L>#      #..$. #### ### #  #</L>
+      <L># $$#  $ .#..$        ####</L>
+      <L>#    $$## ####### #$#$#</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--24" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart">
+      <L>     #######      #####</L>
+      <L>     #  #  ########   #</L>
+      <L>     #     ##     .   #</L>
+      <L>     #  #  ##$###### ####</L>
+      <L>     ##.# ##  #   #   $ #</L>
+      <L>####  # #  #   $# #   # #</L>
+      <L>#  ####$##*# ##    #### #</L>
+      <L># .*@   # .$$ # $$ #### #</L>
+      <L>#  $$$ ## .$  # $  #    #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##*$##</L>
+      <L> # ..   ###### ####    $.  #</L>
+      <L> #####$ *..    .   # $.#$  #</L>
+      <L>  #     ##*.###### ##.   ###</L>
+      <L>  #$##.#.  $ #####.$.$ ###</L>
+      <L>###  ..# #  $   ##. ..#  #</L>
+      <L>#  ..#*# **$ ##  ## ### .####</L>
+      <L># $$$ $  ... ###  #   $* .  #</L>
+      <L>###..$.#####$#### #$### .*. #</L>
+      <L> #  ####   .......*  ##*  ###</L>
+      <L>## ##### ##.##### ##  * .##</L>
+      <L>#      #. $ ##### ### #  #</L>
+      <L># $$#  $  #. $        ####</L>
+      <L>#    $$## ####### #$#$#</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--25" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart">
+      <L>     #######      #####</L>
+      <L>     #  #  ########   #</L>
+      <L>     #     ##     .   #</L>
+      <L>     #  #  ##$###### ####</L>
+      <L>     ##.# ##  #   #   $ #</L>
+      <L>####  # #  #   $# #   # #</L>
+      <L>#  ####$##*# ##    #### #</L>
+      <L># .*@   # .$$ # $$ #### #</L>
+      <L>#  $$$ ## .$  # $  #    #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##*$##</L>
+      <L> # ..   ###### ####    $.  #</L>
+      <L> #####$ *..    .   # $.#$  #</L>
+      <L>  #  .  ##*.###### ##.   ###</L>
+      <L>  #$##.#.  $ #####.$.$ ###</L>
+      <L>###  ..# #  $   ##. ..#  #</L>
+      <L>#  ..#*# **$ ##  ## ### .####</L>
+      <L># $$$ $  ... ###  #   $* .  #</L>
+      <L>###..$.#####$#### #$### .*. #</L>
+      <L> #  ####   .... ..*  ##*  ###</L>
+      <L>## ##### ##.##### ##  $ .##</L>
+      <L>#      #..$ ##### ### #  #</L>
+      <L># $$#  $  #. $        ####</L>
+      <L>#    $$## ####### #$#$#</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--26" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart">
+      <L>     #######      #####</L>
+      <L>     #  #  ########   #</L>
+      <L>     #     ##         #</L>
+      <L>     #  #  ##$######.####</L>
+      <L>     ##.# ##  #   #   $ #</L>
+      <L>####  # #  #   $# #   # #</L>
+      <L>#  ####$##*# ##    #### #</L>
+      <L># .*@   # .$$ # $$ #### #</L>
+      <L>#  $$$ ## .$  # $  #    #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##*$##</L>
+      <L> # ..   ###### ####    $.  #</L>
+      <L> #####$ *..    .   # $.#$  #</L>
+      <L>  #  .  ##*.###### ##.   ###</L>
+      <L>  #$##.#.  $ #####.$.$ ###</L>
+      <L>###  ..# #  $   ##. ..#  #</L>
+      <L>#  ..#*# **$ ##  ## ### .####</L>
+      <L># $$$ $  ... ###  #   $* .  #</L>
+      <L>###..$.#####$#### #$### .*. #</L>
+      <L> #  ####    ......*  ##*  ###</L>
+      <L>## ##### ## ##### ##  $ .##</L>
+      <L>#      #..$.##### ### #  #</L>
+      <L># $$#  $  #. $        ####</L>
+      <L>#    $$## ####### #$#$#</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--27" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart">
+      <L>     #######      #####</L>
+      <L>     #  #  ########   #</L>
+      <L>     #     ##         #</L>
+      <L>     #  #  ##$######.####</L>
+      <L>     ##.# ##  #   #   $ #</L>
+      <L>####  # #  #   $# #   # #</L>
+      <L>#  ####$##*# ##    #### #</L>
+      <L># .*@   # .$$ # $$ #### #</L>
+      <L>#  $$$ ## .$  # $  #    #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##*$##</L>
+      <L> # ..  .###### ####    $.  #</L>
+      <L> #####$ *..    .   # $.#$  #</L>
+      <L>  #  . .##*.###### ##.   ###</L>
+      <L>  #$##.#.  $ #####.$.$ ###</L>
+      <L>###  ..# #  $   ##. ..#  #</L>
+      <L>#  ..#*# $*$ ##  ## ### .####</L>
+      <L># $$$ $  . . ###  #   $* .  #</L>
+      <L>###..$.#####$#### #$### .*. #</L>
+      <L> #  ####    ..  ..*  ##*  ###</L>
+      <L>## ##### ##.##### ##  * .##</L>
+      <L>#      #..$.##### ### #  #</L>
+      <L># $$#  $  #. $        ####</L>
+      <L>#    $$## ####### #$#$#</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--28" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart">
+      <L>     #######      #####</L>
+      <L>     #  #  ########   #</L>
+      <L>     #     ##         #</L>
+      <L>     #  #  ##$######.####</L>
+      <L>     ##.# ##  #   #   $ #</L>
+      <L>####  # #  #   $# #   # #</L>
+      <L>#  ####$##*# ##    #### #</L>
+      <L># .*@   # .$$ # $$ #### #</L>
+      <L>#  $$$ ## .$  # $  #    #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##*$##</L>
+      <L> # ..  .###### ####    $.  #</L>
+      <L> #####$ *..    .   # $.#$  #</L>
+      <L>  #  . .##*.###### ##.   ###</L>
+      <L>  #$##.#.  $ #####.$.$ ###</L>
+      <L>###  ..# #  $   ##. ..#  #</L>
+      <L>#  ..#*# $$* ##  ## ### .####</L>
+      <L># $$$ $  . . ###  #   $* .  #</L>
+      <L>###..$.#####$#### #$### .*. #</L>
+      <L> #  ####   ...  ..*  ##*  ###</L>
+      <L>## ##### ##.##### ##  * .##</L>
+      <L>#      #..$ ##### ### #  #</L>
+      <L># $$#  $  #. $        ####</L>
+      <L>#    $$## ####### #$#$#</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--29" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart">
+      <L>     #######      #####</L>
+      <L>     #  #  ########   #</L>
+      <L>     #     ##         #</L>
+      <L>     #  #  ##$######.####</L>
+      <L>     ##.# ##  #   #   $ #</L>
+      <L>####  # #  #   $# #   # #</L>
+      <L>#  ####$##*# ##    #### #</L>
+      <L># .*@   # .$$ # $$ #### #</L>
+      <L>#  $$$ ## .$  # $  #    #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##*$##</L>
+      <L> # ..  .###### ####    $.  #</L>
+      <L> #####$ *..    .   # $.#$  #</L>
+      <L>  #  . .###.###### ##.   ###</L>
+      <L>  #$##.#.  $ #####.$.$ ###</L>
+      <L>###  ..# #  $   ##. ..#  #</L>
+      <L>#  ..#*# $$* ##  ## ### .####</L>
+      <L># $$$ $  . . ###  #   $* .  #</L>
+      <L>###..$.#####$#### #$### .*. #</L>
+      <L> #  ####   ...  ..*  ##*  ###</L>
+      <L>## ##### ## ##### ##  * .##</L>
+      <L>#      #..$.##### ### #  #</L>
+      <L># $$#  $  #. $        ####</L>
+      <L>#    $$## ####### #$#$#</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--31" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart, York Shen, Xi Bei Tian Lang">
+      <L>     #######      #####</L>
+      <L>     #  #@ ########   #</L>
+      <L>     #   $ ##         #</L>
+      <L>     #  #  ##$###### ####</L>
+      <L>     ##.# ##  #   # $ . #</L>
+      <L>####  # #  #   $# #   # #</L>
+      <L>#  #### ##*# ##    #### #</L>
+      <L># .*    # .$$ # $$ #### #</L>
+      <L>#  $$$ ## .$  # $  #    #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##**##</L>
+      <L> #  ..  ###### #### .  $   #</L>
+      <L> #####$ ... $ .... # * #$  #</L>
+      <L>  #  .  ##$.###### ## .  ###</L>
+      <L>  # ##*#   $ #####.$ $ ###</L>
+      <L>###$ ..#.#  $   ##.  .#  #</L>
+      <L>#  ..#.# $$* ##  ## ### .####</L>
+      <L># $$$ $ .. . ###  #   $* .  #</L>
+      <L>###. $ #####$####$#*### .*. #</L>
+      <L> #  ####   .     .#  ##*  ###</L>
+      <L>## ##### ##.##### ##  * .##</L>
+      <L>#      #..$. #### ### #  #</L>
+      <L># $$#  $..#..$        ####</L>
+      <L>#    $$## ####### #$#$#</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    #    ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--32" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart">
+      <L>     #######      #####</L>
+      <L>     #  #  ########   #</L>
+      <L>     #     ##         #</L>
+      <L>     #  #  ##$###### ####</L>
+      <L>     ##.# ##  #   # $ . #</L>
+      <L>####  # #  #   $# #   # #</L>
+      <L>#  ####$##*# ##    #### #</L>
+      <L># .*    # .$$ # $$ #### #</L>
+      <L>#  $ $ ## .$  # $  #    #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##**##</L>
+      <L> #  ..$@###### #### .  $   #</L>
+      <L> #####$ *..   .... # * #$  #</L>
+      <L>  #  .  ##$.###### ## .  ###</L>
+      <L>  # ##*#   $ #####.$ $ ###</L>
+      <L>###*...#.#  $   ##.  .#  #</L>
+      <L>#   .#.# $$* ##  ## ### .####</L>
+      <L># $$$ $ .. . ###  #   $$ .  #</L>
+      <L>###. $ #####$#### #*###..*. #</L>
+      <L> #  ####   .     .*  ##*  ###</L>
+      <L>## ##### ##.##### ##  * .##</L>
+      <L>#      #..$. #### ### #  #</L>
+      <L># $$#  $ .#..$      $ ####</L>
+      <L>#    $$## ####### #$# #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--33" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart">
+      <L>     #######      #####</L>
+      <L>     #  #  ########   #</L>
+      <L>     #     ##         #</L>
+      <L>     #  #  ##$###### ####</L>
+      <L>     ##.# ##  #   # $ . #</L>
+      <L>####  # #  #   $# #   # #</L>
+      <L>#  ####$##*# ##    #### #</L>
+      <L># .*    # .$$ # $$ #### #</L>
+      <L>#  $ $ ## .$  # $  #    #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##**##</L>
+      <L> #  ..$@###### #### .  $   #</L>
+      <L> #####$ *..   .... # * #$  #</L>
+      <L>  #  .  ##$.###### ## .  ###</L>
+      <L>  # ##*#   $ #####.$ $ ###</L>
+      <L>###$...#.#  $   ##.  .#  #</L>
+      <L>#  ..#.# $$* ##  ## ### .####</L>
+      <L># $$$ $ .. . ###  #   $$ .  #</L>
+      <L>###. $ #####$#### #*###..*. #</L>
+      <L> #  ####   .     .*  ##*  ###</L>
+      <L>## ##### ##.##### ##  * .##</L>
+      <L>#      #..$. #### ### #  #</L>
+      <L># $$#  $ .#..$      $ ####</L>
+      <L>#    $$## ####### #$# #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--34" Width="29" Height="29" Copyright="Kevin B Reilly, stopheart, York Shen">
+      <L>     #######      #####</L>
+      <L>     #  #  ########   #</L>
+      <L>     #     ##         #</L>
+      <L>     #  #  ##$###### ####</L>
+      <L>     ##.# ##  #   # $ . #</L>
+      <L>####  # #  #   $# #   # #</L>
+      <L>#  ####$##*# ##    #### #</L>
+      <L># .*    # .$$ # $$ #### #</L>
+      <L>#  $ $ ## .$  # $  #    #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##**##</L>
+      <L> #  ..$@###### #### .  $   #</L>
+      <L> #####$ *..   .... # * #$  #</L>
+      <L>  #  .  ##$.###### ## .  ###</L>
+      <L>  # ##*#   $ #####.$ $ ###</L>
+      <L>###$ ..#.#  $   ##.  .#  #</L>
+      <L>#  ..#.# $$* ##  ## ### .####</L>
+      <L># $$$ $ .. . ###  #   $* .  #</L>
+      <L>###. $ #####$####$#*### .*. #</L>
+      <L> #  ####   .     .*  ##*  ###</L>
+      <L>## ##### ##.##### ##  * .##</L>
+      <L>#      #..$. #### ### #  #</L>
+      <L># $$#  $..#..$        ####</L>
+      <L>#    $$## ####### #$#$#</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    #    ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Other / What, Where, When R--35" Width="29" Height="31" Copyright="Kevin B Reilly, stopheart">
+      <L>     #######</L>
+      <L>     #  #  #</L>
+      <L>     #     ##### #####</L>
+      <L>     #  #  #   ###   #</L>
+      <L>     ##.# ##  $ .    #</L>
+      <L>      # #  ##$##### ##</L>
+      <L>      # ## #  #   # ##</L>
+      <L>####  # ## #   $# #  #</L>
+      <L>#  ####$##*# ##    # #</L>
+      <L># .*@   # .$$ # $$ # #</L>
+      <L>#  $$$ ## .$  # $  # #</L>
+      <L>##*# ##  $.#  #$  #  ######</L>
+      <L> #.  ## $.. ##  $ # #     #</L>
+      <L> # # ####  $     ## #.##*$##</L>
+      <L> #  .   ###### ####    $.  #</L>
+      <L> #####$ *..        # $.#$  #</L>
+      <L>  #  .  ##*.###### ##.   ###</L>
+      <L>  # ##.#   $ #####.$.$ ###</L>
+      <L>### ...#.#  $   ##. ..#  #</L>
+      <L>#   .#.# $$* ##  ## ### .####</L>
+      <L># $$$ $ ..   ###  #   $$..  #</L>
+      <L>###..* #####*####.#$### .*. #</L>
+      <L> #  ####   ..     *  ##*  ###</L>
+      <L>## ##### ##.##### ##  * .##</L>
+      <L>#      #..$. #### ### #  #</L>
+      <L># $$#  $ .#..$      $ ####</L>
+      <L>#    $$## ####### #$# #</L>
+      <L>###$$  $  #    #  $   #</L>
+      <L>  #    ####    # $  ###</L>
+      <L>  ######       #  ###</L>
+      <L>               ####</L>
+    </Level>
+    <Level Id="Sokomind / Level 1 R--1" Width="9" Height="9" Copyright="Gerald Holler, Masato Hiramatsu">
+      <L> ########</L>
+      <L> #      #</L>
+      <L> # $ $  #</L>
+      <L> ##@$ $##</L>
+      <L>#####  #</L>
+      <L>#.. #$ #</L>
+      <L>#..$   #</L>
+      <L>#..   ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Sokomind / Level 1 R--2" Width="9" Height="9" Copyright="Gerald Holler, Masato Hiramatsu">
+      <L> ########</L>
+      <L> #      #</L>
+      <L> # $ $  #</L>
+      <L> ##@$ $##</L>
+      <L>#####  #</L>
+      <L>#   #$ #</L>
+      <L>#  *.. #</L>
+      <L>## ...##</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Sokomind / Level 1 R--3" Width="9" Height="9" Copyright="Gerald Holler, Masato Hiramatsu">
+      <L> ########</L>
+      <L> #      #</L>
+      <L> # $ $  #</L>
+      <L> ##@$ $##</L>
+      <L>#####  #</L>
+      <L>#  .#$ #</L>
+      <L># .*.. #</L>
+      <L>## .  ##</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Sokomind / Level 1 R--4" Width="8" Height="10" Copyright="Gerald Holler, Masato Hiramatsu">
+      <L>########</L>
+      <L>#      #</L>
+      <L># $ $  #</L>
+      <L>##@$.*##</L>
+      <L>####..#</L>
+      <L>#  #*.#</L>
+      <L>#     #</L>
+      <L>#  $ ##</L>
+      <L>###  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Sokomind / Level 2 R--1" Width="8" Height="8" Copyright="Kevin B Reilly, unknown">
+      <L> ####</L>
+      <L> #  ###</L>
+      <L> #  $ #</L>
+      <L> # #$@##</L>
+      <L>##  $$ #</L>
+      <L>#  .#  #</L>
+      <L># ... ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Sokomind / Level 2 R--2" Width="8" Height="8" Copyright="Kevin B Reilly, Masato Hiramatsu">
+      <L> ####</L>
+      <L> #  ###</L>
+      <L> #  $ #</L>
+      <L> # #$@##</L>
+      <L>##..$$ #</L>
+      <L># ..#  #</L>
+      <L>#     ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Sokomind / Level 2 R--3" Width="8" Height="8">
+      <L> ####</L>
+      <L> #  ###</L>
+      <L> #  $ #</L>
+      <L>## # @##</L>
+      <L>#    $ #</L>
+      <L>#   #  #</L>
+      <L># ..  ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Sokomind / Level 2 R--4" Width="8" Height="8">
+      <L> ####</L>
+      <L> #  ###</L>
+      <L> #    #</L>
+      <L>## # @##</L>
+      <L>#   $$ #</L>
+      <L>#  #   #</L>
+      <L>#  .. ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Sokomind / Level 2 R--5" Width="8" Height="8">
+      <L> ####</L>
+      <L> #  ###</L>
+      <L> #$   #</L>
+      <L>## # @##</L>
+      <L>#   $$ #</L>
+      <L>#  #   #</L>
+      <L># ... ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Sokomind / Level 2 R--6" Width="8" Height="8">
+      <L> ####</L>
+      <L> #  ###</L>
+      <L> #$   #</L>
+      <L>## # @##</L>
+      <L># $ $$ #</L>
+      <L>#  #   #</L>
+      <L>#.... ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Sokomind / Level 2 R--7" Width="8" Height="8">
+      <L> ####</L>
+      <L> #  ###</L>
+      <L> #$   #</L>
+      <L>##   @##</L>
+      <L># $#$$ #</L>
+      <L>#$     #</L>
+      <L>#.....##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Sokomind / Level 3 R--1" Width="8" Height="7">
+      <L>######</L>
+      <L>#..  #</L>
+      <L>#. $ ###</L>
+      <L>#  #@  #</L>
+      <L>#   $$ #</L>
+      <L>#  #   #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Sokomind / Level 3 R--2" Width="8" Height="7">
+      <L>######</L>
+      <L>#..  #</L>
+      <L>#..$ ###</L>
+      <L>#  #@  #</L>
+      <L>#$  $$ #</L>
+      <L>#  #   #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Sokomind / Level 4 R--1" Width="13" Height="9">
+      <L> ######</L>
+      <L>##    ######</L>
+      <L>#  $  ##   ##</L>
+      <L># $$$$##    #</L>
+      <L>#   @    ..##</L>
+      <L># # ###  ...#</L>
+      <L>#   # ## #  #</L>
+      <L>#####  # #  #</L>
+      <L>       ######</L>
+    </Level>
+    <Level Id="Sokomind / Level 6 R--1" Width="11" Height="13" Copyright="Kevin B Reilly, unknown">
+      <L> #####</L>
+      <L>##   ###</L>
+      <L>#    $ #</L>
+      <L># # ## ####</L>
+      <L># # #     #</L>
+      <L># # #.*   #</L>
+      <L># $ $..####</L>
+      <L>### #..#</L>
+      <L>  # ####</L>
+      <L>###  $@#</L>
+      <L>#  $ ###</L>
+      <L>#   ##</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Sokomind / Level 6 R--2" Width="12" Height="9" Copyright="Kevin B Reilly, Masato Hiramatsu">
+      <L>  #######</L>
+      <L>  #     #</L>
+      <L>  # ### ####</L>
+      <L>### ##  $  #</L>
+      <L>#  $ #..   #</L>
+      <L># #$ $*.####</L>
+      <L>#  $ #..#</L>
+      <L>## @ ####</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 6 R--3" Width="12" Height="13">
+      <L>  #####</L>
+      <L> ##   ###</L>
+      <L> # $$   #</L>
+      <L> # # ## ####</L>
+      <L>## # #     #</L>
+      <L>#  # #     #</L>
+      <L>#     ..####</L>
+      <L>#### #  #</L>
+      <L>   # ####</L>
+      <L> ###    #</L>
+      <L> #@   ###</L>
+      <L> #   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 6 R--4" Width="12" Height="13">
+      <L>  #####</L>
+      <L> ##   ###</L>
+      <L> #  $   #</L>
+      <L> # # ## ####</L>
+      <L>## # #     #</L>
+      <L>#  # #     #</L>
+      <L># $ $ ..####</L>
+      <L>#### # .#</L>
+      <L>   # ####</L>
+      <L> ###    #</L>
+      <L> #@   ###</L>
+      <L> #   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 6 R--5" Width="12" Height="13">
+      <L>  #####</L>
+      <L> ##   ###</L>
+      <L> #      #</L>
+      <L> # # ## ####</L>
+      <L>## # # $   #</L>
+      <L>#  # #$ $  #</L>
+      <L>#...    ####</L>
+      <L>#### #  #</L>
+      <L>   # ####</L>
+      <L> ###    #</L>
+      <L> #@   ###</L>
+      <L> #   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 6 R--6" Width="12" Height="13">
+      <L>  #####</L>
+      <L> ##.. ###</L>
+      <L> #  .   #</L>
+      <L> # # ## ####</L>
+      <L>## # # $   #</L>
+      <L>#  # #$ $  #</L>
+      <L>#       ####</L>
+      <L>#### #  #</L>
+      <L>   # ####</L>
+      <L> ###    #</L>
+      <L> #@   ###</L>
+      <L> #   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 6 R--7" Width="12" Height="13">
+      <L>  #####</L>
+      <L> ##   ###</L>
+      <L> #..    #</L>
+      <L> # # ## ####</L>
+      <L>## # #     #</L>
+      <L>#  # #   @ #</L>
+      <L>#   $  $####</L>
+      <L>#### #  #</L>
+      <L>   # ####</L>
+      <L> ###    #</L>
+      <L> #    ###</L>
+      <L> #   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 6 R--8" Width="12" Height="13">
+      <L>  #####</L>
+      <L> ##   ###</L>
+      <L> #    $ #</L>
+      <L> # # ## ####</L>
+      <L>## # #     #</L>
+      <L>#  # #     #</L>
+      <L>#  $  ..####</L>
+      <L>#### # .#</L>
+      <L>   # ####</L>
+      <L> ###    #</L>
+      <L> #@$  ###</L>
+      <L> #   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 6 R--9" Width="12" Height="13">
+      <L>  #####</L>
+      <L> ##   ###</L>
+      <L> #      #</L>
+      <L> # # ## ####</L>
+      <L>## # #     #</L>
+      <L>#  # #     #</L>
+      <L>#  $  ..####</L>
+      <L>#### # ##</L>
+      <L>   # ####</L>
+      <L> ###    #</L>
+      <L> #@$  ###</L>
+      <L> #   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 6 R--10" Width="12" Height="13">
+      <L>  #####</L>
+      <L> ##   ###</L>
+      <L> #.   $ #</L>
+      <L> # # ## ####</L>
+      <L>## # #     #</L>
+      <L>#  # #     #</L>
+      <L>#       ####</L>
+      <L>#### # .#</L>
+      <L>   # ####</L>
+      <L> ###    #</L>
+      <L> #@$  ###</L>
+      <L> #   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 7 R--1" Width="11" Height="13" Copyright="Kevin B Reilly, Masato Hiramatsu">
+      <L>       ####</L>
+      <L>       #  #</L>
+      <L>       #  #</L>
+      <L>########  #</L>
+      <L>#  #...$$ #</L>
+      <L>#  $...#  #</L>
+      <L>#  #...# ##</L>
+      <L>##$##### #</L>
+      <L> #@ $ #  #</L>
+      <L> # $$   ##</L>
+      <L> #  $$ ##</L>
+      <L> ##    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Sokomind / Level 7 R--2" Width="12" Height="12" Copyright="Kevin B Reilly, Masato Hiramatsu">
+      <L>        ####</L>
+      <L>       ##  #</L>
+      <L>######## $ #</L>
+      <L>#  #... $  #</L>
+      <L># $ ..*#  ##</L>
+      <L>#  #...# ##</L>
+      <L>## ##### #</L>
+      <L> #   $@# #</L>
+      <L> #  $$   #</L>
+      <L> ##  $$###</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Sokomind / Level 7 R--3" Width="11" Height="13">
+      <L>       ####</L>
+      <L>       #  #</L>
+      <L>       #  #</L>
+      <L>########  #</L>
+      <L>#  #...$$ #</L>
+      <L>#  $   #  #</L>
+      <L>#  #   # ##</L>
+      <L>## ##### #</L>
+      <L> #@   #  #</L>
+      <L> #      ##</L>
+      <L> #     ##</L>
+      <L> ##    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Sokomind / Level 7 R--4" Width="11" Height="13">
+      <L>       ####</L>
+      <L>       #  #</L>
+      <L>       #  #</L>
+      <L>########  #</L>
+      <L>#  #...$$ #</L>
+      <L>#  $...#  #</L>
+      <L>#  #   # ##</L>
+      <L>## ##### #</L>
+      <L> #@   #  #</L>
+      <L> # $ $  ##</L>
+      <L> #  $  ##</L>
+      <L> ##    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Sokomind / Level 7 R--5" Width="11" Height="13">
+      <L>       ####</L>
+      <L>       #  #</L>
+      <L>       #  #</L>
+      <L>########  #</L>
+      <L>#  #...$$ #</L>
+      <L>#  $...#  #</L>
+      <L>#  #   # ##</L>
+      <L>## ##### #</L>
+      <L> #@ # #  #</L>
+      <L> # $ $  ##</L>
+      <L> #  $  ##</L>
+      <L> ##    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Sokomind / Level 7 R--6" Width="10" Height="9" Copyright="Kevin B Reilly, Masato Hiramatsu">
+      <L>####</L>
+      <L>#  #######</L>
+      <L>#  ......#</L>
+      <L>#  ##### #</L>
+      <L>##   $@# #</L>
+      <L> #  $$$$ #</L>
+      <L> ##  $ ###</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Sokomind / Level 8 R--1" Width="8" Height="11">
+      <L>#######</L>
+      <L>#     #</L>
+      <L># $$  #</L>
+      <L>#  ##.##</L>
+      <L>##   . #</L>
+      <L> # #@# #</L>
+      <L>##  .. #</L>
+      <L>#  ## ##</L>
+      <L># $$  #</L>
+      <L>#     #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Sokomind / Level 9 R--1" Width="15" Height="10">
+      <L>    #########</L>
+      <L>#####   ##  #</L>
+      <L>#       $   #</L>
+      <L>#  #####$#  ##</L>
+      <L>##$##    #  .##</L>
+      <L>#      @ # .. #</L>
+      <L>#   #    #    #</L>
+      <L>#####    ##   #</L>
+      <L>    #   #######</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 9 R--2" Width="15" Height="10">
+      <L>    #########</L>
+      <L>#####   ##  #</L>
+      <L>#       $   #</L>
+      <L>#  #####$# .##</L>
+      <L>##$##    # ..##</L>
+      <L>#   $$ @ # .. #</L>
+      <L>#   #    #    #</L>
+      <L>#####    ##   #</L>
+      <L>    #   #######</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 10 R--1" Width="8" Height="7">
+      <L>######</L>
+      <L>#... ###</L>
+      <L>#@ $   #</L>
+      <L>###$$  #</L>
+      <L>  #   ##</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 11 R--1" Width="17" Height="13">
+      <L>########</L>
+      <L>#      #</L>
+      <L># # #  #</L>
+      <L>#.     #</L>
+      <L>#.# #  #  #####</L>
+      <L>#.# ## ####   #</L>
+      <L>### #   $@$   #</L>
+      <L>  # #   #$## ####</L>
+      <L>  # ##### ##    #</L>
+      <L>  #             #</L>
+      <L>  #  ######    ##</L>
+      <L>  ####    #    #</L>
+      <L>          ######</L>
+    </Level>
+    <Level Id="Sokomind / Level 12 R--1" Width="13" Height="15">
+      <L>     ###</L>
+      <L>   ###.##</L>
+      <L>   # ...####</L>
+      <L>   #       #</L>
+      <L>   ##   ## #</L>
+      <L>  ### # #  #</L>
+      <L>###   #   ###</L>
+      <L>#   $ # $   #</L>
+      <L># ##$###$ # #</L>
+      <L>#    # #    #</L>
+      <L>##   # #   ##</L>
+      <L>#    # #   #</L>
+      <L>#  ###### ##</L>
+      <L>#   @     #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Sokomind / Level 13 R--1" Width="12" Height="16">
+      <L>   #####</L>
+      <L>  ##...#####</L>
+      <L>  #        #</L>
+      <L>  ##       #</L>
+      <L>   #  ######</L>
+      <L>   #@ #</L>
+      <L>   #  ####</L>
+      <L> #### #  #</L>
+      <L> #  $$$  ##</L>
+      <L> #  # #   #</L>
+      <L> #        #</L>
+      <L>##   #   ##</L>
+      <L>#         #</L>
+      <L>#  #####  #</L>
+      <L>#  #   #  #</L>
+      <L>####   ####</L>
+    </Level>
+    <Level Id="Sokomind / Level 14 R--1" Width="13" Height="13">
+      <L>   ######</L>
+      <L>#### ## #</L>
+      <L>#   ....####</L>
+      <L>#          #</L>
+      <L>#### ## ## #</L>
+      <L>  ## ##### #</L>
+      <L>  #        #</L>
+      <L>  #     $ ###</L>
+      <L>  #    #$$  #</L>
+      <L>  #    # $  #</L>
+      <L>  #         #</L>
+      <L>  ###@ ######</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Sokomind / Level 15 R--1" Width="12" Height="17">
+      <L>  ####</L>
+      <L>  #  #####</L>
+      <L> ##  #   ###</L>
+      <L> #   # $   #</L>
+      <L> # #    $# #</L>
+      <L> #    #$$  #</L>
+      <L> # ####@####</L>
+      <L>## ####$  #</L>
+      <L>#     $ $ #</L>
+      <L>#        $#</L>
+      <L>######### ##</L>
+      <L>  #.....#  #</L>
+      <L>  ##...    #</L>
+      <L>   #    ####</L>
+      <L>   #   ##</L>
+      <L>   #   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 15 R--2" Width="12" Height="17">
+      <L>  ####</L>
+      <L>  #  #####</L>
+      <L> ##  #   ###</L>
+      <L> #   #$$   #</L>
+      <L> # #    $# #</L>
+      <L> #    #    #</L>
+      <L> # ####@####</L>
+      <L>## ####   #</L>
+      <L>#     $$$ #</L>
+      <L>#         #</L>
+      <L>######### ##</L>
+      <L>  #.... #  #</L>
+      <L>  ##..     #</L>
+      <L>   #    ####</L>
+      <L>   #   ##</L>
+      <L>   #   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 15 R--3" Width="12" Height="17">
+      <L>  ####</L>
+      <L>  #  #####</L>
+      <L> ##  #   ###</L>
+      <L> # $ # $$  #</L>
+      <L> # #    $# #</L>
+      <L> # $  #    #</L>
+      <L> # #### ####</L>
+      <L>## ####   #</L>
+      <L>#@        #</L>
+      <L>#         #</L>
+      <L>######### ##</L>
+      <L>  #...  #  #</L>
+      <L>  ##..     #</L>
+      <L>   #    ####</L>
+      <L>   #   ##</L>
+      <L>   #   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 16 R--1" Width="18" Height="15">
+      <L>  ######## ####</L>
+      <L>  #   #  ###  #</L>
+      <L>  #          .#</L>
+      <L>  ## ###  ### ####</L>
+      <L>   # #    ### #  #</L>
+      <L>   #   ##### ..  #</L>
+      <L>   #     @## #   #</L>
+      <L>   ##  ## ##     #</L>
+      <L>   #   ## #####  #</L>
+      <L>##### ### #      #</L>
+      <L># $     #   ######</L>
+      <L># $$    #####</L>
+      <L>#       #</L>
+      <L>###     #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Sokomind / Level 17 R--1" Width="17" Height="16">
+      <L>         ######</L>
+      <L>         #..  #</L>
+      <L>        ##..  ###</L>
+      <L>####    # ..    #</L>
+      <L>#  ########   # #</L>
+      <L>#  $            #</L>
+      <L>#  #### ### #####</L>
+      <L>## ####  ## #</L>
+      <L>#     #  ## #</L>
+      <L>#   # #     #</L>
+      <L># $ $    ####</L>
+      <L>### $#   #</L>
+      <L> # $ #   #</L>
+      <L> #@$ #   #</L>
+      <L> ##  #  ##</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Sokomind / Level 22 R--1" Width="18" Height="16">
+      <L>            #####</L>
+      <L>            #   #</L>
+      <L>            #   ##</L>
+      <L>            #  $@#</L>
+      <L>     ########$$$##</L>
+      <L>     #         $ #</L>
+      <L>     #   # #$ #  #</L>
+      <L>    ### #  # $ # #</L>
+      <L>#####       $    #</L>
+      <L>#...#   #  # $  ##</L>
+      <L>#...### #### ####</L>
+      <L>#...         #</L>
+      <L>#    ######  #</L>
+      <L>###    #  #  #</L>
+      <L>  #    #  ####</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Sokomind / Level 24 R--1" Width="12" Height="14">
+      <L>    ########</L>
+      <L>    #      #</L>
+      <L>    #   #  #</L>
+      <L>##### #  $##</L>
+      <L>#   # # $  #</L>
+      <L>#       $  #</L>
+      <L>###..## #$##</L>
+      <L>  #..#  #@#</L>
+      <L>  #  #  ###</L>
+      <L>  #  #  #</L>
+      <L>  #  ## ##</L>
+      <L>  #      #</L>
+      <L>  #  #   #</L>
+      <L>  ########</L>
+    </Level>
+    <Level Id="Sokomind / Level 26 R--1" Width="13" Height="15" Copyright="Kevin B Reilly, Masato Hiramatsu">
+      <L>  ###########</L>
+      <L>  #   ..    #</L>
+      <L>###$##$###  #</L>
+      <L>#        # ##</L>
+      <L># #$##$# # #</L>
+      <L># #    # # #</L>
+      <L># ##@#$# # #</L>
+      <L># #   .# # #</L>
+      <L># #$##*# # #</L>
+      <L>#     .  # #</L>
+      <L>### ##*### #</L>
+      <L> # $ ..*   #</L>
+      <L> #   #.$ $ #</L>
+      <L> #####..   #</L>
+      <L>     #######</L>
+    </Level>
+    <Level Id="Sokomind / Level 27 R--1" Width="19" Height="16">
+      <L>         #########</L>
+      <L>   ####  #   #   #</L>
+      <L>####  #  #       #</L>
+      <L>#@$   #  ### #   #</L>
+      <L># $$  #    #   ###</L>
+      <L>##$ ########..   #</L>
+      <L>##   ###   #..   #</L>
+      <L>#  # ##  # #### ###</L>
+      <L>#          # ##   #</L>
+      <L>######     ###  # #</L>
+      <L>     #### ##      #</L>
+      <L>       #        ###</L>
+      <L>       #   ###  #</L>
+      <L>       # # # ####</L>
+      <L>       #   #</L>
+      <L>       #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 28 R--1" Width="15" Height="11">
+      <L>  #######</L>
+      <L>  #     #####</L>
+      <L>  # $$#@    #</L>
+      <L> ####  $$   #</L>
+      <L> #... #   #####</L>
+      <L> #...$# $###  #</L>
+      <L> #...$        #</L>
+      <L>##   ##$$     #</L>
+      <L>#    ## # #####</L>
+      <L>#    ##   #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Sokomind / Level 29 R--1" Width="16" Height="14">
+      <L>    ####</L>
+      <L>#####  #</L>
+      <L>#   #  #</L>
+      <L>#      #</L>
+      <L>## ## #######</L>
+      <L> # #        #</L>
+      <L> # #   #  $$###</L>
+      <L> # #####@$$   #</L>
+      <L>## #   #$$  # #</L>
+      <L>#  ##### #### ##</L>
+      <L>#              #</L>
+      <L>#########...   #</L>
+      <L>        #...####</L>
+      <L>        #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 30 R--1" Width="17" Height="14">
+      <L>          ######</L>
+      <L>          #    #</L>
+      <L>  ######### #  #</L>
+      <L>  #    # ..    #</L>
+      <L>  #    # ##.# ##</L>
+      <L>  #      ## # ###</L>
+      <L>  ### ## ..     #</L>
+      <L> #### $ $####   #</L>
+      <L>##    $   ####  #</L>
+      <L>#   # $ $ #    @#</L>
+      <L>#   #  #     #  #</L>
+      <L># # ###### # ####</L>
+      <L>#   #    #   #</L>
+      <L>#####    #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 31 R--1" Width="18" Height="11">
+      <L>       ####</L>
+      <L>   #####  ###</L>
+      <L>   #    $   #</L>
+      <L>   # # $  $ #</L>
+      <L>   #   $ $ ##</L>
+      <L> ##### #  $#######</L>
+      <L>##.  # ##  $     #</L>
+      <L>#..      #      @#</L>
+      <L>#..  ##   #      #</L>
+      <L>#..         #   ##</L>
+      <L>#################</L>
+    </Level>
+    <Level Id="Sokomind / Level 33 R--1" Width="18" Height="16">
+      <L>    ####</L>
+      <L>    #  ########</L>
+      <L>    #   #   #@##</L>
+      <L>#####   $   $$ #</L>
+      <L>#      #$  #$  #</L>
+      <L>#        ###   #</L>
+      <L>## ##   ##########</L>
+      <L>#  #### #  #   ..#</L>
+      <L>#  ###     #   .##</L>
+      <L>#      #       .#</L>
+      <L>######     #   .#</L>
+      <L>     ### # ###  #</L>
+      <L>       #   ##   #</L>
+      <L>       ######   #</L>
+      <L>            #   #</L>
+      <L>            #####</L>
+    </Level>
+    <Level Id="Sokomind / Level 34 R--1" Width="17" Height="16">
+      <L>   ###########</L>
+      <L>   #         #</L>
+      <L>   #         #</L>
+      <L>#######   # ##</L>
+      <L>#..   #      #</L>
+      <L>#. ## #      #</L>
+      <L>#  ##  $ ## ####</L>
+      <L>#    $$$ #     #</L>
+      <L>#. #  $  #     #</L>
+      <L>#..###$@ ##### #</L>
+      <L>#### # # ##### ##</L>
+      <L>    ##   ##     #</L>
+      <L>    #   ###  ####</L>
+      <L>    #        #</L>
+      <L>    #######  #</L>
+      <L>          ####</L>
+    </Level>
+    <Level Id="Sokomind / Level 38 R--1" Width="12" Height="17">
+      <L>    ######</L>
+      <L>    #    ##</L>
+      <L> ####     #</L>
+      <L>##        #</L>
+      <L># @ #     #</L>
+      <L># #      ##</L>
+      <L>#     ######</L>
+      <L>##### ##   #</L>
+      <L>   #  # $  #</L>
+      <L>   #  $  $ #</L>
+      <L>   #  #$$  #</L>
+      <L>   #### $$ #</L>
+      <L>   #.. $   #</L>
+      <L>   #..  ## #</L>
+      <L>   #.#     #</L>
+      <L>   #...    #</L>
+      <L>   #########</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

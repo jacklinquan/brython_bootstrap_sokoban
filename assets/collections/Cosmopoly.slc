@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Cosmopoly</Title>
+  <Description>
+Aymeric du Peloux
+  </Description>
+  <Email>aymeric.du-peloux@gadz.org</Email>
+  <Url>http://membres.lycos.fr/nabokos</Url>
+  <LevelCollection Copyright="Aymeric du Peloux" MaxWidth="10" MaxHeight="12">
+    <Level Id="MINICOSMOS 28 var." Width="8" Height="9">
+      <L> ####</L>
+      <L> #  ####</L>
+      <L> #     #</L>
+      <L>## #.  #</L>
+      <L># * #*##</L>
+      <L># $  * #</L>
+      <L># # @  #</L>
+      <L>#   ####</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="MICROCOSMOS 31 var." Width="8" Height="9">
+      <L>  #####</L>
+      <L>###@  #</L>
+      <L># $*#$##</L>
+      <L># #  . #</L>
+      <L># . $# #</L>
+      <L>## #.  #</L>
+      <L> #    ##</L>
+      <L> ###  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="NABOKOSMOS 39 var." Width="8" Height="12">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>  #  #</L>
+      <L>### *###</L>
+      <L>#      #</L>
+      <L># .*** #</L>
+      <L>## $  ##</L>
+      <L> ##* ##</L>
+      <L>  #@  #</L>
+      <L>  # # #</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="For ban 1" Width="8" Height="8">
+      <L>#####</L>
+      <L>#   ####</L>
+      <L>#  $$  #</L>
+      <L>##.@ . #</L>
+      <L> #. #.##</L>
+      <L> # $$ #</L>
+      <L> #  ###</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="For ban 15" Width="9" Height="9">
+      <L>#####</L>
+      <L>#. .#####</L>
+      <L>#  .    #</L>
+      <L>##$$@$  #</L>
+      <L>## ######</L>
+      <L>#  $ ##</L>
+      <L>#   . #</L>
+      <L>###   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Align that" Width="9" Height="7">
+      <L>  ####</L>
+      <L> ##  #</L>
+      <L> #   ####</L>
+      <L>##$ ..*.#</L>
+      <L># $  #$ #</L>
+      <L>#    #@ #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="NABOKOSMOS 18 var." Width="8" Height="9">
+      <L> #####</L>
+      <L>##   #</L>
+      <L>#  # ###</L>
+      <L># # *  #</L>
+      <L># #  #@#</L>
+      <L>#   *  #</L>
+      <L>### *$##</L>
+      <L>  # . #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="MICROCOSMOS 26 var." Width="10" Height="10">
+      <L>  ########</L>
+      <L>  #   #  #</L>
+      <L>  # . $. #</L>
+      <L> ###$##  #</L>
+      <L> #.. ##$##</L>
+      <L>## $*$   #</L>
+      <L>#  * #   #</L>
+      <L>#  @.#####</L>
+      <L>##   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="MICROCOSMOS 18 var." Width="9" Height="8">
+      <L> #######</L>
+      <L> #  #  #</L>
+      <L> #$.@.$#</L>
+      <L> # .#. #</L>
+      <L>##$.#.$##</L>
+      <L># $   $ #</L>
+      <L>#   #   #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="MICROCOSMOS 10 var." Width="7" Height="9">
+      <L> #####</L>
+      <L>##  .#</L>
+      <L># $#.##</L>
+      <L>#     #</L>
+      <L>##$   #</L>
+      <L>#  #*##</L>
+      <L># @  #</L>
+      <L>#  ###</L>
+      <L>####</L>
+    </Level>
+    <Level Id="MICROCOSMOS 39 var." Width="8" Height="8">
+      <L>  #####</L>
+      <L>###   ##</L>
+      <L># .. . #</L>
+      <L># $$ # #</L>
+      <L>## #$$ #</L>
+      <L> #.@  ##</L>
+      <L> ###  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="NABOKOSMOS 12 var." Width="9" Height="9">
+      <L>  #####</L>
+      <L>###   #</L>
+      <L>#   #.##</L>
+      <L>#  *$@ #</L>
+      <L>## * **##</L>
+      <L> # # #  #</L>
+      <L> #      #</L>
+      <L> ###  ###</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="MINICOSMOS 30 var." Width="8" Height="10">
+      <L>########</L>
+      <L>#   #  #</L>
+      <L>#      #</L>
+      <L>## #.$.#</L>
+      <L>#  $@###</L>
+      <L># #$*.#</L>
+      <L># # # #</L>
+      <L>#     #</L>
+      <L>##   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="PICOKOSMOS 02 var." Width="10" Height="8">
+      <L>     #####</L>
+      <L>   ###   #</L>
+      <L>  ## * # #</L>
+      <L> ##      #</L>
+      <L>## * * ###</L>
+      <L>#   $###</L>
+      <L>#  + #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="MICROCOSMOS 01 var." Width="9" Height="7">
+      <L>     ####</L>
+      <L>######  #</L>
+      <L>#@ $. $ #</L>
+      <L># $ .$  #</L>
+      <L>### . ###</L>
+      <L>  # . #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="NABOKOSMOS 23 var." Width="9" Height="9">
+      <L>   ####</L>
+      <L> ###  ##</L>
+      <L>## *   #</L>
+      <L>#  ##  ##</L>
+      <L>#@$*    #</L>
+      <L>## .# # #</L>
+      <L> # *    #</L>
+      <L> #  #####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="MICROCOSMOS 28 var." Width="10" Height="9">
+      <L>      ####</L>
+      <L>     ## .#</L>
+      <L>    ##   #</L>
+      <L>   ## ...#</L>
+      <L>#### $$ ##</L>
+      <L># @$   ##</L>
+      <L>#  $  ##</L>
+      <L>#   ###</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="MICROCOSMOS 21 var." Width="9" Height="9">
+      <L>  #####</L>
+      <L>  #   ###</L>
+      <L>### # $ #</L>
+      <L># $* .# #</L>
+      <L># # +   #</L>
+      <L>#  *#.###</L>
+      <L>## $  #</L>
+      <L> #  ###</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="MICROCOSMOS 25 var." Width="10" Height="8">
+      <L>     ####</L>
+      <L>  ####@ #</L>
+      <L>  #.* $ #</L>
+      <L>###   # ##</L>
+      <L>#    #.. #</L>
+      <L>#    $ $ #</L>
+      <L>####  ####</L>
+      <L>   ####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

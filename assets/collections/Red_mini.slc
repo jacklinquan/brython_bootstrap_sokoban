@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Red mini</Title>
+  <Description>
+Date of Last Change: 2011/09/11 02:54:22 
+Set:    Marti Homs Caussa - Red mini 
+Number of levels: 17
+  </Description>
+  <Email>homz70@gmail.com</Email>
+  <Url>http://sapiens.ya.com/sokobanhomz</Url>
+  <LevelCollection Copyright="Martí Homs Caussa" MaxWidth="9" MaxHeight="9">
+    <Level Id="Level 1" Width="8" Height="7">
+      <L>########</L>
+      <L>#@ # . #</L>
+      <L># **.  #</L>
+      <L># $ .* #</L>
+      <L>##$$  ##</L>
+      <L> #    #</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Level 2" Width="8" Height="8">
+      <L>####</L>
+      <L>#  ####</L>
+      <L>#@*   ##</L>
+      <L># $.*$.#</L>
+      <L>#    # #</L>
+      <L>##$ ## #</L>
+      <L> #    .#</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Level 3" Width="8" Height="8">
+      <L>  ######</L>
+      <L>###    #</L>
+      <L>#@$ ## #</L>
+      <L>#  $.* #</L>
+      <L># #$ .##</L>
+      <L>#.$. ##</L>
+      <L>#    #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 4" Width="7" Height="8">
+      <L> ######</L>
+      <L> #@   #</L>
+      <L>##.$  #</L>
+      <L># .**##</L>
+      <L>#  .  #</L>
+      <L>## $$ #</L>
+      <L> ###  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 5" Width="9" Height="6">
+      <L>   #####</L>
+      <L>####.. #</L>
+      <L>#@ $  $##</L>
+      <L>#   #   #</L>
+      <L>#####   #</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="Level 6" Width="7" Height="7">
+      <L>#####</L>
+      <L>#@  ###</L>
+      <L># **  #</L>
+      <L># * . #</L>
+      <L># $$  #</L>
+      <L>### . #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 7" Width="8" Height="7">
+      <L>#####</L>
+      <L>#@  ####</L>
+      <L># $*. .#</L>
+      <L># $   ##</L>
+      <L># **# #</L>
+      <L>###   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 8" Width="7" Height="8">
+      <L>######</L>
+      <L>#.   #</L>
+      <L># #*$##</L>
+      <L># * * #</L>
+      <L># * @ #</L>
+      <L># #   #</L>
+      <L>#   ###</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Level 9" Width="8" Height="8">
+      <L>#####</L>
+      <L>#@  ####</L>
+      <L>#  *$  #</L>
+      <L># *..  #</L>
+      <L>##$* ###</L>
+      <L>#    #</L>
+      <L>#   ##</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Level 10" Width="7" Height="7">
+      <L>#######</L>
+      <L>#@    #</L>
+      <L>#  *$ #</L>
+      <L># *.$ #</L>
+      <L>##$. ##</L>
+      <L> #.  #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 11" Width="7" Height="7">
+      <L>######</L>
+      <L>#@   #</L>
+      <L># $*$##</L>
+      <L># * * #</L>
+      <L>##. . #</L>
+      <L> #    #</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Level 12" Width="7" Height="7">
+      <L>######</L>
+      <L>#@   ##</L>
+      <L># * * #</L>
+      <L># .$. #</L>
+      <L># $*  #</L>
+      <L>###   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 13" Width="9" Height="7">
+      <L>  ######</L>
+      <L>###  . ##</L>
+      <L>#@$* #  #</L>
+      <L>#. $    #</L>
+      <L>#.$* # ##</L>
+      <L>##    ##</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Level 14" Width="9" Height="9">
+      <L> #######</L>
+      <L> #    @#</L>
+      <L>## *   #</L>
+      <L>#   *$##</L>
+      <L>#. $# ###</L>
+      <L>#.#     #</L>
+      <L>###     #</L>
+      <L>  #  #  #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Level 15" Width="8" Height="8">
+      <L>    ####</L>
+      <L> ####  #</L>
+      <L> # $ $ #</L>
+      <L>##.#$@ #</L>
+      <L># .. # #</L>
+      <L>#  . $ #</L>
+      <L>###  ###</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Level 16" Width="8" Height="8">
+      <L>  ####</L>
+      <L>###  #</L>
+      <L># @.$##</L>
+      <L># $ . ##</L>
+      <L># *.*$ #</L>
+      <L>#  $ . #</L>
+      <L>#  #####</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Level 17" Width="8" Height="7">
+      <L>   ####</L>
+      <L>####  ##</L>
+      <L># $ .* #</L>
+      <L>#@$*   #</L>
+      <L># $ #. #</L>
+      <L>###   .#</L>
+      <L>  ######</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

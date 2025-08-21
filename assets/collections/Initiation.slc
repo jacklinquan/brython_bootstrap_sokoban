@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Initiation</Title>
+  <Description>
+Initiation by Carlos Montiers
+  </Description>
+  <Email>cmontiers@gmail.com</Email>
+  <LevelCollection Copyright="Carlos Montiers" MaxWidth="8" MaxHeight="9">
+    <Level Id="1" Width="8" Height="9">
+      <L>  #####</L>
+      <L>###   #</L>
+      <L>#.@$  #</L>
+      <L>### $.#</L>
+      <L>#.##$ #</L>
+      <L># # . ##</L>
+      <L>#$ *$$.#</L>
+      <L>#   .  #</L>
+      <L>########</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

@@ -1,0 +1,2901 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Erim Sever Collection</Title>
+  <Description>
+These levels are copyright Erim Sever
+  </Description>
+  <Email>erimsever@graffiti.net</Email>
+  <LevelCollection Copyright="Erim Sever" MaxWidth="33" MaxHeight="25">
+    <Level Id="erim01-first collection" Width="18" Height="11">
+      <L>#####</L>
+      <L>#   #####</L>
+      <L># $     #  #####</L>
+      <L># $# @# ####. .###</L>
+      <L># $ $## #     ...#</L>
+      <L>###$    #  ## ...#</L>
+      <L>  #    $    ## ###</L>
+      <L>  ####  ##$$   #</L>
+      <L>     #####  ####</L>
+      <L>         #  #</L>
+      <L>         ####</L>
+    </Level>
+    <Level Id="erim02-first collection" Width="10" Height="10">
+      <L>      ####</L>
+      <L>    ###..#</L>
+      <L>    #  ..#</L>
+      <L>    #  $ #</L>
+      <L>###### ###</L>
+      <L>#@     ###</L>
+      <L>## # $ $ #</L>
+      <L> # $ # # #</L>
+      <L> #   #   #</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="erim03-first collection" Width="9" Height="7">
+      <L>######</L>
+      <L>#....####</L>
+      <L>#@ $$$ .#</L>
+      <L>##  $   #</L>
+      <L> ####$# #</L>
+      <L>    #   #</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="erim04-first collection" Width="10" Height="8">
+      <L>#########</L>
+      <L>#  @##  #</L>
+      <L># $$  ..##</L>
+      <L>#  $$#.. #</L>
+      <L># $$ #.. #</L>
+      <L>#  # #####</L>
+      <L>##   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim05-first collection" Width="11" Height="10">
+      <L>####</L>
+      <L>#..###</L>
+      <L>#...@######</L>
+      <L>#..$      #</L>
+      <L>###$ ###  #</L>
+      <L>### $# $ ##</L>
+      <L>#    $   #</L>
+      <L># $$ ##  #</L>
+      <L>#   ###  #</L>
+      <L>##### ####</L>
+    </Level>
+    <Level Id="erim06-first collection" Width="10" Height="12">
+      <L>      ####</L>
+      <L> ######  #</L>
+      <L>##  @#...#</L>
+      <L>#  $ #.*.#</L>
+      <L># $####.*#</L>
+      <L>#    .#  #</L>
+      <L># $#$##$ #</L>
+      <L>#  $ ##  #</L>
+      <L>###     $#</L>
+      <L>  ####   #</L>
+      <L>     #  ##</L>
+      <L>     ####</L>
+    </Level>
+    <Level Id="erim07-first collection" Width="8" Height="7">
+      <L>########</L>
+      <L>#@     #</L>
+      <L># * *  #</L>
+      <L>#*$***.#</L>
+      <L># *    #</L>
+      <L>#     ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim08-first collection" Width="12" Height="11">
+      <L>      ####</L>
+      <L>      #  #</L>
+      <L> ######  ###</L>
+      <L>##   ##    #</L>
+      <L>#@$  $ $#  #</L>
+      <L>#  ##$$  $ #</L>
+      <L>## $  ##.$ #</L>
+      <L> ##   #..*##</L>
+      <L>  #####...#</L>
+      <L>      #..##</L>
+      <L>      ####</L>
+    </Level>
+    <Level Id="erim09-first collection" Width="8" Height="8">
+      <L>  ######</L>
+      <L>  # $..#</L>
+      <L>###  *.#</L>
+      <L>#  $ *.#</L>
+      <L># $$$#.#</L>
+      <L>#  # ###</L>
+      <L>#@   #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim10-first collection" Width="12" Height="12">
+      <L>  ######</L>
+      <L>  #    #</L>
+      <L>###$ $ ####</L>
+      <L>#   $   $ ##</L>
+      <L># $ # $ .* #</L>
+      <L>###  #  #. #</L>
+      <L>  #  $ #..@#</L>
+      <L>  #  $##...#</L>
+      <L>  ## $ #####</L>
+      <L>   #  .#</L>
+      <L>   ###.#</L>
+      <L>     ###</L>
+    </Level>
+    <Level Id="erim11-first collection" Width="10" Height="8">
+      <L>  #####</L>
+      <L> ##   ####</L>
+      <L> # $   $ #</L>
+      <L> #. $$#$@#</L>
+      <L>##.##  $ #</L>
+      <L># *.#   ##</L>
+      <L># ... ###</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim12-first collection" Width="9" Height="11">
+      <L>######</L>
+      <L>#    ####</L>
+      <L># ##    #</L>
+      <L>#  $ $  #</L>
+      <L>##$  # ##</L>
+      <L> #   #$ #</L>
+      <L> # $$$ @#</L>
+      <L>####.$###</L>
+      <L>#.... ..#</L>
+      <L>#   .####</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim13-first collection" Width="11" Height="11">
+      <L>  ####</L>
+      <L>###  ######</L>
+      <L>#    #@   #</L>
+      <L>#  # $ $$ #</L>
+      <L>#   $    ##</L>
+      <L>##$## ####</L>
+      <L> #  #$ #</L>
+      <L> ##....#</L>
+      <L>  ###. #</L>
+      <L>    #. #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="erim14-first collection" Width="11" Height="9">
+      <L> ######</L>
+      <L> #    #</L>
+      <L>##  $$##</L>
+      <L>#  #$  #</L>
+      <L># $  #.##</L>
+      <L>#  $##..###</L>
+      <L>##   ...$ #</L>
+      <L> ####@    #</L>
+      <L>    #######</L>
+    </Level>
+    <Level Id="erim14new-second collection" Width="11" Height="9">
+      <L> ######</L>
+      <L> #    #</L>
+      <L>##  $$##</L>
+      <L>#  #$  #</L>
+      <L># $  #.##</L>
+      <L>#  $##..###</L>
+      <L>##   ...$ #</L>
+      <L> ####@*   #</L>
+      <L>    #######</L>
+    </Level>
+    <Level Id="erim15-first collection" Width="15" Height="16">
+      <L>          #####</L>
+      <L>          #...#</L>
+      <L>          #.. #</L>
+      <L>######### #...#</L>
+      <L>#.      # #  ##</L>
+      <L>#.  $ $ # #  #</L>
+      <L>## $##### #  #</L>
+      <L> #  ####  ## ##</L>
+      <L> # $$  #####  #</L>
+      <L> #            #</L>
+      <L> # ########$  #</L>
+      <L> # ###### # $ #</L>
+      <L> #   $  # #$  #</L>
+      <L> #   $  # #   #</L>
+      <L> ##### @# #####</L>
+      <L>     ####</L>
+    </Level>
+    <Level Id="erim16-first collection" Width="15" Height="15">
+      <L>    ####</L>
+      <L>   ##..#</L>
+      <L>  ##  $#</L>
+      <L> ##  $ #</L>
+      <L>##  $ ##</L>
+      <L># $  ##</L>
+      <L>#  $##</L>
+      <L>#  $ ##</L>
+      <L>##  $ ##</L>
+      <L> ##  $@##</L>
+      <L>  ##  $ ##</L>
+      <L>   ##  $ ####</L>
+      <L>    ##  $ ..###</L>
+      <L>     ##.......#</L>
+      <L>      #########</L>
+    </Level>
+    <Level Id="erim17-first collection" Width="8" Height="7">
+      <L> #######</L>
+      <L> #     #</L>
+      <L>## .$* #</L>
+      <L>#  *@* #</L>
+      <L>#  *$. #</L>
+      <L>##    ##</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="erim18-first collection" Width="8" Height="7">
+      <L> #######</L>
+      <L> #     #</L>
+      <L>## .** #</L>
+      <L>#  $@$ #</L>
+      <L>#  **. #</L>
+      <L>##    ##</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="erim19-first collection" Width="8" Height="7">
+      <L> #######</L>
+      <L> #     #</L>
+      <L>## .*$ #</L>
+      <L>#  *@* #</L>
+      <L>#  $*. #</L>
+      <L>##    ##</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="erim20old-first collection" Width="8" Height="7">
+      <L>#######</L>
+      <L>#     ##</L>
+      <L># **$$ #</L>
+      <L># *+.  #</L>
+      <L># *** ##</L>
+      <L>#     #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim20new-first collection" Width="8" Height="7">
+      <L>#######</L>
+      <L>#     ##</L>
+      <L># .*$$ #</L>
+      <L># * #@ #</L>
+      <L># .*  ##</L>
+      <L>#     #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim21-first collection" Width="13" Height="12">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L>  # # #######</L>
+      <L>  #         #</L>
+      <L>### #### #  #</L>
+      <L>#   ### ## ##</L>
+      <L># # * ###+$#</L>
+      <L>#  $* #    #</L>
+      <L>###    .* ##</L>
+      <L>  ### ## ##</L>
+      <L>    #    #</L>
+      <L>    ######</L>
+    </Level>
+    <Level Id="erim22-first collection" Width="12" Height="15">
+      <L>##########</L>
+      <L>#   ##   #</L>
+      <L>#      $ #</L>
+      <L>### ###$##</L>
+      <L>  # # # #</L>
+      <L> ## ##  ####</L>
+      <L> #       $ #</L>
+      <L> # $## ### #</L>
+      <L> #  #    # #</L>
+      <L> ####  # # #</L>
+      <L>   #.# ##@ #</L>
+      <L>   #*.  ####</L>
+      <L>   #..  #</L>
+      <L>   #    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="erim23-first collection" Width="13" Height="12">
+      <L>      #######</L>
+      <L> ######     #</L>
+      <L> #   ##$$$$ #</L>
+      <L> #          #</L>
+      <L> ### ########</L>
+      <L>   # #</L>
+      <L>#### #</L>
+      <L>#  # ##</L>
+      <L># ....#</L>
+      <L>#     #</L>
+      <L>#   #@#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim24-first collection" Width="33" Height="25">
+      <L> ################################</L>
+      <L> #                              #</L>
+      <L> # ###  ##################### # #</L>
+      <L> # #                          # #</L>
+      <L> # # # ###################### # #</L>
+      <L> # # #                      # # #</L>
+      <L> # # # #################### # # #</L>
+      <L> # # # #                  # # # #</L>
+      <L> # # # # ################ # # # #</L>
+      <L> # # # # #              # # # # #</L>
+      <L> # # # # # ########## # # # # # #</L>
+      <L> # # # # # #@$          # # # # #</L>
+      <L> # # # # # ########## # # # # # #</L>
+      <L> # # # # #            # # # # # #</L>
+      <L> # # # # ############ # # # # # #</L>
+      <L> # # # #                # # # # #</L>
+      <L> # # # #  ############### # # # #</L>
+      <L> # # #                    # # # #</L>
+      <L> # # #  ################### # # #</L>
+      <L> # # #                      # # #</L>
+      <L> # # ######################## # #</L>
+      <L> # #                            #</L>
+      <L>## # ########################## #</L>
+      <L>#.                              #</L>
+      <L>#################################</L>
+    </Level>
+    <Level Id="erim25-first collection" Width="9" Height="13">
+      <L>   ###</L>
+      <L>  ##.##</L>
+      <L>###...###</L>
+      <L>#       #</L>
+      <L># $$ $$ #</L>
+      <L>#  # #  #</L>
+      <L>####$####</L>
+      <L>#  # # @#</L>
+      <L># $ $ $ #</L>
+      <L>#   *   #</L>
+      <L>###...###</L>
+      <L>  ##.##</L>
+      <L>   ###</L>
+    </Level>
+    <Level Id="erim26-first collection" Width="8" Height="10">
+      <L>  ####</L>
+      <L>###  #</L>
+      <L># .$.###</L>
+      <L># $@$  #</L>
+      <L>##.$.  #</L>
+      <L> #  ####</L>
+      <L> ##  #</L>
+      <L>  #  #</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim27-first collection" Width="9" Height="8">
+      <L>  #######</L>
+      <L> ##... .#</L>
+      <L> # $#.# #</L>
+      <L> #$@  $ #</L>
+      <L>## ##$# #</L>
+      <L># $     #</L>
+      <L>#   #  ##</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim28-first collection" Width="9" Height="8">
+      <L>  #######</L>
+      <L> ##...  #</L>
+      <L> #  #$# #</L>
+      <L> #    # #</L>
+      <L>## ##$# #</L>
+      <L>#    $  #</L>
+      <L>#@  #  ##</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim29(for kids)-first collection" Width="6" Height="5">
+      <L>######</L>
+      <L>#  ..#</L>
+      <L>#$$$ #</L>
+      <L>#.  @#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim30(for kids)-first collection" Width="6" Height="5">
+      <L>######</L>
+      <L># .  #</L>
+      <L>#$$$ #</L>
+      <L>#. .@#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim31(for kids)-first collection" Width="10" Height="6">
+      <L> #########</L>
+      <L>##  $@...#</L>
+      <L>#  $$#####</L>
+      <L>#    #</L>
+      <L>##   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim32(for kids)-first collection" Width="6" Height="7">
+      <L>######</L>
+      <L>#... #</L>
+      <L># #$ #</L>
+      <L># $  #</L>
+      <L># $ ##</L>
+      <L>#@ ##</L>
+      <L>####</L>
+    </Level>
+    <Level Id="erim33-first collection" Width="6" Height="8">
+      <L>######</L>
+      <L>#  @ #</L>
+      <L># $  #</L>
+      <L>## #$#</L>
+      <L># $$ #</L>
+      <L>#  $.#</L>
+      <L>#....#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim34-first collection" Width="6" Height="7">
+      <L>######</L>
+      <L>#    #</L>
+      <L># $ .#</L>
+      <L># .$ #</L>
+      <L>#.$###</L>
+      <L>##@#</L>
+      <L> ###</L>
+    </Level>
+    <Level Id="erim35-first collection" Width="16" Height="12">
+      <L>####</L>
+      <L>#  #############</L>
+      <L>#        $@....#</L>
+      <L>#  #######$#####</L>
+      <L>## #.. ..# #</L>
+      <L> # #*$ $ $ #</L>
+      <L> # $  $  # #</L>
+      <L>## ###   # ##</L>
+      <L># $#######  #</L>
+      <L>#           #</L>
+      <L>##########  #</L>
+      <L>         ####</L>
+    </Level>
+    <Level Id="erim36-first collection" Width="9" Height="7">
+      <L>   #####</L>
+      <L>   #   #</L>
+      <L>  ## # ##</L>
+      <L>### $   #</L>
+      <L>#...$$# #</L>
+      <L>###@#   #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="erim37-first collection" Width="8" Height="8">
+      <L>   #####</L>
+      <L>  ##   #</L>
+      <L>  #  # #</L>
+      <L>  # $  #</L>
+      <L>###$ # #</L>
+      <L>#..* # #</L>
+      <L>##@#   #</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="erim38-first collection" Width="9" Height="8">
+      <L>########</L>
+      <L>#...#  #</L>
+      <L># .*   ##</L>
+      <L>##@$$$  #</L>
+      <L> ### $  #</L>
+      <L>   #   ##</L>
+      <L>   ##  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="erim39-first collection" Width="11" Height="8">
+      <L>########</L>
+      <L>#   * @#</L>
+      <L># $. * ##</L>
+      <L>### *.  ###</L>
+      <L> # *.*$$  #</L>
+      <L> #        #</L>
+      <L> #######  #</L>
+      <L>       ####</L>
+    </Level>
+    <Level Id="erim40-first collection" Width="11" Height="8">
+      <L>########</L>
+      <L>#   .$@#</L>
+      <L># $. * ##</L>
+      <L>## #**  ###</L>
+      <L> # *.*  $ #</L>
+      <L> #        #</L>
+      <L> #######  #</L>
+      <L>       ####</L>
+    </Level>
+    <Level Id="erim40new-second collection" Width="11" Height="7">
+      <L>########</L>
+      <L>#   .$@#</L>
+      <L># $. * #</L>
+      <L>## #** ####</L>
+      <L> # *.*  $ #</L>
+      <L> #        #</L>
+      <L> ##########</L>
+    </Level>
+    <Level Id="erim41-first collection" Width="8" Height="8">
+      <L>######</L>
+      <L>#....#</L>
+      <L>#.$*$###</L>
+      <L>#@* $  #</L>
+      <L>### $  #</L>
+      <L>  #  $ #</L>
+      <L>  ##   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="erim42-first collection" Width="8" Height="8">
+      <L>#####</L>
+      <L>#...##</L>
+      <L>#.$$ ###</L>
+      <L>#@* $ .#</L>
+      <L>### $  #</L>
+      <L>  #  $ #</L>
+      <L>  ###  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="erim43-ForKids-first collection" Width="11" Height="6">
+      <L> ##########</L>
+      <L>##     .*+#</L>
+      <L>#  $$######</L>
+      <L>#    #</L>
+      <L>##   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim44-second collection" Width="7" Height="7">
+      <L>#######</L>
+      <L>#  #  #</L>
+      <L>#  #  #</L>
+      <L># $$  #</L>
+      <L>#@ .$##</L>
+      <L>###..#</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim45-second collection" Width="8" Height="7">
+      <L>######</L>
+      <L>#....###</L>
+      <L># ***  #</L>
+      <L>#@$ $  #</L>
+      <L>### $$ #</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim46-second collection" Width="8" Height="7">
+      <L>######</L>
+      <L># ...###</L>
+      <L># $$*  #</L>
+      <L>#@$ *  #</L>
+      <L>### ** #</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim47-second collection" Width="8" Height="8">
+      <L>   ####</L>
+      <L>####  #</L>
+      <L>#@   $#</L>
+      <L>#  #. ##</L>
+      <L>## .#  #</L>
+      <L> #$    #</L>
+      <L> #  ####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="erim48-second collection" Width="8" Height="8">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###  ###</L>
+      <L>#  $*  #</L>
+      <L>#  *. @#</L>
+      <L>###  ###</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim49-second collection" Width="7" Height="7">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###  #</L>
+      <L>#  $$##</L>
+      <L># . . #</L>
+      <L>###  @#</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="erim50-second collection" Width="9" Height="9">
+      <L>   ####</L>
+      <L>  ##  #</L>
+      <L>###   ##</L>
+      <L>#  $.$ ##</L>
+      <L>#  .#.  #</L>
+      <L>###$.$  #</L>
+      <L>  #   ###</L>
+      <L>  #@ ##</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim51-ForKids-second collection" Width="8" Height="5">
+      <L>    ####</L>
+      <L>##### .#</L>
+      <L>#    $*#</L>
+      <L>#   #@ #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim52-second collection" Width="10" Height="7">
+      <L>     ####</L>
+      <L> #####@ #</L>
+      <L> #  #  $#</L>
+      <L>##$ $ $.##</L>
+      <L>#   ##$..#</L>
+      <L>#      ..#</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="erim53-second collection" Width="6" Height="6">
+      <L> #####</L>
+      <L>##.$.#</L>
+      <L>#  # #</L>
+      <L># $$ #</L>
+      <L>#.  @#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim54-second collection" Width="6" Height="5">
+      <L>######</L>
+      <L>#..$ #</L>
+      <L>#.$$ #</L>
+      <L>###@ #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim55-second collection" Width="5" Height="7">
+      <L>#####</L>
+      <L>#. .#</L>
+      <L># $ #</L>
+      <L># * #</L>
+      <L># $ #</L>
+      <L>## @#</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="erim56-second collection" Width="6" Height="6">
+      <L>######</L>
+      <L>#.  .#</L>
+      <L># $$$#</L>
+      <L>#$ * #</L>
+      <L>#. @.#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim57-second collection" Width="9" Height="11">
+      <L>    #####</L>
+      <L>  ###   #</L>
+      <L>  #  $  #</L>
+      <L> ## $ # #</L>
+      <L>## $  # #</L>
+      <L># $  ##.#</L>
+      <L>#   ##.*#</L>
+      <L># $##...#</L>
+      <L>#      ##</L>
+      <L>##### @#</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="erim58-second collection" Width="17" Height="9">
+      <L> #####     #####</L>
+      <L> #   #     #   #</L>
+      <L> # $ ####### $ ##</L>
+      <L>## $$ $ # .**.. #</L>
+      <L>#   $  $   $.   #</L>
+      <L># $     # $ .#*##</L>
+      <L>###@ ###### ...#</L>
+      <L>  ####    #..###</L>
+      <L>          ####</L>
+    </Level>
+    <Level Id="erim59-second collection" Width="6" Height="8">
+      <L> #####</L>
+      <L> #   #</L>
+      <L>##$. #</L>
+      <L># ** #</L>
+      <L># $. #</L>
+      <L># ** #</L>
+      <L>#   @#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim60-second collection" Width="9" Height="6">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#   #   #</L>
+      <L># $$$$$ #</L>
+      <L>#@..... #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="erim61-second collection" Width="9" Height="6">
+      <L>########</L>
+      <L>#@ ##  ##</L>
+      <L>#   #   #</L>
+      <L># $$$$$ #</L>
+      <L># ..... #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="erim62-second collection" Width="7" Height="6">
+      <L>#######</L>
+      <L>#  #  #</L>
+      <L>#  #  #</L>
+      <L># $$$ #</L>
+      <L># @...#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim63-second collection" Width="14" Height="14">
+      <L>    ####</L>
+      <L>    #  ##</L>
+      <L> #### $ #####</L>
+      <L> #  # # ##  ##</L>
+      <L> #  $  $+....#</L>
+      <L> #  # ##$##.##</L>
+      <L> ## # ## #.. #</L>
+      <L> #  #  # #.. #</L>
+      <L> #    $#  #. #</L>
+      <L>##  ##    ####</L>
+      <L># $$ #  $ #</L>
+      <L>#  $  $ $##</L>
+      <L>#    #   #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="erim64-second collection" Width="10" Height="10">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L>### $ ###</L>
+      <L>#   $   ##</L>
+      <L># .**.$*.#</L>
+      <L>#   $    #</L>
+      <L>### * ####</L>
+      <L>  # . #</L>
+      <L>  #  @#</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="erim65-second collection" Width="7" Height="7">
+      <L> ####</L>
+      <L> #. ###</L>
+      <L>##*$  #</L>
+      <L># .$ @#</L>
+      <L># * ###</L>
+      <L>#   #</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="erim66-second collection" Width="8" Height="6">
+      <L>######</L>
+      <L>#    ###</L>
+      <L># $*.$ #</L>
+      <L># $ .. #</L>
+      <L>##  @###</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim67-second collection" Width="7" Height="7">
+      <L>  ####</L>
+      <L>### .#</L>
+      <L>#@   ##</L>
+      <L># $$..#</L>
+      <L># $ $.#</L>
+      <L>##  ###</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="erim68-second collection" Width="7" Height="7">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###  ##</L>
+      <L>#  *$ #</L>
+      <L># #.# #</L>
+      <L>#    @#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim69-second collection" Width="9" Height="9">
+      <L>   ####</L>
+      <L>   #  #</L>
+      <L> ###  #</L>
+      <L>## $.$###</L>
+      <L>#  .*.  #</L>
+      <L>#  $.$  #</L>
+      <L>###  ####</L>
+      <L>  #@ #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim70new-second collection" Width="9" Height="8">
+      <L>   ####</L>
+      <L>####  #</L>
+      <L># $  $#</L>
+      <L>#   ..###</L>
+      <L>##..*   #</L>
+      <L> #$  $  #</L>
+      <L> # @#####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="erim71-second collection" Width="8" Height="8">
+      <L>   ####</L>
+      <L>####  #</L>
+      <L># $  $#</L>
+      <L>#   ..##</L>
+      <L>##..   #</L>
+      <L> # $ $ #</L>
+      <L> # @####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="erim72-second collection" Width="8" Height="8">
+      <L> ######</L>
+      <L> #... #</L>
+      <L> #.$$ #</L>
+      <L>##$ # ##</L>
+      <L>#  #   #</L>
+      <L>#  $   #</L>
+      <L>#@  ####</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="erim73-second collection" Width="8" Height="8">
+      <L>   ####</L>
+      <L>####  #</L>
+      <L>#    $#</L>
+      <L># ..*.##</L>
+      <L>## *$  #</L>
+      <L> #$   @#</L>
+      <L> #  ####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="erim74-second collection" Width="8" Height="8">
+      <L>   ####</L>
+      <L>####  #</L>
+      <L>#    $#</L>
+      <L># ..* ##</L>
+      <L>##.*   #</L>
+      <L> #$  $@#</L>
+      <L> #  ####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="erim75-StartWithEndPosition-second collection" Width="10" Height="8">
+      <L> ####</L>
+      <L> #  #</L>
+      <L>##  ######</L>
+      <L>#  *#@*  #</L>
+      <L>#    **  #</L>
+      <L>##  #  ###</L>
+      <L> ####  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="erim76-StartWithEndPosition-second collection" Width="10" Height="9">
+      <L>    ####</L>
+      <L>    #  #</L>
+      <L>#####  #</L>
+      <L>##   **###</L>
+      <L>#  **@*  #</L>
+      <L>#    **  #</L>
+      <L>###  * ###</L>
+      <L>  ##   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="erim77-second collection" Width="18" Height="11">
+      <L>    #######</L>
+      <L>    #     #</L>
+      <L>    #* $ $#####</L>
+      <L>  ###  $ $    ####</L>
+      <L>  #. # ##*$$$@   #</L>
+      <L>###.$# #.$ $ ##$ #</L>
+      <L># $        *.# *.#</L>
+      <L>#.  #  #  $     ##</L>
+      <L>#.  .#######$. $#</L>
+      <L>#.. .#     #... #</L>
+      <L>######     ######</L>
+    </Level>
+    <Level Id="erim78-second collection" Width="15" Height="10">
+      <L>      #######</L>
+      <L>  #####     #</L>
+      <L> ##   #  #$ #</L>
+      <L> #  $   ##  ###</L>
+      <L>##$$.# @ $ *  #</L>
+      <L># *..# * * #  #</L>
+      <L>#   ## ## *.* #</L>
+      <L>###$   .##    #</L>
+      <L>  #  * .#######</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="erim79-StartWithEndPosition-second collection" Width="11" Height="11">
+      <L>     ####</L>
+      <L>    ##  #</L>
+      <L>#####   #</L>
+      <L>#     * #</L>
+      <L>#  **** ##</L>
+      <L>##  *@*  ##</L>
+      <L> ## ****  #</L>
+      <L>  # *     #</L>
+      <L>  #   #####</L>
+      <L>  #  ##</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim80-second collection" Width="11" Height="11">
+      <L>     ####</L>
+      <L>     #  #</L>
+      <L>######  #</L>
+      <L>#     *.#</L>
+      <L>#  $$$*.#</L>
+      <L>###.*@*.###</L>
+      <L>  #.*$$$  #</L>
+      <L>  #.*     #</L>
+      <L>  #  ######</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim81-StartWithEndPosition-second collection" Width="9" Height="9">
+      <L>   ####</L>
+      <L>####  ###</L>
+      <L>#       #</L>
+      <L>#  ***  #</L>
+      <L>## *   ##</L>
+      <L> # ***  #</L>
+      <L> # *@*  #</L>
+      <L> #  *  ##</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="erim82-second collection" Width="5" Height="7">
+      <L>#####</L>
+      <L>#+$.#</L>
+      <L># $ #</L>
+      <L>#$$ #</L>
+      <L># $ #</L>
+      <L>#...#</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="erim83-second collection" Width="9" Height="7">
+      <L>   ####</L>
+      <L>####  ##</L>
+      <L>#      ##</L>
+      <L>#. ***  #</L>
+      <L>## $@*  #</L>
+      <L> #  *  ##</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="erim84-second collection" Width="13" Height="12">
+      <L>      #######</L>
+      <L> ######     #</L>
+      <L> #   ##$$$$ #</L>
+      <L> #          #</L>
+      <L> ### ########</L>
+      <L>   # #</L>
+      <L>#### #</L>
+      <L>#  # ##</L>
+      <L># ....#</L>
+      <L>#  $. #</L>
+      <L>#   #@#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim85-second collection" Width="9" Height="7">
+      <L>   ####</L>
+      <L>####  ##</L>
+      <L>#      ##</L>
+      <L>#  ***  #</L>
+      <L>## $@*  #</L>
+      <L> #  *. ##</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="erim86-second collection" Width="13" Height="13">
+      <L>      ####</L>
+      <L>   ####  #</L>
+      <L>   #     #</L>
+      <L>#### $  $###</L>
+      <L># $ *  *.  #</L>
+      <L>#  $..$.*  #</L>
+      <L>##$ .*@*. $##</L>
+      <L> #  *.$..$  #</L>
+      <L> #  .* .* $ #</L>
+      <L> ###$. $ ####</L>
+      <L>   #     #</L>
+      <L>   #  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="erim87-second collection" Width="13" Height="13">
+      <L>      ####</L>
+      <L>   #### .#</L>
+      <L>   #.  $ #</L>
+      <L>#### # * ###</L>
+      <L>#  $ $  #. #</L>
+      <L>#. $##.*  $#</L>
+      <L>##  # @ #  ##</L>
+      <L> #$  *.##$ .#</L>
+      <L> # .#  $ $  #</L>
+      <L> ### *   ####</L>
+      <L>   # $  .#</L>
+      <L>   #. ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="erim88-second collection" Width="13" Height="13">
+      <L>      ####</L>
+      <L>   ####  #</L>
+      <L>   #     #</L>
+      <L>####$  $ ###</L>
+      <L># $  #.$#  #</L>
+      <L>#    *..#$ #</L>
+      <L>##   #+##  ##</L>
+      <L> # $#...    #</L>
+      <L> #  #$.#  $ #</L>
+      <L> ###  ..$####</L>
+      <L>   # $   #</L>
+      <L>   #  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="erim89-second collection" Width="10" Height="11">
+      <L>    ######</L>
+      <L>  ###    #</L>
+      <L> ## $. $ #</L>
+      <L>## $ .$ ##</L>
+      <L># $. * ##</L>
+      <L>#  .$.##</L>
+      <L>##$.$.#</L>
+      <L> # .$.##</L>
+      <L> ##. $ #</L>
+      <L>  ##  @#</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="erim90-second collection" Width="8" Height="8">
+      <L>   ####</L>
+      <L>#### .#</L>
+      <L>#.    #</L>
+      <L># $ *$##</L>
+      <L>##$* $ #</L>
+      <L> #    .#</L>
+      <L> #.@####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="erim91-second collection" Width="9" Height="10">
+      <L>#####</L>
+      <L>#   ##</L>
+      <L># $  ###</L>
+      <L># $$.*.#</L>
+      <L># .$*.*#</L>
+      <L>##..$$.#</L>
+      <L> #*..$$##</L>
+      <L> #    $ #</L>
+      <L> ####  @#</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="erim92-second collection" Width="9" Height="10">
+      <L>#####</L>
+      <L>#   ##</L>
+      <L># $  ###</L>
+      <L># $$.*.#</L>
+      <L># .$$.*#</L>
+      <L>##..*$.#</L>
+      <L> #*..$$##</L>
+      <L> #    $ #</L>
+      <L> ####  @#</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="erim93-second collection" Width="8" Height="9">
+      <L>########</L>
+      <L>#      #</L>
+      <L># *** @#</L>
+      <L># $ . ##</L>
+      <L># $$* #</L>
+      <L># *.. #</L>
+      <L># $ . #</L>
+      <L># *** #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim94-ForKids-second collection" Width="7" Height="10">
+      <L>#######</L>
+      <L>#     #</L>
+      <L># $$$ #</L>
+      <L># *..##</L>
+      <L># $$*#</L>
+      <L># $ .#</L>
+      <L># *..#</L>
+      <L># $$*#</L>
+      <L>#@...#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim95-second collection" Width="7" Height="6">
+      <L>######</L>
+      <L>#    #</L>
+      <L># $. ##</L>
+      <L>##$.$ #</L>
+      <L> # . @#</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="erim96-ILostThisLevelAndThxStephanieFabianForRescue-second collection" Width="12" Height="10">
+      <L>####   #####</L>
+      <L>#  #####   #</L>
+      <L># $$     $ #</L>
+      <L>#  # ## # ##</L>
+      <L>## #... # #</L>
+      <L> #  .*.## #</L>
+      <L>##$##.. # #</L>
+      <L># $   $ #$#</L>
+      <L>#   ##   @#</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="erim97-second collection" Width="8" Height="6">
+      <L> #####</L>
+      <L>##   #</L>
+      <L># .$.###</L>
+      <L># $@$  #</L>
+      <L># .$.  #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim98-second collection2" Width="10" Height="6">
+      <L> #####</L>
+      <L>##   #</L>
+      <L># .$.#####</L>
+      <L># $+$    #</L>
+      <L>##.$. $  #</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="erim99-ForKids-second collection" Width="5" Height="7">
+      <L>#####</L>
+      <L>#@$.#</L>
+      <L># $.#</L>
+      <L>##$.#</L>
+      <L>#   #</L>
+      <L>#   #</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="erim100-second collection" Width="15" Height="10">
+      <L>       ######</L>
+      <L>  ######    #</L>
+      <L> ##   #  #$ #</L>
+      <L> #  $   *#  ###</L>
+      <L>##$$.# @ * *  #</L>
+      <L># *..# * * #  #</L>
+      <L>#   ## ## * * #</L>
+      <L>###$   .##    #</L>
+      <L>  #  * .#######</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="erim101-second collection" Width="8" Height="10">
+      <L>########</L>
+      <L>#      #</L>
+      <L># $**. #</L>
+      <L># *  * #</L>
+      <L># *  *##</L>
+      <L># *  * #</L>
+      <L># *# * #</L>
+      <L># .**$ #</L>
+      <L>#     @#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim102-second collection" Width="8" Height="9">
+      <L>########</L>
+      <L>#      #</L>
+      <L># $**. #</L>
+      <L># * ** #</L>
+      <L># *  * #</L>
+      <L># *  * #</L>
+      <L># .**$ #</L>
+      <L>#     @#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim103-second collection" Width="8" Height="11">
+      <L>########</L>
+      <L>#      #</L>
+      <L># $**. #</L>
+      <L># * ** #</L>
+      <L># *  * #</L>
+      <L># *  *##</L>
+      <L># *  * #</L>
+      <L># *# * #</L>
+      <L># .**$ #</L>
+      <L>#     @#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim104-ForKids-second collection" Width="9" Height="6">
+      <L>  #####</L>
+      <L>###   ###</L>
+      <L># $*.*$ #</L>
+      <L># $...$ #</L>
+      <L>#   @   #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="erim105-second collection" Width="10" Height="6">
+      <L>##########</L>
+      <L>#   ##   #</L>
+      <L># $..* $@#</L>
+      <L>#    #####</L>
+      <L>##   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim106-second collection" Width="11" Height="6">
+      <L>###########</L>
+      <L>#   #     #</L>
+      <L># *..* $ @#</L>
+      <L>#  $ ######</L>
+      <L>##   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim107-ForKids-second collection" Width="7" Height="7">
+      <L>#######</L>
+      <L>#     #</L>
+      <L># $ # #</L>
+      <L># .*  #</L>
+      <L>#  $#*#</L>
+      <L>#* .*@#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim108-second collection" Width="9" Height="6">
+      <L>########</L>
+      <L>#@  #  ##</L>
+      <L>#  $  $ #</L>
+      <L># $*$*$ #</L>
+      <L># ..... #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="erim109-ILoveKids-second collection" Width="6" Height="6">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###  #</L>
+      <L>#  $*#</L>
+      <L>#@  .#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim110-ILoveVeryLittleKidsToo-second collection" Width="6" Height="6">
+      <L>  ####</L>
+      <L>  # @#</L>
+      <L>###. #</L>
+      <L>#  $$#</L>
+      <L>#   .#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim111-second collection" Width="10" Height="9">
+      <L>   ####</L>
+      <L>   #  #</L>
+      <L>####  #</L>
+      <L># $ $ #</L>
+      <L>#@$   ####</L>
+      <L>### $ $  #</L>
+      <L>  ##  ...#</L>
+      <L>   ## ..##</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="erim112-second collection" Width="9" Height="8">
+      <L>  ####</L>
+      <L>###  ###</L>
+      <L>#.* $  #</L>
+      <L>#*.* $ ##</L>
+      <L>#.*.$ $ #</L>
+      <L>#*.* $ @#</L>
+      <L>#.* $ ###</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim113-second collection" Width="9" Height="10">
+      <L>########</L>
+      <L>#   #  ##</L>
+      <L># $  *  #</L>
+      <L>#$ $* * #</L>
+      <L>#.$..*. #</L>
+      <L># # # # #</L>
+      <L>#.*  $. #</L>
+      <L>#* *$ $ #</L>
+      <L># *..$@##</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim114-second collection" Width="10" Height="8">
+      <L>  ####</L>
+      <L>###  #</L>
+      <L>#    ###</L>
+      <L># $   @###</L>
+      <L>### $  $ #</L>
+      <L>  ###$...#</L>
+      <L>    # .###</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="erim115-second collection" Width="8" Height="8">
+      <L>  ####</L>
+      <L> ##  #</L>
+      <L>##   ###</L>
+      <L>#  .*  #</L>
+      <L># $ *  #</L>
+      <L>###   ##</L>
+      <L>  #@ ##</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim116-second collection" Width="12" Height="8">
+      <L>    #####</L>
+      <L>    #   #</L>
+      <L>#####  $####</L>
+      <L># $ $ $....#</L>
+      <L>#....$ $ $ #</L>
+      <L>####$  #####</L>
+      <L>   #  @#</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="erim117-ForKids-second collection" Width="8" Height="5">
+      <L>#######</L>
+      <L>#  #@ ##</L>
+      <L># $  $ #</L>
+      <L>#.*  *.#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim118-ForKids-second collection" Width="8" Height="6">
+      <L>########</L>
+      <L>#.# @#.#</L>
+      <L># $  $ #</L>
+      <L># $..$ #</L>
+      <L>#  #  ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim119-second collection" Width="8" Height="8">
+      <L>  ####</L>
+      <L> ##  ##</L>
+      <L>##  $ ##</L>
+      <L># .... #</L>
+      <L># *$$$ #</L>
+      <L>##    ##</L>
+      <L> ## @##</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim120-second collection" Width="8" Height="8">
+      <L>  ####</L>
+      <L> ##  ##</L>
+      <L>##....##</L>
+      <L>#  .$  #</L>
+      <L># $$$$ #</L>
+      <L>##    ##</L>
+      <L> ## @##</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim121-second collection" Width="8" Height="8">
+      <L>  ####</L>
+      <L> ##  ##</L>
+      <L>##    ##</L>
+      <L>#   $  #</L>
+      <L>#.**$*.#</L>
+      <L>##    ##</L>
+      <L> ## @##</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim122-second collection" Width="11" Height="11">
+      <L>   #####</L>
+      <L>  ##   ##</L>
+      <L> ##  .  ##</L>
+      <L>## *$*$* ##</L>
+      <L>#  . . .  #</L>
+      <L># **$*$*$ #</L>
+      <L>#  . . .  #</L>
+      <L>## *$ $* ##</L>
+      <L> ##  *  ##</L>
+      <L>  ##  @##</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="erim123-second collection" Width="10" Height="7">
+      <L>  ######</L>
+      <L> ##    ##</L>
+      <L>## .  . ##</L>
+      <L>#  * $.  #</L>
+      <L># $*$$*$ #</L>
+      <L>## .  .@##</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="erim124-second collection" Width="10" Height="8">
+      <L>  ########</L>
+      <L> ##      #</L>
+      <L>##  $.$*.#</L>
+      <L>#  $**.$.#</L>
+      <L># $*.$.  #</L>
+      <L>#  $.  ###</L>
+      <L>##  @###</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim125-second collection" Width="9" Height="11">
+      <L> ####</L>
+      <L> #  ##</L>
+      <L> # . ###</L>
+      <L>## *   ##</L>
+      <L>#  * *  #</L>
+      <L># ***** #</L>
+      <L>#  * *  #</L>
+      <L>###  * ##</L>
+      <L>  ## $ #</L>
+      <L>   #  @#</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="erim126-second collection" Width="9" Height="7">
+      <L>    #####</L>
+      <L>    #   #</L>
+      <L>#####$  #</L>
+      <L>#@$..$* #</L>
+      <L>## $.  ##</L>
+      <L> ###  .#</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="erim127-ForKids-second collection" Width="6" Height="5">
+      <L>#####</L>
+      <L>#   #</L>
+      <L>#$$ ##</L>
+      <L>#..*@#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim128-second collection" Width="7" Height="6">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#  $ #</L>
+      <L>#$$$ ##</L>
+      <L>#...*+#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim129-second collection" Width="8" Height="6">
+      <L>#######</L>
+      <L>#     #</L>
+      <L># $ $ #</L>
+      <L>#$$$* ##</L>
+      <L>#....*+#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim130-second collection" Width="8" Height="5">
+      <L>#######</L>
+      <L>#    .#</L>
+      <L>#$$$$ ##</L>
+      <L>#....$@#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim131-second collection" Width="8" Height="6">
+      <L> #####</L>
+      <L>##   #</L>
+      <L>#  * ###</L>
+      <L># $+*  #</L>
+      <L>#  *   #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim132-second collection" Width="8" Height="6">
+      <L> #####</L>
+      <L>##   ###</L>
+      <L># .$.  #</L>
+      <L># $ $ @#</L>
+      <L># .$.###</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim133-second collection" Width="8" Height="6">
+      <L> #####</L>
+      <L>##   ###</L>
+      <L>#  * $ #</L>
+      <L># *$. @#</L>
+      <L>#  .####</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="erim134-second collection" Width="9" Height="6">
+      <L>  ####</L>
+      <L>###  #</L>
+      <L># $ $####</L>
+      <L># . .   #</L>
+      <L># $.$. @#</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="erim135-second collection" Width="7" Height="8">
+      <L> ######</L>
+      <L>##    #</L>
+      <L>#  *  #</L>
+      <L># $.$##</L>
+      <L># .$. #</L>
+      <L># $.$ #</L>
+      <L># .$.@#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim136-second collection" Width="7" Height="8">
+      <L> #####</L>
+      <L>##   #</L>
+      <L>#  * ##</L>
+      <L># $.$ #</L>
+      <L># .$. #</L>
+      <L># $.$ #</L>
+      <L>#@.$.##</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim137-second collection" Width="7" Height="11">
+      <L>#####</L>
+      <L>#   #</L>
+      <L>#   #</L>
+      <L>#  ##</L>
+      <L>#..####</L>
+      <L>#**   #</L>
+      <L>#..$$ #</L>
+      <L>#$ #  #</L>
+      <L># $####</L>
+      <L>#@ #</L>
+      <L>####</L>
+    </Level>
+    <Level Id="erim138-second collection" Width="11" Height="11">
+      <L>   #####</L>
+      <L>   #   #</L>
+      <L>   # $ #</L>
+      <L>#####$ ####</L>
+      <L>#   ...#  #</L>
+      <L># $$...$$ #</L>
+      <L>#  #.@.   #</L>
+      <L>#### $#####</L>
+      <L>   # $ #</L>
+      <L>   #   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="erim139-second collection" Width="11" Height="11">
+      <L>   #####</L>
+      <L>   #   #</L>
+      <L>   # $ #</L>
+      <L>####*$ ####</L>
+      <L>#   ...*  #</L>
+      <L># $$.*.$$ #</L>
+      <L>#  *...   #</L>
+      <L>#### $*####</L>
+      <L>   # $ #</L>
+      <L>   #  @#</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="erim140-second collection" Width="10" Height="10">
+      <L>##########</L>
+      <L>#.     ..#</L>
+      <L>#*##  .. #</L>
+      <L># ##### ##</L>
+      <L>#    @# #</L>
+      <L># #$$$# #</L>
+      <L>#     $ #</L>
+      <L>##  # $ #</L>
+      <L> ####   #</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="erim141-second collection" Width="7" Height="8">
+      <L>#######</L>
+      <L># .   #</L>
+      <L># #$  #</L>
+      <L>#  $ ##</L>
+      <L>###$ ##</L>
+      <L>  # ..#</L>
+      <L>  #  @#</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="erim142-second collection" Width="14" Height="9">
+      <L>#############</L>
+      <L>#  .  .  ##@#</L>
+      <L># .* * * ##$##</L>
+      <L>## ##.# ###..#</L>
+      <L> # # $#   $ .#</L>
+      <L> # $  #$$ #  #</L>
+      <L> #      $ ####</L>
+      <L> #   ######</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim143-second collection" Width="8" Height="7">
+      <L> ######</L>
+      <L>##    #</L>
+      <L># $$$ #</L>
+      <L>#   $ ##</L>
+      <L>#   *. #</L>
+      <L>####..+#</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="erim144-second collection" Width="12" Height="10">
+      <L>####   #####</L>
+      <L>#  #####   #</L>
+      <L>#          #</L>
+      <L>#  # ## # ##</L>
+      <L>## #    # #</L>
+      <L> #     ## #</L>
+      <L>## ##. ## #</L>
+      <L>#      ##$#</L>
+      <L>#   ##   @#</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="erim145-second collection" Width="9" Height="9">
+      <L>   ####</L>
+      <L>   #  ###</L>
+      <L>####    #</L>
+      <L>#    ** #</L>
+      <L># *##   #</L>
+      <L>## .#* ##</L>
+      <L> #  $ @#</L>
+      <L> #  ####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="erim146-StartWithEndPosition-second collection" Width="7" Height="7">
+      <L> ####</L>
+      <L> #  ###</L>
+      <L>##    #</L>
+      <L>#  ** #</L>
+      <L>#  *@##</L>
+      <L>##  ##</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="erim147-second collection" Width="10" Height="9">
+      <L>    #####</L>
+      <L>    #   #</L>
+      <L>   ##$  ##</L>
+      <L>####  $$ #</L>
+      <L>#   *+.. #</L>
+      <L># $*..####</L>
+      <L>##  $##</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim148-second collection" Width="10" Height="10">
+      <L>    #####</L>
+      <L>    #   #</L>
+      <L>   ##$  ##</L>
+      <L>   #  $$ #</L>
+      <L>####$... #</L>
+      <L># ...+####</L>
+      <L># $$  #</L>
+      <L>##  $##</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim149-second collection" Width="8" Height="8">
+      <L> ######</L>
+      <L> #   @##</L>
+      <L> #$$ $ #</L>
+      <L>## ##  #</L>
+      <L># .*.*.#</L>
+      <L>#      #</L>
+      <L>####  ##</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="erim150-second collection" Width="7" Height="6">
+      <L> ######</L>
+      <L> #  ..#</L>
+      <L>##$ # #</L>
+      <L>#   $ #</L>
+      <L>#  @###</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="erim151-second collection" Width="7" Height="9">
+      <L>   ####</L>
+      <L>####  #</L>
+      <L>#  #  #</L>
+      <L>#  . .#</L>
+      <L>#$$$$$#</L>
+      <L>#. . .#</L>
+      <L>#  # @#</L>
+      <L>#  ####</L>
+      <L>####</L>
+    </Level>
+    <Level Id="erim152-second collection" Width="8" Height="6">
+      <L>######</L>
+      <L>#  ..#</L>
+      <L># $ .###</L>
+      <L>### $$ #</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim153-second collection" Width="8" Height="7">
+      <L>######</L>
+      <L>#....#</L>
+      <L># $  ###</L>
+      <L>### $$ #</L>
+      <L>  #  $ #</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim154-second collection" Width="8" Height="8">
+      <L> ####</L>
+      <L> #  ####</L>
+      <L> # ... #</L>
+      <L>##$.#  #</L>
+      <L>#  ##  #</L>
+      <L># $$ $##</L>
+      <L>#    @#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim155-second collection" Width="14" Height="14">
+      <L>    ######</L>
+      <L>    #    #</L>
+      <L>    # $ $##</L>
+      <L>  ###$    #</L>
+      <L>###  **.*$####</L>
+      <L># $$ .....$  #</L>
+      <L>#    ..*** $ #</L>
+      <L># $ ***..    #</L>
+      <L>#  $..... $$ #</L>
+      <L>####$*.**  ###</L>
+      <L>   #    $###</L>
+      <L>   ##$ $ #</L>
+      <L>    #   @#</L>
+      <L>    ######</L>
+    </Level>
+    <Level Id="erim156-second collection" Width="14" Height="14">
+      <L>    ######</L>
+      <L>    #    #</L>
+      <L>    # $ $##</L>
+      <L>  ###$    #</L>
+      <L>###  **.*$####</L>
+      <L># $$ .....$  #</L>
+      <L>#   *..*** $ #</L>
+      <L># $ ***..*   #</L>
+      <L>#  $..... $$ #</L>
+      <L>####$*.**  ###</L>
+      <L>   #    $###</L>
+      <L>   ##$ $ #</L>
+      <L>    #   @#</L>
+      <L>    ######</L>
+    </Level>
+    <Level Id="erim157-second collection" Width="12" Height="8">
+      <L>  ########</L>
+      <L>  #  ## .#</L>
+      <L>###$ ##$.###</L>
+      <L>#    $     #</L>
+      <L># $  @$  $ #</L>
+      <L>#.$##.$##$.#</L>
+      <L>#. ##..## .#</L>
+      <L>############</L>
+    </Level>
+    <Level Id="erim158-second collection" Width="11" Height="8">
+      <L> ####</L>
+      <L> #  #</L>
+      <L>## .######</L>
+      <L># $  $   ##</L>
+      <L># $ $@$$. #</L>
+      <L>#   ## .. #</L>
+      <L>#.. ##  ###</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="erim159-second collection" Width="8" Height="10">
+      <L> ######</L>
+      <L>## @  ##</L>
+      <L># $##  #</L>
+      <L>#  ##$ #</L>
+      <L>#.$#. .#</L>
+      <L>#. . ###</L>
+      <L>#.$# ###</L>
+      <L>#  $ $ #</L>
+      <L>#. $   #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim160-second collection" Width="12" Height="12">
+      <L>     #####</L>
+      <L>     #.. #</L>
+      <L>   ###.. #</L>
+      <L>   # .  ####</L>
+      <L>#### $#    #</L>
+      <L>#..  .# $$ #</L>
+      <L>#.#$ ## $  #</L>
+      <L>#   $##  ###</L>
+      <L>#  #  ##$#</L>
+      <L>####$ $  #</L>
+      <L>   #   @##</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="erim161-second collection" Width="17" Height="16">
+      <L>  ##############</L>
+      <L>  #  .....  $  #</L>
+      <L>  # $#####  $  #</L>
+      <L>  #. ### #..# ###</L>
+      <L> ## #  # #### $ #</L>
+      <L> #@ $ $###...   #</L>
+      <L> ## #   .# $#$###</L>
+      <L>### #### #  # #</L>
+      <L>#    $    # $ #</L>
+      <L># #.##### #   #</L>
+      <L># ###   #  .# #</L>
+      <L># ####### ### #</L>
+      <L>#  ##  $      #</L>
+      <L>##    $$$###  #</L>
+      <L> ####    # ####</L>
+      <L>    ######</L>
+    </Level>
+    <Level Id="erim162-second collection" Width="15" Height="19">
+      <L>     ######</L>
+      <L>  ####....#</L>
+      <L>  #...  @.#</L>
+      <L>###$ ##  .#</L>
+      <L>#    ###$##</L>
+      <L># #  # #  #####</L>
+      <L>#.# ####$  $  #</L>
+      <L>#.#  $ #  ### #</L>
+      <L># # $  # $### #</L>
+      <L># # $ ##  $  .#</L>
+      <L># $ $ #.  .*. #</L>
+      <L>#  ## #  ##$###</L>
+      <L>##### # ##   #</L>
+      <L>   #. #$ #.$ #</L>
+      <L>   #*    $ $ #</L>
+      <L>  ## ##   $  #</L>
+      <L>  # $  # #####</L>
+      <L>  #    . #</L>
+      <L>  ########</L>
+    </Level>
+    <Level Id="erim163-second collection" Width="9" Height="10">
+      <L>   ###</L>
+      <L>  ##.##</L>
+      <L> ## $ ##</L>
+      <L>## @ $ ##</L>
+      <L># $.#  .#</L>
+      <L>#.  *.$ #</L>
+      <L>## $   ##</L>
+      <L> ## $ ##</L>
+      <L>  ##.##</L>
+      <L>   ###</L>
+    </Level>
+    <Level Id="erim164-second collection" Width="9" Height="9">
+      <L>   ####</L>
+      <L>   #  #</L>
+      <L>####. ###</L>
+      <L>#  $ $$@#</L>
+      <L># . $ . #</L>
+      <L>### . ###</L>
+      <L>  ##$ #</L>
+      <L>   # .#</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="erim165-StartWithEndPosition-second collection" Width="19" Height="13">
+      <L>     ##########</L>
+      <L>     #    #   ####</L>
+      <L>     #   *   *#  #</L>
+      <L>     ## **##     ##</L>
+      <L>  #####  * ###**  #</L>
+      <L>  #     #* #      #</L>
+      <L>### * * *@* * * ###</L>
+      <L>#      # *#     #</L>
+      <L>#  **### *  #####</L>
+      <L>##     ##** ##</L>
+      <L> #  #*   *   #</L>
+      <L> ####   #    #</L>
+      <L>    ##########</L>
+    </Level>
+    <Level Id="erim166-StartWithEndPosition-second collection" Width="7" Height="7">
+      <L>####</L>
+      <L>#  ####</L>
+      <L>#  #  #</L>
+      <L>#  *  #</L>
+      <L>##**  #</L>
+      <L>#@*   #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim167-second collection" Width="13" Height="12">
+      <L>      #######</L>
+      <L>      # .   #</L>
+      <L>    ### #   #</L>
+      <L>    #   ..###</L>
+      <L>    #   #.##</L>
+      <L>    ## ##..#</L>
+      <L>  ####. #. #</L>
+      <L>###   $$$. #</L>
+      <L># $ $$   #.#</L>
+      <L># $    $$$@#</L>
+      <L>#   ##   ###</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="erim168-StartWithEndPosition-second collection" Width="9" Height="7">
+      <L>  ####</L>
+      <L>###  ####</L>
+      <L>#    #  #</L>
+      <L>#  * *  #</L>
+      <L>###***  #</L>
+      <L>  #@*   #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="erim169-StartWithEndPosition-second collection" Width="11" Height="7">
+      <L>    ####</L>
+      <L>#####  ####</L>
+      <L>#  *   #  #</L>
+      <L>#    * *  #</L>
+      <L>## *#***  #</L>
+      <L> #  #@*   #</L>
+      <L> ##########</L>
+    </Level>
+    <Level Id="erim170-StartWithEndPosition-second collection" Width="8" Height="10">
+      <L>   ####</L>
+      <L>   #  #</L>
+      <L>   #  ##</L>
+      <L>#### * #</L>
+      <L>#    * #</L>
+      <L># *    #</L>
+      <L># * *###</L>
+      <L>###*  #</L>
+      <L> #@*  #</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="erim171-StartWithEndPosition-second collection" Width="12" Height="12">
+      <L>        ####</L>
+      <L>  #######  #</L>
+      <L>  #  #     #</L>
+      <L>  # * *** *#</L>
+      <L>###  **@#  #</L>
+      <L>#   * *#  *#</L>
+      <L># #    * * #</L>
+      <L>#  * * *   #</L>
+      <L>####*## #  #</L>
+      <L>  # * *   ##</L>
+      <L>  #      ##</L>
+      <L>  ########</L>
+    </Level>
+    <Level Id="erim172-StartWithEndPosition-second collection" Width="14" Height="13">
+      <L>        ####</L>
+      <L>    #####  #</L>
+      <L>    #      #</L>
+      <L>    # ### *##</L>
+      <L> #### # * * ##</L>
+      <L> #    #  * *@#</L>
+      <L> # #  # # * ##</L>
+      <L> # ##      ##</L>
+      <L>## ### #####</L>
+      <L># **  * #</L>
+      <L>#       #</L>
+      <L>#  ######</L>
+      <L>####</L>
+    </Level>
+    <Level Id="erim173-second collection" Width="10" Height="10">
+      <L>    #####</L>
+      <L>    #   #</L>
+      <L>  ### $ ##</L>
+      <L> ##  $ $ #</L>
+      <L> #  # $  #</L>
+      <L>## ### ###</L>
+      <L># . #   #</L>
+      <L>#.+.  $ #</L>
+      <L># . #####</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="erim174-second collection" Width="10" Height="10">
+      <L>  ######</L>
+      <L>  #    #</L>
+      <L>###  $ ###</L>
+      <L>#  .***  #</L>
+      <L># $* .*  #</L>
+      <L>#  *.@*$ #</L>
+      <L>#  ***.  #</L>
+      <L>### $  ###</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim175-second collection" Width="10" Height="10">
+      <L>  ######</L>
+      <L>  #    #</L>
+      <L>###  * ###</L>
+      <L>#  $**$  #</L>
+      <L># $*..*  #</L>
+      <L>#  *.+** #</L>
+      <L>#  $**$  #</L>
+      <L>### *. ###</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim176-second collection" Width="15" Height="9">
+      <L> #############</L>
+      <L>##@.   .   . ##</L>
+      <L>#*$*$*$*$*$*$ #</L>
+      <L>#.   .   .    #</L>
+      <L>###*###$###$#.#</L>
+      <L>#.   .   .    #</L>
+      <L>#*$*$*$.$*$*$ #</L>
+      <L>## .   .   .  #</L>
+      <L> ##############</L>
+    </Level>
+    <Level Id="erim177-second collection" Width="18" Height="13">
+      <L>##################</L>
+      <L>#..  #  *  #     #</L>
+      <L>#.*. #  $  #  $  #</L>
+      <L>#.#  #$ #$ #$ #  #</L>
+      <L>#.#  $  #  $  # ##</L>
+      <L>#.#  *  #  *  #  #</L>
+      <L>#*#############  #</L>
+      <L>#.#  *  #  *  #  #</L>
+      <L>#.#  $  #  $  # ##</L>
+      <L>#.#  #$ #$ #$ #  #</L>
+      <L>#.*. #  $  #  $  #</L>
+      <L>#..@ #  *  #     #</L>
+      <L>##################</L>
+    </Level>
+    <Level Id="erim178-second collection" Width="17" Height="17">
+      <L>#################</L>
+      <L>#   #   #   #   #</L>
+      <L># .*# *   .*# * #</L>
+      <L># * # * # * #** #</L>
+      <L># *   .*# *     #</L>
+      <L>#   #   #   ## ##</L>
+      <L>#############   #</L>
+      <L>#   #   #   # * #</L>
+      <L># *   **# *  ** #</L>
+      <L># $*# *   **#   #</L>
+      <L>#   #   #   ## ##</L>
+      <L>## ### ### ##   #</L>
+      <L>#   #   #   # * #</L>
+      <L># *   **# *  *$ #</L>
+      <L># $*# *   **#  @#</L>
+      <L>#   #   #   #####</L>
+      <L>#############</L>
+    </Level>
+    <Level Id="erim179-second collection" Width="15" Height="15">
+      <L>#####      ####</L>
+      <L>#   ########  #</L>
+      <L>#             #</L>
+      <L>## $*******$  #</L>
+      <L> # *       * ##</L>
+      <L> # * ***** * #</L>
+      <L> # * *. .* * #</L>
+      <L> # * * @ * * #</L>
+      <L> # * *. .* * #</L>
+      <L> # * ***** * #</L>
+      <L>## *       * #</L>
+      <L>#  $*******$ ##</L>
+      <L>#             #</L>
+      <L>#  ########   #</L>
+      <L>####      #####</L>
+    </Level>
+    <Level Id="erim180-SameErim_hex1.hsb-third collection" Width="12" Height="8">
+      <L>##########</L>
+      <L>#   #    #</L>
+      <L># $   ## #</L>
+      <L># $# @## ###</L>
+      <L># $ $## . .#</L>
+      <L>###$    ..##</L>
+      <L>  #   # .##</L>
+      <L>  ########</L>
+    </Level>
+    <Level Id="erim181-MoreDifficultErim179-third collection" Width="15" Height="15">
+      <L> ####      ####</L>
+      <L> #  ########  #</L>
+      <L> #            #</L>
+      <L> # $****###$  #</L>
+      <L> # *       * ##</L>
+      <L> # # ***** * #</L>
+      <L> # * *. .# * #</L>
+      <L> # # * @ * * #</L>
+      <L> # * *. .# * #</L>
+      <L> # # ***** * #</L>
+      <L>## *       * #</L>
+      <L>#  $#******$ #</L>
+      <L>#            #</L>
+      <L>###########  #</L>
+      <L>          ####</L>
+    </Level>
+    <Level Id="erim182new-RebuiltWithPhilippeLamat'sSolutionOfErim156-third collection" Width="14" Height="14">
+      <L>     #####</L>
+      <L>    ##   #</L>
+      <L>    # $ $##</L>
+      <L>  ###$    #</L>
+      <L>###  **.*$####</L>
+      <L># $$ .....$  #</L>
+      <L>#   *..##* $ #</L>
+      <L># $ *##..*   #</L>
+      <L>#  $..... $$ #</L>
+      <L>####$*.**  ###</L>
+      <L>   #    $###</L>
+      <L>   ##$ $ #</L>
+      <L>    #  @##</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="erim183-third collection" Width="8" Height="8">
+      <L> ####</L>
+      <L> #  ####</L>
+      <L> # ... #</L>
+      <L>##$.*  #</L>
+      <L>#  *# ##</L>
+      <L># $$ $#</L>
+      <L>#    @#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim184-third collection" Width="11" Height="8">
+      <L> #########</L>
+      <L> #  . .  #</L>
+      <L> # $ $ $ #</L>
+      <L>##..#$#..##</L>
+      <L>#.$$. .$$.#</L>
+      <L>##.$$$$$.##</L>
+      <L> ##.$+$.##</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="erim185-third collection" Width="10" Height="10">
+      <L>  ######</L>
+      <L>  #    #</L>
+      <L>###  $ ###</L>
+      <L>#  $*#*  #</L>
+      <L># ##..*  #</L>
+      <L>#  #.+## #</L>
+      <L>## ##*$  #</L>
+      <L> #  $  ###</L>
+      <L> ##    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim186-fourth collection" Width="7" Height="7">
+      <L> ####</L>
+      <L>##  #</L>
+      <L>#   ###</L>
+      <L>#  *$ #</L>
+      <L># #.  #</L>
+      <L>#  @###</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="erim187-fourth collection" Width="6" Height="7">
+      <L> ####</L>
+      <L> # @#</L>
+      <L> #.$##</L>
+      <L>##*  #</L>
+      <L>#    #</L>
+      <L>#   ##</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="erim188-fourth collection" Width="5" Height="8">
+      <L> ####</L>
+      <L> #  #</L>
+      <L> #  #</L>
+      <L> #$ #</L>
+      <L>## .#</L>
+      <L># $.#</L>
+      <L>#  @#</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="erim189-fourth collection" Width="8" Height="6">
+      <L>    ####</L>
+      <L>    #  #</L>
+      <L>#####* #</L>
+      <L># $    #</L>
+      <L>#   . @#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim190-fourth collection" Width="6" Height="5">
+      <L>######</L>
+      <L>#    #</L>
+      <L># $*$#</L>
+      <L>#.  +#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim191-fourth collection" Width="7" Height="6">
+      <L>  #####</L>
+      <L>###.  #</L>
+      <L># $$$ #</L>
+      <L>#..  @#</L>
+      <L>#  ####</L>
+      <L>####</L>
+    </Level>
+    <Level Id="erim192-fourth collection" Width="6" Height="6">
+      <L> #####</L>
+      <L> #   #</L>
+      <L>##  $#</L>
+      <L># **.#</L>
+      <L>#@  ##</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="erim193-fourth collection" Width="6" Height="6">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#*$$.#</L>
+      <L>#  . #</L>
+      <L># @###</L>
+      <L>####</L>
+    </Level>
+    <Level Id="erim194-fourth collection" Width="6" Height="6">
+      <L>####</L>
+      <L>#  ###</L>
+      <L>#  . #</L>
+      <L>#*$$ #</L>
+      <L>#  .@#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim195-fourth collection" Width="7" Height="8">
+      <L>   ####</L>
+      <L>####  #</L>
+      <L>#  #  #</L>
+      <L># $.$@#</L>
+      <L># . .##</L>
+      <L>###$ #</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim196-fourth collection" Width="8" Height="6">
+      <L>#######</L>
+      <L>#     ##</L>
+      <L>#@$***.#</L>
+      <L>###    #</L>
+      <L>  #   ##</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="erim197-fourth collection" Width="8" Height="7">
+      <L>  #####</L>
+      <L>  # @ ##</L>
+      <L>###$#* #</L>
+      <L>#  .   #</L>
+      <L>#  .#$ #</L>
+      <L>###   ##</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="erim198-fourth collection" Width="6" Height="8">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#.$  #</L>
+      <L>#.$###</L>
+      <L>#.$ #</L>
+      <L>#   #</L>
+      <L>## @#</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="erim199-fourth collection" Width="9" Height="7">
+      <L>########</L>
+      <L>#      ##</L>
+      <L>#@ $ *. #</L>
+      <L>#####*$*#</L>
+      <L>   #.   #</L>
+      <L>   ###  #</L>
+      <L>     ####</L>
+    </Level>
+    <Level Id="erim200-fourth collection" Width="9" Height="9">
+      <L>####</L>
+      <L>#  ######</L>
+      <L>#  ##   #</L>
+      <L># $  $  #</L>
+      <L>##.$# ###</L>
+      <L> #.    #</L>
+      <L> ####*$#</L>
+      <L>    #+.#</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="erim201-fourth collection" Width="6" Height="9">
+      <L>#####</L>
+      <L>#   #</L>
+      <L># $ ##</L>
+      <L>#  . #</L>
+      <L>###* #</L>
+      <L> # .@#</L>
+      <L> # $##</L>
+      <L> #  #</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="erim202-fourth collection" Width="7" Height="7">
+      <L> ####</L>
+      <L>##  ##</L>
+      <L>#    ##</L>
+      <L># *+$ #</L>
+      <L>## *  #</L>
+      <L> #   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim203-fourth collection" Width="6" Height="7">
+      <L> #####</L>
+      <L>##   #</L>
+      <L># $# #</L>
+      <L>#  ..#</L>
+      <L># $* #</L>
+      <L>###@ #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim204-fourth collection" Width="9" Height="7">
+      <L>######</L>
+      <L>#  *.##</L>
+      <L># $**.###</L>
+      <L>#   .*  #</L>
+      <L>### $#$ #</L>
+      <L>  ##  @ #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="erim205-fourth collection" Width="7" Height="8">
+      <L>   ####</L>
+      <L>  ##  #</L>
+      <L> ##   #</L>
+      <L> #@$  #</L>
+      <L>##$. ##</L>
+      <L># *.##</L>
+      <L>#   #</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="erim206-fourth collection" Width="7" Height="8">
+      <L> #####</L>
+      <L> #   ##</L>
+      <L> # $  #</L>
+      <L> #$## #</L>
+      <L>## ## #</L>
+      <L># $ . #</L>
+      <L>#@.. ##</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim207-fourth collection" Width="8" Height="6">
+      <L> #####</L>
+      <L>##   ##</L>
+      <L>#     ##</L>
+      <L># $$$$ #</L>
+      <L>###...+#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim208-fourth collection" Width="8" Height="8">
+      <L>  ####</L>
+      <L>  #  ###</L>
+      <L>###    #</L>
+      <L># **.$ #</L>
+      <L># $.** #</L>
+      <L>#    @##</L>
+      <L>###  ##</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim209-fourth collection" Width="8" Height="9">
+      <L> ####</L>
+      <L> #  ##</L>
+      <L>##   ###</L>
+      <L>#  $   #</L>
+      <L># $.*  #</L>
+      <L>## #.###</L>
+      <L> #$#.#</L>
+      <L> #  @#</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim210-fourth collection" Width="7" Height="8">
+      <L>#######</L>
+      <L>#  #  #</L>
+      <L>#  #  #</L>
+      <L>#.**$@#</L>
+      <L>#. $ ##</L>
+      <L>###  #</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="erim211-fourth collection" Width="6" Height="7">
+      <L>######</L>
+      <L>#    #</L>
+      <L># @$.#</L>
+      <L>##$*.#</L>
+      <L> # $.#</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim212-fourth collection" Width="9" Height="7">
+      <L>    ####</L>
+      <L>    #  ##</L>
+      <L> ####$. #</L>
+      <L>## $.*.@#</L>
+      <L>#    $  #</L>
+      <L>#   #####</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="erim213-fourth collection" Width="8" Height="8">
+      <L> #####</L>
+      <L>##   #</L>
+      <L># .$.###</L>
+      <L># # $. #</L>
+      <L>#  **$ #</L>
+      <L>##     #</L>
+      <L> ### @##</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="erim214-fourth collection" Width="8" Height="9">
+      <L> #####</L>
+      <L> #   ##</L>
+      <L> #  $ ##</L>
+      <L>####.  #</L>
+      <L>#  $** #</L>
+      <L># @ .. #</L>
+      <L>####$ ##</L>
+      <L>   #  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="erim215-fourth collection" Width="9" Height="7">
+      <L>#####</L>
+      <L>#   ####</L>
+      <L># $$ . #</L>
+      <L>#   *# #</L>
+      <L>###   *##</L>
+      <L>  ## .*@#</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="erim216-fourth collection" Width="7" Height="9">
+      <L>#####</L>
+      <L>#.. #</L>
+      <L># $ ###</L>
+      <L>#. #  #</L>
+      <L>#.$#$ #</L>
+      <L>## $  #</L>
+      <L> #   @#</L>
+      <L> #  ###</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="erim217-fourth collection" Width="10" Height="10">
+      <L> ####</L>
+      <L> #  ######</L>
+      <L> #  ##   #</L>
+      <L> # $  $  #</L>
+      <L> ##.##.###</L>
+      <L>###.##.##</L>
+      <L>#  $  $ #</L>
+      <L>#   ##  #</L>
+      <L>###### @#</L>
+      <L>     ####</L>
+    </Level>
+    <Level Id="erim218-fourth collection" Width="7" Height="7">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#  $ ##</L>
+      <L>##$*  #</L>
+      <L> # *# #</L>
+      <L> # ..@#</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="erim219-fourth collection" Width="10" Height="8">
+      <L>       ###</L>
+      <L>    ####.#</L>
+      <L>##### $..#</L>
+      <L>#   #  $.#</L>
+      <L># $$##  ##</L>
+      <L>#      ##</L>
+      <L>##### @#</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="erim220-fourth collection" Width="8" Height="8">
+      <L> #####</L>
+      <L>##   #</L>
+      <L>#  # #</L>
+      <L># $$ ###</L>
+      <L># *.*$ #</L>
+      <L># .#.  #</L>
+      <L>#   @###</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim221-fourth collection" Width="9" Height="9">
+      <L> ########</L>
+      <L> #      #</L>
+      <L> # $.$. #</L>
+      <L> ## #* ##</L>
+      <L> #  #  #</L>
+      <L>## ## ##</L>
+      <L># .$ * #</L>
+      <L>#     @#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="erim222-fourth collection" Width="8" Height="8">
+      <L> #####</L>
+      <L>##  @#</L>
+      <L>#    #</L>
+      <L># $# ###</L>
+      <L># * *$ #</L>
+      <L>##.#.  #</L>
+      <L> #   ###</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim223-fourth collection" Width="9" Height="8">
+      <L>    ####</L>
+      <L>    #  #</L>
+      <L>    #$ #</L>
+      <L>#####  #</L>
+      <L># $ **.##</L>
+      <L>#   #.  #</L>
+      <L>###    @#</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="erim224-fourth collection" Width="9" Height="10">
+      <L>  #######</L>
+      <L>  #     #</L>
+      <L> ## **  #</L>
+      <L> #    ###</L>
+      <L> # # * #</L>
+      <L> # * # #</L>
+      <L>###    #</L>
+      <L># $*.###</L>
+      <L>#   @#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="erim225-fourth collection" Width="7" Height="7">
+      <L>######</L>
+      <L>#    ##</L>
+      <L># $.$ #</L>
+      <L>## **.#</L>
+      <L># $.$.#</L>
+      <L>#   @ #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="erim226-fourth collection" Width="8" Height="8">
+      <L>  ######</L>
+      <L>  #    #</L>
+      <L>### #  #</L>
+      <L>#  *** #</L>
+      <L>#  *+$ #</L>
+      <L>### #  #</L>
+      <L>  #   ##</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="erim227-fourth collection" Width="11" Height="11">
+      <L>    ##</L>
+      <L>   #  #</L>
+      <L>   # $ #</L>
+      <L>  # .$  ##</L>
+      <L> #  .#..  #</L>
+      <L># $$# #$$ #</L>
+      <L>#  ..#.. #</L>
+      <L> ##  $ ##</L>
+      <L>   # $ #</L>
+      <L>    # @#</L>
+      <L>     ##</L>
+    </Level>
+    <Level Id="erim228-fourth collection" Width="9" Height="10">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#.$  #</L>
+      <L>#.$######</L>
+      <L>#.$ #   #</L>
+      <L>#   @ $.#</L>
+      <L>##  ##$.#</L>
+      <L> #### $.#</L>
+      <L>    #   #</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="erim229-fourth collection" Width="9" Height="8">
+      <L>#####</L>
+      <L>#   ##</L>
+      <L># .  ####</L>
+      <L>#.$. $  #</L>
+      <L># .## # #</L>
+      <L>#####$$ #</L>
+      <L>    #  @#</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="erim230-fourth collection" Width="8" Height="7">
+      <L> ####</L>
+      <L> #  #</L>
+      <L>##$ ###</L>
+      <L>#     ##</L>
+      <L>#  $*. #</L>
+      <L>#### .@#</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="erim231-fourth collection" Width="10" Height="7">
+      <L>     ####</L>
+      <L> #####  #</L>
+      <L>##   #  ##</L>
+      <L>#  $     #</L>
+      <L># $##$$$ #</L>
+      <L>##@..... #</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="erim232-fourth collection" Width="9" Height="9">
+      <L> ####</L>
+      <L> #  #</L>
+      <L>##  ####</L>
+      <L># $    ##</L>
+      <L>#  $  $ #</L>
+      <L># $ ##* #</L>
+      <L>##  #.* #</L>
+      <L> ####..+#</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="erim233-fourth collection" Width="8" Height="8">
+      <L> #####</L>
+      <L>##   #</L>
+      <L>#    #</L>
+      <L>#  $ ###</L>
+      <L># $$$$.#</L>
+      <L>##   ..#</L>
+      <L> ####.+#</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="erim234-fourth collection" Width="14" Height="8">
+      <L> #############</L>
+      <L> #   #....# .#</L>
+      <L>## # $   $   #</L>
+      <L>#   # #  #.  #</L>
+      <L># $$$$#####.##</L>
+      <L>#  $  #   ###</L>
+      <L>##  @##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="erim235-fourth collection" Width="12" Height="9">
+      <L>#####  ####</L>
+      <L>#   ####  #</L>
+      <L>#  $ $    #</L>
+      <L>##*$.#### ##</L>
+      <L> # #....#  #</L>
+      <L> # $.#* #  #</L>
+      <L> #   $  $  #</L>
+      <L> ##### @####</L>
+      <L>     ####</L>
+    </Level>
+    <Level Id="erim236-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#..   # #</L>
+      <L># $$#  ##</L>
+      <L># #  # #</L>
+      <L>###  # #</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim237-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####  ##</L>
+      <L>#@  #$. #</L>
+      <L># #* . ##</L>
+      <L># .$ $ #</L>
+      <L>#### # #</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim238-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####  @#</L>
+      <L>#   # $ #</L>
+      <L># $$.$ ##</L>
+      <L># ..$. #</L>
+      <L>###. # #</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim239-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L># $     #</L>
+      <L># $###*##</L>
+      <L>#  .#..#</L>
+      <L>### $  #</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim240-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#   .$  #</L>
+      <L># ##$. ##</L>
+      <L>#  ..$$#</L>
+      <L>### $. #</L>
+      <L>  #  #@#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim241-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#       #</L>
+      <L># $#$*$##</L>
+      <L># .....#</L>
+      <L>###$$# #</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim242-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>##### . #</L>
+      <L># $...* #</L>
+      <L># $  # ##</L>
+      <L>#   #  #</L>
+      <L>###$ $ #</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim243-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L># .   * #</L>
+      <L># # #$*##</L>
+      <L>#   *  #</L>
+      <L>### #$.#</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim244-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#    .$ #</L>
+      <L># $##.$##</L>
+      <L># $... #</L>
+      <L>### #$ #</L>
+      <L>  ##  @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim245-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#@    $ #</L>
+      <L>#  $**$##</L>
+      <L># $.#..#</L>
+      <L>###.#  #</L>
+      <L>  # .$ #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim246-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>######  #</L>
+      <L># $  ..##</L>
+      <L># $#*$.##</L>
+      <L>#  ..#.#</L>
+      <L>###$ $$#</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim247-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L># #.$.$ #</L>
+      <L># $.$.$##</L>
+      <L>#  .$. #</L>
+      <L>###.$.$#</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim248-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#     . #</L>
+      <L># #$##.##</L>
+      <L># $@*..#</L>
+      <L>###$ $ #</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim249-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#   #$$@#</L>
+      <L># $ #. ##</L>
+      <L>#  .*.$#</L>
+      <L>###.#  #</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim250-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#    $  #</L>
+      <L>#.*.**.##</L>
+      <L># $  $ #</L>
+      <L>### ## #</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim251-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>##      #</L>
+      <L># .$.$.##</L>
+      <L># $.*.$#</L>
+      <L>###$.$ #</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim252-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#   ..* #</L>
+      <L># #.*  ##</L>
+      <L>#   $###</L>
+      <L>###$ $ #</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim253-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L># ....  #</L>
+      <L># $$.* ##</L>
+      <L>#   ## #</L>
+      <L>###$ $$#</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim254-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L># .$. . #</L>
+      <L># # # *##</L>
+      <L>#  *.$ #</L>
+      <L>### $ $#</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim255-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#       #</L>
+      <L># $ $ ###</L>
+      <L># $ #..#</L>
+      <L>###$ ..#</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim256-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#     * #</L>
+      <L># $#.#.##</L>
+      <L># $ *  #</L>
+      <L>### * *#</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim257-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#   $ $ #</L>
+      <L># #.#. ##</L>
+      <L># $.*.$#</L>
+      <L>### #  #</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim258-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L># $ ..$ #</L>
+      <L>#  $.* ##</L>
+      <L>#@$ *. #</L>
+      <L>###$.* #</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim259-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L># $     #</L>
+      <L># $.#. ##</L>
+      <L># .$.$ #</L>
+      <L>###.$.$#</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim260-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#       #</L>
+      <L># #**  ##</L>
+      <L># $  *##</L>
+      <L>###.** #</L>
+      <L>  ##  @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim261-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#       #</L>
+      <L>#  * $.##</L>
+      <L>##.**#$#</L>
+      <L>###$.# #</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim262-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#    .. #</L>
+      <L># * #. ##</L>
+      <L># $$*$$#</L>
+      <L>###..$ #</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim263-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L># *.... #</L>
+      <L># $*#* ##</L>
+      <L>#@$ $  #</L>
+      <L>### $  #</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim264-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>##    $ #</L>
+      <L># $$# ###</L>
+      <L>#   #..#</L>
+      <L>### $..#</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim265-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####  @#</L>
+      <L>#. ..** #</L>
+      <L># $#. $##</L>
+      <L>#   #  #</L>
+      <L>### $$ #</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim266-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#  .$ $ #</L>
+      <L># $.*. ##</L>
+      <L>#@$.*. #</L>
+      <L>###.$ $#</L>
+      <L>  #.$  #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim267-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#   ..$ #</L>
+      <L># $ ##$##</L>
+      <L>#  ..  #</L>
+      <L>###*#$ #</L>
+      <L>  #@.$ #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim268-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####  @#</L>
+      <L># $ **$ #</L>
+      <L>#  * * ##</L>
+      <L># . *  #</L>
+      <L>###. * #</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim269-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#.. # $ #</L>
+      <L>#...$ $##</L>
+      <L># $.#  #</L>
+      <L>### $ $#</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="erim270-fifth collection" Width="9" Height="8">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L>#.....$ #</L>
+      <L># ## # ##</L>
+      <L># $  $ #</L>
+      <L>###$ $ #</L>
+      <L>  #   @#</L>
+      <L>  ######</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

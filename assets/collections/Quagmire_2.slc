@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Quagmire 2</Title>
+  <Description>
+As with the first Quagmire set, there is a wide range of difficult,
+although this set tends on the harder side. There are some recurring
+themes throughout the levels, especially my recent infatuation with
+nearly solved layouts.
+  </Description>
+  <Email>thoms545@yahoo.com</Email>
+  <LevelCollection Copyright="Thomas Reinke" MaxWidth="20" MaxHeight="14">
+    <Level Id="Filaria" Width="9" Height="12">
+      <L> ########</L>
+      <L> #      #</L>
+      <L> # #### #</L>
+      <L> # #  # #</L>
+      <L> # #  # #</L>
+      <L> # #*   #</L>
+      <L>##  *  ##</L>
+      <L>#.**** #</L>
+      <L>#   $@##</L>
+      <L>###  ##</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Intermezzo" Width="9" Height="8">
+      <L>#####</L>
+      <L>#   #####</L>
+      <L># #.$   #</L>
+      <L>#  .*.. #</L>
+      <L>##$$*  ##</L>
+      <L> #  *$##</L>
+      <L> # @  #</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Cometary" Width="10" Height="11">
+      <L>  ####</L>
+      <L>###  ###</L>
+      <L># .    #</L>
+      <L># #  # #</L>
+      <L># ## * #</L>
+      <L># #  * ###</L>
+      <L># #  *$$@#</L>
+      <L># #*** . #</L>
+      <L>#  * #####</L>
+      <L>#    #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Doublet" Width="10" Height="8">
+      <L>    ####</L>
+      <L> ####  #</L>
+      <L> #  #  #</L>
+      <L>##$.#$.###</L>
+      <L># $. $.  #</L>
+      <L>#@$. $.  #</L>
+      <L>###   ####</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Stockade" Width="8" Height="13">
+      <L> ####</L>
+      <L> #  ####</L>
+      <L> #     #</L>
+      <L> #  ## #</L>
+      <L>###  # #</L>
+      <L>#.$  # #</L>
+      <L>## *** #</L>
+      <L>#  *@* #</L>
+      <L>#  ***##</L>
+      <L>####  #</L>
+      <L>   #  #</L>
+      <L>   #  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Metro" Width="9" Height="10">
+      <L>    ####</L>
+      <L> ####  #</L>
+      <L> #     ##</L>
+      <L>##$**   #</L>
+      <L>#  .$#  #</L>
+      <L># #..#@##</L>
+      <L># #$.  #</L>
+      <L>#  **$ #</L>
+      <L>####   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Phase Shift" Width="10" Height="10">
+      <L> #######</L>
+      <L>##     #</L>
+      <L>#   ##$###</L>
+      <L># **  .  #</L>
+      <L>#  ## *@ #</L>
+      <L>##  ##*###</L>
+      <L> # **    #</L>
+      <L> #  #    #</L>
+      <L> ##   ####</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Doublet II" Width="7" Height="10">
+      <L>   ####</L>
+      <L> ###  #</L>
+      <L>##    #</L>
+      <L># ... #</L>
+      <L># $$$##</L>
+      <L>##... #</L>
+      <L># $$$ #</L>
+      <L>#   @##</L>
+      <L>#  ###</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Xerasia" Width="10" Height="12">
+      <L>  ####</L>
+      <L>  #  #####</L>
+      <L>###@ #   #</L>
+      <L># .$$.   #</L>
+      <L># #  ## ##</L>
+      <L># ## #   #</L>
+      <L># # .$** #</L>
+      <L>#  *.$  ##</L>
+      <L>## * # ##</L>
+      <L> # * # #</L>
+      <L> ##    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Hornbeam" Width="11" Height="12">
+      <L>  #######</L>
+      <L>###     ###</L>
+      <L>#  .....  #</L>
+      <L>#  # # #  #</L>
+      <L>##   #   ##</L>
+      <L> ##$$*$$##</L>
+      <L>  # .+. #</L>
+      <L>  #$$*$$#</L>
+      <L>  #  #  #</L>
+      <L>  #  #  #</L>
+      <L>  #  #  #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Byzantium" Width="16" Height="13">
+      <L>  ####</L>
+      <L>  #  #   ####</L>
+      <L>###.$#####  #</L>
+      <L>#    *     *#</L>
+      <L># #.$#####. #</L>
+      <L># #  #  ##.$####</L>
+      <L>#   ##.$  .*   #</L>
+      <L>###  $. ## $$# #</L>
+      <L># @*.#.$## # # #</L>
+      <L># $*    ##   # #</L>
+      <L>###  ## ###### #</L>
+      <L>  #  ##        #</L>
+      <L>  ##############</L>
+    </Level>
+    <Level Id="Singlet" Width="8" Height="12">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###  ##</L>
+      <L>#  $. #</L>
+      <L>#  $. #</L>
+      <L>###$.###</L>
+      <L> #@$.  #</L>
+      <L> # $.  #</L>
+      <L> ##$.###</L>
+      <L>  #  #</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Toccata" Width="10" Height="9">
+      <L>  ####</L>
+      <L>  #@ #</L>
+      <L>  #$$#####</L>
+      <L>###  #   #</L>
+      <L>#  .**.  #</L>
+      <L>#  ....$ #</L>
+      <L>##$# $$###</L>
+      <L> #     #</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Eschatology" Width="20" Height="12">
+      <L>        ##########</L>
+      <L>  #######        ###</L>
+      <L>  #      .$#####   #</L>
+      <L>### #####  #   ### #</L>
+      <L>#   # $ $$$$$#   # #</L>
+      <L># ### #......*   # #</L>
+      <L># #   *......# ### #</L>
+      <L># #   #$$$$$ $ #   #</L>
+      <L># ###   #  ##### ###</L>
+      <L>#   #####$.      #</L>
+      <L>###       @#######</L>
+      <L>  ##########</L>
+    </Level>
+    <Level Id="Entozoa" Width="9" Height="9">
+      <L>  #####</L>
+      <L>###   #</L>
+      <L>#   $$##</L>
+      <L># ##.$ ##</L>
+      <L># #@* . #</L>
+      <L># #*#   #</L>
+      <L>#  $ .###</L>
+      <L>#  .  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Stygia" Width="11" Height="11">
+      <L>    #######</L>
+      <L> ####     #</L>
+      <L>##   ..## #</L>
+      <L>#  ##   # #</L>
+      <L># ## ***$ #</L>
+      <L># #     ###</L>
+      <L># $*** @#</L>
+      <L>##   ####</L>
+      <L> ##  #</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Oscillation" Width="10" Height="10">
+      <L> ####</L>
+      <L> #  #</L>
+      <L> #  ######</L>
+      <L>##. ##   #</L>
+      <L># *$*    #</L>
+      <L># *@### ##</L>
+      <L># *$*   #</L>
+      <L># . # ###</L>
+      <L>#     #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Vault" Width="15" Height="8">
+      <L>     #####</L>
+      <L>######   ###</L>
+      <L>#   ##     ####</L>
+      <L># #    #  $   #</L>
+      <L>#  .*******.  #</L>
+      <L>### $ @# #  ###</L>
+      <L>  ####   ####</L>
+      <L>     #####</L>
+    </Level>
+    <Level Id="Clavichord" Width="9" Height="9">
+      <L>#######</L>
+      <L>#     #</L>
+      <L>#     #</L>
+      <L>###***###</L>
+      <L>  # ..  #</L>
+      <L>  # *** #</L>
+      <L>  ##$@$ #</L>
+      <L>   #    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Decree" Width="10" Height="10">
+      <L>     ###</L>
+      <L>  ####.###</L>
+      <L>###   *  #</L>
+      <L>#   ***# #</L>
+      <L># # *@ # #</L>
+      <L># $ **## #</L>
+      <L># ###    #</L>
+      <L>#      ###</L>
+      <L>#####  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Parallax" Width="10" Height="11">
+      <L>  ########</L>
+      <L> ##      #</L>
+      <L>## * . * #</L>
+      <L>#  # ## ##</L>
+      <L># # *## ##</L>
+      <L># # * #  #</L>
+      <L># # * #  #</L>
+      <L># @ $    #</L>
+      <L>####*# ###</L>
+      <L>   #   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Sovereign Entity" Width="10" Height="9">
+      <L>##########</L>
+      <L>#        #</L>
+      <L># ##$$## #</L>
+      <L># #  @ # #</L>
+      <L># .****. #</L>
+      <L>###   #  #</L>
+      <L>  # ### ##</L>
+      <L>  #     #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Peregrin" Width="10" Height="9">
+      <L>#########</L>
+      <L>#   #   ##</L>
+      <L># # ..#  #</L>
+      <L># $$**$@ #</L>
+      <L>##$ ..$ ##</L>
+      <L>#  #..$##</L>
+      <L>#      #</L>
+      <L>###  ###</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Varasto" Width="11" Height="8">
+      <L>####  #####</L>
+      <L>#  ####   #</L>
+      <L>#  $ @$   #</L>
+      <L># $#$#$# ##</L>
+      <L>#  ...$  #</L>
+      <L>##$...$$ #</L>
+      <L> # ... ###</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Nemesis" Width="12" Height="11">
+      <L>    #####</L>
+      <L>    #   ##</L>
+      <L>#####    #</L>
+      <L>#   $  #$##</L>
+      <L># ###...  #</L>
+      <L># # $$ ##$##</L>
+      <L># #  ... $ #</L>
+      <L># ###$$###@#</L>
+      <L>#    ... $ #</L>
+      <L>###   ######</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Witenagemot" Width="10" Height="10">
+      <L>   ####</L>
+      <L>####  #</L>
+      <L>#  ...###</L>
+      <L># $...$ #</L>
+      <L>## #$## #</L>
+      <L> # $.$  #</L>
+      <L> # $.$ ###</L>
+      <L> # $+$   #</L>
+      <L> #####   #</L>
+      <L>     #####</L>
+    </Level>
+    <Level Id="Substation Alpha" Width="12" Height="11">
+      <L>  ########</L>
+      <L>  #      #</L>
+      <L>### #### ###</L>
+      <L># $ # @# $ #</L>
+      <L># . *  * . #</L>
+      <L># #*#  #*# #</L>
+      <L># . *  * . #</L>
+      <L># $ #  # $ #</L>
+      <L>### #### ###</L>
+      <L>  #      #</L>
+      <L>  ########</L>
+    </Level>
+    <Level Id="Dnieper" Width="12" Height="11">
+      <L> #######</L>
+      <L>##     #</L>
+      <L>#   #  #####</L>
+      <L># #***$#   #</L>
+      <L>#  *       #</L>
+      <L># #*##### ##</L>
+      <L>#  * #    #</L>
+      <L>## *   ####</L>
+      <L> # * ###</L>
+      <L> # + #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Library" Width="10" Height="10">
+      <L>#####</L>
+      <L>#   #####</L>
+      <L>#       ##</L>
+      <L>##$##.   #</L>
+      <L># *  *## #</L>
+      <L># *  * # #</L>
+      <L># *  *@# #</L>
+      <L># . #$## #</L>
+      <L>#####    #</L>
+      <L>    ######</L>
+    </Level>
+    <Level Id="Olive Oil" Width="11" Height="9">
+      <L>   #####</L>
+      <L>   #.#.#</L>
+      <L>####$ $####</L>
+      <L>#    #    #</L>
+      <L># #*****# #</L>
+      <L>#         #</L>
+      <L>### *** ###</L>
+      <L>  ## @ ##</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Stockade II" Width="11" Height="10">
+      <L>    ####</L>
+      <L>#####  ##</L>
+      <L>#       ###</L>
+      <L># ###...  #</L>
+      <L># # $*$.# #</L>
+      <L>#   $+*.# #</L>
+      <L>### $$$ # #</L>
+      <L>  ##  ### #</L>
+      <L>   ##     #</L>
+      <L>    #######</L>
+    </Level>
+    <Level Id="Calixtlahuaca" Width="10" Height="11">
+      <L>#####</L>
+      <L>#   ##</L>
+      <L>#  $ ####</L>
+      <L>##$ $   #</L>
+      <L> # $### #</L>
+      <L> #  ... #</L>
+      <L> # #...$##</L>
+      <L> #  ...$ #</L>
+      <L> ### $$$ #</L>
+      <L>   ###  @#</L>
+      <L>     #####</L>
+    </Level>
+    <Level Id="Andromeda" Width="9" Height="10">
+      <L> ####</L>
+      <L> #  ####</L>
+      <L>##     ##</L>
+      <L># .#$ . #</L>
+      <L># #+$.# #</L>
+      <L># $$*$$ #</L>
+      <L># #.$.  #</L>
+      <L># . $#.##</L>
+      <L>###    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Cubic Zirconium" Width="11" Height="10">
+      <L>#########</L>
+      <L>#   #   ##</L>
+      <L>#   $ #  ##</L>
+      <L>##$##$##  #</L>
+      <L> # $...   #</L>
+      <L> #  ...#  #</L>
+      <L> # $...# ##</L>
+      <L> #$ #$$$ #</L>
+      <L> #  # @###</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Pardon the Interruption" Width="9" Height="9">
+      <L> ####</L>
+      <L>## @#####</L>
+      <L>#   *   #</L>
+      <L># $ * # #</L>
+      <L>##$#**. #</L>
+      <L># $   . #</L>
+      <L>#   # .##</L>
+      <L>#####  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Vector" Width="9" Height="9">
+      <L>#####</L>
+      <L>#   ##</L>
+      <L>#    ###</L>
+      <L>##***  #</L>
+      <L>##@ .$ ##</L>
+      <L># ***   #</L>
+      <L>#   ##  #</L>
+      <L>###    ##</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Palace of Versailles" Width="13" Height="9">
+      <L>#########</L>
+      <L>#   ##  ####</L>
+      <L># .* #* #  #</L>
+      <L>#  *@ * .. ##</L>
+      <L>## $##* *   #</L>
+      <L> #    $ #   #</L>
+      <L> #####$ #####</L>
+      <L>     #  #</L>
+      <L>     ####</L>
+    </Level>
+    <Level Id="Synopticon" Width="10" Height="11">
+      <L>########</L>
+      <L>#    . ##</L>
+      <L># ###   ##</L>
+      <L># #  .#  #</L>
+      <L># #$*$## #</L>
+      <L>#  $+. . #</L>
+      <L>###$*$ ###</L>
+      <L>  #  # #</L>
+      <L>  #  # #</L>
+      <L>  ##   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Enchanted" Width="11" Height="10">
+      <L>########</L>
+      <L>#   #  ##</L>
+      <L>#    $@ #</L>
+      <L>##*## #*###</L>
+      <L> #     *  #</L>
+      <L> # ##*.*  #</L>
+      <L> # # * # ##</L>
+      <L> #   *   #</L>
+      <L> ###  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Triforia" Width="14" Height="10">
+      <L> ###########</L>
+      <L> #   ##    #</L>
+      <L>## #$*  #  ###</L>
+      <L>#   *.###... #</L>
+      <L># # #@###$$$ #</L>
+      <L>#   ** #   ###</L>
+      <L>##   *   ###</L>
+      <L> ####  ###</L>
+      <L>    #  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Singlet II" Width="13" Height="11">
+      <L>    ####</L>
+      <L>#####  ######</L>
+      <L>#           #</L>
+      <L>#  ## ##### #</L>
+      <L>##........# #</L>
+      <L> #$$$$$$$$# #</L>
+      <L> #  #@# #   #</L>
+      <L>## ####  ####</L>
+      <L>#        #</L>
+      <L>#   ######</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Queen's Gambit" Width="11" Height="11">
+      <L>  ####</L>
+      <L>###  ######</L>
+      <L>#   *#    #</L>
+      <L># #*@* ## #</L>
+      <L>#   * * # #</L>
+      <L>## # * *  #</L>
+      <L> # #  ## ##</L>
+      <L> #  *## $.#</L>
+      <L> ##     ###</L>
+      <L>  #  ####</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Experience" Width="8" Height="12">
+      <L>   ####</L>
+      <L> ###  #</L>
+      <L>##    #</L>
+      <L>#  #  #</L>
+      <L># ##*###</L>
+      <L># $.*  #</L>
+      <L>##$+*  #</L>
+      <L># *** ##</L>
+      <L># #    #</L>
+      <L>#    # #</L>
+      <L>####   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Uptempo" Width="8" Height="9">
+      <L>  ####</L>
+      <L> ##  ##</L>
+      <L> #  * #</L>
+      <L> #  * ##</L>
+      <L>## #*  #</L>
+      <L>#  .*  #</L>
+      <L>#  $$@##</L>
+      <L>### . #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Introverdant" Width="8" Height="8">
+      <L>########</L>
+      <L>#   #  #</L>
+      <L>#  .*$ #</L>
+      <L>##  .$@#</L>
+      <L>#  #*$ #</L>
+      <L>#  ..$##</L>
+      <L>#  #  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Doublet III" Width="10" Height="10">
+      <L> #########</L>
+      <L> #       #</L>
+      <L>## ##### #</L>
+      <L>#  #   # #</L>
+      <L>#   ...  #</L>
+      <L>#  #$$$# #</L>
+      <L>## #.+.# #</L>
+      <L> # #$$$# #</L>
+      <L> #   #   #</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="Himalayan Apparition" Width="9" Height="14">
+      <L>   ####</L>
+      <L>   #  #</L>
+      <L>   #.$##</L>
+      <L> ###   #</L>
+      <L> #   # #</L>
+      <L> #@$ # #</L>
+      <L>## ### ##</L>
+      <L>#  *  * #</L>
+      <L># * #   #</L>
+      <L>##**###.#</L>
+      <L> #      #</L>
+      <L> #  #####</L>
+      <L> #  #</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Fioratura" Width="10" Height="10">
+      <L> #####</L>
+      <L> #   ####</L>
+      <L> #  $ $ #</L>
+      <L> ##  *  #</L>
+      <L>####..*##</L>
+      <L># $ ..*@##</L>
+      <L># .  $#  #</L>
+      <L>### $ ## #</L>
+      <L>  ###    #</L>
+      <L>    ######</L>
+    </Level>
+    <Level Id="Stockade III" Width="9" Height="9">
+      <L>   ####</L>
+      <L> ###  #</L>
+      <L>##    #</L>
+      <L># .***###</L>
+      <L>#  $@$  #</L>
+      <L>###***. #</L>
+      <L>#      ##</L>
+      <L>#   #  #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Unction" Width="15" Height="9">
+      <L>   ###########</L>
+      <L>  ##   #     ##</L>
+      <L> ##  #     #  #</L>
+      <L> #  ###*.*### #</L>
+      <L>##$ $@$.*.$ # #</L>
+      <L>#  $ $#*.*#   #</L>
+      <L>#   # $...  ###</L>
+      <L>#####   #####</L>
+      <L>    #####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

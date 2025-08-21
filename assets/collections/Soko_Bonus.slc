@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>SOKO-BONUS</Title>
+  <Description>
+A single level originally distributed as sample with the freeware game
+&quot;SOKO-BAN&quot; produced by ZX-SOFT Brazil for the ZX-Spectrum, currently
+available at http://www.worldofspectrum.org/infoseekid.cgi?id=0017733 
+This level can be freely distributed and/or used commercially provided
+it remains unchanged and the author is properly credited.
+  </Description>
+  <Email>einar@ime.usp.br</Email>
+  <Url>http://www.ime.usp.br/~einar/</Url>
+  <LevelCollection Copyright="Einar Saukas" MaxWidth="12" MaxHeight="6">
+    <Level Id="1" Width="12" Height="6">
+      <L>####</L>
+      <L>#  ########</L>
+      <L># $  #@ $.#</L>
+      <L># $  $    ##</L>
+      <L>#    ###...#</L>
+      <L>###### #####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

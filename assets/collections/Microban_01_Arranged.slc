@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Microban 01 Arranged</Title>
+  <Description>
+Arrangements of David W. Skinner's levels
+They are published with David W. Skinner's permission
+original level page: http://users.bentonrea.com/~sasquatch/sokoban/
+  </Description>
+  <Email>linashen@ms28.hinet.net</Email>
+  <LevelCollection Copyright="York Shen" MaxWidth="13" MaxHeight="13">
+    <Level Id="Microban 101a" Width="13" Height="13" Copyright="David W Skinner, York Shen">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L>  # # #######</L>
+      <L>  #  *  #   #</L>
+      <L>  ## ##   # #</L>
+      <L>  #   * #*  #</L>
+      <L>### # # # ###</L>
+      <L>#  *#$+   #</L>
+      <L># #   ## ##</L>
+      <L>#   #  *  #</L>
+      <L>####### # #</L>
+      <L>      #   #</L>
+      <L>      #####</L>
+    </Level>
+    <Level Id="Microban 145a" Width="11" Height="11" Copyright="David W Skinner, York Shen">
+      <L>   #####</L>
+      <L>   # @ #</L>
+      <L>  ##   ##</L>
+      <L>###.$$$.###</L>
+      <L>#  $...$  #</L>
+      <L>#  $.#.$  #</L>
+      <L>#  $.*.$  #</L>
+      <L>###.$$$.###</L>
+      <L>  ## . ##</L>
+      <L>   #   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Microban 146a" Width="9" Height="9" Copyright="David W Skinner, York Shen">
+      <L> #######</L>
+      <L>##  .  ##</L>
+      <L># .$$$. #</L>
+      <L># $ + $ #</L>
+      <L>#.$.*.$.#</L>
+      <L># $ . $ #</L>
+      <L># .$$$. #</L>
+      <L>##  .  ##</L>
+      <L> #######</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

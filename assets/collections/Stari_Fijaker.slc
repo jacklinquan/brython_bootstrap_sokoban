@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Stari Fijaker</Title>
+  <Description>
+Collection by Milan Vukosavljevic
+  </Description>
+  <Email>milanvukosavljevic98@gmail.com</Email>
+  <LevelCollection Copyright="Milan Vukosavljevic" MaxWidth="22" MaxHeight="10">
+    <Level Id="1" Width="22" Height="10">
+      <L>######################</L>
+      <L>####.  $..###  #  $..#</L>
+      <L>##.*$ $$$ .##$    $$ #</L>
+      <L>##*$ #  #$ $   .* #  #</L>
+      <L>#. $@$ $ $ # $ #..* ##</L>
+      <L>#  #$#$# # ###$#*.# #</L>
+      <L>#  ... ....###  ..  #</L>
+      <L>#  ########### #$#  #</L>
+      <L>##############   ####</L>
+      <L>#####################</L>
+    </Level>
+    <Level Id="2" Width="10" Height="7">
+      <L>##########</L>
+      <L>##.*. ##.#</L>
+      <L># $.$ #. #</L>
+      <L>#.$.  # $#</L>
+      <L># $$$##$ #</L>
+      <L>#.. $@$ .#</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="3" Width="13" Height="7">
+      <L>#############</L>
+      <L>##.$ ##. .$ #</L>
+      <L>#...$ ##*$* #</L>
+      <L>#.*  $@$    #</L>
+      <L>#$$ $.##* * #</L>
+      <L>#   . #.$   #</L>
+      <L>#############</L>
+    </Level>
+    <Level Id="4" Width="14" Height="7">
+      <L>##############</L>
+      <L>#..#@.#. . . #</L>
+      <L>#  $$$#$$* # #</L>
+      <L># $..       $#</L>
+      <L># .$$$#$$* # #</L>
+      <L>#     #. .  .#</L>
+      <L>##############</L>
+    </Level>
+    <Level Id="5" Width="10" Height="7">
+      <L>##########</L>
+      <L>#..*.    #</L>
+      <L># $ $ $$ #</L>
+      <L>## $$#@$.#</L>
+      <L>#  $ .#.##</L>
+      <L># .#.$.###</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="6" Width="9" Height="8">
+      <L>#########</L>
+      <L>## *..###</L>
+      <L>#.$.*   #</L>
+      <L>##$# .# #</L>
+      <L>#  $$$# #</L>
+      <L>#  $@ $*#</L>
+      <L>#.#####.#</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="7" Width="9" Height="7">
+      <L>#########</L>
+      <L># .# . .#</L>
+      <L>#. $ $ @#</L>
+      <L># $ $ $.#</L>
+      <L>#. $.$  #</L>
+      <L># #.  $ #</L>
+      <L>#########</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

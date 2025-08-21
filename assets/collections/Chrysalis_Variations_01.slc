@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Chrysalis Variations 01</Title>
+  <Description>
+Chrysalis variations; Authors: David Buchweitz and Jordi Domenech
+Email: jd_sokoban@abelmartin.com Website: - David Buchweitz:
+http://www.letslogic.com - Jordi Domenech:
+http://www.abelmartin.com/rj/sokoban.html Date: July 2012 Author's
+note: David Buchweitz has a great ability to create very imaginative
+structures. As the structure is the most important thing a puzzle, it
+is sometimes possible to obtain very good and amazing puzzles. These
+&quot;variations&quot; are modifications of some of his puzzles. For years,
+David Buchweitz keeps animated his website &quot;Let's Logic&quot;
+(www.letslogic.com), in which he posted his puzzles in the &quot;Member
+Puzzles&quot; section. - J.D.  These levels are copyright (c) by David
+Buchweitz and Jordi Domenech and may be freely distributed for
+non-commercial use provided they remain unchanged, credited with the
+author's name, and provided the author is notified.
+  </Description>
+  <Email>jd2006@abelmartin.com</Email>
+  <Url>http://www.abelmartin.com/rj/rj.html</Url>
+  <LevelCollection Copyright="Jordi Doménech" MaxWidth="34" MaxHeight="29">
+    <Level Id="Chrysalis Collection 1 #7 Helix" Width="9" Height="16" Copyright="David Buchweitz, Jordi Doménech">
+      <L>#########</L>
+      <L># .   . #</L>
+      <L># $.#.$ #</L>
+      <L>## $.$ ##</L>
+      <L># $.#.$ #</L>
+      <L># .$ $. #</L>
+      <L>#.$ * $.#</L>
+      <L># .$ $. #</L>
+      <L># $.#.$ #</L>
+      <L>## $+$ ##</L>
+      <L># $.#.$ #</L>
+      <L># .$ $. #</L>
+      <L>#.$ * $.#</L>
+      <L># .$ $. #</L>
+      <L># $. .$ #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 1 #9 Scorpion" Width="9" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>#########</L>
+      <L>#.      #</L>
+      <L># ##*## #</L>
+      <L># $   $ #</L>
+      <L>#.#.# $ #</L>
+      <L># . $ # #</L>
+      <L>#.#.$ $ #</L>
+      <L># *  #$ #</L>
+      <L># ***#. #</L>
+      <L>##   @ ##</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Chrysalis Collection 1 #11 Interchange" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>   #####</L>
+      <L>  ##   ####</L>
+      <L>###  $$#  #</L>
+      <L>#  .## #. #</L>
+      <L># #  $ .  #</L>
+      <L># # #+#$$##</L>
+      <L># # .$.   #</L>
+      <L># ###.# # #</L>
+      <L># . $ $.$ #</L>
+      <L>###     ###</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Chrysalis Collection 1 #13 Sunday Drive" Width="10" Height="12" Copyright="David Buchweitz, Jordi Doménech">
+      <L>########</L>
+      <L>#      ##</L>
+      <L># $ $# @##</L>
+      <L>##$#..#  #</L>
+      <L> # # ..# #</L>
+      <L> # # $.. #</L>
+      <L> # $ $  ##</L>
+      <L> # ####.#</L>
+      <L> #      #</L>
+      <L> #$#### #</L>
+      <L> #      #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 1 #14 Whirlpool" Width="20" Height="20" Copyright="David Buchweitz, Jordi Doménech">
+      <L>####################</L>
+      <L>#                  #</L>
+      <L># # # #.# ######$# #</L>
+      <L># $ $ $ $ #        #</L>
+      <L># # ###.# # ####$# #</L>
+      <L># # # $ # #    #   #</L>
+      <L># # # #.# ####$#$# #</L>
+      <L># # # #  . . . . . #</L>
+      <L># #   #.#### ###$# #</L>
+      <L># ##### . * .      #</L>
+      <L>#      .# $  ##### #</L>
+      <L># #$### ####.#   # #</L>
+      <L># . . . . .  # # # #</L>
+      <L># #$#$#### #.# # # #</L>
+      <L>#   #    # # $ # # #</L>
+      <L># #$#### # #.### # #</L>
+      <L>#        # $ $ $ $ #</L>
+      <L># #$###### #.# # # #</L>
+      <L>#        @         #</L>
+      <L>####################</L>
+    </Level>
+    <Level Id="Chrysalis Collection 1 #16 The Cell" Width="10" Height="10" Copyright="David Buchweitz, Jordi Doménech">
+      <L> #########</L>
+      <L> #       #</L>
+      <L> # ### $ #</L>
+      <L> # * **# #</L>
+      <L>## * . # #</L>
+      <L>#  * + # #</L>
+      <L>#  * **# #</L>
+      <L>## ##* $ #</L>
+      <L> #       #</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 1 #19 Deceiver" Width="12" Height="9" Copyright="David Buchweitz, Jordi Doménech">
+      <L>   #######</L>
+      <L>####.....###</L>
+      <L>#   $$$$$$ #</L>
+      <L># #......# #</L>
+      <L># #$$$$$$# #</L>
+      <L># # .....@ #</L>
+      <L># ##$$$$## #</L>
+      <L>#          #</L>
+      <L>############</L>
+    </Level>
+    <Level Id="Chrysalis Collection 1 #20 Fallen Star" Width="20" Height="20" Copyright="David Buchweitz, Jordi Doménech">
+      <L>               #####</L>
+      <L>               #   #</L>
+      <L>  ############## # #</L>
+      <L>  #         .....  #</L>
+      <L>  # ########$$$$.###</L>
+      <L>  # #          $.#</L>
+      <L>  # # $ $ ##.##$.#</L>
+      <L>  # #$ $ ## .. $.#</L>
+      <L>  # # $ ## # # # #</L>
+      <L>  # #  ##   ## # #</L>
+      <L>  # # ##   ##  # #</L>
+      <L>  # # # # ## $ # #</L>
+      <L>  #.$ .. ## $ $# #</L>
+      <L>  #.$##.## $ $ # #</L>
+      <L>  #.$    @     # #</L>
+      <L>###.$$$$######## #</L>
+      <L>#  .....         #</L>
+      <L># # ##############</L>
+      <L>#   #</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 1 #23 Shield" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>###########</L>
+      <L>##   .   ##</L>
+      <L># $# # #$ #</L>
+      <L># .$ $ $. #</L>
+      <L># $.## .$ #</L>
+      <L>##*$ + $.##</L>
+      <L># $. ##.$ #</L>
+      <L># .$ $ $. #</L>
+      <L># #. # .# #</L>
+      <L>##   .   ##</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 1 #24 Trapped" Width="10" Height="10" Copyright="David Buchweitz, Jordi Doménech">
+      <L>##########</L>
+      <L>#        #</L>
+      <L># # ###$##</L>
+      <L>#  $..  .#</L>
+      <L># #. $#$ #</L>
+      <L># #.$+$. #</L>
+      <L># #$#$#. #</L>
+      <L># $ $..$##</L>
+      <L># #.    ##</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 1 #25 Skytracks" Width="19" Height="19" Copyright="David Buchweitz, Jordi Doménech">
+      <L>##########</L>
+      <L>#        #   #####</L>
+      <L># $ $$#  #   #.  #</L>
+      <L># ##  #$ #####.# #</L>
+      <L>#  ##.*  .    .$ #</L>
+      <L># $#  # $##### ###</L>
+      <L>#  $ $#. #   # #</L>
+      <L># ##  $$##   #$#</L>
+      <L>#     #  #   # #</L>
+      <L>###.#### ##### #</L>
+      <L>  # #  #  @  # #</L>
+      <L>  # #  #####.#.####</L>
+      <L>  # #      #      #</L>
+      <L>  # #      # #.## #</L>
+      <L>### ######## # $  #</L>
+      <L># ...  $   .   #  #</L>
+      <L># # ########.###$ #</L>
+      <L>#   #      #      #</L>
+      <L>#####      ########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 1 #27 Majestic" Width="16" Height="15" Copyright="David Buchweitz, Jordi Doménech">
+      <L>   ###########</L>
+      <L>   #         #</L>
+      <L>   # $ $ $ $ #</L>
+      <L> ### ###.### ###</L>
+      <L> # .  $   $  . #</L>
+      <L> # # #.#.#.# # #</L>
+      <L> # $ $ $ $ $ $ #</L>
+      <L>######+###.### #</L>
+      <L># .  $   # # # #</L>
+      <L># .$ $$$ # # # #</L>
+      <L>##.###.###.# # #</L>
+      <L> # ## .   .# # #</L>
+      <L> #  . . ## ### #</L>
+      <L> #########     #</L>
+      <L>         #######</L>
+    </Level>
+    <Level Id="Chrysalis Collection 1 #32 Omlette" Width="15" Height="15" Copyright="David Buchweitz, Jordi Doménech">
+      <L>    ####</L>
+      <L>   ##  #####</L>
+      <L>  ## ..... ##</L>
+      <L>### .$$$$$. ###</L>
+      <L># $.$$   $$.$ #</L>
+      <L>#  .$ ##  $.  #</L>
+      <L>##$.$ ...# .$##</L>
+      <L> # *$#.@.#$* #</L>
+      <L>##$. #... $.$##</L>
+      <L>#  .$  ## $.  #</L>
+      <L># $.$$   $$.$ #</L>
+      <L>### .$$$$$. ###</L>
+      <L>  ## ..... ##</L>
+      <L>   #####  ##</L>
+      <L>       ####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #1 Elle" Width="11" Height="17" Copyright="David Buchweitz, Jordi Doménech">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#.#  #</L>
+      <L># $$ #</L>
+      <L>#.#  #</L>
+      <L># $$ #</L>
+      <L>#.#  #</L>
+      <L># $$ #</L>
+      <L>#.#  #</L>
+      <L># $$ #</L>
+      <L>#.#  #</L>
+      <L># $$ ####</L>
+      <L>#.# $# .###</L>
+      <L>#  $@$... #</L>
+      <L># ##### # #</L>
+      <L># . . .   #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #3 In the cloud" Width="10" Height="9" Copyright="David Buchweitz, Jordi Doménech">
+      <L>#####</L>
+      <L>#   #####</L>
+      <L># $$$ $ #</L>
+      <L>#.#.#.#.#</L>
+      <L># #     ##</L>
+      <L>#   @ #  #</L>
+      <L>#$#$#$#$ #</L>
+      <L># . ...  #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #4 Rabbit" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>    #####</L>
+      <L>    #   #</L>
+      <L>  ### # ##</L>
+      <L>###. $ . #</L>
+      <L># $ #.##$##</L>
+      <L># #$.+.$  #</L>
+      <L>#   #. ## #</L>
+      <L># $.   .$ #</L>
+      <L>###$## $# #</L>
+      <L>  #       #</L>
+      <L>  #########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #7 Tetrissy" Width="23" Height="7" Copyright="David Buchweitz, Jordi Doménech">
+      <L>#######################</L>
+      <L># $ .. $ . . $ .. $   #</L>
+      <L>#   ##   # #   ##   # #</L>
+      <L>##$####$##@##$####$## #</L>
+      <L>#   ##   # #   ##   # #</L>
+      <L># $ .. $ . . $ .. $   #</L>
+      <L>#######################</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #9 Anchor" Width="10" Height="10" Copyright="David Buchweitz, Jordi Doménech">
+      <L>  ######</L>
+      <L>  #    ###</L>
+      <L>  # ##   #</L>
+      <L>  #$ #$# #</L>
+      <L>  # ...  #</L>
+      <L>###$...###</L>
+      <L># $    #</L>
+      <L># #$##$#</L>
+      <L>#    @ #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #17 Bowtie" Width="11" Height="9" Copyright="David Buchweitz, Jordi Doménech">
+      <L> #########</L>
+      <L> # . @ . #</L>
+      <L>##$#$#$#$##</L>
+      <L>#  .$.$.  #</L>
+      <L>#  #$ $#  #</L>
+      <L>#  . * .  #</L>
+      <L># $.$#$.$ #</L>
+      <L>## . . . ##</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #24 Fangs" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>###########</L>
+      <L>#  #   #  #</L>
+      <L># $.$.$.$ #</L>
+      <L># .$ * $. #</L>
+      <L>##$ ... $##</L>
+      <L># .$*@*$. #</L>
+      <L>##$ ... $##</L>
+      <L># .$ * $. #</L>
+      <L># $.$.$.$ #</L>
+      <L>#  #   #  #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #25 Whirlpool" Width="21" Height="21" Copyright="David Buchweitz, Jordi Doménech">
+      <L>      ###########</L>
+      <L>      #         #</L>
+      <L>  ##### ####### ###</L>
+      <L>  #   $ $     $ $ #</L>
+      <L>### ### ##### # # ###</L>
+      <L>#     $ $     $ $   #</L>
+      <L># #$#$# #####.# #$# #</L>
+      <L># #     ......#   # #</L>
+      <L># #$#$# #####.# #$# #</L>
+      <L>#   #   ...@#.# #   #</L>
+      <L># #$#$###.###.###$# #</L>
+      <L># #     #......   # #</L>
+      <L># #$#$# #.##### #$# #</L>
+      <L>#       .......     #</L>
+      <L>### # # # ##### # # #</L>
+      <L>  # # $ $     $ $ # #</L>
+      <L>  # ### ##### # ### #</L>
+      <L>  #   $ $     $ $   #</L>
+      <L>  ##### ####### #####</L>
+      <L>      #         #</L>
+      <L>      ###########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #27 Snakes" Width="33" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>#################################</L>
+      <L>#      #         #  #           #</L>
+      <L># ###.##  . #**. #  . ###. ###.##</L>
+      <L># #    #  # #  # # #  #    *    #</L>
+      <L># #    *  # #  # # #  *    #    #</L>
+      <L># ###* ## * *  #@**   #*#  #### #</L>
+      <L>#    * # ## ##*# # #  #       # #</L>
+      <L>#    # #  # #  # # #  #       # #</L>
+      <L>##$### $  # $  * $  # $*## $### #</L>
+      <L>#         # #  #    #           #</L>
+      <L>#################################</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #28 Which Path" Width="16" Height="23" Copyright="David Buchweitz, Jordi Doménech">
+      <L>         ######</L>
+      <L>         #    ##</L>
+      <L>        ##$##  #</L>
+      <L>    #####   ## #</L>
+      <L>   ##     $  # #</L>
+      <L>  ##  ## $## # #</L>
+      <L> ##  ## $  # # #</L>
+      <L>##  ## $ #$# # #</L>
+      <L>#  ## $  @ # # #</L>
+      <L># ## $ ### # # #</L>
+      <L>#.# $  # # # # #</L>
+      <L># .$ # # # # # #</L>
+      <L>#$#.   # # # # #</L>
+      <L># ##.#$###.# # #</L>
+      <L>#  ##. $ . # # #</L>
+      <L>##  # .#*# # # #</L>
+      <L> ##   #. $ . # #</L>
+      <L>  ######.#.$## #</L>
+      <L>       # .$ #  #</L>
+      <L>       # #.## ##</L>
+      <L>       #   .  #</L>
+      <L>       ##   .##</L>
+      <L>        ######</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #29 Slinky" Width="13" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>  ###########</L>
+      <L>  #     #   #</L>
+      <L> ##$# $ . # #</L>
+      <L> #  . ##### #</L>
+      <L> #  #   #   #</L>
+      <L>###$#.#.#$###</L>
+      <L>#   # @ #  #</L>
+      <L># ##### .  #</L>
+      <L># # . $ #$##</L>
+      <L>#   #     #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #32 4x4 skewed" Width="11" Height="9" Copyright="David Buchweitz, Jordi Doménech">
+      <L>##########</L>
+      <L>#  $   . #</L>
+      <L># $#$#.#.#</L>
+      <L>#  $ * * #</L>
+      <L>## #.@.# ##</L>
+      <L> # * * $  #</L>
+      <L> #.#.#$#$ #</L>
+      <L> # .   $  #</L>
+      <L> ##########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #35 Puzzler" Width="14" Height="14" Copyright="David Buchweitz, Jordi Doménech">
+      <L>    ####</L>
+      <L>    #  #</L>
+      <L>    # $#</L>
+      <L> ####  ####</L>
+      <L> #   $ $  #</L>
+      <L> # $.....$#</L>
+      <L> ##$.# #. ####</L>
+      <L>  # .#+#.$   #</L>
+      <L>  # .# #.  $ #</L>
+      <L>###$.*.*.$####</L>
+      <L>#  $ $ $  #</L>
+      <L># $ ####$ #</L>
+      <L>#   #  #  #</L>
+      <L>#####  ####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #38 Cargo Net with Training Wheels" Width="15" Height="14" Copyright="David Buchweitz, Jordi Doménech">
+      <L> #############</L>
+      <L> #           #</L>
+      <L> # ######### ##</L>
+      <L>## #       #  #</L>
+      <L>#  #.$$.$$.## #</L>
+      <L># ##$..$..$.  #</L>
+      <L>#  $.$$+$$. ###</L>
+      <L>### $..$..$.  #</L>
+      <L>#  $.$$.$$.## #</L>
+      <L># ##$..$..$#  #</L>
+      <L>#  #       # ##</L>
+      <L>## ######### #</L>
+      <L> #           #</L>
+      <L> #############</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #42 Passage with Bridge" Width="10" Height="16" Copyright="David Buchweitz, Jordi Doménech">
+      <L>   ######</L>
+      <L>   #    #</L>
+      <L> ###$$# #</L>
+      <L>## .  . #</L>
+      <L>#  #$$###</L>
+      <L># $$. #</L>
+      <L>#  #$.###</L>
+      <L>##.#. . #</L>
+      <L> # . .#.##</L>
+      <L> ###.$#  #</L>
+      <L>   # .$$ #</L>
+      <L> ###$$#  #</L>
+      <L> # .  . ##</L>
+      <L> # #$$###</L>
+      <L> # @  #</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #43 Rotary" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>#####  ####</L>
+      <L>#    ##  @#</L>
+      <L># $.$#  $ #</L>
+      <L># .$.$.$  #</L>
+      <L># $...$.##</L>
+      <L> ##$.#.$##</L>
+      <L> ##.$...$ #</L>
+      <L>#  $.$.$. #</L>
+      <L># $  #$.$ #</L>
+      <L>#   ##    #</L>
+      <L>####  #####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 2 #46 Center Shuriken" Width="10" Height="13" Copyright="David Buchweitz, Jordi Doménech">
+      <L>    #####</L>
+      <L>##### @ #</L>
+      <L>#   # # #</L>
+      <L>#   $ $ ##</L>
+      <L>##*#.##  #</L>
+      <L>#  #..*$ #</L>
+      <L># $...#  #</L>
+      <L>#  ##.#$##</L>
+      <L>## $ $  #</L>
+      <L> # #    #</L>
+      <L> # #### #</L>
+      <L> #      #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #6 Touching Sides" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>##########</L>
+      <L>#        #</L>
+      <L># *  ### #</L>
+      <L>## # # # #</L>
+      <L> # # # # #</L>
+      <L> #$#.@.#$#</L>
+      <L> # # # # #</L>
+      <L> # #   # ##</L>
+      <L> # ##   * #</L>
+      <L> #    #   #</L>
+      <L> ##########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #8 Easier than it looks" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>     #####</L>
+      <L>   ###   #</L>
+      <L>   # $$. #</L>
+      <L>#### #.#.##</L>
+      <L>#  $ # .  #</L>
+      <L># #$ + $# #</L>
+      <L>#  . # $  #</L>
+      <L>##.#.# ####</L>
+      <L> # *$$ #</L>
+      <L> #   ###</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #15 Center Pattern" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>   ########</L>
+      <L>  ##      #</L>
+      <L>### $#### #</L>
+      <L>#  $.$.$  #</L>
+      <L># #.$.$.# #</L>
+      <L>#  $.+.$  #</L>
+      <L>###.$.$.# #</L>
+      <L> # $.$.$# #</L>
+      <L> # # ##   #</L>
+      <L> #      ###</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #19 Woof Woof" Width="16" Height="16" Copyright="David Buchweitz, Jordi Doménech">
+      <L>     #####</L>
+      <L>     #   # ####</L>
+      <L>     # $ ###  #</L>
+      <L>     ### #   $#</L>
+      <L>       # # $  #</L>
+      <L>       # ####.##</L>
+      <L>      ## @.....#</L>
+      <L>      # ....$.##</L>
+      <L>#     ##.## #$#</L>
+      <L>##     # $  # #</L>
+      <L> ## ####$ $ # #</L>
+      <L>  ### $   ### #</L>
+      <L>    #  ## # $ ##</L>
+      <L>    ## $  $    #</L>
+      <L>     #   ###   #</L>
+      <L>     ##### #####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #21 Ess" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>   ########</L>
+      <L>####   #  #</L>
+      <L>#  $ .*#$ #</L>
+      <L># $##..   #</L>
+      <L>#  .# $ $ #</L>
+      <L>###.#@#.###</L>
+      <L># $ $ #.  #</L>
+      <L>#   ..##$ #</L>
+      <L># $#*. $  #</L>
+      <L>#  #   ####</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #22 Runaround" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>  #########</L>
+      <L>  #       #</L>
+      <L>###.##### #</L>
+      <L># $ $ $ # #</L>
+      <L># #.#.#.# #</L>
+      <L># # # # # #</L>
+      <L># $ $ $ # #</L>
+      <L># # . . @ #</L>
+      <L># ####### #</L>
+      <L>#         #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #24 Center Six" Width="11" Height="13" Copyright="David Buchweitz, Jordi Doménech">
+      <L> ######</L>
+      <L> #    #</L>
+      <L>## ## #####</L>
+      <L># $   #   #</L>
+      <L># .#    . #</L>
+      <L># $#*#*#$ #</L>
+      <L># .#   #. #</L>
+      <L># $#*@*#$ #</L>
+      <L># .#   #. #</L>
+      <L># $#*#*#$ #</L>
+      <L>#      #. #</L>
+      <L>######   ##</L>
+      <L>     #####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #31 Seashell" Width="9" Height="9" Copyright="David Buchweitz, Jordi Doménech">
+      <L>  ######</L>
+      <L>### .  #</L>
+      <L>#   $#$##</L>
+      <L># # .#. #</L>
+      <L># @ $#$ #</L>
+      <L>### .$. #</L>
+      <L> #  $#$ #</L>
+      <L> #  . . #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #32 No idea" Width="11" Height="9" Copyright="David Buchweitz, Jordi Doménech">
+      <L> ##########</L>
+      <L> #   .    #</L>
+      <L>##$$...$$ #</L>
+      <L>#  ##.##  #</L>
+      <L># $$.@.$$ #</L>
+      <L>#  ##.##  #</L>
+      <L># $$...$$##</L>
+      <L>#    .   #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #34 Northern Star" Width="9" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>####</L>
+      <L>#  ######</L>
+      <L>#.*.    #</L>
+      <L>#..# ## #</L>
+      <L>#.#  #  #</L>
+      <L># #  # ##</L>
+      <L># $ $$$@#</L>
+      <L># #     #</L>
+      <L># ###$###</L>
+      <L>#     #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #35 Center Line" Width="12" Height="14" Copyright="David Buchweitz, Jordi Doménech">
+      <L>    ######</L>
+      <L>    #.   #</L>
+      <L> ####.##$##</L>
+      <L> #   .#   #</L>
+      <L>##$##.  $ #</L>
+      <L>#   #@#   #</L>
+      <L># $  .##$###</L>
+      <L>#   #.  $  #</L>
+      <L>##$##.###  #</L>
+      <L>##   .  $ ##</L>
+      <L>#  ###### ##</L>
+      <L>#          #</L>
+      <L>########   #</L>
+      <L>       #####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #36 Prison Break" Width="10" Height="10" Copyright="David Buchweitz, Jordi Doménech">
+      <L> #########</L>
+      <L> #       #</L>
+      <L>##$#####.#</L>
+      <L>#  #   #.#</L>
+      <L>#    @ #.#</L>
+      <L>##$##$##.#</L>
+      <L> #       #</L>
+      <L> #$## ## #</L>
+      <L> #       #</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #37 Full Duplex" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L> #########</L>
+      <L> #       #</L>
+      <L>##$### #$#</L>
+      <L>#  ....# #</L>
+      <L>#   $$ # #</L>
+      <L>## ##@## ##</L>
+      <L> # # $$   #</L>
+      <L> # #....  #</L>
+      <L> #$# ###$##</L>
+      <L> #       #</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #40 Cyclone" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>  #####</L>
+      <L> ##.. ####</L>
+      <L> #  $$.. ##</L>
+      <L> #.#$  # .#</L>
+      <L>##. $ $$$.#</L>
+      <L># $  #  $ #</L>
+      <L>#.$$$ $ .##</L>
+      <L>#. #  $#.#</L>
+      <L>## ..$$  #</L>
+      <L> ####@..##</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #41 Alcatraz" Width="12" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>     #######</L>
+      <L> #####.   .#</L>
+      <L> # $. *## ##</L>
+      <L> # ..#.   #</L>
+      <L> ## # . #$#</L>
+      <L>  # $ #   #</L>
+      <L>### # $$# #</L>
+      <L>#   ### # #</L>
+      <L># #$  @$  #</L>
+      <L>#   ###   #</L>
+      <L>##### #####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #42 In the cloud again" Width="12" Height="9" Copyright="David Buchweitz, Jordi Doménech">
+      <L>     #####</L>
+      <L>  ####   ###</L>
+      <L>### $.$* * #</L>
+      <L># ..$# # # #</L>
+      <L>#    @     #</L>
+      <L>### #####$##</L>
+      <L> #   .    #</L>
+      <L> #   ######</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #43 Easy Omlette" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>  #####</L>
+      <L> ##  @####</L>
+      <L> # $.*.$ ##</L>
+      <L> #$. # .$ #</L>
+      <L>##.  $  . #</L>
+      <L># *#$#$#* #</L>
+      <L># .  $  .##</L>
+      <L># $. # .$#</L>
+      <L>## $.*.$ #</L>
+      <L> ####   ##</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #45 Dash" Width="9" Height="10" Copyright="David Buchweitz, Jordi Doménech">
+      <L>    #####</L>
+      <L>  ###   #</L>
+      <L>  # @ # #</L>
+      <L>###*#$$ #</L>
+      <L># .....##</L>
+      <L># $ #   #</L>
+      <L>### #$$ #</L>
+      <L>  #   # #</L>
+      <L>  ###   #</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #46 Hammerhead" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>    ####</L>
+      <L>#####  #</L>
+      <L>#   #  #</L>
+      <L># . * $#</L>
+      <L>## ##  #</L>
+      <L> #.## $####</L>
+      <L>##        #</L>
+      <L># .#.## # #</L>
+      <L># ##  $ $ #</L>
+      <L>#  @ ######</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #47 Tree" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L> #########</L>
+      <L>##   #   ##</L>
+      <L>#  $ * $  #</L>
+      <L># # #$# # #</L>
+      <L># $ ... $ #</L>
+      <L># ###$### #</L>
+      <L># $.#.#.$ #</L>
+      <L>#   $.$   #</L>
+      <L>##.##.##.##</L>
+      <L> #   @   #</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 3 #48 Springs" Width="11" Height="10" Copyright="David Buchweitz, Jordi Doménech">
+      <L>    #####</L>
+      <L>    #   ###</L>
+      <L>   ## #   #</L>
+      <L>####  $ $ #</L>
+      <L># ...#$#$ #</L>
+      <L># . . $@$ #</L>
+      <L># .#.#$$$ #</L>
+      <L># . .   ###</L>
+      <L>#  ######</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #9 Almost Square" Width="10" Height="10" Copyright="David Buchweitz, Jordi Doménech">
+      <L>#########</L>
+      <L>#.....  #</L>
+      <L>#.  #.# ##</L>
+      <L>#.#$$*$$ #</L>
+      <L>#. $ . $ #</L>
+      <L>#..*..#$@#</L>
+      <L># #$   $ #</L>
+      <L>#  $$$$$ #</L>
+      <L>####     #</L>
+      <L>   #######</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #12 Long Vertical Line" Width="11" Height="12" Copyright="David Buchweitz, Jordi Doménech">
+      <L>  #########</L>
+      <L> ##   #   #</L>
+      <L> # ...  $ #</L>
+      <L> # #$#$#$##</L>
+      <L> #. *..   #</L>
+      <L>##.#### $.#</L>
+      <L># .  @  $.#</L>
+      <L># # ### $.#</L>
+      <L># $$# ##$ #</L>
+      <L>#   # # $ #</L>
+      <L>##### #   #</L>
+      <L>      #####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #15 Scallywag" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L> #########</L>
+      <L> #       ##</L>
+      <L> #$$.*..*.#</L>
+      <L>## $*$$$$.#</L>
+      <L>#....   $.#</L>
+      <L>#.$$$@$$$.#</L>
+      <L>#.$   ....#</L>
+      <L>#.$$$$*$  #</L>
+      <L>#.*..*.$$##</L>
+      <L>##       #</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #16 Puzzle Piece" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>##### #####</L>
+      <L>#   # #   #</L>
+      <L># #$###$# #</L>
+      <L>#  ..$..  #</L>
+      <L>###$ *  ###</L>
+      <L>  # .@.$#</L>
+      <L>###$ *  ###</L>
+      <L>#  .*$*.  #</L>
+      <L># #$#.#$# #</L>
+      <L>#         #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #20 Dumbo" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L> #########</L>
+      <L>##       ##</L>
+      <L>#  ##.##  #</L>
+      <L># #     # #</L>
+      <L># #$# #$# #</L>
+      <L># $.....$ #</L>
+      <L>### #@# ###</L>
+      <L> #  #.#  #</L>
+      <L> # $ $ $ #</L>
+      <L> #  ###  #</L>
+      <L> #### ####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #21 Hunchbacked Unicorn" Width="11" Height="14" Copyright="David Buchweitz, Jordi Doménech">
+      <L>          #</L>
+      <L>         #</L>
+      <L>        #</L>
+      <L> #### #####</L>
+      <L> #  ###.. #</L>
+      <L> #   @ .* #</L>
+      <L>##$#$#$# ##</L>
+      <L>#      # #</L>
+      <L># # $# #$#</L>
+      <L>#      # ##</L>
+      <L>##$# ###..#</L>
+      <L> #   $  ..#</L>
+      <L> #  ####  #</L>
+      <L> ####  ####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #22 Pastafarian" Width="34" Height="29" Copyright="David Buchweitz, Jordi Doménech">
+      <L>##################################</L>
+      <L>#   #   #   #   # #    #         #</L>
+      <L># #   #   #   #   # ## # ####### #</L>
+      <L># ############### #  # # #       #</L>
+      <L>#               # ## # # # #######</L>
+      <L>############### # #  #   #       #</L>
+      <L>#   #   #   #   #   ############ #</L>
+      <L># # # # # # # #######@#   #      #</L>
+      <L># # # # # # # #     $  .# # ######</L>
+      <L># # # # # # # # $$$$$##   #      #</L>
+      <L># # # # # # # # $     #   ###### #</L>
+      <L># # # # # # # # $$$$$ # ..#   #  #</L>
+      <L># # # # # # # #     $ # ..# # # ##</L>
+      <L># # # # # # # # $$$$$ # ..# # #  #</L>
+      <L># # # # # # # # $     # ..# # ## #</L>
+      <L># # # # # # # # $$$$$ # ..# # #  #</L>
+      <L># # # # # # # #     $ # ..# # # ##</L>
+      <L># # # # # # # # $$$$$ # ..# # #  #</L>
+      <L># # # # # # # # $     # ..# # ## #</L>
+      <L># # # # # # # #   ##### ..# # #  #</L>
+      <L># #   #   #   # $ #.......# # # ##</L>
+      <L># ############### #  # ...# # #  #</L>
+      <L>#         #     # #    ...# # ## #</L>
+      <L>######### # ### # # ####### # #  #</L>
+      <L>#         #   # # #   #   # # # ##</L>
+      <L># ########### # # # # # # # # #  #</L>
+      <L>#   #   #   # # # # # # # # # ## #</L>
+      <L># #   #   #   #   # #   #   #    #</L>
+      <L>##################################</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #25 Nebula" Width="12" Height="12" Copyright="David Buchweitz, Jordi Doménech">
+      <L>       ####</L>
+      <L>#####  #  #</L>
+      <L>#   ####$ #</L>
+      <L># $       #</L>
+      <L>## ##.*#$ #</L>
+      <L> #$#....$ #</L>
+      <L> #  ....#$#</L>
+      <L> #$ #*.## ##</L>
+      <L> #  $ @  $ #</L>
+      <L> # $####   #</L>
+      <L> #  #  #####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #26 Incarceration" Width="13" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L> ###########</L>
+      <L> #  ...#   #</L>
+      <L> #  ...$.$ #</L>
+      <L>####...# ####</L>
+      <L># $  #$# #  #</L>
+      <L>#  #   # #  #</L>
+      <L>#  ##$## #  #</L>
+      <L>##   $     ##</L>
+      <L> #$$$#### $ #</L>
+      <L> # @ #  #   #</L>
+      <L> #####  #####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #28 Sunday Silliness" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>###### ####</L>
+      <L>#  . ###  #</L>
+      <L># *# #  . #</L>
+      <L>#  $ @ $  #</L>
+      <L>##$#.#.# ##</L>
+      <L> #.$$*$$.#</L>
+      <L>## #.#.#$##</L>
+      <L>#  $ $ $  #</L>
+      <L># .  # #. #</L>
+      <L>#  ### .  #</L>
+      <L>#### ######</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #31 Diamond in the rough" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>   #######</L>
+      <L>####    .#</L>
+      <L>#  #.  # #</L>
+      <L># $## $# ##</L>
+      <L>#. # $$ $ #</L>
+      <L>#..*$+$...#</L>
+      <L># $ $$ # .#</L>
+      <L>## #$ ##$ #</L>
+      <L> # #  .#  #</L>
+      <L> #.    ####</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #33 Bastions of hell" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>##### #####</L>
+      <L>#   ###   #</L>
+      <L># #  $  # #</L>
+      <L>#  $.*#$  #</L>
+      <L>## #.$.. ##</L>
+      <L> #*.$@$.*#</L>
+      <L>## ..$.# ##</L>
+      <L>#  $#*.$  #</L>
+      <L># #  $  # #</L>
+      <L>#   ###   #</L>
+      <L>##### #####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #34 The Quad Quads" Width="17" Height="17" Copyright="David Buchweitz, Jordi Doménech">
+      <L>######## ########</L>
+      <L>#      # #      #</L>
+      <L>#.*..$ # #$$..*.#</L>
+      <L># $# $ # # $ #$ #</L>
+      <L># $ #$$### $# $ #</L>
+      <L># $ ... . ....$ #</L>
+      <L>#      ### $    #</L>
+      <L>######## #### ###</L>
+      <L>            #.#</L>
+      <L>######## #### ###</L>
+      <L>#      # # $    #</L>
+      <L># $....###....$ #</L>
+      <L># $ #$  .  $# $ #</L>
+      <L># $# $ ### $ #$ #</L>
+      <L>#.*..$$# #$$..*.#</L>
+      <L>#  @   # #      #</L>
+      <L>######## ########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #35 Initially Round" Width="11" Height="9" Copyright="David Buchweitz, Jordi Doménech">
+      <L>###########</L>
+      <L>#  $...$  #</L>
+      <L># $$$.$$$ #</L>
+      <L># .$ . $. #</L>
+      <L>##...#...##</L>
+      <L># .$ . $. #</L>
+      <L># $$$.$$$ #</L>
+      <L>#  $.+.$  #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #37 Trapdoors" Width="13" Height="13" Copyright="David Buchweitz, Jordi Doménech">
+      <L>   ######</L>
+      <L>####    #####</L>
+      <L>#  # ##$#   #</L>
+      <L>#  # #. . $ #</L>
+      <L>#   .$.###$##</L>
+      <L>##.#$ .$ # #</L>
+      <L> # #  +  # #</L>
+      <L> # # $.$$#.##</L>
+      <L>##$###.$.   #</L>
+      <L># $ . .# #  #</L>
+      <L>#   #$## #  #</L>
+      <L>#####    ####</L>
+      <L>    ######</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #40 Tuesday Teaser" Width="9" Height="10" Copyright="David Buchweitz, Jordi Doménech">
+      <L>#########</L>
+      <L>#       #</L>
+      <L># ***** #</L>
+      <L># * $ * #</L>
+      <L># *   * #</L>
+      <L># * * * #</L>
+      <L># **.** #</L>
+      <L># # @ # #</L>
+      <L>#   #   #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #41 Wednesday Wobbly" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>  #########</L>
+      <L>###   #   #</L>
+      <L># $$$@$   #</L>
+      <L># $ ####$##</L>
+      <L># #    # #</L>
+      <L>#....# # #</L>
+      <L>## #.# # #</L>
+      <L> #  .  # #</L>
+      <L> # ##### #</L>
+      <L> #       #</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #43 Simple Saturday" Width="11" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>########</L>
+      <L>#   #  #</L>
+      <L>#  $ . ####</L>
+      <L>##$#.#. $ #</L>
+      <L> # . . .# #</L>
+      <L> #. $.# . #</L>
+      <L> #$.#  .$ #</L>
+      <L> # $#*#$$ #</L>
+      <L> #  $@$ # #</L>
+      <L> #  ###   #</L>
+      <L> #### #####</L>
+    </Level>
+    <Level Id="Chrysalis Collection 4 #44 High and Low" Width="18" Height="11" Copyright="David Buchweitz, Jordi Doménech">
+      <L>##### ##### #####</L>
+      <L>#   # # @ # #   #</L>
+      <L># #$### #$### # ##</L>
+      <L># .$ .  .$    .$ #</L>
+      <L>##.$####.$####.$ #</L>
+      <L> #.$    .$    .$ #</L>
+      <L> #.$####.$####.$ #</L>
+      <L> #.$    .$  . .$ #</L>
+      <L> # # ### # ### # #</L>
+      <L> #   # #   # #   #</L>
+      <L> ##### ##### #####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

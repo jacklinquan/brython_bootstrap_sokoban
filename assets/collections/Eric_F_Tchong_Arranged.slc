@@ -1,0 +1,2889 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Eric F. Tchong Arranged</Title>
+  <Description>
+The levels in this set were collected, documented and published by
+Sokoplaza members. Collection supervisor: Werner Ettinger (merging of
+initial collections, renaming all level names, making new alphabetical
+level order, removing duplicates).
+  </Description>
+  <Email>serenata@setarnet.aw</Email>
+  <LevelCollection Copyright="Eric F Tchong" MaxWidth="60" MaxHeight="52">
+    <Level Id="Aruba II / Heart of Aruba R--1" Width="14" Height="12" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>  ###########</L>
+      <L> ##    #    ##</L>
+      <L>##  #$ # $#  #</L>
+      <L>#  #   $   # #</L>
+      <L>#   $..*..$  #</L>
+      <L>## ##.#+#.## #</L>
+      <L>#     .$.    #</L>
+      <L>#  #   .  # ##</L>
+      <L>##  #$ #$#   #</L>
+      <L> # $   #   $ #</L>
+      <L> ###   #  ####</L>
+      <L>   ########</L>
+    </Level>
+    <Level Id="Aruba II / Heart of Aruba R--2" Width="14" Height="12" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>  ###########</L>
+      <L> ##    #    ##</L>
+      <L>##  #$ # $#  #</L>
+      <L>#  # $ $   # #</L>
+      <L>#   $..*..$  #</L>
+      <L>##$##.#@#*## #</L>
+      <L>#    ..$..$  #</L>
+      <L>#  # .....# ##</L>
+      <L>##  #$ #$#   #</L>
+      <L> # $ $ #   $ #</L>
+      <L> ###   #  ####</L>
+      <L>   ########</L>
+    </Level>
+    <Level Id="Aruba II / X-across R--1" Width="15" Height="10" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>     #####</L>
+      <L>   ###   ###</L>
+      <L>   # $$ $$ #</L>
+      <L>#### . . . ####</L>
+      <L># # #$.#.$# # #</L>
+      <L># $    +    $ #</L>
+      <L>#   #$.#.$#   #</L>
+      <L>#### . * . ####</L>
+      <L>   ##  #  ##</L>
+      <L>    #######</L>
+    </Level>
+    <Level Id="Aruba II / Lourdes Cave R--1" Width="11" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>     #####</L>
+      <L>######   ##</L>
+      <L>#  $ @ $  #</L>
+      <L>#  # ###  #</L>
+      <L>#   ...# ##</L>
+      <L>##$$*$..$##</L>
+      <L>## #...#  #</L>
+      <L>#  ### #  #</L>
+      <L>#  $   $  #</L>
+      <L>##   #   ##</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="Aruba III / Little eight R--1" Width="10" Height="10" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>##########</L>
+      <L>#        #</L>
+      <L># $.$$.$ #</L>
+      <L># .   .  #</L>
+      <L># .$$.$. #</L>
+      <L># .$.$$. #</L>
+      <L>#  .   . #</L>
+      <L># $.$$.$ #</L>
+      <L>#       @#</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Aruba III / Little eight R--2" Width="10" Height="10" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>##########</L>
+      <L>#        #</L>
+      <L># $.$$.$ #</L>
+      <L># .$  .. #</L>
+      <L># .$ #$. #</L>
+      <L># .$# $. #</L>
+      <L># ..  $. #</L>
+      <L># $.$$.$ #</L>
+      <L>#       @#</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Aruba III / Here comes trouble R--1" Width="11" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>###########</L>
+      <L>#.......$ #</L>
+      <L>#.*.*.*.$ #</L>
+      <L>########  #</L>
+      <L>#  $ $ $$ #</L>
+      <L>#         #</L>
+      <L>###$####$ #</L>
+      <L>#@     $  #</L>
+      <L>######$ $ #</L>
+      <L>     #    #</L>
+      <L>     ######</L>
+    </Level>
+    <Level Id="Aruba III / Now what again R--1" Width="11" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>###########</L>
+      <L># . . . . #</L>
+      <L>#. . . . .#</L>
+      <L>#######$$ #</L>
+      <L>#    $ $  #</L>
+      <L>#       # #</L>
+      <L>###$####  #</L>
+      <L>#@   $ #  #</L>
+      <L>### $ $ $ #</L>
+      <L>  ###     #</L>
+      <L>    #######</L>
+    </Level>
+    <Level Id="Aruba III / Not true R--1" Width="11" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>###########</L>
+      <L>#. . . . .#</L>
+      <L># . . . . #</L>
+      <L>#######$$ #</L>
+      <L>#    $ $  #</L>
+      <L>#       # #</L>
+      <L>###$####  #</L>
+      <L>#@   $ #  #</L>
+      <L>### $ $ $ #</L>
+      <L>  ###     #</L>
+      <L>    #######</L>
+    </Level>
+    <Level Id="Aruba III / Last one... R--1" Width="11" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>###########</L>
+      <L>#. . $....#</L>
+      <L>#..* ..  .#</L>
+      <L># ###$###.#</L>
+      <L>#   $ $ $$#</L>
+      <L># $       #</L>
+      <L>### ####$ #</L>
+      <L>#@   $ $  #</L>
+      <L>###  $ ##$#</L>
+      <L>  ##      #</L>
+      <L>   ########</L>
+    </Level>
+    <Level Id="Aruba III / Sweet six R--1" Width="7" Height="13">
+      <L> #####</L>
+      <L>##...##</L>
+      <L># .*. #</L>
+      <L>#  *. #</L>
+      <L>##   ##</L>
+      <L> ## ##</L>
+      <L>##   ##</L>
+      <L>#  $$ #</L>
+      <L>#  $  #</L>
+      <L>#  $  #</L>
+      <L># $$  #</L>
+      <L>## @ ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Aruba III / Dice 6 R--1" Width="7" Height="13" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L> #####</L>
+      <L>## . ##</L>
+      <L>#  .  #</L>
+      <L># ... #</L>
+      <L>##...##</L>
+      <L> ##$##</L>
+      <L>##   ##</L>
+      <L>#  $  #</L>
+      <L># $$$ #</L>
+      <L>#     #</L>
+      <L># $$$ #</L>
+      <L>## @ ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Aruba III / Close 6 R--1" Width="7" Height="13" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L> #####</L>
+      <L>##   ##</L>
+      <L>#     #</L>
+      <L>#.....#</L>
+      <L>##...##</L>
+      <L> ##$##</L>
+      <L>##   ##</L>
+      <L>#  $  #</L>
+      <L># $$$ #</L>
+      <L>#     #</L>
+      <L># $$$ #</L>
+      <L>## @ ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Aruba III / Still more 6 R--1" Width="7" Height="13" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L> #####</L>
+      <L>## . ##</L>
+      <L># ... #</L>
+      <L>#. . .#</L>
+      <L>## . ##</L>
+      <L> ##$##</L>
+      <L>##   ##</L>
+      <L>#  $  #</L>
+      <L># $$$ #</L>
+      <L>#     #</L>
+      <L># $$$ #</L>
+      <L>## @ ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Aruba III / Dice up R--1" Width="7" Height="13" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L> #####</L>
+      <L>##   ##</L>
+      <L>#..$..#</L>
+      <L>#. . .#</L>
+      <L>## . ##</L>
+      <L> ## ##</L>
+      <L>##   ##</L>
+      <L>#  $  #</L>
+      <L># $ $ #</L>
+      <L># $ $ #</L>
+      <L># $ $ #</L>
+      <L>## @ ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Aruba III / Easy 6 R--1" Width="7" Height="13" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L> #####</L>
+      <L>##   ##</L>
+      <L>#. * .#</L>
+      <L>#..*..#</L>
+      <L>## . ##</L>
+      <L> ## ##</L>
+      <L>##   ##</L>
+      <L>#  $  #</L>
+      <L># $$$ #</L>
+      <L># $@$ #</L>
+      <L>#   $ #</L>
+      <L>##   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Aruba IIII / Little Aruba R--1" Width="12" Height="12" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>############</L>
+      <L>#          #</L>
+      <L>#  $ $ $ $ #</L>
+      <L># $# $ ##  #</L>
+      <L>#   # $@#$ #</L>
+      <L>#  $   $$  #</L>
+      <L># $### $   #</L>
+      <L># $....... #</L>
+      <L># $..##..# #</L>
+      <L># $.....#  #</L>
+      <L>#          #</L>
+      <L>############</L>
+    </Level>
+    <Level Id="Aruba IIII / Little Aruba R--2" Width="12" Height="12" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>############</L>
+      <L>#          #</L>
+      <L>#  $ $ $ $ #</L>
+      <L># $# $ ##  #</L>
+      <L>#   # $@#$$#</L>
+      <L>#  $   $$  #</L>
+      <L># $###$$.$ #</L>
+      <L># $........#</L>
+      <L># $..##..#*#</L>
+      <L># $***..# .#</L>
+      <L>#       ...#</L>
+      <L>############</L>
+    </Level>
+    <Level Id="Aruba IIII / Twin brothers R--1" Width="12" Height="10" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>############</L>
+      <L>#          #</L>
+      <L># $#* $#$* #</L>
+      <L>#  $. .$ . #</L>
+      <L># $#*$*#$* #</L>
+      <L>#  $. .  . #</L>
+      <L>#  #. .#.. #</L>
+      <L># # #*# #$ #</L>
+      <L>#         @#</L>
+      <L>############</L>
+    </Level>
+    <Level Id="Aruba IIII / Space Shuttle R--1" Width="18" Height="16" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>##################</L>
+      <L>#                #</L>
+      <L># $ $ $ $  # $# ##</L>
+      <L># ######$$##  #$ #</L>
+      <L>#          #$ #  #</L>
+      <L># ###$##.  #  #$ #</L>
+      <L># #   ..*.*   #  #</L>
+      <L># #$##..*..## #$ #</L>
+      <L># #   .***.#  $  #</L>
+      <L># #$$$.....#$$$$ #</L>
+      <L># $ $ .***.#  $  #</L>
+      <L>#   $ .....   #  #</L>
+      <L># ##$#.#... ###$ #</L>
+      <L>#    $.*.*.$     #</L>
+      <L># #  # #   # #@# #</L>
+      <L>##################</L>
+    </Level>
+    <Level Id="Aruba IIII / Candy too R--1" Width="15" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>#############</L>
+      <L>#     $  .#.##</L>
+      <L># ##$$#$ ... ##</L>
+      <L>#     # $#..  #</L>
+      <L># #$$    .#.* #</L>
+      <L># $  ###$  #$ #</L>
+      <L># $      ..*. #</L>
+      <L>#  # $#  #.#$ #</L>
+      <L># # $@#$$.#.$ #</L>
+      <L>#    $   ... ##</L>
+      <L>##############</L>
+    </Level>
+    <Level Id="Aruba IIII / Slippery road R--1" Width="15" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>###############</L>
+      <L>#             #</L>
+      <L># $# $..*  $$ #</L>
+      <L>#   #$. #*#   #</L>
+      <L># $$$ .# .@#$ #</L>
+      <L># #.... #.#   #</L>
+      <L># #.##    ..* #</L>
+      <L>#  ### # # #* #</L>
+      <L># $ $ $#$#$#. #</L>
+      <L>#        $  . #</L>
+      <L>###############</L>
+    </Level>
+    <Level Id="Aruba IIII / Follow the leader R--1" Width="15" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L> ##############</L>
+      <L> #.           #</L>
+      <L> #.*. $  $ $  #</L>
+      <L> #.#. #$$###$ #</L>
+      <L> #.#.*.  #@  ##</L>
+      <L> #.# #. $###  #</L>
+      <L>######...   $ #</L>
+      <L># $ $  #.$$#  #</L>
+      <L>#  $ $ #$. #$ #</L>
+      <L>##       .    #</L>
+      <L> ##############</L>
+    </Level>
+    <Level Id="Aruba IIII / Follow again R--1" Width="15" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>###############</L>
+      <L>#             #</L>
+      <L># ### $ $ #$###</L>
+      <L># #.#$#$#   #</L>
+      <L># #.# $ ###$##</L>
+      <L># .**.*.*..  #</L>
+      <L># #.# # $ #  #</L>
+      <L># #.# # # #$ #</L>
+      <L># #.*.$ $ #@##</L>
+      <L>#         ###</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Aruba IIII / Eyes are watching you R--1" Width="15" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>###############</L>
+      <L>#             #</L>
+      <L># ### $ ###$###</L>
+      <L># # # #$# # #</L>
+      <L># ### $ ### ##</L>
+      <L># $ $ $      #</L>
+      <L>#  * $ *  #$ #</L>
+      <L># #.#.#.# #  #</L>
+      <L># ....... $@##</L>
+      <L># $. * .$ ###</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Aruba IIII / Don't wake him R--1" Width="10" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>##########</L>
+      <L>#        #</L>
+      <L>## $ $ # #</L>
+      <L> # ###   #</L>
+      <L>##$#.$ $ #</L>
+      <L># $@ $ # #</L>
+      <L>#  $## $ #</L>
+      <L>###.##$  #</L>
+      <L>#...... ##</L>
+      <L>#  .  . #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Aruba IIII / San Nicolas R--1" Width="14" Height="13" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>############</L>
+      <L># @#       #</L>
+      <L># $# $##...###</L>
+      <L>#  #    #.**.#</L>
+      <L>## #$# $#    #</L>
+      <L>## $    #$ ###</L>
+      <L>#  $### #  $ #</L>
+      <L># $$     $   #</L>
+      <L>#  $ ## $  ###</L>
+      <L>## # #####.###</L>
+      <L># $  .....*..#</L>
+      <L>#    ##   .  #</L>
+      <L>##############</L>
+    </Level>
+    <Level Id="Aruba IIII / Tunnel of FIRE R--1" Width="20" Height="15" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>####################</L>
+      <L>#       .        $ #</L>
+      <L># $.*.*.*.*.*.*. # #</L>
+      <L># $.### . #$#$#$#. #</L>
+      <L># ##   ###........ #</L>
+      <L># # $   #.#$#$#$#$ #</L>
+      <L># #    $#.         #</L>
+      <L>#  #$$   .   $ $ $ #</L>
+      <L>###   # $..$ ## $  #</L>
+      <L>#@$ $$###$. #  # $ #</L>
+      <L># $   $ ...#  $ #  #</L>
+      <L>### $ ####. #  $ $##</L>
+      <L># $ # # $ .$ #     #</L>
+      <L>#     *....  #     #</L>
+      <L>####################</L>
+    </Level>
+    <Level Id="Aruba IIII / Coronel Boogie R--1" Width="20" Height="15" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>########## #########</L>
+      <L>#    #   ### # #   #</L>
+      <L># $$$#$# ##    # $ #</L>
+      <L>#    $   $   #$$ $ #</L>
+      <L>### ##   #$$     ###</L>
+      <L>#    ##$##   #  #..#</L>
+      <L># $       ###  #...#</L>
+      <L># $ # $$    #  #...#</L>
+      <L># $ ###  #$.## #...#</L>
+      <L># $ $ # ## . $ #...#</L>
+      <L># #      $ . $ #...#</L>
+      <L>###$##  ###....*...#</L>
+      <L># $  #$$ $ ###.$$ ##</L>
+      <L>#          @####...#</L>
+      <L>#############  #####</L>
+    </Level>
+    <Level Id="Aruba V / 8 to the right R--1" Width="15" Height="9" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>#######</L>
+      <L>#     #  #####</L>
+      <L># #$# # ##...##</L>
+      <L># $ $ ###. $ .#</L>
+      <L># $@$    . $$.#</L>
+      <L># $ $ ###. $ .#</L>
+      <L># #$# # ##...##</L>
+      <L>#     #  #####</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Aruba V / Do me 4 R--1" Width="15" Height="9" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>#######</L>
+      <L>#     #</L>
+      <L># $ $ # #######</L>
+      <L># #$# ###...  #</L>
+      <L># $@$    . **.#</L>
+      <L># #$# ###...  #</L>
+      <L># $ $ # #######</L>
+      <L>#     #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Aruba V / 4 more R--1" Width="14" Height="9" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>#######</L>
+      <L>#     #</L>
+      <L># $ $ # ######</L>
+      <L># #$# ###..  #</L>
+      <L># $@$   .... #</L>
+      <L># #$# ###..  #</L>
+      <L># $ $ # ######</L>
+      <L>#     #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Aruba V / Tunnel 5 2 R--1" Width="11" Height="9" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>#########</L>
+      <L>#       ##</L>
+      <L># $ #.$. ##</L>
+      <L>#  ## .$. #</L>
+      <L># $@ * *$ #</L>
+      <L>#  ## .$. #</L>
+      <L># $ #.$. ##</L>
+      <L>#       ##</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Aruba V / Tunnel 6 1 R--1" Width="11" Height="9" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>#########</L>
+      <L>#       ##</L>
+      <L># $ #.*$ ##</L>
+      <L>#  ## .$  #</L>
+      <L># $@ *... #</L>
+      <L>#  ## .$  #</L>
+      <L># $ #.*$ ##</L>
+      <L>#       ##</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Aruba V / Two eyes R--1" Width="13" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L> ##### #####</L>
+      <L>##...###...##</L>
+      <L>#. * .#. * .#</L>
+      <L>##   #@#   ##</L>
+      <L> ## #   # ##</L>
+      <L> ## $ $ $ ##</L>
+      <L> #  #$#$#  #</L>
+      <L> # $     $ #</L>
+      <L> #  $ $ $  #</L>
+      <L> ###     ###</L>
+      <L>   #######</L>
+    </Level>
+    <Level Id="Aruba V / Big mouth R--1" Width="13" Height="13" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>  #########</L>
+      <L>  #       #</L>
+      <L> ## #   # ##</L>
+      <L>##. .# #. .##</L>
+      <L>#.$$..#..$$.#</L>
+      <L>#. ..#@#.. .#</L>
+      <L>###.#   #.###</L>
+      <L> #  $ $ $  #</L>
+      <L> # $ $ $ $ #</L>
+      <L> #  $ $ $  #</L>
+      <L> # $ $ $ $ #</L>
+      <L> ###     ###</L>
+      <L>   #######</L>
+    </Level>
+    <Level Id="Aruba V / Little rose R--1" Width="13" Height="12" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>  #########</L>
+      <L>  #       #</L>
+      <L>### #   # ###</L>
+      <L>#    # #    #</L>
+      <L># $$$ $ $$$ #</L>
+      <L>#    #@#  $ #</L>
+      <L>### # $ # ###</L>
+      <L> #.. . . ..#</L>
+      <L> # $. . .$ #</L>
+      <L> # .$.$.$. #</L>
+      <L> # $. . .$ #</L>
+      <L> ###########</L>
+    </Level>
+    <Level Id="Aruba V / Little Joseph R--1" Width="8" Height="6" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L> ######</L>
+      <L>##   @##</L>
+      <L># *$$$ #</L>
+      <L># ...* #</L>
+      <L>#      #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Aruba VI / Sweet eighties R--1" Width="12" Height="12" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L> ##########</L>
+      <L>## .... # ##</L>
+      <L># $.##. # @#</L>
+      <L># ...*..# ##</L>
+      <L># $.##* # #</L>
+      <L># $.... $ #</L>
+      <L># $ $ $ $ #</L>
+      <L># $ $ $ $ #</L>
+      <L># $ $ $ $ #</L>
+      <L>#  ###### #</L>
+      <L># ##    ###</L>
+      <L>###</L>
+    </Level>
+    <Level Id="Aruba VI / Sweet Naomi R--1" Width="17" Height="10" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>  #############</L>
+      <L> ##           ##</L>
+      <L>##    $ $ $    ##</L>
+      <L>#  $ ####### $  #</L>
+      <L>#  ##   #   ##  #</L>
+      <L># $.$ $ # $ $.$ #</L>
+      <L>## #.........# ##</L>
+      <L> # @#########  #</L>
+      <L> ##           ##</L>
+      <L>  #############</L>
+    </Level>
+    <Level Id="Aruba VII / Brasil R--1" Width="11" Height="11" Copyright="Eric F Tchong, Jordi Doménech">
+      <L>   ######</L>
+      <L> ###    ###</L>
+      <L> #    $   #</L>
+      <L> #$# $### #</L>
+      <L> # $  $@# #</L>
+      <L> #  $ ### #</L>
+      <L>##.*# # # #</L>
+      <L>#...*$### #</L>
+      <L>##*.# $ $ #</L>
+      <L>#.  . ..###</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Aruba VII / Brasil R--2" Width="11" Height="11" Copyright="Eric F Tchong, Jordi Doménech">
+      <L> ########</L>
+      <L> #      ###</L>
+      <L> #$#  $   #</L>
+      <L> # # $### #</L>
+      <L> # $  $@# #</L>
+      <L> #  $ ### #</L>
+      <L>##.*# # # #</L>
+      <L>#...*$### #</L>
+      <L>##*.# $.$ #</L>
+      <L>#.  . . ###</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Atlas I / not so bad R--1" Width="17" Height="7" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>#####     ######</L>
+      <L>#   #######    #</L>
+      <L># #   ...## $$$##</L>
+      <L># ##$.*..   $@$ #</L>
+      <L># ## #...## $$$ #</L>
+      <L>#    ######     #</L>
+      <L>######    #######</L>
+    </Level>
+    <Level Id="Atlas I / Infra-Red spotlight R--1" Width="17" Height="22" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>#################</L>
+      <L>#               #</L>
+      <L># #  $ $ $ $ ## #</L>
+      <L># # $ $ $ $ $   #</L>
+      <L>#  $ $ $ $ $ $  #</L>
+      <L># $ $ $ @ $ $ $ #</L>
+      <L>#  $ $ $ $ $ $  #</L>
+      <L>### $ $ $ $ $ ###</L>
+      <L>  ## $ $ $ $  #</L>
+      <L>  ##.#.### ####</L>
+      <L> ##. . .$ $ #</L>
+      <L> #. . . .   #</L>
+      <L> ##.$.$.#####</L>
+      <L> #. . . .#</L>
+      <L> ##.....##</L>
+      <L> #. . . .#</L>
+      <L> ##. . .##</L>
+      <L> #. . . .#</L>
+      <L> ##.....##</L>
+      <L>  ##. .##</L>
+      <L>   ##.##</L>
+      <L>    ###</L>
+    </Level>
+    <Level Id="Atlas I / Infra-Red spotlight II R--1" Width="28" Height="17" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>           #################</L>
+      <L>  ######   #               #</L>
+      <L>  #    #   # #  $ $ $ $ ## #</L>
+      <L>  # ## ##  # # $ $ $ $ $   #</L>
+      <L>  #     ####  $ $ $ $ $ $  #</L>
+      <L>  #$#$#$ $ # $ $ $ @ $ $ $ #</L>
+      <L>  # #    # #  $ $ $ $ $ $  #</L>
+      <L> ##.#  # $ ### $ $ $ $ $ # #</L>
+      <L> #..####    ### $ $ $ $  # #</L>
+      <L> #.*....#$# ### # ##########</L>
+      <L> #......#         #</L>
+      <L> #......# # #######</L>
+      <L>##......#   #</L>
+      <L>#.$.....# ###</L>
+      <L>#. .....$ #</L>
+      <L>##......###</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Atlas I / Tricky ten R--1" Width="10" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>#######</L>
+      <L>#     ###</L>
+      <L># #$$$..#</L>
+      <L># $@ #..#</L>
+      <L># #$$#..#</L>
+      <L># $  #..#</L>
+      <L># #$ *..##</L>
+      <L># $  #   #</L>
+      <L># #$ ### #</L>
+      <L>#        #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Atlas I / Dream a little R--1" Width="14" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>######  #####</L>
+      <L>#    ####   #</L>
+      <L># $$$#..# $ #</L>
+      <L># #@ #... $ #</L>
+      <L># $$$#..# $ #</L>
+      <L>#    #..## ##</L>
+      <L># #$ ....# #</L>
+      <L># #  # $.# ###</L>
+      <L># #$ ##$$. $ #</L>
+      <L>#        #   #</L>
+      <L>##############</L>
+    </Level>
+    <Level Id="Atlas I / Drop an anchor R--1" Width="15" Height="18" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>     #####</L>
+      <L>     #   #</L>
+      <L>   ### # #</L>
+      <L>   #   # #</L>
+      <L>  ## ### #</L>
+      <L>  #  #   #</L>
+      <L>  #  $ $ #</L>
+      <L>###..## #######</L>
+      <L>#.....#       #</L>
+      <L>###...# #$ ## #</L>
+      <L># $...# #  #  #</L>
+      <L># $.#.# ### $ #</L>
+      <L>#  $ ## ## $  #</L>
+      <L>##  $ # #@$  ##</L>
+      <L> ##  $   $  ##</L>
+      <L>  ##  $$$  ##</L>
+      <L>   ##     ##</L>
+      <L>    #######</L>
+    </Level>
+    <Level Id="Atlas I / Take a lift R--1" Width="13" Height="14">
+      <L>       ####</L>
+      <L>    ####  ##</L>
+      <L>   ##   $ @#</L>
+      <L> ### $ $  ##</L>
+      <L> #     # $###</L>
+      <L>##$#$$ #  $ #</L>
+      <L>#  .$ $# $# #</L>
+      <L># ..#  #  $ #</L>
+      <L>#..#. $#$   #</L>
+      <L>#....  # $$ #</L>
+      <L>#..## $#$   #</L>
+      <L>#..#.    $ ##</L>
+      <L>#....#######</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Atlas I / Crossfire R--1" Width="13" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>    #########</L>
+      <L>    #       #</L>
+      <L> ####$ * *  #</L>
+      <L> #@ * * * * #</L>
+      <L>## * * * *  #</L>
+      <L># * * * *  ##</L>
+      <L>#  * * * # #</L>
+      <L># * * *  # #</L>
+      <L>#  * * #.  #</L>
+      <L># * * #  ###</L>
+      <L>#  * * * #</L>
+      <L>#        #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Atlas I / Crossfire R--2" Width="13" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>    #########</L>
+      <L>    #       #</L>
+      <L> ####$ *$## #</L>
+      <L> #@ * * *.# #</L>
+      <L>## * * * #  #</L>
+      <L># * * * *# ##</L>
+      <L>#  * * * # #</L>
+      <L># * * * .# #</L>
+      <L>#  * * #   #</L>
+      <L># * * # .###</L>
+      <L>#  *$* * #</L>
+      <L>#        #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Atlas I / Crossfire R--3" Width="13" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>    #########</L>
+      <L>    #       #</L>
+      <L> ####$ *$## #</L>
+      <L> #@ * * *.# #</L>
+      <L>## * * * #  #</L>
+      <L># * * *.*# ##</L>
+      <L>#  * * * # #</L>
+      <L># * * *  # #</L>
+      <L>#  * * #   #</L>
+      <L># * * # .###</L>
+      <L>#  *$* * #</L>
+      <L>#        #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Atlas I / Crossfire R--4" Width="13" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>    #########</L>
+      <L>    #       #</L>
+      <L> ####$ *$## #</L>
+      <L> #@ * * *.# #</L>
+      <L>## * * * #  #</L>
+      <L># *.* * *# ##</L>
+      <L>#  * * * # #</L>
+      <L># * * *  # #</L>
+      <L>#  * * #   #</L>
+      <L># * * # .###</L>
+      <L>#  *$* * #</L>
+      <L>#        #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Atlas I / Crossfire R--5" Width="13" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>    #########</L>
+      <L>    #       #</L>
+      <L> ####$ *$## #</L>
+      <L> #@ * * *.# #</L>
+      <L>## * * * #  #</L>
+      <L># * * * *# ##</L>
+      <L>#  * * * # #</L>
+      <L># * * *  # #</L>
+      <L>#  * * #   #</L>
+      <L># * * # .###</L>
+      <L>#  *$*.* #</L>
+      <L>#        #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Atlas I / Giraffe R--1" Width="13" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>    #########</L>
+      <L>    #       #</L>
+      <L> ####.*.$$$ #</L>
+      <L> #@ $.*.$   #</L>
+      <L>##$$$.*.$#  #</L>
+      <L># $.....$  ##</L>
+      <L># $..$$$*# #</L>
+      <L># $*.$  .# #</L>
+      <L># $..$ #.  #</L>
+      <L># $..$#..###</L>
+      <L># $$$*.. #</L>
+      <L>#        #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Atlas I / Have fun R--1" Width="19" Height="9" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>########## #######</L>
+      <L>#        ###  #  ##</L>
+      <L># $ $ $ $## . . . #</L>
+      <L>#  $ $ $ # . . .  #</L>
+      <L># $ $ $ $ ... ...@#</L>
+      <L>#  $ $ $ # . . .  #</L>
+      <L># $ $ $ $## . . . #</L>
+      <L>#        ###  #  ##</L>
+      <L>########## #######</L>
+    </Level>
+    <Level Id="Atlas I / Fun play R--1" Width="11" Height="11" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>###########</L>
+      <L>#    @    #</L>
+      <L># $ $ $ $ #</L>
+      <L>###$ $ $###</L>
+      <L>  # $ $ #</L>
+      <L>  #  $  #</L>
+      <L>  ## . ##</L>
+      <L>  # . . #</L>
+      <L> ##. . .##</L>
+      <L> #. .#. .#</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="Atlas I / Memories R--1" Width="15" Height="10" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>############</L>
+      <L>#          #</L>
+      <L># #$#$#$##$###</L>
+      <L>#            #</L>
+      <L>## $$@$ $ $ $#</L>
+      <L> #  # ######.##</L>
+      <L> # ## $    ...#</L>
+      <L> #    #   ....#</L>
+      <L> ######### ...#</L>
+      <L>         ######</L>
+    </Level>
+    <Level Id="Atlas I / Lonely Ranger R--1" Width="19" Height="17" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>      #####</L>
+      <L> ######   #####</L>
+      <L> #@##.  #     ####</L>
+      <L> #$###     #     #</L>
+      <L>##  #  ##### ##  #</L>
+      <L>#     ## #      ###</L>
+      <L># ### #  #  ###   #</L>
+      <L># # # #####     # #</L>
+      <L># # # #   #  # #  #</L>
+      <L># ### # #  ###   ##</L>
+      <L># ##  #      #  ###</L>
+      <L># ##    #    ##   #</L>
+      <L># ## #### ## ##   #</L>
+      <L>#         ## ### ##</L>
+      <L>######### #      #</L>
+      <L>        #    ##  #</L>
+      <L>        ##########</L>
+    </Level>
+    <Level Id="Atlas I / Seroe Yamanota R--1" Width="16" Height="18" Copyright="Eric F Tchong, Marek Letrab">
+      <L>#####</L>
+      <L>#   #####</L>
+      <L># $ $ $ ########</L>
+      <L># $$#          #</L>
+      <L>#    $#$  $##$ #</L>
+      <L>####  # $  ##  #</L>
+      <L>#  # $  ##  ## #</L>
+      <L># $# # ##  $ # #</L>
+      <L>#..$    # $ $  #</L>
+      <L>#..$#$#$#  $$$ #</L>
+      <L>#.#.# #  #  $  #</L>
+      <L>#..* .#$ ## $ ##</L>
+      <L>##.#*.   ## #  #</L>
+      <L>##.*...##   ## #</L>
+      <L>#..*..#@  $ ## #</L>
+      <L>###...###  $ $ #</L>
+      <L>  #......##    #</L>
+      <L>  ##############</L>
+    </Level>
+    <Level Id="Atlas I / Arubian rattlesnake R--1" Width="24" Height="16" Copyright="Eric F Tchong, Marek Letrab">
+      <L>      ##################</L>
+      <L>      #                #</L>
+      <L>      # * * ********** #</L>
+      <L>####### *****        * #</L>
+      <L>#       *     ###### * #</L>
+      <L># ****  * #####    # * #</L>
+      <L># *  **** #        # * #</L>
+      <L># * *     #        # * #</L>
+      <L># *  ######        # * #</L>
+      <L># ** #             # * #</L>
+      <L>#  * #             # * #</L>
+      <L>## * #             #@* #</L>
+      <L> # * #             # . #</L>
+      <L> # $ #             #   #</L>
+      <L> #  ##             #####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Atlas I / Arubian rattlesnake R--4" Width="24" Height="16" Copyright="Eric F Tchong, Zhenying, unknown">
+      <L>          ##############</L>
+      <L>      #####            #</L>
+      <L>      #     ********** #</L>
+      <L>####### *****        * #</L>
+      <L>#     # *     ###### * #</L>
+      <L># ***   * #####    # * #</L>
+      <L># * ***** # *    * # * #</L>
+      <L># *       #  ****  # * #</L>
+      <L># *  ###### *    * # * #</L>
+      <L># ** #   $.@* *  * # * #</L>
+      <L>#  * #   ########  # * #</L>
+      <L>## * #####      ##   * #</L>
+      <L> # *       ****   ## * #</L>
+      <L> # *********  ***$ # . #</L>
+      <L> #                 #   #</L>
+      <L> #######################</L>
+    </Level>
+    <Level Id="Atlas I / Arubian rattlesnake R--6" Width="24" Height="16" Copyright="Eric F Tchong, Zhenying">
+      <L>      ##################</L>
+      <L>      #                #</L>
+      <L>      # *  * ********* #</L>
+      <L>####### *****        * #</L>
+      <L>#       *     ###### * #</L>
+      <L># ****  * #####    # * #</L>
+      <L># *  **** #     ** # * #</L>
+      <L># *       # *****  # * #</L>
+      <L># *  ###### *   ** # * #</L>
+      <L># ** #      * #  * # * #</L>
+      <L>#  * # $***** # ** @ * #</L>
+      <L>## * #        #    # * #</L>
+      <L> # * ############### * #</L>
+      <L> # $ #             # . #</L>
+      <L> #  ##             # . #</L>
+      <L> ####              #####</L>
+    </Level>
+    <Level Id="Atlas I / Arubian rattlesnake R--7" Width="24" Height="16" Copyright="Eric F Tchong, Zhenying">
+      <L>      ##################</L>
+      <L>      #                #</L>
+      <L>      # *  * ********* #</L>
+      <L>####### *****        * #</L>
+      <L>#       *     ###### * #</L>
+      <L># ****  * #####    # * #</L>
+      <L># *  **** #     ** # * #</L>
+      <L># **      # *****  # * #</L>
+      <L># *  ###### *   ** # * #</L>
+      <L># ** #      * #  * # * #</L>
+      <L>#  * # $***** # ** @ * #</L>
+      <L>## * #        #    # * #</L>
+      <L> # * ############### * #</L>
+      <L> # $ #             # . #</L>
+      <L> #  ##             # . #</L>
+      <L> ####              #####</L>
+    </Level>
+    <Level Id="Atlas VI / big band R--1" Width="17" Height="25" Copyright="Eric F Tchong, Reijerschoon">
+      <L>##########</L>
+      <L>#        #</L>
+      <L># ##### ########</L>
+      <L>#     #  ##    ##</L>
+      <L># $$$$#  .......#</L>
+      <L>#     ## #......#</L>
+      <L># $ $ ## #......#</L>
+      <L>##### ## ###....#</L>
+      <L>#   #  # $ #*...#</L>
+      <L>#      #   ######</L>
+      <L>## #####$ $#</L>
+      <L>## # #     #</L>
+      <L>#    #$$ $$##</L>
+      <L># $  #      #####</L>
+      <L>#### #$ $ $     #</L>
+      <L>  ## $ ## ####$ #</L>
+      <L>  #     # ## $  #</L>
+      <L>  # $ $ #@##   ##</L>
+      <L>  #####    ## ##</L>
+      <L>     # $##  # #</L>
+      <L>     #     $# #</L>
+      <L>     ###### $ #</L>
+      <L>         # $  #</L>
+      <L>         #   ##</L>
+      <L>         #####</L>
+    </Level>
+    <Level Id="Atlas VIIII / dark caves R--2" Width="16" Height="17" Copyright="Eric F Tchong, Zhenying, unknown">
+      <L>        ####</L>
+      <L>   ######  ####</L>
+      <L>   #     $    #</L>
+      <L> ### #### ## $##</L>
+      <L> #  $# $  ## $ #</L>
+      <L> #$   $ $  #   #</L>
+      <L> # $$# $   ##  #</L>
+      <L>##   #   # ##  #</L>
+      <L># $# $ $## .# ##</L>
+      <L>#     $@#.$.# ##</L>
+      <L>##$##..*#* .#  #</L>
+      <L>## ..*..*.###$ #</L>
+      <L># $..#### ##  ##</L>
+      <L>#  ..   ..#  ##</L>
+      <L>###.######  ##</L>
+      <L>  #.       ##</L>
+      <L>  ##########</L>
+    </Level>
+    <Level Id="Atlas X / betsy R--3" Width="9" Height="10" Copyright="Eric F Tchong, Jordi Doménech">
+      <L>     ####</L>
+      <L>  ####  #</L>
+      <L>###     #</L>
+      <L>#  *** .#</L>
+      <L>#  * * ##</L>
+      <L>###*@* #</L>
+      <L>#   $* #</L>
+      <L>#   #  #</L>
+      <L>##     #</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Atlas X / turn around R--1" Width="20" Height="13" Copyright="Eric F Tchong, David Holland">
+      <L>    #####</L>
+      <L>    #   #</L>
+      <L>    # # ######</L>
+      <L>    #      $ ######</L>
+      <L>    ### ####      #</L>
+      <L>     #  $ * .####.#</L>
+      <L>     #$$#....#  $ #</L>
+      <L>######  #..$*#$ #.#</L>
+      <L>#   #  $#.*..$ @#.#</L>
+      <L># $$$   # # #####.##</L>
+      <L>#     # # $ $      #</L>
+      <L>#####   #     ##   #</L>
+      <L>    ################</L>
+    </Level>
+    <Level Id="Atlas X / turn around R--2" Width="16" Height="12" Copyright="Eric F Tchong, David Holland, Jordi Doménech">
+      <L> #####</L>
+      <L> #   #####</L>
+      <L> #     $ ######</L>
+      <L> ## ####.     #</L>
+      <L> #  $ $  ####.#</L>
+      <L> #$$#... #  $ #</L>
+      <L> #  #..*$#$ #.#</L>
+      <L>## $#.*. $ @#.#</L>
+      <L>#   # # #####.##</L>
+      <L># # # $ $      #</L>
+      <L>#   #     ##   #</L>
+      <L>################</L>
+    </Level>
+    <Level Id="Atlas X / turn around R--3" Width="16" Height="12" Copyright="Eric F Tchong, David Holland, Jordi Doménech">
+      <L> #####</L>
+      <L> #   #####</L>
+      <L> #     $ ######</L>
+      <L> ## ####.     #</L>
+      <L> #  $ $  ####.#</L>
+      <L> # ##... #  $ #</L>
+      <L> #  $..$$#$ #.#</L>
+      <L>##$$#.*. $ @#.#</L>
+      <L>#   #.# #####.##</L>
+      <L># # # $ $      #</L>
+      <L>#   #     ##   #</L>
+      <L>################</L>
+    </Level>
+    <Level Id="Atlas X / turn around R--5" Width="16" Height="12" Copyright="Eric F Tchong, David Holland, Jordi Doménech">
+      <L> #####</L>
+      <L> #   #####</L>
+      <L> #     $ ######</L>
+      <L> ##.####.     #</L>
+      <L> #  $ $  ####*#</L>
+      <L> # ##... #  $ #</L>
+      <L> #  $..*$#$ #.#</L>
+      <L>##$$#.*. $ @#.#</L>
+      <L>#   # # #####.##</L>
+      <L># # # $ $      #</L>
+      <L>#   #     ##   #</L>
+      <L>################</L>
+    </Level>
+    <Level Id="Atlas X / turn around R--6" Width="16" Height="12" Copyright="Eric F Tchong, David Holland, Jordi Doménech">
+      <L> #####</L>
+      <L> #   #####</L>
+      <L> #     $ ######</L>
+      <L> ## ####.     #</L>
+      <L> #  $ $ .####*#</L>
+      <L> # ##... #  $ #</L>
+      <L> #  $..*$#$ #.#</L>
+      <L>##$$#.*. $ @#.#</L>
+      <L>#   # # #####.##</L>
+      <L># # # $ $      #</L>
+      <L>#   #     ##   #</L>
+      <L>################</L>
+    </Level>
+    <Level Id="Atlas X / turn around R--7" Width="16" Height="12" Copyright="Eric F Tchong, Jordi Doménech, David Holland">
+      <L> #####</L>
+      <L> #   #####</L>
+      <L> #     $ ######</L>
+      <L> ## ####    $ #</L>
+      <L> #  $.*. ####.#</L>
+      <L> # ##... #    #</L>
+      <L> #  * .*$#$ #*#</L>
+      <L>##$$# *. $ @#.#</L>
+      <L>#   # # #####.##</L>
+      <L># # # $ $      #</L>
+      <L>#   #     ##   #</L>
+      <L>################</L>
+    </Level>
+    <Level Id="Chuchubi II / easy 2 R--3" Width="12" Height="11" Copyright="Eric F Tchong, York Shen">
+      <L>###########</L>
+      <L>#         #</L>
+      <L># $****** #</L>
+      <L># *     * #</L>
+      <L># * ### * #</L>
+      <L># * # # * #</L>
+      <L># * # # * #</L>
+      <L># * # # * ##</L>
+      <L># * ### * .#</L>
+      <L># *@*     ##</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Chuchubi II / easy 2 R--5" Width="11" Height="11" Copyright="Eric F Tchong, Zhenying, Jordi Doménech">
+      <L>###########</L>
+      <L>#        @#</L>
+      <L># *******##</L>
+      <L># *     * #</L>
+      <L># * ### * #</L>
+      <L># * $ # * #</L>
+      <L># * # # * #</L>
+      <L># * #.  * #</L>
+      <L># *  # #  #</L>
+      <L># *       #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Chuchubi II / salty cracker R--1" Width="7" Height="17" Copyright="Eric F Tchong, York Shen">
+      <L> #####</L>
+      <L>##   ##</L>
+      <L># $.$ #</L>
+      <L># *.. #</L>
+      <L># $.$##</L>
+      <L>#  .  #</L>
+      <L>##$.$##</L>
+      <L> # . #</L>
+      <L>##$.$##</L>
+      <L>#  *  #</L>
+      <L># $.$ #</L>
+      <L>#  .  #</L>
+      <L>##$.$##</L>
+      <L># .*. #</L>
+      <L># $.$ #</L>
+      <L>## @ ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Chuchubi II / rattlesnake R--1" Width="19" Height="14" Copyright="Eric F Tchong, York Shen">
+      <L> ############</L>
+      <L> #@         #</L>
+      <L> #  ### ### #######</L>
+      <L>## ##  *  #       #</L>
+      <L>#  #  * * #   **. #</L>
+      <L># ##$ * * ### *  ##</L>
+      <L># #  ** *.  # * ##</L>
+      <L># # **   ** $ * #</L>
+      <L># #    #  ** * ###</L>
+      <L># #######  *** # #</L>
+      <L>#       ##     # #</L>
+      <L>#######  ####### #</L>
+      <L>      ##         #</L>
+      <L>       ###########</L>
+    </Level>
+    <Level Id="Chuchubi II / rattlesnake R--2" Width="17" Height="12" Copyright="Eric F Tchong, York Shen">
+      <L>############</L>
+      <L>#@         #</L>
+      <L>###### ### ######</L>
+      <L>  ##  *  #      #</L>
+      <L>  #  # # #   **.#</L>
+      <L> ##$ * # ### *  #</L>
+      <L> #  ** *.  # * ##</L>
+      <L> # ##   ** $ * #</L>
+      <L> #    #  ** * ##</L>
+      <L> #######  #*# #</L>
+      <L>       ##     #</L>
+      <L>        #######</L>
+    </Level>
+    <Level Id="Chuchubi II / piranha's R--1" Width="22" Height="15" Copyright="Eric F Tchong, York Shen">
+      <L>       ###############</L>
+      <L>######## . . . . . . #</L>
+      <L>#   * . .$.$.$.$.$.  #</L>
+      <L># $. .$.$.$.$.$.$.$. #</L>
+      <L>#  $.$.$.$.$.$.$.$.$ #</L>
+      <L>###@$.$.$.$.$.$.$.$* #</L>
+      <L>  ## $.$.$.$.$.$.$*  #</L>
+      <L>   ## $.$.$.$.$.$*  ##</L>
+      <L>    ## $.$.$.$.$*  ##</L>
+      <L>     ## $.$.$.$*  ##</L>
+      <L>      ## $.$.$*  ##</L>
+      <L>       ## $.$*  ##</L>
+      <L>        ## $*  ##</L>
+      <L>         ##   ##</L>
+      <L>          #####</L>
+    </Level>
+    <Level Id="Chuchubi III / crown variation R--1" Width="19" Height="13" Copyright="Eric F Tchong, Zhenying">
+      <L>     #########</L>
+      <L>    ##   #   ##</L>
+      <L>   ##  * $ *  ##</L>
+      <L>  ##  * *@* *  ##</L>
+      <L> ##  * $*$*$ *  ##</L>
+      <L>##  * $ * * $ *  ##</L>
+      <L>#  * $ $ # $ $ *  #</L>
+      <L># * $ $  #  $ $ * #</L>
+      <L>#  $ *  .#.  * $  #</L>
+      <L>##  *##..#..##*  ##</L>
+      <L> ##  #..*#*..#  ##</L>
+      <L>  ####...#...####</L>
+      <L>     #########</L>
+    </Level>
+    <Level Id="Chuchubi III / crown variation R--3" Width="19" Height="13" Copyright="Eric F Tchong, minglw">
+      <L>     #########</L>
+      <L>    ##   #   ##</L>
+      <L>   ##  * $ *  ##</L>
+      <L>  ##  * *@* *  ##</L>
+      <L> ##  * $*$*$ *  ##</L>
+      <L>##  * # $ $ # *  ##</L>
+      <L>#  * $ $ # $ $ *  #</L>
+      <L># * $ $  #  $ $ * #</L>
+      <L>#  $ *  .#.  * $  #</L>
+      <L>##  *##..#..##*  ##</L>
+      <L> ##  #..*#*..#  ##</L>
+      <L>  ####...#...####</L>
+      <L>     #########</L>
+    </Level>
+    <Level Id="Chuchubi V / puzzle 4 R--1" Width="28" Height="11" Copyright="Eric F Tchong, unknown">
+      <L>      ####### ###########</L>
+      <L> ###### ##  ### ##  ##  ##</L>
+      <L>##       #...... ##  #   ##</L>
+      <L>#         .               ##</L>
+      <L># *       * *       *  $   #</L>
+      <L>#  *     *  * ***** *  $   #</L>
+      <L>#   *   *   *       *  $   #</L>
+      <L>#    * *    * ***** *  $   #</L>
+      <L># $   *     *       *  $ $@#</L>
+      <L>##                        ##</L>
+      <L> ##########################</L>
+    </Level>
+    <Level Id="Chuchubi V / puzzle 5 R--1" Width="32" Height="18" Copyright="Eric F Tchong, unknown">
+      <L>      ####### ###########</L>
+      <L> ###### ##  ### ##  ##  ##</L>
+      <L>##       #       ##  #   ##</L>
+      <L># *   * *   * * *         ##</L>
+      <L>#  * *   * *  * *          ####</L>
+      <L>#   *     *   * *      ...... #</L>
+      <L>#  * *   * *  * *             #</L>
+      <L># *   * *   * * *       *  *  #</L>
+      <L>#                 ***** *  *  #</L>
+      <L># ***************       *  *  #</L>
+      <L>#                 ***** *  *  ##</L>
+      <L># *       * * * $       *  *   #</L>
+      <L>#  *     *  * * $ ##########   #</L>
+      <L>#   *   *   * * $          # $@#</L>
+      <L>#    * *    * * $ ########   ###</L>
+      <L>#     *     * * $ #      #####</L>
+      <L>##                #</L>
+      <L> ##################</L>
+    </Level>
+    <Level Id="Chuchubi V / acqua R--12" Width="17" Height="14" Copyright="Eric F Tchong, Findus, Zhenying">
+      <L>#################</L>
+      <L>#               #</L>
+      <L># # * * * * #$###</L>
+      <L>#  * * * * * ...#</L>
+      <L># # * * * * # ###</L>
+      <L>#  * * # * # *  #</L>
+      <L># # * * * # * # #</L>
+      <L>#  * * *@* * *  #</L>
+      <L># # * * # * * # #</L>
+      <L>#  * * # * # *  #</L>
+      <L># # * # * * * # #</L>
+      <L># #$ # * * * $# #</L>
+      <L>#               #</L>
+      <L>#################</L>
+    </Level>
+    <Level Id="Chuchubi V / playfull R--1" Width="17" Height="13" Copyright="Eric F Tchong, Jordi Doménech">
+      <L>   ##########</L>
+      <L> ###  #     #</L>
+      <L> #   $#$#$# ####</L>
+      <L> #$#  # #      #</L>
+      <L> # # $# # #### #</L>
+      <L> # # ...# .. # #</L>
+      <L>## # *...... # #</L>
+      <L>#  ########.## #</L>
+      <L># $  $ $    .# #</L>
+      <L>#  #   ####$##$##</L>
+      <L>## ###$#@ $ $   #</L>
+      <L> #              #</L>
+      <L> ################</L>
+    </Level>
+    <Level Id="Chuchubi VIIII / square market R--2" Width="17" Height="17" Copyright="Eric F Tchong, Jordi Doménech">
+      <L>#################</L>
+      <L>#   #       #   #</L>
+      <L># $   $ $ $ # $ #</L>
+      <L>#   #   #   #   #</L>
+      <L>## ########### ##</L>
+      <L>#   #...#..     #</L>
+      <L># $ #.*.*.*.#$$ #</L>
+      <L># $   .*..*.#   #</L>
+      <L>##$###*.#..###$##</L>
+      <L>#   #...**.     #</L>
+      <L># $$#$$.#.* #$$ #</L>
+      <L>#       #   #   #</L>
+      <L>## ###@####### ##</L>
+      <L>#   #   #   #   #</L>
+      <L># $ # $ $ $   $ #</L>
+      <L>#   #   #   #   #</L>
+      <L>#################</L>
+    </Level>
+    <Level Id="Chuchubi VIIII / crap 11 R--2" Width="9" Height="11" Copyright="Eric F Tchong, Jordi Doménech">
+      <L>  #######</L>
+      <L>  #     #</L>
+      <L>###$$$# #</L>
+      <L># $...  #</L>
+      <L># $*### #</L>
+      <L>#+$...# #</L>
+      <L># $.### #</L>
+      <L># $...  #</L>
+      <L>###$$$# #</L>
+      <L>  #     #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Chuchubi VIIII / crap 11 R--3" Width="9" Height="11" Copyright="Eric F Tchong, Jordi Doménech">
+      <L>  #######</L>
+      <L>  #     #</L>
+      <L>###$$$# #</L>
+      <L># $...  #</L>
+      <L>#.$.### #</L>
+      <L>#@$ *.# #</L>
+      <L>#.$.### #</L>
+      <L># $...  #</L>
+      <L>###$$$# #</L>
+      <L>  #     #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Chuchubi X / lawn pac R--1" Width="17" Height="19" Copyright="Eric F Tchong, Jordi Doménech">
+      <L>        #########</L>
+      <L>      ###...... #</L>
+      <L> ###### ..####. #</L>
+      <L> #    # .....#.##</L>
+      <L> # $$$##.###.#.#</L>
+      <L> # $ $  .......#</L>
+      <L> # $ $ # $ #.#$##</L>
+      <L> # $ $ $ ###.#  #</L>
+      <L> # $ $ ##....## #</L>
+      <L>## $ $ #..$#.   #</L>
+      <L>#  $ $ #.. * $###</L>
+      <L># $$ $ ##.....#</L>
+      <L># $  $ ###### #</L>
+      <L># $ $$ #      #</L>
+      <L># $ @$  $$$$$ #</L>
+      <L># $$$$ #    $ #</L>
+      <L>#      #### $ #</L>
+      <L>########  #   #</L>
+      <L>          #####</L>
+    </Level>
+    <Level Id="Chuchubi X / tour de france R--1" Width="25" Height="17" Copyright="Eric F Tchong, Jordi Doménech, stopheart">
+      <L>  ###################</L>
+      <L> ##                 ##</L>
+      <L>##  ***########****  ##</L>
+      <L>#  ** $ ######    #*  ##</L>
+      <L># **  #        ##   *  #</L>
+      <L># *   # *###**$## *  * ##</L>
+      <L># # #.**      $ # *  *  #</L>
+      <L># #  *   ####   #$ ** * #</L>
+      <L># #  * ###  #####+*   * #</L>
+      <L># ** #  ##      ##*  *  #</L>
+      <L>#  * *   #########  ## ##</L>
+      <L>## # ***          ***. #</L>
+      <L> # ##   *#*#**#***    ##</L>
+      <L> #  #**          ######</L>
+      <L> ##   #*##********.#</L>
+      <L>  ##               #</L>
+      <L>   #################</L>
+    </Level>
+    <Level Id="Chuchubi X / tour de france R--2" Width="25" Height="17" Copyright="Eric F Tchong, Jordi Doménech, stopheart">
+      <L>  ###################</L>
+      <L> ##                 ##</L>
+      <L>##  ***########***$  ##</L>
+      <L>#  ** $ ######    #*  ##</L>
+      <L># **  #        ##   *  #</L>
+      <L># *   # *##$$**##.*  * ##</L>
+      <L># # #.**       ## *  *  #</L>
+      <L># #  *   ####  ##* ** * #</L>
+      <L># #  * ###  #####@*   * #</L>
+      <L># ** #  ##      ##*  *  #</L>
+      <L>#  * *   #########  ## ##</L>
+      <L>## # ***          ***. #</L>
+      <L> # ##   *#*#**#***    ##</L>
+      <L> #  #**          ######</L>
+      <L> ##   #*##********.#</L>
+      <L>  ###              #</L>
+      <L>    ################</L>
+    </Level>
+    <Level Id="Chuchubi X / tour de france R--3" Width="25" Height="17" Copyright="Eric F Tchong, Jordi Doménech, stopheart">
+      <L>  ###################</L>
+      <L> ##                 ##</L>
+      <L>##  ***########***$  ##</L>
+      <L>#  ** $ ######    #*  ##</L>
+      <L># **  #        ##   *  #</L>
+      <L># *   # *##$$**##.*  * ##</L>
+      <L># # #.**       ## *  *  #</L>
+      <L># #  *  #####  ##* ** * #</L>
+      <L># #  * ##   #####@*   * #</L>
+      <L># ** # ###      ##*  *  #</L>
+      <L>#  * *   #########  ## ##</L>
+      <L>## # ***          ***. #</L>
+      <L> # ##   *#*#**#***    ##</L>
+      <L> #  #**          ######</L>
+      <L> ##   #*##********.#</L>
+      <L>  ###              #</L>
+      <L>    ################</L>
+    </Level>
+    <Level Id="Chuchubi X / tour de france R--4" Width="25" Height="17" Copyright="Eric F Tchong, Jordi Doménech, stopheart, anian">
+      <L>  ###################</L>
+      <L> ##                 ##</L>
+      <L>##  ***########***$  ##</L>
+      <L>#  ** $ ######    #*  ##</L>
+      <L># **  #        ##   *  #</L>
+      <L># *   # *##$$**##.*  * ##</L>
+      <L># # #.**       ## *  *  #</L>
+      <L># #  *  #####  ##* ** * #</L>
+      <L># #  * ##   #####@*   * #</L>
+      <L># ## # ###      ##*  *  #</L>
+      <L>#  # *   #########  ## ##</L>
+      <L>## # ***          ***. #</L>
+      <L> # ##   *#*#**#***    ##</L>
+      <L> #  ###          ######</L>
+      <L> ##   ####********.#</L>
+      <L>  ###              #</L>
+      <L>    ################</L>
+    </Level>
+    <Level Id="Chuchubi X / tour de france R--5" Width="25" Height="17" Copyright="Eric F Tchong, Jordi Doménech, stopheart, anian">
+      <L>  ###################</L>
+      <L> ##                 ##</L>
+      <L>##  #*#########***$  ##</L>
+      <L>#  ## $ ######    #*  ##</L>
+      <L># ##  #        ## . *  #</L>
+      <L># *   # *##$$**## *  * ##</L>
+      <L># # #.**       ## *. *  #</L>
+      <L># #  *  #####  ##$ ** * #</L>
+      <L># #  * ##   #####@*   * #</L>
+      <L># ## # ###      ##*  $. #</L>
+      <L>#  # *   #########  ## ##</L>
+      <L>## # ***          ***. #</L>
+      <L> # ##   *######***    ##</L>
+      <L> #  ###          ######</L>
+      <L> ##   #########***.#</L>
+      <L>  ###              #</L>
+      <L>    ################</L>
+    </Level>
+    <Level Id="Chuchubi X / tour de france R--6" Width="25" Height="17" Copyright="Eric F Tchong, Jordi Doménech, stopheart, anian">
+      <L>  ###################</L>
+      <L> ##                 ##</L>
+      <L>##  #*#########***$  ##</L>
+      <L>#  ## $ ######    #*  ##</L>
+      <L># ##  #        ## . *  #</L>
+      <L># #   # *##$$**## *  * ##</L>
+      <L># # #.**       ## *. *  #</L>
+      <L># #  *  #####  ##$ ** * #</L>
+      <L># #  * ##   #####@*   # #</L>
+      <L># ## # ###      ##*  $. #</L>
+      <L>#  # *   #########  ## ##</L>
+      <L>## # ***          ***. #</L>
+      <L> # ##   *######***    ##</L>
+      <L> #  ###          ######</L>
+      <L> ##   #########***.#</L>
+      <L>  ###              #</L>
+      <L>    ################</L>
+    </Level>
+    <Level Id="Chuchubi X / tour de france R--7" Width="25" Height="17" Copyright="Eric F Tchong, Jordi Doménech, stopheart, anian">
+      <L>  ###################</L>
+      <L> ##                 ##</L>
+      <L>##  #*#########***$  ##</L>
+      <L>#  ## $ ######    #*  ##</L>
+      <L># ### #        ## . *  #</L>
+      <L># #   # *##$$**## *  * ##</L>
+      <L># # #.**       ## *. *  #</L>
+      <L># #  *  #####  ##$ ** * #</L>
+      <L># #  * ##   #####@*   # #</L>
+      <L># ## # ###      ##*  $. #</L>
+      <L>#  # *   #########  ## ##</L>
+      <L>## # ***          ***. #</L>
+      <L> # ##   *######***    ##</L>
+      <L> #  ###          ######</L>
+      <L> ##   #########***.#</L>
+      <L>  ###              #</L>
+      <L>    ################</L>
+    </Level>
+    <Level Id="Chuchubi X / tour de france R--8" Width="25" Height="17" Copyright="Eric F Tchong, Jordi Doménech, stopheart, anian">
+      <L>  ###################</L>
+      <L> ##                 ##</L>
+      <L>##  #*##########**$  ##</L>
+      <L>#  ## $   ####    #*  ##</L>
+      <L># ##  # #      ## . *  #</L>
+      <L># #   # ###$$**## *  * ##</L>
+      <L># # #.**..     ## *. *  #</L>
+      <L># #  * .##$######$ ** * #</L>
+      <L># #  * ##   $ $ #@*   # #</L>
+      <L># ## # ## $     ##$  *  #</L>
+      <L>#  # *   ##### ###  ## ##</L>
+      <L>## # ***.         ***. #</L>
+      <L> # ##   *######*** .  ##</L>
+      <L> #  ###          ######</L>
+      <L> ##   #########***.#</L>
+      <L>  ###              #</L>
+      <L>    ################</L>
+    </Level>
+    <Level Id="Chuchubi X / tour de france R--9" Width="25" Height="17" Copyright="Eric F Tchong, Jordi Doménech, stopheart, anian">
+      <L>  ###################</L>
+      <L> ##                 ##</L>
+      <L>##  #*##########**$  ##</L>
+      <L>#  ## $   ####    #*  ##</L>
+      <L># ##  # #      ## . *  #</L>
+      <L># #   # ###$$**## *  * ##</L>
+      <L># # #.**..     ## *  *  #</L>
+      <L># #  *  ##$######$.** * #</L>
+      <L># #  * ##   $ $ #@*   # #</L>
+      <L># ## # ## $     ##*  *  #</L>
+      <L>#  # *   ##### ###  ## ##</L>
+      <L>## # ***.         ***. #</L>
+      <L> # ##   *######*** .  ##</L>
+      <L> #  ###          ######</L>
+      <L> ##   #########***.#</L>
+      <L>  ###              #</L>
+      <L>    ################</L>
+    </Level>
+    <Level Id="Chuchubi X / tour de france R--20" Width="25" Height="17" Copyright="Eric F Tchong, Jordi Doménech, Findus">
+      <L>  ###################</L>
+      <L> ##                 ##</L>
+      <L>##  **#############  ##</L>
+      <L>#  $*             ##  ##</L>
+      <L># ##  # ###### ##   #  #</L>
+      <L># #   # ######$ # $  * ##</L>
+      <L># # #.**      $ # $  *  #</L>
+      <L># #  *   ####   #$ $$ # #</L>
+      <L># #  # ###  #####.*   # #</L>
+      <L># ## #   #  #+....*  #  #</L>
+      <L>#  # *   #########  ## ##</L>
+      <L>## # $**          ***. #</L>
+      <L> # ##   *######***    ##</L>
+      <L> #  ###          ######</L>
+      <L> ##   ########****.#</L>
+      <L>  ##              ##</L>
+      <L>   ################</L>
+    </Level>
+    <Level Id="Chuchubi X / somewhere my love R--2" Width="21" Height="14" Copyright="Eric F Tchong, Jordi Doménech, stopheart">
+      <L>              ####</L>
+      <L>        #######  ###</L>
+      <L>        # $ $ $$@$ #</L>
+      <L>        #      $ # #</L>
+      <L>        ##$ ##  $# #</L>
+      <L>#####    #  ## # # #</L>
+      <L>#   ###### $##$# # ##</L>
+      <L>#.# $  ... .##.*..  #</L>
+      <L>#.# # ## #$.....#   #</L>
+      <L># #$$$## #  #########</L>
+      <L># # #    ####</L>
+      <L># $ ..####</L>
+      <L>#.  $ #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Chuchubi XI / suzette R--1" Width="13" Height="15" Copyright="Eric F Tchong, Jordi Doménech">
+      <L>        #####</L>
+      <L>        #   #</L>
+      <L>#########$# #</L>
+      <L>#           #</L>
+      <L># #######$  #</L>
+      <L># .   $ #@$##</L>
+      <L>### $$* #* #</L>
+      <L>  #   * #.$#</L>
+      <L>  ## ** .. #</L>
+      <L>  #  #  *..##</L>
+      <L>  # $# #.*. #</L>
+      <L>  #    #. $ #</L>
+      <L>  ####$#.####</L>
+      <L>     #   #</L>
+      <L>     #####</L>
+    </Level>
+    <Level Id="Chuchubi XI / suzette R--2" Width="13" Height="15" Copyright="Eric F Tchong, Jordi Doménech, David Holland">
+      <L>        #####</L>
+      <L>        #   #</L>
+      <L>#########$# #</L>
+      <L>#           #</L>
+      <L># #######$  #</L>
+      <L># .   $ #@$##</L>
+      <L>### *$* #$ #</L>
+      <L>  # . * # $#</L>
+      <L>  ##.** ...#</L>
+      <L>  #  #  *..##</L>
+      <L>  # $# #.*. #</L>
+      <L>  #    #  $ #</L>
+      <L>  ####$# ####</L>
+      <L>     #   #</L>
+      <L>     #####</L>
+    </Level>
+    <Level Id="Chuchubi XI / suzette R--3" Width="11" Height="15" Copyright="Eric F Tchong, Jordi Doménech, David Holland">
+      <L>      #####</L>
+      <L>      #   #</L>
+      <L>#######$# #</L>
+      <L>#         #</L>
+      <L># #####$  #</L>
+      <L>#     #@$##</L>
+      <L># *** #$ #</L>
+      <L># . * # $#</L>
+      <L>##*** ...#</L>
+      <L>#  #  *..##</L>
+      <L># $# #.*. #</L>
+      <L>#    #  $ #</L>
+      <L>####$# ####</L>
+      <L>   #   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Chuchubi XI / suzette R--6" Width="12" Height="14" Copyright="Eric F Tchong, Jordi Doménech, David Holland, Niels Wadsholt">
+      <L>       #####</L>
+      <L>       #   #</L>
+      <L>######## # #</L>
+      <L>#  $     $ #</L>
+      <L># ######$  #</L>
+      <L>#. $   #@$##</L>
+      <L>## . * #$ #</L>
+      <L> # * . # $#</L>
+      <L> ##.#* .*.#</L>
+      <L> # $#  *..##</L>
+      <L> #  # #.*. #</L>
+      <L> # $  #  $ #</L>
+      <L> ####   ####</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="Chuchubi XII / game fudge R--2" Width="12" Height="13" Copyright="Eric F Tchong, Jordi Doménech, stopheart">
+      <L>  #####</L>
+      <L>  #   #####</L>
+      <L>### *  $  #</L>
+      <L>#   *  *  ##</L>
+      <L># ***  *** #</L>
+      <L>### ****   #</L>
+      <L> #  *@ * ###</L>
+      <L> #  *  * #</L>
+      <L> #  **** ###</L>
+      <L> #  *  *   #</L>
+      <L> #***  ***.#</L>
+      <L> #         #</L>
+      <L> ###########</L>
+    </Level>
+    <Level Id="Chuchubi XII / chapel R--1" Width="11" Height="13" Copyright="Eric F Tchong, Jordi Doménech">
+      <L>   #####</L>
+      <L>  ## . ##</L>
+      <L> ##  *  ##</L>
+      <L>##  * *  ##</L>
+      <L>#  * # *  #</L>
+      <L># *  #  * #</L>
+      <L># * *** * #</L>
+      <L># * *@* * #</L>
+      <L># * *$* * #</L>
+      <L># *     * #</L>
+      <L># ******* #</L>
+      <L>#         #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Chuchubi XIII / playground R--1" Width="18" Height="17" Copyright="Eric F Tchong, Jordi Doménech">
+      <L>      ####</L>
+      <L>      #  #</L>
+      <L>      #$ #####</L>
+      <L>      #  #   #</L>
+      <L>#######$ #$#.####</L>
+      <L>#           .#  #</L>
+      <L># $ $ $ ##$$.#.$#</L>
+      <L>#  # ##### #.#. #</L>
+      <L># $#  .......#.$#</L>
+      <L>#  #$$.### #.#. #</L>
+      <L># $#@$.#   #...$#</L>
+      <L>#  #$#.# ###.   #</L>
+      <L># $#  .#  $ ..# ##</L>
+      <L>#  ### ### ##$$$ #</L>
+      <L># $$     $    $  #</L>
+      <L>#  ###  #######  #</L>
+      <L>#### ####     ####</L>
+    </Level>
+    <Level Id="Chuchubi XIII / playground R--2" Width="18" Height="17" Copyright="Eric F Tchong, Jordi Doménech, anian">
+      <L>      ####</L>
+      <L>      #  #</L>
+      <L>      #$ #####</L>
+      <L>      #  #   #</L>
+      <L>#######$ #$#.####</L>
+      <L>#       .....#  #</L>
+      <L># $ $ $ ##$$.#.$#</L>
+      <L>#  # ##### #.#. #</L>
+      <L># $#  .......#.$#</L>
+      <L>#  #$$ ### #.#. #</L>
+      <L># $#@$ #   #...$#</L>
+      <L>#  #$# # ###.   #</L>
+      <L># $#   #  $ ..# ##</L>
+      <L>#  ### ##$#$#$$$ #</L>
+      <L># $$      #      #</L>
+      <L>#  ###  #######  #</L>
+      <L>#### ####     ####</L>
+    </Level>
+    <Level Id="Chuchubi XIII / one across R--1" Width="21" Height="20" Copyright="Eric F Tchong, Xi Bei Tian Lang">
+      <L>############</L>
+      <L>#.         ##</L>
+      <L>## # # # #  ###</L>
+      <L>##* * * * *   ##</L>
+      <L>#  * * * * * # #</L>
+      <L># # * * * * *  #</L>
+      <L>#  * * * * * # #</L>
+      <L># # * * * * *  #</L>
+      <L>#  * * * * * # #</L>
+      <L>##  # * * * *  ##</L>
+      <L> ##  * * * * #  ####</L>
+      <L>  ##  # * * * *    #</L>
+      <L>   ##  * * * # * # #</L>
+      <L>    # # * * * * *  #</L>
+      <L>    #  * * * * * # #</L>
+      <L>    # # * * * * *  #</L>
+      <L>    #  * * * * * # ##</L>
+      <L>    ### # # # # * $ #</L>
+      <L>      #@            #</L>
+      <L>      ###############</L>
+    </Level>
+    <Level Id="Chuchubi XIII / robot square R--2" Width="13" Height="13" Copyright="Eric F Tchong, Jordi Doménech, stopheart">
+      <L>  #########</L>
+      <L> ##   .   ##</L>
+      <L>##.*** ***.##</L>
+      <L># *$  *  $* #</L>
+      <L># *  * *  * #</L>
+      <L># * * $ * * #</L>
+      <L>#. * $#$ * .#</L>
+      <L># * * $ * * #</L>
+      <L># *  * *  * #</L>
+      <L># *$  *  $* #</L>
+      <L>##.*** ***.##</L>
+      <L> ##   +   ##</L>
+      <L>  #########</L>
+    </Level>
+    <Level Id="Chuchubi XIIII / snappy circuit R--5" Width="14" Height="15" Copyright="Eric F Tchong, Zhenying, Jordi Doménech, stopheart">
+      <L>    ##########</L>
+      <L>#####.       #</L>
+      <L>#  ## ####$# #</L>
+      <L># $ $.$      #</L>
+      <L>#  ##.# ### ##</L>
+      <L>## ##.  . #$#</L>
+      <L> #@$ ...# $ #</L>
+      <L> #$###.####.#</L>
+      <L> # ..*......#</L>
+      <L>## ##$##### #</L>
+      <L>#  $    $ # ##</L>
+      <L>#  $  $ $ #  #</L>
+      <L>#  $  $ $  $ #</L>
+      <L>###########  #</L>
+      <L>          ####</L>
+    </Level>
+    <Level Id="Cosmac II / GoldRush R--1" Width="14" Height="15" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L> #####</L>
+      <L> #   ####</L>
+      <L> # $ #  #</L>
+      <L> # $ $  #</L>
+      <L> # $ #  ##</L>
+      <L> # $ # * ##</L>
+      <L> # $ # .. ##</L>
+      <L> # $ # *.. ##</L>
+      <L> # $ ##.*.. ##</L>
+      <L> # $ $ #.*...#</L>
+      <L> # $    #.*..#</L>
+      <L>## $$$  ##.*.#</L>
+      <L>#  $@$  ######</L>
+      <L>#   #  ##</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Cosmac II / Encore R--1" Width="19" Height="17" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>           ########</L>
+      <L>           #      #</L>
+      <L>           # #### #</L>
+      <L>           # #..# #</L>
+      <L>           # #..# #</L>
+      <L>    ######## #..# #</L>
+      <L>    #      # #..# #</L>
+      <L>    # $ $@$  #..# #</L>
+      <L>  ### $### $ #..# #</L>
+      <L>  #    # #   #..# #</L>
+      <L>### ##$###$# $..  #</L>
+      <L>#      $ $   # .# #</L>
+      <L># #$##$# ######.# #</L>
+      <L># $  $ $  $ $ $ # #</L>
+      <L>###             # #</L>
+      <L>  ############### #</L>
+      <L>                ###</L>
+    </Level>
+    <Level Id="Other / Playground 1 R--1" Width="60" Height="52">
+      <L>                         ####  #######</L>
+      <L>                  ########################</L>
+      <L>               ####   #########################</L>
+      <L>             ####      ############################</L>
+      <L>            ##        ###   #########################</L>
+      <L>          ########    #           ####################</L>
+      <L>        ### #  ######.............      ###########   ###</L>
+      <L>           ##    ########    #          ###########    #</L>
+      <L>         ################## #........   #############</L>
+      <L>        ####################  ..........###############</L>
+      <L>        ######################         #################</L>
+      <L>         ######################       ###################</L>
+      <L>        ################  #####      #####################</L>
+      <L>      #################   #####     ################   ####</L>
+      <L>     #################   #####    #  # *#* ##########    ##</L>
+      <L>    #################   ####     #           ########    #</L>
+      <L>   #################    ##      # #           #########</L>
+      <L>  ###################   #      #  ***        ###########</L>
+      <L>  ##   ##########  ##    #    #             ###############</L>
+      <L> ##  ###########   #         #          #  ## ##############</L>
+      <L> #  #############           #   *******     ################</L>
+      <L>  ########### ###          #      ***      #################</L>
+      <L> ##########    ##         ###             ##################</L>
+      <L>##########     #         ######         ####################</L>
+      <L>#########     #         #########*###*#*#####*########   ###</L>
+      <L>###### #               ##########       ################   #</L>
+      <L>####   #              ############      #################</L>
+      <L> ###   #            ###############     #################</L>
+      <L>  ###  #            ##### ############    #  ####### ######</L>
+      <L>   ##  #            #### #################      ###   #####</L>
+      <L>   ##  #          #####  #####  ############ $     #######</L>
+      <L>   #   ##        #####   #### . . ############  $     ###</L>
+      <L>       ##       #####     ###  .    ##   #######    $   ##</L>
+      <L>      ####     #####    $  ## . .    #     ###### $ #  $  #</L>
+      <L>     #####     #####        #           #    ####    #    #</L>
+      <L>    ######     ## #          #           #   ####$     #  #</L>
+      <L>   ## #####   ### #  @$                   # ####    $    ##</L>
+      <L>   # ######   ##  #                       ## ##  $     $  ##</L>
+      <L>     ######   ##  #     $    *##*          # ##    $  $    #</L>
+      <L>    #######   ##  #         ##**##         #  ##           #</L>
+      <L>    ########  ##  ##        ##**##         *   #$$$$$$$$$$ #</L>
+      <L>    #####  #   #  ##         *##*          #               #</L>
+      <L>    ####   ##      ##  $                  ##    $$$$$$$$$$ #</L>
+      <L>     ###    #       ##                   ##  #             #</L>
+      <L>     ###    ##       ###     $          ##   ##            #</L>
+      <L>      ##     #        ####           ####     ##           #</L>
+      <L>       ##    ##         ###############        ###        ##</L>
+      <L>        ##    ##            #######              ##########</L>
+      <L>         ##   ###                                 ######</L>
+      <L>          #   ####                      #   #        ##</L>
+      <L>              #####                  ##      ##      ##</L>
+      <L>              #########################################</L>
+    </Level>
+    <Level Id="Other / Playground 2 R--1" Width="60" Height="48">
+      <L>          ##############################################</L>
+      <L>          #####   #              ***                #  #</L>
+      <L>         #####   #  $ $$      $  **                  #  #</L>
+      <L>        #####   # $   #    $     *       $  ##    $  #   #</L>
+      <L>        ####   #     #              $        ##       #   #</L>
+      <L>       ####   # $   #                  $    ### $      #   #</L>
+      <L>      ###    #     ##                      ###         #</L>
+      <L>    ####    ##  $ ##                     ####         #  #</L>
+      <L>   ###      #     #                    ###            #  ##</L>
+      <L>####       ##    $                    ##             ##  ##</L>
+      <L>           #      $           $      #               ##  ##</L>
+      <L>          ##      #                                   #  ##</L>
+      <L>          #      $ #                                   #  #</L>
+      <L>         ##         #     $       #     $               # #</L>
+      <L>         #       $   ###         #                       ##</L>
+      <L>         #            ###########                        ##</L>
+      <L>         #          $  #########               $         #</L>
+      <L>         #              #######                         #  #</L>
+      <L>         #               ######                         # ##</L>
+      <L>         #            $    ###                          ###</L>
+      <L>         #                  .#       $                  ###</L>
+      <L>         ##   . .           #                    $     ###</L>
+      <L>          #    .            #                          ###</L>
+      <L>          ##  . .          #    $           $         ###</L>
+      <L>           #               #                         ###</L>
+      <L>           ##             #                         ###</L>
+      <L>            #             #                        ###</L>
+      <L>            ##           #        $  $            ###</L>
+      <L>             #           #                $      ###</L>
+      <L>             ##.........#                       ###</L>
+      <L>              #         #                      ###</L>
+      <L>              ##.......#                      ##</L>
+      <L>               ##      #    $                ###</L>
+      <L>               ##.....#                     ###</L>
+      <L>                ##    #          $         ###</L>
+      <L>                ##...#                    ###</L>
+      <L>                 ##..#                   ###</L>
+      <L>                 ##.#                   ###</L>
+      <L>                  ###                  ###</L>
+      <L>                  ##                  ###</L>
+      <L>                   #                 ###</L>
+      <L>                  ##                ###</L>
+      <L>                  ##               ###</L>
+      <L>                  ##    #         ###</L>
+      <L>                  ###  $ ##       ####</L>
+      <L>                   ###           ### #</L>
+      <L>                   ###   #     @ # # #</L>
+      <L>                    ############## # #</L>
+    </Level>
+    <Level Id="Serena I / Fill the pond R--1" Width="13" Height="9" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>#############</L>
+      <L>#       #   #</L>
+      <L># $ $  $    #</L>
+      <L># $ .$$  ####</L>
+      <L>##****. ##</L>
+      <L> #.....$#</L>
+      <L> #***** #</L>
+      <L> ######@#</L>
+      <L>      ###</L>
+    </Level>
+    <Level Id="Serena I / Fill the pond 2 R--1" Width="12" Height="10" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>#########</L>
+      <L>#       ####</L>
+      <L># $ $  $   #</L>
+      <L># * .$$  $ #</L>
+      <L># ****. ####</L>
+      <L># .....$#</L>
+      <L>####### #</L>
+      <L>      #@#</L>
+      <L>      # #</L>
+      <L>      ###</L>
+    </Level>
+    <Level Id="Serena I / Small stuff R--1" Width="8" Height="8" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>########</L>
+      <L># $..$ #</L>
+      <L># $.*$ #</L>
+      <L># ###  #</L>
+      <L>#  ..$ #</L>
+      <L># $..$ #</L>
+      <L>##### @#</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Serena I / Rosa R--1" Width="9" Height="9" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>   ######</L>
+      <L>####.. .#</L>
+      <L>#    .  #</L>
+      <L># *$#*#$#</L>
+      <L>#*$  .  #</L>
+      <L>#@#$#. .#</L>
+      <L>## $ $$ #</L>
+      <L> #      #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Serena I / Free at last R--1" Width="12" Height="9" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L> ###########</L>
+      <L>##         #</L>
+      <L># $*..$**. #</L>
+      <L>#  *    *$##</L>
+      <L>## ** ##* #</L>
+      <L> # *@  #* #</L>
+      <L> # *** #* #</L>
+      <L> #        #</L>
+      <L> ##########</L>
+    </Level>
+    <Level Id="Serena I / Hooiberg R--1" Width="10" Height="11" Copyright="Eric F Tchong, unknown">
+      <L>#########</L>
+      <L>#   #   #</L>
+      <L>#   $ # #</L>
+      <L>## ## $ #</L>
+      <L># $##.#$##</L>
+      <L>#  ...#  #</L>
+      <L>#  #...  #</L>
+      <L># $#.##$##</L>
+      <L>#    $@$ #</L>
+      <L>#   ##   #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Serena I / Dice it up R--1" Width="15" Height="15" Copyright="Eric F Tchong, Spiros Mantzoukis">
+      <L>    #######</L>
+      <L>    #  #  #</L>
+      <L>  ###     ###</L>
+      <L> ##  $ $ $  ##</L>
+      <L> #  $ $ $ $  #</L>
+      <L> #   $ $ $   #</L>
+      <L> # ####@#### #</L>
+      <L> # # ..... # #</L>
+      <L> # #.$.#.$.# #</L>
+      <L> # # .$.$. # #</L>
+      <L>## #   .   # ##</L>
+      <L>#  ####.####  #</L>
+      <L>#             #</L>
+      <L>#######  ######</L>
+      <L>      ####</L>
+    </Level>
+    <Level Id="Serena IIII / Bars in distress R--1" Width="11" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>   #####</L>
+      <L>####   ####</L>
+      <L>#  #$.$#  #</L>
+      <L>#  . . .  #</L>
+      <L>#  #$$$#  #</L>
+      <L>## . . . ##</L>
+      <L> #*$$#$$*#</L>
+      <L>## . . . ##</L>
+      <L>#  #$$$#  #</L>
+      <L>#  . . .  #</L>
+      <L>#  #$.$#  #</L>
+      <L>#### @ ####</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Serena IIII / Bars in distress R--2" Width="11" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>   #####</L>
+      <L>####   ####</L>
+      <L>#  #$.$#  #</L>
+      <L>#  . . .  #</L>
+      <L># $#$$$#  #</L>
+      <L>## .. .. ##</L>
+      <L> #$#$#$#$#</L>
+      <L>## .. .. ##</L>
+      <L>#  #$$$#$ #</L>
+      <L>#  . . .  #</L>
+      <L>#  #$.$#  #</L>
+      <L>#### @ ####</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Serena IIII / Conquest R--1" Width="11" Height="12" Copyright="Eric F Tchong, Marek Letrab">
+      <L>###########</L>
+      <L># # ... # #</L>
+      <L>#  #...#  #</L>
+      <L>#   *.*   #</L>
+      <L># $  .  $ #</L>
+      <L># #$# #$# #</L>
+      <L>#   $ $   #</L>
+      <L># #  $  # #</L>
+      <L># $$$$$$$ #</L>
+      <L># $.....$ #</L>
+      <L>####.+.####</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Serena IIII / Horror 25 R--1" Width="11" Height="11" Copyright="Eric F Tchong, Marek Letrab">
+      <L> #########</L>
+      <L>##       ##</L>
+      <L># .*****. #</L>
+      <L># $$.$.$$ #</L>
+      <L># ...*... #</L>
+      <L># .$$$$$. #</L>
+      <L># .$ # $. #</L>
+      <L># ...$... #</L>
+      <L>##$$$$$$$##</L>
+      <L>#        @#</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Serena IIII / Horror 2 R--1" Width="11" Height="11" Copyright="Eric F Tchong, Marek Letrab">
+      <L> #########</L>
+      <L>##       ##</L>
+      <L># .*.*.*. #</L>
+      <L>#  $$$$$  #</L>
+      <L># *..#..* #</L>
+      <L># .$$*$$. #</L>
+      <L># .$ * $. #</L>
+      <L># ...*... #</L>
+      <L>##$$$$$$$##</L>
+      <L>#        @#</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Serena IIII / DHL R--1" Width="18" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>##################</L>
+      <L>#  $..##.#.#.  $@#</L>
+      <L># $$.#.#.#.#. $$ #</L>
+      <L>#  $.#.#...#.# $ #</L>
+      <L># $#.#.#...#. $$ #</L>
+      <L>#  $.#.#. .#.# $ #</L>
+      <L># $ .. #. .#... ##</L>
+      <L>#  # # #. .# #  #</L>
+      <L># $$$$$$$$$$$## #</L>
+      <L>##              #</L>
+      <L> #$$$$$$$$$$$ ###</L>
+      <L> #            #</L>
+      <L> ##############</L>
+    </Level>
+    <Level Id="Serena IIII / Cave R--1" Width="12" Height="12" Copyright="Eric F Tchong, Marek Letrab">
+      <L> ####</L>
+      <L> #  ####</L>
+      <L> #     #</L>
+      <L> #$ #$ ###</L>
+      <L> #  #    ###</L>
+      <L>##  #$#$   #</L>
+      <L>#  #  #  $ #</L>
+      <L>#  $. #$#$ #</L>
+      <L>##  .## #  #</L>
+      <L> ## ...@#$ #</L>
+      <L>  #....##  #</L>
+      <L>  ##########</L>
+    </Level>
+    <Level Id="Serena IIII / Cave 2 R--1" Width="12" Height="12" Copyright="Eric F Tchong, Marek Letrab">
+      <L> ###########</L>
+      <L> #  #  #...#</L>
+      <L> # $$  #...#</L>
+      <L> #  #$  #  #</L>
+      <L> #$ #    $ #</L>
+      <L>##  #$$  $$#</L>
+      <L>#  #  #    #</L>
+      <L>#  $. #$#$ #</L>
+      <L>##  .## #  #</L>
+      <L> ##$...@#$ #</L>
+      <L>  # ...##  #</L>
+      <L>  ##########</L>
+    </Level>
+    <Level Id="Serena IIII / Sweet potatoes R--1" Width="19" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>            #####</L>
+      <L>#############   #</L>
+      <L>#             # ##</L>
+      <L>#  ########$$$   #</L>
+      <L>## # ####        #</L>
+      <L> # # #  $$$##### #</L>
+      <L> # ###        ## #</L>
+      <L> # # $$ ###$$ ## #</L>
+      <L> #      ###   ## #</L>
+      <L> ###### ##@$$ ## #</L>
+      <L>      # ##$    # #</L>
+      <L>      #  $  ## # #</L>
+      <L>      # $   ## # #</L>
+      <L>      #  ####    ##</L>
+      <L>      # ..........#</L>
+      <L>      #######.....#</L>
+      <L>            #######</L>
+    </Level>
+    <Level Id="Serena IIII / Geomundo R--1" Width="18" Height="16" Copyright="Eric F Tchong, Marek Letrab">
+      <L>       #########</L>
+      <L>       #       ##</L>
+      <L>  ###### #$$##  #</L>
+      <L>  # $ * $     $ ##</L>
+      <L>  #...... #####  #</L>
+      <L>  #......$       #</L>
+      <L>  #......#  $ # ##</L>
+      <L>  #  $ ###$#### #</L>
+      <L>###### ##@ #  # #</L>
+      <L>#    # ##  #  # #</L>
+      <L># $$$# ## $#  # #</L>
+      <L>#    #$    #  # #</L>
+      <L># $$    ####### ##</L>
+      <L>#   ##       $ $ #</L>
+      <L>############     #</L>
+      <L>           #######</L>
+    </Level>
+    <Level Id="Serena IIII / Sweet heart R--1" Width="19" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L> #################</L>
+      <L>##       #       ##</L>
+      <L># $.*..$$$$$..*.$ #</L>
+      <L># ..$$...$...$$.. #</L>
+      <L>##.$ #$$.$.$$# $.##</L>
+      <L> #.$    ...    $.#</L>
+      <L> #.$#### . ####$.#</L>
+      <L> #.$   #$.$#   $.#</L>
+      <L> #.$ $ # . # $ $.#</L>
+      <L> #.$## ##.## ##$.#</L>
+      <L>##.$     .     $.##</L>
+      <L># ..$$$$$*$$$$$.. #</L>
+      <L># $.....$+$.....$ #</L>
+      <L># $  # ..*.. #  $ #</L>
+      <L># $$$$$$...$$$$$$ #</L>
+      <L>##       .       ##</L>
+      <L> #################</L>
+    </Level>
+    <Level Id="Serena IIII / Temple R--1" Width="19" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>###################</L>
+      <L>#                 #</L>
+      <L># **.$.*.$.*.$.** #</L>
+      <L># .$.$.$.$.$.$.$. #</L>
+      <L># *$.$.$.$.$.$.$* #</L>
+      <L># .$...$.*.$...$. #</L>
+      <L># *$$$$$$*$$$$$$* #</L>
+      <L># ...$   .   $... #</L>
+      <L># $$*****@*****$$ #</L>
+      <L># ...$   .   $... #</L>
+      <L># *$$$$$$*$$$$$$* #</L>
+      <L># .$...$.*.$...$. #</L>
+      <L># *$.$.$.$.$.$.$* #</L>
+      <L># .$.$.$.$.$.$.$. #</L>
+      <L># **.$.*.$.*.$.** #</L>
+      <L>#                 #</L>
+      <L>###################</L>
+    </Level>
+    <Level Id="Serena IIII / Barricade R--1" Width="12" Height="12" Copyright="Eric F Tchong, Marek Letrab">
+      <L>#####</L>
+      <L>#.#.#</L>
+      <L>#.#.########</L>
+      <L>#. ....... #</L>
+      <L>#*$.$ $ $. #</L>
+      <L>#.$*$$$$#* #</L>
+      <L>#.$.  $  . #</L>
+      <L># $$$ $$#* #</L>
+      <L>#   $    . #</L>
+      <L>#$$ $# ##* #</L>
+      <L>#@$    $...#</L>
+      <L>############</L>
+    </Level>
+    <Level Id="Serena IIII / Barricade 2 R--1" Width="13" Height="12" Copyright="Eric F Tchong, Marek Letrab">
+      <L>  ########</L>
+      <L>  #  #.  ##</L>
+      <L>### $...$ ##</L>
+      <L># $ ..#... ##</L>
+      <L># $$*###**..#</L>
+      <L># $ ..#..*..#</L>
+      <L># $ $... $.##</L>
+      <L># $#$$$$$*.#</L>
+      <L># $        #</L>
+      <L># $$$$$$$$$#</L>
+      <L>#@      ...#</L>
+      <L>############</L>
+    </Level>
+    <Level Id="Serena IIII / Tweety R--1" Width="10" Height="10" Copyright="Eric F Tchong, Marek Letrab">
+      <L>   ####</L>
+      <L> ###  ###</L>
+      <L> #  $.$ #</L>
+      <L> #$$..$ ##</L>
+      <L>## ...#  #</L>
+      <L># $.#+#  #</L>
+      <L>#  .$ $ ##</L>
+      <L>##   $# #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Serena IIII / Altovista R--1" Width="13" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>  ### #####</L>
+      <L>  #.# #   #</L>
+      <L> ##.### $ #</L>
+      <L> #...##$$ ##</L>
+      <L> #... #    #</L>
+      <L> #...   #$ #</L>
+      <L>##.#. $  $ #</L>
+      <L>#.###.$ $$ #</L>
+      <L>#.###.$ $  ##</L>
+      <L>#.....$$$$$ #</L>
+      <L>#.###.$  $  #</L>
+      <L>#.....$  $  #</L>
+      <L>#.## .## $  #</L>
+      <L>#  $      $ #</L>
+      <L># $$$$$$$$###</L>
+      <L>##       @#</L>
+      <L> ##########</L>
+    </Level>
+    <Level Id="Serena IIII / Roadrunner R--1" Width="13" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>      #####</L>
+      <L> ######   #</L>
+      <L> #...## $ ##</L>
+      <L> #...## $  #</L>
+      <L> #*.$ # $$ #</L>
+      <L> #...    $ #</L>
+      <L>##.#. #  $ #</L>
+      <L>#.###.##$$ ##</L>
+      <L>#.###+# $   #</L>
+      <L>#.....  $$$ #</L>
+      <L>#.###*#   $ #</L>
+      <L>#.....####$ #</L>
+      <L># ##$$##  $ #</L>
+      <L>#         $ #</L>
+      <L># $$$$$$$$# #</L>
+      <L>##          #</L>
+      <L> ############</L>
+    </Level>
+    <Level Id="Serena IIII / Happy end R--1" Width="13" Height="11" Copyright="Eric F Tchong, Marek Letrab">
+      <L>#############</L>
+      <L>#           #</L>
+      <L># ***.#**#$ #</L>
+      <L># . $$#.... #</L>
+      <L># $ $ . $ $ #</L>
+      <L># $#*###*#$ #</L>
+      <L>#  # @. $ $ #</L>
+      <L># ....#$*.* #</L>
+      <L># $#**# *.$ #</L>
+      <L>#           #</L>
+      <L>#############</L>
+    </Level>
+    <Level Id="Serena IIII / Happy end R--2" Width="13" Height="11" Copyright="Eric F Tchong, Jordi Doménech">
+      <L> ############</L>
+      <L>##          #</L>
+      <L># *.$ #..#$ #</L>
+      <L># . $$#.... #</L>
+      <L># $ $ . $ $ #</L>
+      <L># $#$###$#$ #</L>
+      <L>#  # @. $ $ #</L>
+      <L># ....#$$.$ #</L>
+      <L># $#..# ..$ #</L>
+      <L>#           #</L>
+      <L>#############</L>
+    </Level>
+    <Level Id="Serena IIII / Dice5 R--1" Width="11" Height="11" Copyright="Eric F Tchong, Marek Letrab">
+      <L>###########</L>
+      <L>#         #</L>
+      <L># ###$#####</L>
+      <L>#   $@$  #</L>
+      <L>##  .*.  #</L>
+      <L> ##$#.#.##</L>
+      <L>  # ... #</L>
+      <L>  #  $$ #</L>
+      <L>  # $#  #</L>
+      <L>  ##   ##</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Serena IIII / Bethlehem R--1" Width="11" Height="11" Copyright="Eric F Tchong, Marek Letrab">
+      <L>###########</L>
+      <L>#         #</L>
+      <L># ###$### #</L>
+      <L># $ $@$   #</L>
+      <L>###  *   ##</L>
+      <L>  # $*$ ##</L>
+      <L>  #  *  #</L>
+      <L> ## ### #</L>
+      <L> #  ... #</L>
+      <L> #  ... #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Serena IIII / Sugarpot R--1" Width="11" Height="11" Copyright="Eric F Tchong, Marek Letrab">
+      <L>###########</L>
+      <L>#         #</L>
+      <L># ###$### #</L>
+      <L>#   $@$   #</L>
+      <L>## $ $ $ ##</L>
+      <L> #  $*$  #</L>
+      <L> ## .*. ##</L>
+      <L> ## ### #</L>
+      <L> #  ... #</L>
+      <L> #  ... #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Serena IIII / Sugarpot 2 R--1" Width="11" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>   #####</L>
+      <L>   #   #</L>
+      <L>####$$ ####</L>
+      <L>#         #</L>
+      <L># ###$### #</L>
+      <L>#   $@$   #</L>
+      <L>#  $.$.$  #</L>
+      <L>##$ *** $##</L>
+      <L> #  .*.  #</L>
+      <L> ## ### ##</L>
+      <L> #  ... #</L>
+      <L> #  ... #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Serena IIII / Honey R--1" Width="11" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>   #####</L>
+      <L>   #...#</L>
+      <L>####...####</L>
+      <L>#   ...   #</L>
+      <L># ## . ## #</L>
+      <L># ###+### #</L>
+      <L>#   $$$   #</L>
+      <L>##$  $  $##</L>
+      <L> # $###$ #</L>
+      <L> #  $ $  #</L>
+      <L> #   $   #</L>
+      <L> ##  #  ##</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Serena IIII / Beehive R--1" Width="19" Height="14" Copyright="Eric F Tchong, Marek Letrab">
+      <L>###   #######   ###</L>
+      <L># #   #.....#   # #</L>
+      <L># ######...###### #</L>
+      <L># $ $  ..*..  $ $ #</L>
+      <L>#  $  #  *  #  $  #</L>
+      <L># # $ # $@$ # $ # #</L>
+      <L># ###$ $ # $ $### #</L>
+      <L>#     $  $  $     #</L>
+      <L>#### $#$###$#$ ####</L>
+      <L> ## $ $ $.$ $ $ ##</L>
+      <L> # $ $  .$.  $ $ #</L>
+      <L> #  .##.....##.  #</L>
+      <L> ###.....#.....###</L>
+      <L>   #############</L>
+    </Level>
+    <Level Id="Serena IIII / Thunderstorm R--1" Width="19" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>###################</L>
+      <L>#                 #</L>
+      <L># *..####$####..* #</L>
+      <L># #.$$  $@$  $$.# #</L>
+      <L># # . .*.*.*. . # #</L>
+      <L># # $*$  .  $*$ # #</L>
+      <L># #  $.#$*$#.$  # #</L>
+      <L># # $. *...* .$ # #</L>
+      <L># $$. $ .#. $ .$$ #</L>
+      <L># $ *$*#*#*#*$* $ #</L>
+      <L># #$. $ .#. $ .$# #</L>
+      <L># # $. $...$ .$ # #</L>
+      <L># # $$.#$*$#.$$ # #</L>
+      <L># # # $. * .$ # # #</L>
+      <L># *.*..$.*.$..*.* #</L>
+      <L>#                 #</L>
+      <L>###################</L>
+    </Level>
+    <Level Id="Serena IIII / Aguinaldo R--1" Width="19" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>###################</L>
+      <L>#                 #</L>
+      <L># # $ $$###$$ $ # #</L>
+      <L># # #   $ $   # # #</L>
+      <L># $ .#  $ $  #. $ #</L>
+      <L># $ ..#     #.. $ #</L>
+      <L># # ...#   #... # #</L>
+      <L># # ....#.#.... # #</L>
+      <L># # ...#   #... # #</L>
+      <L># # ..#  $  #.. # #</L>
+      <L># # .#  $ $  #. # #</L>
+      <L># # #  $ $ $  # # #</L>
+      <L># ##  $ $$$ $  ## #</L>
+      <L># #  $ $ $ $ $  # #</L>
+      <L>#  #  $ $$$ $  #  #</L>
+      <L>#   #..$ @ $..#   #</L>
+      <L>###################</L>
+    </Level>
+    <Level Id="Serena IIII / Silent Moves R--1" Width="15" Height="15" Copyright="Eric F Tchong, Marek Letrab">
+      <L>  ###########</L>
+      <L>  #.........#</L>
+      <L>  #.$$$$$$$.#</L>
+      <L>  ##.$ $ $.##</L>
+      <L>   ##. $ .##</L>
+      <L>    ##...##</L>
+      <L>     ##.##</L>
+      <L>    ##...##</L>
+      <L>   ##. $ .##</L>
+      <L>  ##. $ $ .##</L>
+      <L>###.$$$ $$$.###</L>
+      <L>#.*   $ $   *.#</L>
+      <L>#.$$$$$ $$$$$.#</L>
+      <L>#.    $@$    .#</L>
+      <L>###############</L>
+    </Level>
+    <Level Id="Serena IIII / Hammer R--1" Width="21" Height="17" Copyright="Eric F Tchong, Jordi Doménech">
+      <L>####             ####</L>
+      <L>#  ###############  #</L>
+      <L># $       ..........#</L>
+      <L># $################.#</L>
+      <L># $           $   #.#</L>
+      <L>#   ######### $ $ #.#</L>
+      <L>#####       # $ $ #.#</L>
+      <L>            # $ $ #.#</L>
+      <L>            # $ $ #.#</L>
+      <L>            # $ $ #.#</L>
+      <L>            # $ $ #.#</L>
+      <L>            # $ $ #.#</L>
+      <L>            # $ $ #.#</L>
+      <L>            # $ $ #.#</L>
+      <L>            # $#  #.#</L>
+      <L>            # @   #.#</L>
+      <L>            #########</L>
+    </Level>
+    <Level Id="Serena IIII / Hammer R--2" Width="21" Height="17" Copyright="Eric F Tchong, Jordi Doménech">
+      <L>####             ####</L>
+      <L>#  ###############  #</L>
+      <L># $         ........#</L>
+      <L># $################.#</L>
+      <L># $           $   #.#</L>
+      <L>#   ######### $ $ #.#</L>
+      <L>#####       # $ $ #.#</L>
+      <L>            #   $ #.#</L>
+      <L>            # $ $ #.#</L>
+      <L>            ##$#  #.#</L>
+      <L>            # $ $ #.#</L>
+      <L>            # $ $ #.#</L>
+      <L>            # $ $ #.#</L>
+      <L>            #   $ #.#</L>
+      <L>            # $#$ #.#</L>
+      <L>            # @   #.#</L>
+      <L>            #########</L>
+    </Level>
+    <Level Id="Serena V / Crossing the river R--1" Width="13" Height="10" Copyright="Eric F Tchong, Marek Letrab">
+      <L>     ########</L>
+      <L>     #@     #</L>
+      <L>     # $ ## #</L>
+      <L>###### $ #  #</L>
+      <L>#    $$$$$  #</L>
+      <L># #### $ $# #</L>
+      <L># #### $  $ #</L>
+      <L>#......$ ## #</L>
+      <L>######......#</L>
+      <L>     ########</L>
+    </Level>
+    <Level Id="Serena V / Twinkle R--1" Width="13" Height="10" Copyright="Eric F Tchong, Marek Letrab">
+      <L>     ########</L>
+      <L>     #@     #</L>
+      <L> ######*### #</L>
+      <L> #.#   $ #. #</L>
+      <L>##    $$ #  #</L>
+      <L>#  ### #  $ #</L>
+      <L># ###  $  $ #</L>
+      <L># ... $ #####</L>
+      <L>##...$  #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Serena V / Sweet 16 R--1" Width="19" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>              ####</L>
+      <L>###############  #</L>
+      <L># $        $     #</L>
+      <L>#  ######$ ##### #</L>
+      <L>## ##  #   # @ # #</L>
+      <L> # # $ # ###$$ # #</L>
+      <L> # # $         # #</L>
+      <L> #    $######### #</L>
+      <L> # #$$  #   #  # #</L>
+      <L> # #    $ $ #### #</L>
+      <L> #$### $  $ #    ##</L>
+      <L> # # # # $### ##  #</L>
+      <L> # # #  $         #</L>
+      <L>## ### $###########</L>
+      <L>#     .........#</L>
+      <L>#  ###.........#</L>
+      <L>#### ###########</L>
+    </Level>
+    <Level Id="Serena V / The more the merrier R--1" Width="19" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>######</L>
+      <L>#@#  ##############</L>
+      <L># $             $ #</L>
+      <L># # #########.# $ #</L>
+      <L># # $.........# $ #</L>
+      <L># $ #.# ### #.$ $ #</L>
+      <L># $ $.$ *.. #.# $ #</L>
+      <L># $ #.# ### #.$ $ #</L>
+      <L># $ $.$ *.. #.# $ #</L>
+      <L># $ #.# ### #.$ $ #</L>
+      <L># $ #.# *..  .# $ #</L>
+      <L># $ #.# ### #.$ $ #</L>
+      <L># $ *.* *.. #.# $ #</L>
+      <L># $   ####### $ $ #</L>
+      <L># #  ##    #  $ $ #</L>
+      <L># ####     #  #   #</L>
+      <L>###        ########</L>
+    </Level>
+    <Level Id="Serena V / Noord R--1" Width="15" Height="14" Copyright="Eric F Tchong, Marek Letrab">
+      <L>     #####</L>
+      <L>  ####   ####</L>
+      <L>  #    $    #</L>
+      <L>  # $#*#*#$ #</L>
+      <L>  # $ ... $ #</L>
+      <L>  #   ...   #</L>
+      <L>####$#...#$####</L>
+      <L>#     ...     #</L>
+      <L># ##$$.#.$$## #</L>
+      <L>#    #...#    #</L>
+      <L>####$#$$$#$####</L>
+      <L>   #   $   #</L>
+      <L>   ### @ ###</L>
+      <L>     #####</L>
+    </Level>
+    <Level Id="Serena V / Big trap R--1" Width="17" Height="16" Copyright="Eric F Tchong, Marek Letrab">
+      <L>   #######</L>
+      <L>  ## ....#######</L>
+      <L> ## $.##...*...#</L>
+      <L> #  $.#.*......#</L>
+      <L> # $ .....*##.##</L>
+      <L> # $$.#.*#.##.###</L>
+      <L>## $ .#....##.  #</L>
+      <L>#  $$##*..##### #</L>
+      <L>#  $        #@# #</L>
+      <L># #$ $$$ $  $ $ #</L>
+      <L>#  $   $$$ $#####</L>
+      <L># #$ # $    #</L>
+      <L>#  $ $ $  $$#</L>
+      <L># $$$$$$$$$ #</L>
+      <L>#           #</L>
+      <L>#############</L>
+    </Level>
+    <Level Id="Serena V / Fun stuff R--1" Width="14" Height="11" Copyright="Eric F Tchong, Marek Letrab">
+      <L>  ####</L>
+      <L>  #  ####</L>
+      <L> ## $$  ######</L>
+      <L>##   #.    $@#</L>
+      <L>#  # ..#$$$  #</L>
+      <L># ##$.##    ##</L>
+      <L># # $..## $ #</L>
+      <L># # $...##$ #</L>
+      <L>#   #.#..$  #</L>
+      <L>###        ##</L>
+      <L>  ##########</L>
+    </Level>
+    <Level Id="Serena V / Booby trap R--1" Width="19" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L> ##############</L>
+      <L> #            ###</L>
+      <L> #  $  ######   ###</L>
+      <L> # ##$    $ $ #   #</L>
+      <L> # ##  ##   $ ### #</L>
+      <L>## ## ####  $ #.# #</L>
+      <L>#  ###  ### $ #+# #</L>
+      <L>#     $ # # $ #.# #</L>
+      <L>######  ### $ #.# #</L>
+      <L>     # #.## $ #.# #</L>
+      <L>     # #.#  $ #.# #</L>
+      <L>     # #.# $$ #.# #</L>
+      <L>     # #.#   #... #</L>
+      <L>    ## #.####.... #</L>
+      <L>    #  $ $ $ $$# ##</L>
+      <L>    #            #</L>
+      <L>    ##############</L>
+    </Level>
+    <Level Id="Serena V / Dynamite R--1" Width="18" Height="15" Copyright="Eric F Tchong, Marek Letrab">
+      <L>##################</L>
+      <L>#                #</L>
+      <L>#  $ $ $ ###$### #</L>
+      <L># $##### # # $   #</L>
+      <L>#  #@ ## ### # # #</L>
+      <L># $#$ ##  ## #$# #</L>
+      <L>#  #  # $      # #</L>
+      <L>#   $ #   ###  # #</L>
+      <L>#  $ #########$$ #</L>
+      <L># #   ##   ### # #</L>
+      <L># #$  ##......$  #</L>
+      <L>#   ####...#######</L>
+      <L>#####.....##</L>
+      <L>    ####..#</L>
+      <L>       ####</L>
+    </Level>
+    <Level Id="Serena V / Holland Town R--1" Width="18" Height="15" Copyright="Eric F Tchong, Marek Letrab">
+      <L>##################</L>
+      <L>#                #</L>
+      <L># #....###...### #</L>
+      <L># #.$#..###$.### #</L>
+      <L># #.@#..# # ..## #</L>
+      <L># # $$..# #$.  $ #</L>
+      <L># $$$ ..###..$ $ #</L>
+      <L># $ $ ....#..##$ #</L>
+      <L># $ $$#$..##.. $ #</L>
+      <L># $  $ ...# .. $ #</L>
+      <L># $$ $ .$ $  $$$ #</L>
+      <L>#    $$  $$ $   ##</L>
+      <L>####  $$$$ ######</L>
+      <L>   ##      #</L>
+      <L>    ########</L>
+    </Level>
+    <Level Id="Serena V / Heart R--1" Width="11" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>   #####</L>
+      <L> ### @ ###</L>
+      <L> # $ $ $ #</L>
+      <L>## # # # ##</L>
+      <L># $. * .$ #</L>
+      <L># # *#* # #</L>
+      <L># .  .  . #</L>
+      <L>## $ # $ ##</L>
+      <L> ### * ###</L>
+      <L>  #. $ .#</L>
+      <L>  #  #  #</L>
+      <L>  #  .  #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Serena V / Sweetheart R--1" Width="19" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>###################</L>
+      <L>#                 #</L>
+      <L># # # ###*###$# # #</L>
+      <L># $ $ .  .  . $ $ #</L>
+      <L># #$#.#.#*#.#.#$# #</L>
+      <L># # # ....... # # #</L>
+      <L># # # #.....# # # #</L>
+      <L># # # #$...$$ # # #</L>
+      <L># # # #  +  # # # #</L>
+      <L># # # ###*### # # #</L>
+      <L># $ $    .      # #</L>
+      <L># # $####$####$ # #</L>
+      <L># #      $      $ #</L>
+      <L># # $ $ $ $ $ $ # #</L>
+      <L># ## #########$## #</L>
+      <L>#                 #</L>
+      <L>###################</L>
+    </Level>
+    <Level Id="Serena V / Road on fire R--1" Width="19" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>           ########</L>
+      <L>           #      #</L>
+      <L>     #######$ $$$ #</L>
+      <L>     #       ## $ #</L>
+      <L>   ###.*.*.*. $ $ #</L>
+      <L>   # $$$$.$$*...  #</L>
+      <L>   # .....$ ..$.###</L>
+      <L> ###$.$$$*$$.*#.##</L>
+      <L> #  $*$ $....... #</L>
+      <L>##   ...$.$$.$$$ #</L>
+      <L># $$$$$*$.$..  $ #</L>
+      <L># $.*...$.$. # $ #</L>
+      <L># $.....*.$*$# $ ##</L>
+      <L># $.**....$.+# $  #</L>
+      <L>#....$$$$$$####$$ #</L>
+      <L>###               #</L>
+      <L>  #################</L>
+    </Level>
+    <Level Id="Serena V / Alejandro my GrandSon R--1" Width="33" Height="24" Copyright="Eric F Tchong, Marek Letrab">
+      <L>              #####</L>
+      <L>           #### @ ####</L>
+      <L>           #    $    #</L>
+      <L>############ #$#$#$# ############</L>
+      <L>#             $ $ $             #</L>
+      <L>#...$.$$..$$.$...$...$..$$..$...#</L>
+      <L>#. .#. #. # .#. .#. .#. .#..#. .#</L>
+      <L>#. .#. #. # .#. .#. .#. .#. #. .#</L>
+      <L>#...#. #..#$.#...#. .#. .#. #. .#</L>
+      <L>#. .#. #. # .#. .#. .#. .#. #. .#</L>
+      <L>#. .#. #.$# .#. .#. .#. .#. #.$.#</L>
+      <L>#.$.#..#..#..#.$.#.$.#..$#.$#...#</L>
+      <L>#   $  $  $  $   $   $   $  $   #</L>
+      <L>## ##$##$#$#$#$#$#$#$#$#$#$### ##</L>
+      <L> #            ..*..            #</L>
+      <L> #  $ $ $ $ $ $.$.$ $ $ $ $ $  #</L>
+      <L> #  $ $ $ $ $ $.$.$ $ $ $ $ $  #</L>
+      <L> #  $ $ $ $ $ $ * $ $ $ $ $ $  #</L>
+      <L> #  $ $ $ $ $ $ * $ $ $ $ $ $  #</L>
+      <L> #  $ $ $ $ $ $ $ $ $ $ $ $ $  #</L>
+      <L> #  $ $ $ $ $ $ * $ $ $ $ $ $  #</L>
+      <L> # ########################### #</L>
+      <L> #                             #</L>
+      <L> ###############################</L>
+    </Level>
+    <Level Id="Serena V / Relax R--1" Width="14" Height="10" Copyright="Eric F Tchong, Marek Letrab">
+      <L> ####</L>
+      <L> #  ##########</L>
+      <L> #           #</L>
+      <L> #  #######  #</L>
+      <L> ## #       ##</L>
+      <L>##...#$#$#$$#</L>
+      <L># ...       #</L>
+      <L>#  #.##$#$#$#</L>
+      <L>## @        #</L>
+      <L> ############</L>
+    </Level>
+    <Level Id="Serena V / Open up R--1" Width="14" Height="14" Copyright="Eric F Tchong, Marek Letrab">
+      <L>   ########</L>
+      <L>   #..##..#</L>
+      <L>  ##..##..##</L>
+      <L>  #.$.##.$.#</L>
+      <L>  #........#</L>
+      <L>  #  #$$#  #</L>
+      <L>  ## $  $ ##</L>
+      <L>   # $  $ #</L>
+      <L>  ## $  $ ##</L>
+      <L>### $$$$$$ ###</L>
+      <L>#  $  @   $  #</L>
+      <L># $  ####  $ #</L>
+      <L>#   ##  ##   #</L>
+      <L>#####    #####</L>
+    </Level>
+    <Level Id="Serena V / Take a bath R--1" Width="10" Height="12" Copyright="Eric F Tchong, Marek Letrab">
+      <L> ########</L>
+      <L>##      ##</L>
+      <L>#  $.##$ #</L>
+      <L># $#..#  #</L>
+      <L>#  #..#$ #</L>
+      <L># $#..#  #</L>
+      <L>#  $..#$ #</L>
+      <L>## #..   #</L>
+      <L> #$###$$ #</L>
+      <L> # $ @  ##</L>
+      <L> #     ##</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Serena V / Take a jacuzzi R--1" Width="13" Height="12" Copyright="Eric F Tchong, Marek Letrab">
+      <L>  #########</L>
+      <L>###       ###</L>
+      <L># $ $$##  $ #</L>
+      <L># $#...# #  #</L>
+      <L># @#...# #$ #</L>
+      <L># $#...# #  #</L>
+      <L>#   ...# #$ #</L>
+      <L># $ #..  #  #</L>
+      <L>##  ###$$  ##</L>
+      <L># $ $ $   ##</L>
+      <L>#       ###</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Serena V / Take a shower R--1" Width="13" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>  ####</L>
+      <L>  #  ######</L>
+      <L>###       ###</L>
+      <L># $ $$##  $ #</L>
+      <L># $#...# #$ #</L>
+      <L># @#...# #  #</L>
+      <L># $#...# #$ #</L>
+      <L>#   ...# #  #</L>
+      <L>##$ #..     #</L>
+      <L> #  ###$$####</L>
+      <L> #$ $ $  #</L>
+      <L> #      ##</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Serena V / Take a shower 2 R--1" Width="13" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>  ####</L>
+      <L>  #  ########</L>
+      <L>###         #</L>
+      <L># $ $$##  $ #</L>
+      <L># $#...# #$ #</L>
+      <L># @#...# #  #</L>
+      <L># $#...# #$ #</L>
+      <L>#   ...# #  #</L>
+      <L>##$ #..  #  #</L>
+      <L> #  ###$$####</L>
+      <L> #$ $ $  #</L>
+      <L> #      ##</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Serena V / Star of Eden R--1" Width="19" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>            #######</L>
+      <L>            #     #</L>
+      <L>    ######  # #$###</L>
+      <L>   ##  ..#  # # $ #</L>
+      <L>   #   ..#### # $ #</L>
+      <L>   #...#....# # $ #</L>
+      <L>   #....#...# # $ #</L>
+      <L>   #   ..   $ # $ #</L>
+      <L>   ### ..@$ $ # $ #</L>
+      <L> ##### #$#$#$ # $ #</L>
+      <L>##     # # #    $ #</L>
+      <L>#  ###     # #### #</L>
+      <L># #    ###$   $ # #</L>
+      <L>#  $ #      #     #</L>
+      <L>##$#$ ##### ##$#$##</L>
+      <L>#                 #</L>
+      <L>###################</L>
+    </Level>
+    <Level Id="Serena V / Don't panic R--1" Width="19" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>####        #######</L>
+      <L>#..###      #     #</L>
+      <L>#... ##    ## #$# #</L>
+      <L>#...  ###### $ $  #</L>
+      <L>###..     $  $  # #</L>
+      <L> ##.##$##  $    $ #</L>
+      <L> #..##  #$# $ $ $ #</L>
+      <L> #...$$    #  $ # #</L>
+      <L> #...   $@ $$ $ $ #</L>
+      <L> ##..$ ### $  $$# #</L>
+      <L>##...# ### $    $ #</L>
+      <L>#..###     $ ###  #</L>
+      <L>#....$$ #$#$  $ # #</L>
+      <L>#....#   $   #    #</L>
+      <L>##. $ # $##$ $$#$##</L>
+      <L>#....             #</L>
+      <L>###################</L>
+    </Level>
+    <Level Id="Serena V / One happy island R--1" Width="33" Height="25" Copyright="Eric F Tchong, Marek Letrab">
+      <L> #######</L>
+      <L> #     ####</L>
+      <L> # ....   ##</L>
+      <L> # .$$.... #######</L>
+      <L> # ..$$$$..      ##</L>
+      <L> ## ..    .....   ##</L>
+      <L>  #  .$$$$$$$$...  ####</L>
+      <L>  ## ..         ..    ##</L>
+      <L>   #  .$$$$$$$$$$....  ####</L>
+      <L>   ## .             ..    ##</L>
+      <L>   # .. #############..    #####</L>
+      <L>   # .        @      #...      #</L>
+      <L>   # .$$$$$$$$$$$$$$$$$$..   . #</L>
+      <L>   # .$                 #..  . #</L>
+      <L>   # ....$$$$ $ $ $ $ $  #.. . ##</L>
+      <L>#### $$ ....$$$$$$$$$$$$$$$...  #</L>
+      <L>#  #  $ $  ....              .  #</L>
+      <L># ### $$$$$$$#..############ .  #</L>
+      <L># # #        # .....########..  #</L>
+      <L># ### ## # # #   ###......... # #</L>
+      <L># # # #  # # ###   # .  .  .  # #</L>
+      <L># # # #  # # # # ### $ $.$ $### #</L>
+      <L># # #$# $###$###$###$$$$$$$$    #</L>
+      <L>#                               #</L>
+      <L>#################################</L>
+    </Level>
+    <Level Id="Serena V / Zombie R--1" Width="18" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L>  ################</L>
+      <L> ##              #</L>
+      <L>##  . $$ $$$$$$$ #</L>
+      <L>#  $$$ ##..... $ #</L>
+      <L>#  $   # .###.#$ #</L>
+      <L>## $  ##$..... $ #</L>
+      <L> # $$ ## .####.* #</L>
+      <L> #    ##$.#  #.*##</L>
+      <L> # $#### .#####.#</L>
+      <L> #  # # $......##</L>
+      <L> #$$# #   ######</L>
+      <L> # @# #####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Serena V / Purple heart R--1" Width="18" Height="13" Copyright="Eric F Tchong, Marek Letrab">
+      <L> #######    ######</L>
+      <L>##@#   #  ### .  #</L>
+      <L>#  .#$ # ##  $ $ #</L>
+      <L>#   $  # #  . # .#</L>
+      <L>## # .#### $ ##. #</L>
+      <L> # .  $  #. ##  $#</L>
+      <L> ### # . $  #  . #</L>
+      <L>   #  .$$$ ## $ ##</L>
+      <L>   ##$ . .## .  #</L>
+      <L>   ## .## $ $ ###</L>
+      <L>   #  $##$#.  #</L>
+      <L>   #..    $ ###</L>
+      <L>   ##########</L>
+    </Level>
+    <Level Id="Serena V / Parfum R--1" Width="17" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>    #########</L>
+      <L>    #       #</L>
+      <L>    # $* *$ #</L>
+      <L>   ### *.* ###</L>
+      <L>  ##   ...   ##</L>
+      <L> ##  $$*.*$$  ##</L>
+      <L>##  $# ... #$  ##</L>
+      <L>#  $  .***.  $  #</L>
+      <L># $# *. # .* #$ #</L>
+      <L>## #$. $@$ .$# ##</L>
+      <L> #   ..###..   #</L>
+      <L> ###$.$* *$.$###</L>
+      <L>  #  ...*...  #</L>
+      <L>  # $#######$ #</L>
+      <L>  #  $ $ $ $  #</L>
+      <L>  ##         ##</L>
+      <L>   ###########</L>
+    </Level>
+    <Level Id="Serena V / Red Cross R--1" Width="19" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>###################</L>
+      <L>#                 #</L>
+      <L># $# ##$# #$## #$ #</L>
+      <L># $  ## $ $ ##  $ #</L>
+      <L># $ ### $ $ ### $ #</L>
+      <L># $ ##  ###  ## $ #</L>
+      <L># $$##$ ... $##$$ #</L>
+      <L>#      ..#..      #</L>
+      <L>#### $#..#..#$ ####</L>
+      <L>   # .#.###.#. #</L>
+      <L>   # $#..#..#$ #</L>
+      <L>   #   ..#..   #</L>
+      <L>   #### ...  ###</L>
+      <L>      # ### ##</L>
+      <L>      # $@$ #</L>
+      <L>      #   ###</L>
+      <L>      #####</L>
+    </Level>
+    <Level Id="Serena V / Aquarius R--1" Width="19" Height="17" Copyright="Eric F Tchong, Marek Letrab">
+      <L>###################</L>
+      <L>#                 #</L>
+      <L># $$###.*.$$ ##$$ #</L>
+      <L># $ ....*.$  #. $ #</L>
+      <L># $$*$$**..* #.$$ #</L>
+      <L># $ . $..#.* #. $ #</L>
+      <L># $$....*$.* #.$$ #</L>
+      <L>#  #.$ ..$*. #. $ #</L>
+      <L># $#.$#.*#.*##* $ #</L>
+      <L># $ . #..$*.....###</L>
+      <L>### .$#$.#. #.*.#</L>
+      <L>###$$$  .*. $.*.#</L>
+      <L># $  $ $...$$ * #</L>
+      <L>#   #$# ### $ # #</L>
+      <L>###   $ $ $ $$$ #</L>
+      <L>  ##@          ##</L>
+      <L>   #############</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

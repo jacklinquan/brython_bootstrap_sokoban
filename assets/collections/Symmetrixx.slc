@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Symmetrixx</Title>
+  <Description>
+Symmetrixx collection by Seppolino
+  </Description>
+  <LevelCollection Copyright="Seppolino" MaxWidth="13" MaxHeight="14">
+    <Level Id="01 - Catch 22" Width="9" Height="9">
+      <L>#########</L>
+      <L>#.  #  .#</L>
+      <L># #   # #</L>
+      <L>#  #$#  #</L>
+      <L>#  $@$  #</L>
+      <L>#  #$#  #</L>
+      <L># #   # #</L>
+      <L>#.  #  .#</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="02 - Chris Cross" Width="9" Height="9">
+      <L>#####</L>
+      <L>#   ###</L>
+      <L>#  .$.#</L>
+      <L># # # ###</L>
+      <L># $ * $ #</L>
+      <L>###@# # #</L>
+      <L>  #.$.  #</L>
+      <L>  ###   #</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="03 - Distorted" Width="11" Height="9">
+      <L>     #####</L>
+      <L>     #   #</L>
+      <L> #####$# ##</L>
+      <L>##    $   #</L>
+      <L># ..#@#.. #</L>
+      <L>#   $    ##</L>
+      <L>## #$#####</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="04 - Sine Or Cosine" Width="9" Height="7">
+      <L>#######</L>
+      <L>#. .  ###</L>
+      <L>#  # $  #</L>
+      <L># $#*#$ #</L>
+      <L>#  $ #  #</L>
+      <L>### @. .#</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="05 - Sink My Ship" Width="11" Height="9">
+      <L>###########</L>
+      <L>#  #####  #</L>
+      <L>#    $    #</L>
+      <L># # #$# # #</L>
+      <L># #  $  # #</L>
+      <L># ###$### #</L>
+      <L># ##   ## #</L>
+      <L>#.  .@.  .#</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="06 - M.C. Escher" Width="9" Height="6">
+      <L>#########</L>
+      <L># $  .  #</L>
+      <L># $.$.# #</L>
+      <L># #.$.$ #</L>
+      <L>#@ .  $ #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="07 - Easy Money" Width="8" Height="10">
+      <L> #######</L>
+      <L> #     #</L>
+      <L> #  $  #</L>
+      <L>##.##*##</L>
+      <L>#   *  #</L>
+      <L>#  *   #</L>
+      <L>##*##.##</L>
+      <L>#  $  #</L>
+      <L>#@    #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="08 - Tetris" Width="9" Height="9">
+      <L>  #####</L>
+      <L>  # @ #</L>
+      <L>###$$$###</L>
+      <L>#   $   #</L>
+      <L># ## ## #</L>
+      <L>#  ...  #</L>
+      <L>### . ###</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="09 - Holy Grail" Width="11" Height="8">
+      <L>###########</L>
+      <L>#    .    #</L>
+      <L># #  $  # #</L>
+      <L>#.#.#$#.#.#</L>
+      <L># $  $ @$ #</L>
+      <L># ###$### #</L>
+      <L>#    .    #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="10 - Scale It" Width="9" Height="9">
+      <L>    ####</L>
+      <L>#####  ##</L>
+      <L>#  # $  #</L>
+      <L># $# #  #</L>
+      <L>#. .*. .#</L>
+      <L>#  # #$ #</L>
+      <L>#@ $ #  #</L>
+      <L>##  #####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="11 - Double Tap" Width="12" Height="10">
+      <L>     #####</L>
+      <L>     #   ###</L>
+      <L>     #$#   #</L>
+      <L>###### ##  #</L>
+      <L>#  *  $..  #</L>
+      <L>#  ..$  *  #</L>
+      <L>#  ## ######</L>
+      <L>#   #$#</L>
+      <L>###  @#</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="12 - Thunderbolt" Width="8" Height="9">
+      <L>  ####</L>
+      <L>###  #</L>
+      <L># . .###</L>
+      <L># # $  #</L>
+      <L># #$$# #</L>
+      <L>#  $ # #</L>
+      <L>###. . #</L>
+      <L>  #@ ###</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="13 - The Kaleidoscope" Width="12" Height="12">
+      <L>   #####</L>
+      <L> ###   ####</L>
+      <L> #   $ #  #</L>
+      <L> # @...#  ##</L>
+      <L>####$$$$.  #</L>
+      <L>#  .$..$.$ #</L>
+      <L># $.$..$.  #</L>
+      <L>#  .$$$$####</L>
+      <L>##  #...  #</L>
+      <L> #  # $   #</L>
+      <L> ####   ###</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="14 - Trapped" Width="9" Height="6">
+      <L>#########</L>
+      <L>#    .$ #</L>
+      <L># $. $#.#</L>
+      <L>#.#$ .$ #</L>
+      <L># $.@   #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="15 - Discipline" Width="11" Height="11">
+      <L>  ######</L>
+      <L>###    ####</L>
+      <L>#    #    #</L>
+      <L>#.##.$.##.#</L>
+      <L>#  $$#$$  #</L>
+      <L># .$.@.$. #</L>
+      <L>#  $$#$$  #</L>
+      <L>#.##.$.##.#</L>
+      <L>#    #    #</L>
+      <L>####    ###</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="16 - One Step" Width="9" Height="9">
+      <L>#########</L>
+      <L>#   . . #</L>
+      <L>#   $.$ #</L>
+      <L>#### $###</L>
+      <L>  # @ #</L>
+      <L>###$ ####</L>
+      <L># $.$   #</L>
+      <L># . .   #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="17 - Long Way Home" Width="13" Height="11">
+      <L>######</L>
+      <L>#    # ####</L>
+      <L>#    # #  #</L>
+      <L># # ####.$###</L>
+      <L># # ##. $   #</L>
+      <L># # .$@$. # #</L>
+      <L>#   $ .## # #</L>
+      <L>###$.#### # #</L>
+      <L>  #  # #    #</L>
+      <L>  #### #    #</L>
+      <L>       ######</L>
+    </Level>
+    <Level Id="18 - Right Through" Width="9" Height="14">
+      <L>     ####</L>
+      <L>     #  #</L>
+      <L>######  #</L>
+      <L>#  $    #</L>
+      <L>#    $ ##</L>
+      <L>####.$*#</L>
+      <L> #  .*.#</L>
+      <L> #.*.  #</L>
+      <L> #*$.####</L>
+      <L>## $    #</L>
+      <L>#    $  #</L>
+      <L># @######</L>
+      <L>#  #</L>
+      <L>####</L>
+    </Level>
+    <Level Id="19 - Windmill &amp; Knot" Width="11" Height="11">
+      <L> #########</L>
+      <L>##   #   #</L>
+      <L>#    # $ #</L>
+      <L># $$$#.$ #</L>
+      <L>##  ...# #</L>
+      <L> ###.#.###</L>
+      <L> # #...  ##</L>
+      <L> # $.@$$$ #</L>
+      <L> # $ #    #</L>
+      <L> #   #   ##</L>
+      <L> #########</L>
+    </Level>
+    <Level Id="20 - Iron Fist" Width="12" Height="9">
+      <L>    ####</L>
+      <L>   ##  ##</L>
+      <L> ## #$ ###</L>
+      <L> # $..$   #</L>
+      <L>#   *..*   #</L>
+      <L> #@  $..$ #</L>
+      <L>  ### $# ##</L>
+      <L>   ##  ##</L>
+      <L>    ####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>
