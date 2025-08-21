@@ -96,11 +96,11 @@ class WebApp:
                 ),
                 html.DIV(
                     [
-                        html.DIV(
-                            "Some text as placeholder. "
-                            "In real life you can have the elements you have chosen. "
-                            "Like, text, images, lists, etc."
-                        ),
+                        # html.DIV(
+                        #     "Some text as placeholder. "
+                        #     "In real life you can have the elements you have chosen. "
+                        #     "Like, text, images, lists, etc."
+                        # ),
                         html.DIV(
                             sum(
                                 page_link_list,
