@@ -319,12 +319,20 @@ class WebApp:
         for box in self.game.boxes:
             x = box.c * self.tile_size
             y = box.r * self.tile_size
-            ctx.fillStyle = "Gold"
-            ctx.fillRect(
-                x + self.tile_size // 8,
-                y + self.tile_size // 8,
-                self.tile_size // 8 * 6,
-                self.tile_size // 8 * 6,
+            # ctx.fillStyle = "Gold"
+            # ctx.fillRect(
+            #     x + self.tile_size // 8,
+            #     y + self.tile_size // 8,
+            #     self.tile_size // 8 * 6,
+            #     self.tile_size // 8 * 6,
+            # )
+            ctx.strokeStyle = "Gold"
+            ctx.lineWidth = self.tile_size // 8 * 2
+            ctx.strokeRect(
+                x + self.tile_size // 8 * 2,
+                y + self.tile_size // 8 * 2,
+                self.tile_size // 8 * 4,
+                self.tile_size // 8 * 4,
             )
 
         # Player
